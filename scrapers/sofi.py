@@ -27,6 +27,16 @@ from ._util import absolute_url, dedup, sort_events
 
 HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; EventScraper/1.0)"}
 
+EXCLUDE_KEYWORDS = [
+    "book your flight",
+    "stadium tour",
+]
+
+
+def _is_excluded(name: str) -> bool:
+    lower = name.lower()
+    return any(kw in lower for kw in EXCLUDE_KEYWORDS)
+
 
 class SofiScraper(BaseScraper):
     def scrape(self) -> list[Event]:
@@ -49,6 +59,8 @@ class SofiScraper(BaseScraper):
                     continue
 
                 name = title_el.get_text(strip=True)
+                if _is_excluded(name):
+                    continue
                 if tagline_el:
                     tagline = tagline_el.get_text(strip=True)
                     if tagline:
