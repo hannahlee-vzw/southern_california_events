@@ -1,19 +1,29 @@
 """
 L.A. Memorial Coliseum — https://www.lacoliseum.com/events
 
-Rendering: Likely static HTML or WordPress-based.
-Strategy: requests + BeautifulSoup; upgrade to Playwright if events are JS-rendered.
+Rendering: Static HTML (WordPress).
+Strategy: requests + BeautifulSoup.
 
-TODO (after inspecting live site):
-  - Inspect raw HTML from requests.get() to confirm events are present.
-  - Confirm CSS selectors for event cards, title, date, time, link.
-  - Note: the Coliseum sometimes redirects to usc.edu; verify the canonical events URL.
+Structure:
+  div.event-box                          ← card
+    div.image > a[href]                  ← detail link
+    div.text
+      a.title[href]                      ← event name + link
+      div.bottom
+        p.date
+          span.month                     ← "Jun"
+          span.day                       ← "11-14"  (range — take start day)
+
+Note: no year in date — inferred from current year; bumped to next year if date has passed.
+Note: no time element present.
 """
 import requests
 from bs4 import BeautifulSoup
+from datetime import date
+from dateutil import parser as dateutil_parser
 
 from .base import BaseScraper, Event
-from ._util import absolute_url, parse_date_time, dedup, sort_events
+from ._util import absolute_url, dedup, sort_events
 
 HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; EventScraper/1.0)"}
 
@@ -25,28 +35,45 @@ class ColiseumScraper(BaseScraper):
         resp.raise_for_status()
         soup = BeautifulSoup(resp.text, "html.parser")
 
-        # TODO: replace with actual selectors after inspecting the live page HTML
-        cards = soup.select(".event-card")  # PLACEHOLDER
-
-        for card in cards:
+        for card in soup.select("div.event-box"):
             try:
-                name_el = card.select_one(".event-title")   # PLACEHOLDER
-                date_el = card.select_one(".event-date")    # PLACEHOLDER
-                time_el = card.select_one(".event-time")    # PLACEHOLDER
-                link_el = card.select_one("a")              # PLACEHOLDER
+                title_el = card.select_one("div.text a.title")
+                month_el = card.select_one("span.month")
+                day_el   = card.select_one("span.day")
 
-                name = name_el.get_text(strip=True) if name_el else ""
-                raw_date = date_el.get_text(strip=True) if date_el else ""
-                raw_time = time_el.get_text(strip=True) if time_el else ""
-                href = link_el.get("href", "") if link_el else ""
-                link = absolute_url(href, self.url)
-
-                if not name:
+                if not title_el:
                     continue
 
-                day, date, time_ = parse_date_time(raw_date, raw_time)
-                events.append(Event(day=day, date=date, time=time_, name=name, link=link))
+                name  = title_el.get_text(strip=True)
+                href  = title_el.get("href", "")
+                link  = absolute_url(href, self.url)
+
+                month = month_el.get_text(strip=True) if month_el else ""
+                day   = day_el.get_text(strip=True).split("-")[0].strip() if day_el else ""
+
+                day_str, date_str = _parse_date(month, day)
+                events.append(Event(day=day_str, date=date_str, time="TBD", name=name, link=link))
             except Exception:
                 continue
 
         return sort_events(dedup(events))
+
+
+def _parse_date(month: str, day: str) -> tuple[str, str]:
+    """
+    Build a date from month ("Jun") and start day ("11"), inferring the year.
+    If the resulting date is in the past, use next year.
+    """
+    if not month or not day:
+        return "UNKNOWN", "UNKNOWN"
+
+    today = date.today()
+    for year in (today.year, today.year + 1):
+        try:
+            dt = dateutil_parser.parse(f"{month} {day} {year}")
+            if dt.date() >= today:
+                return dt.strftime("%A"), dt.strftime("%m/%d/%Y")
+        except Exception:
+            continue
+
+    return "UNKNOWN", "UNKNOWN"

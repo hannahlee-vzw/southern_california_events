@@ -1,57 +1,91 @@
 """
 SoFi Stadium — https://www.sofistadium.com/events
 
-Rendering: JavaScript (AXS ticketing widget).
-Strategy: Playwright headless Chromium.
+Rendering: Static HTML (custom CMS).
+Strategy: requests + BeautifulSoup.
 
-TODO (after inspecting live site):
-  - Confirm the CSS selector for event cards.
-  - Confirm date, time, and title element selectors within each card.
-  - Confirm event detail link selector.
-  - Check whether pagination exists and add next-page handling if so.
+Structure:
+  div.eventItem.entry                    ← card
+    div.thumb > a[href]                  ← detail link
+    div.info.clearfix
+      div.date
+        span.m-date__singleDate
+          span.m-date__month             ← "June "
+          span.m-date__day               ← "12"
+          span.m-date__year              ← ", 2026"
+        span.time                        ← "6 PM"
+      h3.title.title-withTagline
+        span.hoverline > a[href]         ← title text + link
+      h4.tagline                         ← subtitle (optional)
 """
-import urllib.parse
-
-from playwright.sync_api import sync_playwright
+import requests
+from bs4 import BeautifulSoup
+from dateutil import parser as dateutil_parser
 
 from .base import BaseScraper, Event
-from ._util import absolute_url, parse_date_time, dedup, sort_events
+from ._util import absolute_url, dedup, sort_events
 
-MAX_PAGES = 20
+HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; EventScraper/1.0)"}
 
 
 class SofiScraper(BaseScraper):
     def scrape(self) -> list[Event]:
         events: list[Event] = []
-        with sync_playwright() as pw:
-            browser = pw.chromium.launch(headless=True)
-            page = browser.new_page()
-            page.goto(self.url, wait_until="networkidle", timeout=30_000)
+        resp = requests.get(self.url, headers=HEADERS, timeout=20)
+        resp.raise_for_status()
+        soup = BeautifulSoup(resp.text, "html.parser")
 
-            # TODO: replace with the actual selector for event cards
-            cards = page.query_selector_all(".event-card")  # PLACEHOLDER
+        for card in soup.select("div.eventItem.entry"):
+            try:
+                title_el   = card.select_one("h3.title a")
+                tagline_el = card.select_one("h4.tagline")
+                month_el   = card.select_one("span.m-date__month")
+                day_el     = card.select_one("span.m-date__day")
+                year_el    = card.select_one("span.m-date__year")
+                time_el    = card.select_one("span.time")
+                link_el    = card.select_one("h3.title a")
 
-            for card in cards:
-                try:
-                    name_el = card.query_selector(".event-title")       # PLACEHOLDER
-                    date_el = card.query_selector(".event-date")        # PLACEHOLDER
-                    time_el = card.query_selector(".event-time")        # PLACEHOLDER
-                    link_el = card.query_selector("a")                  # PLACEHOLDER
-
-                    name = name_el.inner_text().strip() if name_el else ""
-                    raw_date = date_el.inner_text().strip() if date_el else ""
-                    raw_time = time_el.inner_text().strip() if time_el else ""
-                    href = link_el.get_attribute("href") if link_el else ""
-                    link = absolute_url(href or "", self.url)
-
-                    if not name:
-                        continue
-
-                    day, date, time_ = parse_date_time(raw_date, raw_time)
-                    events.append(Event(day=day, date=date, time=time_, name=name, link=link))
-                except Exception:
+                if not title_el:
                     continue
 
-            browser.close()
+                name = title_el.get_text(strip=True)
+                if tagline_el:
+                    tagline = tagline_el.get_text(strip=True)
+                    if tagline:
+                        name = f"{name} – {tagline}"
+
+                month = month_el.get_text(strip=True) if month_el else ""
+                day   = day_el.get_text(strip=True)   if day_el   else ""
+                year  = year_el.get_text(strip=True).strip(", ") if year_el else ""
+                raw_date = f"{month} {day} {year}".strip()
+
+                raw_time = time_el.get_text(strip=True) if time_el else ""
+
+                date_str, day_str, time_str = _parse(raw_date, raw_time)
+
+                href = link_el.get("href", "") if link_el else ""
+                link = absolute_url(href, self.url)
+
+                events.append(Event(day=day_str, date=date_str, time=time_str, name=name, link=link))
+            except Exception:
+                continue
 
         return sort_events(dedup(events))
+
+
+def _parse(raw_date: str, raw_time: str) -> tuple[str, str, str]:
+    try:
+        dt = dateutil_parser.parse(raw_date, fuzzy=True)
+        day_str  = dt.strftime("%A")
+        date_str = dt.strftime("%m/%d/%Y")
+    except Exception:
+        return "UNKNOWN", "UNKNOWN", raw_time or "TBD"
+
+    time_str = raw_time if raw_time else "TBD"
+    try:
+        t = dateutil_parser.parse(raw_time, fuzzy=True)
+        time_str = t.strftime("%I:%M %p").lstrip("0")
+    except Exception:
+        pass
+
+    return day_str, date_str, time_str

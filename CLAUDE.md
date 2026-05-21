@@ -13,7 +13,7 @@ playwright install chromium
 python main.py
 ```
 
-Outputs: `events.xlsx` (local, gitignored) and `docs/index.html` + `docs/events.xlsx` (committed to git, served by GitHub Pages).
+Outputs: `docs/index.html` and `docs/events.xlsx` — both written directly into `docs/` and committed to git. No Excel file is created in the project root.
 
 ## Architecture
 
@@ -43,8 +43,8 @@ All existing scrapers are scaffolded but have **placeholder selectors** — they
 
 ## Outputs
 
-- **Excel** ([exporter.py](exporter.py)): one sheet per venue, bold dark-blue header row, frozen first row, auto-fitted columns, hyperlinked links.
-- **HTML** ([html_generator.py](html_generator.py)): Bootstrap 5 + Tablesort, one tab per venue, `docs/index.html`. Venue URL for each tab's "Venue Page" column comes from `config.VENUES`.
+- **Excel** ([exporter.py](exporter.py)): writes `docs/events.xlsx` directly — one sheet per venue, bold dark-blue header row, frozen first row, auto-fitted columns, hyperlinked links. No local copy is produced.
+- **HTML** ([html_generator.py](html_generator.py)): writes `docs/index.html` — Bootstrap 5 + Tablesort, one tab per venue. Venue URL for each tab's "Venue Page" column comes from `config.VENUES`.
 
 ## Automation
 

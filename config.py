@@ -16,22 +16,22 @@ VENUES: list[VenueConfig] = [
     ),
     VenueConfig(
         name="Intuit Dome",
-        url="https://www.intuitdome.com/events",
+        url="https://www.intuitdome.com/events/event-schedule",
         scraper_module="scrapers.intuit_dome",
     ),
     VenueConfig(
         name="Kia Forum",
-        url="https://www.theforum.com/events",
+        url="https://www.thekiaforum.com/events",
         scraper_module="scrapers.kia_forum",
     ),
     VenueConfig(
         name="Dignity Health Sports Park",
-        url="https://www.dignityhealthsportsparkla.com/events",
+        url="https://www.dignityhealthsportspark.com/events",
         scraper_module="scrapers.dignity_health",
     ),
     VenueConfig(
         name="Rose Bowl Stadium",
-        url="https://www.rosebowlstadium.com/events",
+        url="https://www.rosebowlstadium.com/events/calendar/list",
         scraper_module="scrapers.rose_bowl",
     ),
     VenueConfig(
@@ -46,7 +46,7 @@ VENUES: list[VenueConfig] = [
     ),
     VenueConfig(
         name="LA Convention Center",
-        url="https://www.lacclink.com/events",
+        url="https://www.laconventioncenter.com/events",
         scraper_module="scrapers.convention_center",
     ),
 ]
