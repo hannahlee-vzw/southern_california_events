@@ -8,6 +8,7 @@ Pagination: The Events Calendar uses ?tribe_paged=N for additional pages.
 """
 import requests
 from bs4 import BeautifulSoup
+from datetime import date
 from dateutil import parser as dateutil_parser
 
 from .base import BaseScraper, Event
@@ -51,9 +52,11 @@ class KiaForumScraper(BaseScraper):
                         if sub:
                             name = f"{name} – {sub}"
 
-                    # datetime attr format: "2026-06-12 19:00"
+                    # Display text ("May 24") is correct; datetime attr year is stale (2023).
+                    # Use display text for date, datetime attr only for time.
+                    display_date  = time_el.get_text(strip=True) if time_el else ""
                     datetime_attr = time_el.get("datetime", "") if time_el else ""
-                    day, date, time_str = _parse_datetime_attr(datetime_attr)
+                    day, date, time_str = _parse_date_time(display_date, datetime_attr)
 
                     href = link_el.get("href", "") if link_el else ""
                     link = absolute_url(href, self.url)
@@ -65,11 +68,30 @@ class KiaForumScraper(BaseScraper):
         return sort_events(dedup(events))
 
 
-def _parse_datetime_attr(value: str) -> tuple[str, str, str]:
-    """Parse a 'YYYY-MM-DD HH:MM' datetime attribute into (day, MM/DD/YYYY, H:MM AM/PM)."""
+def _parse_date_time(display: str, datetime_attr: str) -> tuple[str, str, str]:
+    """
+    Use the display text (e.g. "May 24") for the date — the datetime attribute
+    year is stale. Infer the year: use current year, bump to next if already past.
+    Extract time from the datetime attribute (e.g. "2023-06-12 19:00" → "7:00 PM").
+    """
+    today = date.today()
+
+    # Extract time from the datetime attribute
+    time_str = "TBD"
     try:
-        dt = dateutil_parser.parse(value)
-        time_str = dt.strftime("%I:%M %p").lstrip("0") if dt.hour or dt.minute else "TBD"
-        return dt.strftime("%A"), dt.strftime("%m/%d/%Y"), time_str
+        dt_attr = dateutil_parser.parse(datetime_attr)
+        if dt_attr.hour or dt_attr.minute:
+            time_str = dt_attr.strftime("%I:%M %p").lstrip("0")
     except Exception:
-        return "UNKNOWN", "UNKNOWN", "TBD"
+        pass
+
+    # Parse display date with inferred year
+    for year in (today.year, today.year + 1):
+        try:
+            dt = dateutil_parser.parse(f"{display} {year}", fuzzy=True)
+            if dt.date() >= today:
+                return dt.strftime("%A"), dt.strftime("%m/%d/%Y"), time_str
+        except Exception:
+            continue
+
+    return "UNKNOWN", "UNKNOWN", time_str
