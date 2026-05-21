@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+*.egg-info/
+.env
+run.log
+# docs/ is intentionally NOT ignored — it is the deployment artifact

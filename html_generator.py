@@ -1,0 +1,155 @@
+import html
+import pathlib
+from datetime import datetime
+
+from scrapers.base import VenueResult
+from config import VENUES
+
+DOCS_DIR = pathlib.Path("docs")
+
+
+def generate(results: list[VenueResult]) -> None:
+    DOCS_DIR.mkdir(exist_ok=True)
+    page = _build_html(results)
+    (DOCS_DIR / "index.html").write_text(page, encoding="utf-8")
+    print(f"Generated docs/index.html  ({len(results)} venue tabs)")
+
+
+def _venue_id(name: str) -> str:
+    return name.lower().replace(" ", "-").replace(".", "").replace(",", "").replace("'", "")
+
+
+def _venue_url(venue_name: str) -> str:
+    for v in VENUES:
+        if v.name == venue_name:
+            return v.url
+    return "#"
+
+
+def _event_rows(events: list, venue_url: str) -> str:
+    if not events:
+        return '<tr><td colspan="5" class="text-center text-muted fst-italic">No events found</td></tr>'
+    rows = []
+    for ev in events:
+        name_cell = f'<a href="{html.escape(ev.link)}" target="_blank" rel="noopener">{html.escape(ev.name)}</a>'
+        rows.append(
+            f"<tr>"
+            f"<td>{html.escape(ev.day)}</td>"
+            f"<td>{html.escape(ev.date)}</td>"
+            f"<td>{html.escape(ev.time)}</td>"
+            f"<td>{name_cell}</td>"
+            f'<td><a href="{html.escape(venue_url)}" target="_blank" rel="noopener">Venue</a></td>'
+            f"</tr>"
+        )
+    return "\n".join(rows)
+
+
+def _tab_nav(results: list[VenueResult]) -> str:
+    items = []
+    for i, vr in enumerate(results):
+        active = ' active' if i == 0 else ''
+        selected = 'true' if i == 0 else 'false'
+        vid = _venue_id(vr.venue_name)
+        count = len(vr.events)
+        items.append(
+            f'<li class="nav-item" role="presentation">'
+            f'<button class="nav-link{active}" id="tab-{vid}" data-bs-toggle="tab" '
+            f'data-bs-target="#pane-{vid}" type="button" role="tab" '
+            f'aria-controls="pane-{vid}" aria-selected="{selected}">'
+            f'{html.escape(vr.venue_name)} <span class="badge bg-secondary">{count}</span>'
+            f'</button></li>'
+        )
+    return "\n".join(items)
+
+
+def _tab_panes(results: list[VenueResult]) -> str:
+    panes = []
+    for i, vr in enumerate(results):
+        active = ' show active' if i == 0 else ''
+        vid = _venue_id(vr.venue_name)
+        venue_url = _venue_url(vr.venue_name)
+        rows = _event_rows(vr.events, venue_url)
+        panes.append(f"""
+        <div class="tab-pane fade{active}" id="pane-{vid}" role="tabpanel" aria-labelledby="tab-{vid}">
+          <div class="d-flex justify-content-between align-items-center mt-3 mb-2">
+            <span class="text-muted small">{len(vr.events)} event(s)</span>
+            <a href="{html.escape(venue_url)}" target="_blank" rel="noopener" class="btn btn-sm btn-outline-secondary">
+              View venue site &rarr;
+            </a>
+          </div>
+          <div class="table-responsive">
+            <table class="table table-striped table-hover table-sm sortable" id="tbl-{vid}">
+              <thead class="table-dark">
+                <tr>
+                  <th>Day</th><th>Date</th><th>Time</th><th>Event Name</th><th>Venue Page</th>
+                </tr>
+              </thead>
+              <tbody>
+                {rows}
+              </tbody>
+            </table>
+          </div>
+        </div>""")
+    return "\n".join(panes)
+
+
+def _build_html(results: list[VenueResult]) -> str:
+    timestamp = datetime.now().strftime("%A, %B %d, %Y at %I:%M %p")
+    total = sum(len(vr.events) for vr in results)
+    tab_nav = _tab_nav(results)
+    tab_panes = _tab_panes(results)
+
+    return f"""<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>LA Venue Events</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+        integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH"
+        crossorigin="anonymous">
+  <style>
+    body {{ font-family: system-ui, sans-serif; }}
+    .nav-tabs {{ flex-wrap: wrap; }}
+    th[aria-sort] {{ cursor: pointer; user-select: none; }}
+    th[aria-sort="ascending"]::after  {{ content: " ▲"; }}
+    th[aria-sort="descending"]::after {{ content: " ▼"; }}
+  </style>
+</head>
+<body>
+<div class="container-fluid py-4">
+  <div class="d-flex justify-content-between align-items-start mb-3">
+    <div>
+      <h1 class="h3 mb-0">LA Venue Events</h1>
+      <p class="text-muted small mb-0">{total} total events across {len(results)} venues</p>
+    </div>
+    <a href="events.xlsx" download class="btn btn-outline-success btn-sm">
+      &#8681; Download Excel
+    </a>
+  </div>
+
+  <ul class="nav nav-tabs" id="venueTabs" role="tablist">
+    {tab_nav}
+  </ul>
+  <div class="tab-content" id="venueTabContent">
+    {tab_panes}
+  </div>
+
+  <footer class="mt-4 pt-3 border-top text-muted small">
+    Last updated: {timestamp}
+  </footer>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-YvpcrYf0tY3lHB60NNkmXc4s9bIOgUxi8T/jzmtcMJmJvkGOOvSlOgbSdoYcgS7"
+        crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/tablesort/5.3.0/tablesort.min.js"
+        integrity="sha512-+/7qNSIGNnOAoJJMVEBjqRgJy9MIxthTaFTHgTB+1e8hBGBKfGjTinb24mMhVmHR/XPdXoBqkZb0kMkIkYrg=="
+        crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script>
+  document.querySelectorAll('table.sortable').forEach(function(table) {{
+    new Tablesort(table);
+  }});
+</script>
+</body>
+</html>"""

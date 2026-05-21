@@ -1,0 +1,52 @@
+from dataclasses import dataclass
+
+
+@dataclass
+class VenueConfig:
+    name: str
+    url: str
+    scraper_module: str  # e.g. "scrapers.sofi"
+
+
+VENUES: list[VenueConfig] = [
+    VenueConfig(
+        name="SoFi Stadium",
+        url="https://www.sofistadium.com/events",
+        scraper_module="scrapers.sofi",
+    ),
+    VenueConfig(
+        name="Intuit Dome",
+        url="https://www.intuitdome.com/events",
+        scraper_module="scrapers.intuit_dome",
+    ),
+    VenueConfig(
+        name="Kia Forum",
+        url="https://www.theforum.com/events",
+        scraper_module="scrapers.kia_forum",
+    ),
+    VenueConfig(
+        name="Dignity Health Sports Park",
+        url="https://www.dignityhealthsportsparkla.com/events",
+        scraper_module="scrapers.dignity_health",
+    ),
+    VenueConfig(
+        name="Rose Bowl Stadium",
+        url="https://www.rosebowlstadium.com/events",
+        scraper_module="scrapers.rose_bowl",
+    ),
+    VenueConfig(
+        name="Crypto.com Arena",
+        url="https://www.cryptoarena.com/events",
+        scraper_module="scrapers.crypto_arena",
+    ),
+    VenueConfig(
+        name="L.A. Memorial Coliseum",
+        url="https://www.lacoliseum.com/events",
+        scraper_module="scrapers.coliseum",
+    ),
+    VenueConfig(
+        name="LA Convention Center",
+        url="https://www.lacclink.com/events",
+        scraper_module="scrapers.convention_center",
+    ),
+]
