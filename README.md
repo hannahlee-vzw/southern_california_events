@@ -1,8 +1,8 @@
 # LA Venue Event Scraper
 
-Scrapes upcoming event listings from 8 Los Angeles-area venues and publishes them to a shared team website updated every week automatically.
+Scrapes upcoming event listings from 8 Los Angeles-area venues and publishes them to a shared website updated every week automatically.
 
-**Team website:** `https://<username>.github.io/<repo-name>/`
+**Website:** https://hannahlee-vzw.github.io/southern_california_events/
 
 ---
 
@@ -43,7 +43,7 @@ Run the scraper manually:
 python main.py
 ```
 
-This writes `events.xlsx` locally and regenerates `docs/index.html`. Commit and push `docs/` to update the live website.
+This writes `docs/events.xlsx` and regenerates `docs/index.html`. Commit and push `docs/` to update the live website.
 
 ---
 
