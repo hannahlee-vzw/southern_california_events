@@ -26,9 +26,9 @@ def _venue_url(venue_name: str) -> str:
     return "#"
 
 
-def _event_rows(events: list, venue_url: str) -> str:
+def _event_rows(events: list) -> str:
     if not events:
-        return '<tr><td colspan="5" class="text-center text-muted fst-italic">No events found</td></tr>'
+        return '<tr><td colspan="4" class="text-center text-muted fst-italic">No events found</td></tr>'
     rows = []
     for ev in events:
         name_cell = f'<a href="{html.escape(ev.link)}" target="_blank" rel="noopener">{html.escape(ev.name)}</a>'
@@ -38,7 +38,6 @@ def _event_rows(events: list, venue_url: str) -> str:
             f"<td>{html.escape(ev.date)}</td>"
             f"<td>{html.escape(ev.time)}</td>"
             f"<td>{name_cell}</td>"
-            f'<td><a href="{html.escape(venue_url)}" target="_blank" rel="noopener">Venue</a></td>'
             f"</tr>"
         )
     return "\n".join(rows)
@@ -68,7 +67,7 @@ def _tab_panes(results: list[VenueResult]) -> str:
         active = ' show active' if i == 0 else ''
         vid = _venue_id(vr.venue_name)
         venue_url = _venue_url(vr.venue_name)
-        rows = _event_rows(vr.events, venue_url)
+        rows = _event_rows(vr.events)
         panes.append(f"""
         <div class="tab-pane fade{active}" id="pane-{vid}" role="tabpanel" aria-labelledby="tab-{vid}">
           <div class="d-flex justify-content-between align-items-center mt-3 mb-2">
@@ -81,7 +80,7 @@ def _tab_panes(results: list[VenueResult]) -> str:
             <table class="table table-striped table-hover table-sm sortable" id="tbl-{vid}">
               <thead class="table-dark">
                 <tr>
-                  <th>Day</th><th>Date</th><th>Time</th><th>Event Name</th><th>Venue Page</th>
+                  <th>Day</th><th>Date</th><th>Time</th><th>Event Name</th>
                 </tr>
               </thead>
               <tbody>
