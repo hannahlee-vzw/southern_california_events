@@ -61,7 +61,7 @@ class SofiScraper(BaseScraper):
 
                 raw_time = time_el.get_text(strip=True) if time_el else ""
 
-                date_str, day_str, time_str = _parse(raw_date, raw_time)
+                day_str, date_str, time_str = _parse(raw_date, raw_time)
 
                 href = link_el.get("href", "") if link_el else ""
                 link = absolute_url(href, self.url)
