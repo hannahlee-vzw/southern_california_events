@@ -27,6 +27,15 @@ from ._util import absolute_url, dedup, sort_events
 
 HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; EventScraper/1.0)"}
 
+EXCLUDE_KEYWORDS = [
+    "vip tour",
+]
+
+
+def _is_excluded(name: str) -> bool:
+    lower = name.lower()
+    return any(kw in lower for kw in EXCLUDE_KEYWORDS)
+
 
 class ColiseumScraper(BaseScraper):
     def scrape(self) -> list[Event]:
@@ -45,6 +54,8 @@ class ColiseumScraper(BaseScraper):
                     continue
 
                 name  = title_el.get_text(strip=True)
+                if _is_excluded(name):
+                    continue
                 href  = title_el.get("href", "")
                 link  = absolute_url(href, self.url)
 
