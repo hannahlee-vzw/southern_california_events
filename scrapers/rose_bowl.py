@@ -22,6 +22,15 @@ from ._util import absolute_url, dedup, sort_events
 
 BASE_URL = "https://www.rosebowlstadium.com"
 
+EXCLUDE_KEYWORDS = [
+    "public tour",
+]
+
+
+def _is_excluded(name: str) -> bool:
+    lower = name.lower()
+    return any(kw in lower for kw in EXCLUDE_KEYWORDS)
+
 
 class RoseBowlScraper(BaseScraper):
     def scrape(self) -> list[Event]:
@@ -53,6 +62,8 @@ class RoseBowlScraper(BaseScraper):
                     continue
 
                 name     = title_el.get_text(strip=True)
+                if _is_excluded(name):
+                    continue
                 raw_date = date_el.get_text(strip=True) if date_el else ""
                 raw_time = time_el.get_text(strip=True).lstrip("/ ").strip() if time_el else ""
                 href     = link_el.get("href", "") if link_el else ""
