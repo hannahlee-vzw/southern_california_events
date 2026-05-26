@@ -12,7 +12,7 @@ def absolute_url(href: str, base_url: str) -> str:
 def parse_date_time(raw_date: str, raw_time: str) -> tuple[str, str, str]:
     """
     Parse raw date and time strings into (day_of_week, date_MM/DD/YYYY, time_H:MM AM/PM).
-    Returns ("UNKNOWN", "UNKNOWN", "UNKNOWN") on failure.
+    Returns ("TBA", "TBA", "TBA") on failure.
     """
     try:
         dt = dateutil_parser.parse(f"{raw_date} {raw_time}", fuzzy=True)
@@ -35,7 +35,7 @@ def parse_date_time(raw_date: str, raw_time: str) -> tuple[str, str, str]:
                 time_str = raw_time.strip() or "TBA"
         return dt.strftime("%A"), dt.strftime("%m/%d/%Y"), time_str
     except Exception:
-        return "UNKNOWN", "UNKNOWN", raw_time.strip() or "TBA"
+        return "TBA", "TBA", raw_time.strip() or "TBA"
 
 
 def dedup(events: list) -> list:

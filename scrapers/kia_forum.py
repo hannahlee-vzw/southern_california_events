@@ -94,4 +94,4 @@ def _parse_date_time(display: str, datetime_attr: str) -> tuple[str, str, str]:
         except Exception:
             continue
 
-    return "UNKNOWN", "UNKNOWN", time_str
+    return "TBA", "TBA", time_str

@@ -84,4 +84,4 @@ def _parse_datetime(raw: str, year: str) -> tuple[str, str, str]:
         dt = dateutil_parser.parse(date_with_year, fuzzy=True)
         return dt.strftime("%A"), dt.strftime("%m/%d/%Y"), time_str
     except Exception:
-        return "UNKNOWN", "UNKNOWN", time_str
+        return "TBA", "TBA", time_str

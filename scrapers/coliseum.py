@@ -76,7 +76,7 @@ def _parse_date(month: str, day: str) -> tuple[str, str]:
     If the resulting date is in the past, use next year.
     """
     if not month or not day:
-        return "UNKNOWN", "UNKNOWN"
+        return "TBA", "TBA"
 
     today = date.today()
     for year in (today.year, today.year + 1):
@@ -87,4 +87,4 @@ def _parse_date(month: str, day: str) -> tuple[str, str]:
         except Exception:
             continue
 
-    return "UNKNOWN", "UNKNOWN"
+    return "TBA", "TBA"
