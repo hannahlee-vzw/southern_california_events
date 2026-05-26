@@ -205,15 +205,16 @@ def _build_html(results: list[VenueResult], past_events: list[dict] = []) -> str
 <script src="https://cdnjs.cloudflare.com/ajax/libs/tablesort/5.3.0/tablesort.min.js"></script>
 <script>
   document.querySelectorAll('table.sortable').forEach(function(table) {{
-    new Tablesort(table);
+    try {{ new Tablesort(table); }} catch(e) {{}}
   }});
-  document.getElementById('past-venue-filter').addEventListener('change', function() {{
-    var selected = this.value;
+  function applyPastVenueFilter() {{
+    var selected = document.getElementById('past-venue-filter').value;
     document.querySelectorAll('#tbl-past-events tbody tr').forEach(function(row) {{
-      var venue = row.getAttribute('data-venue') || '';
-      row.style.display = (!selected || venue === selected) ? '' : 'none';
+      row.hidden = !!selected && row.getAttribute('data-venue') !== selected;
     }});
-  }});
+  }}
+  document.getElementById('past-venue-filter').addEventListener('change', applyPastVenueFilter);
+  document.getElementById('tbl-past-events').addEventListener('afterSort', applyPastVenueFilter);
 </script>
 </body>
 </html>"""
