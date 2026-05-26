@@ -396,6 +396,834 @@
     "link": "https://www.sofistadium.com/events/detail/super-bowl-lxi"
   },
   {
+    "key": "intuit dome|01/12/2026|olivia rodrigo",
+    "venue": "Intuit Dome",
+    "day": "Monday",
+    "date": "01/12/2026",
+    "time": "7:00 PM",
+    "name": "Olivia Rodrigo",
+    "link": "https://www.intuitdome.com/events/event-schedule/3888?utm_source=IDwebsite&utm_medium=eventschedule&utm_campaign=IDevents26&utm_content=olivia_rodrigo_270112"
+  },
+  {
+    "key": "intuit dome|01/13/2026|olivia rodrigo",
+    "venue": "Intuit Dome",
+    "day": "Tuesday",
+    "date": "01/13/2026",
+    "time": "7:00 PM",
+    "name": "Olivia Rodrigo",
+    "link": "https://www.intuitdome.com/events/event-schedule/3889?utm_source=IDwebsite&utm_medium=eventschedule&utm_campaign=IDevents26&utm_content=olivia_rodrigo_270113"
+  },
+  {
+    "key": "intuit dome|01/16/2026|olivia rodrigo",
+    "venue": "Intuit Dome",
+    "day": "Friday",
+    "date": "01/16/2026",
+    "time": "7:00 PM",
+    "name": "Olivia Rodrigo",
+    "link": "https://www.intuitdome.com/events/event-schedule/3890?utm_source=IDwebsite&utm_medium=eventschedule&utm_campaign=IDevents26&utm_content=olivia_rodrigo_270116"
+  },
+  {
+    "key": "intuit dome|01/17/2026|olivia rodrigo",
+    "venue": "Intuit Dome",
+    "day": "Saturday",
+    "date": "01/17/2026",
+    "time": "7:00 PM",
+    "name": "Olivia Rodrigo",
+    "link": "https://www.intuitdome.com/events/event-schedule/3891?utm_source=IDwebsite&utm_medium=eventschedule&utm_campaign=IDevents26&utm_content=olivia_rodrigo_270117"
+  },
+  {
+    "key": "intuit dome|01/20/2026|olivia rodrigo",
+    "venue": "Intuit Dome",
+    "day": "Tuesday",
+    "date": "01/20/2026",
+    "time": "7:00 PM",
+    "name": "Olivia Rodrigo",
+    "link": "https://www.intuitdome.com/events/event-schedule/3913?utm_source=IDwebsite&utm_medium=eventschedule&utm_campaign=IDevents26&utm_content=olivia_rodrigo_270120"
+  },
+  {
+    "key": "intuit dome|01/21/2026|olivia rodrigo",
+    "venue": "Intuit Dome",
+    "day": "Wednesday",
+    "date": "01/21/2026",
+    "time": "7:00 PM",
+    "name": "Olivia Rodrigo",
+    "link": "https://www.intuitdome.com/events/event-schedule/3914?utm_source=IDwebsite&utm_medium=eventschedule&utm_campaign=IDevents26&utm_content=olivia_rodrigo_270121"
+  },
+  {
+    "key": "intuit dome|01/24/2026|olivia rodrigo",
+    "venue": "Intuit Dome",
+    "day": "Saturday",
+    "date": "01/24/2026",
+    "time": "7:00 PM",
+    "name": "Olivia Rodrigo",
+    "link": "https://www.intuitdome.com/events/event-schedule/3915?utm_source=IDwebsite&utm_medium=eventschedule&utm_campaign=IDevents26&utm_content=olivia_rodrigo_270124"
+  },
+  {
+    "key": "intuit dome|01/25/2026|olivia rodrigo",
+    "venue": "Intuit Dome",
+    "day": "Sunday",
+    "date": "01/25/2026",
+    "time": "7:00 PM",
+    "name": "Olivia Rodrigo",
+    "link": "https://www.intuitdome.com/events/event-schedule/3916?utm_source=IDwebsite&utm_medium=eventschedule&utm_campaign=IDevents26&utm_content=olivia_rodrigo_270125"
+  },
+  {
+    "key": "intuit dome|01/28/2026|olivia rodrigo",
+    "venue": "Intuit Dome",
+    "day": "Wednesday",
+    "date": "01/28/2026",
+    "time": "7:00 PM",
+    "name": "Olivia Rodrigo",
+    "link": "https://www.intuitdome.com/events/event-schedule/3917?utm_source=IDwebsite&utm_medium=eventschedule&utm_campaign=IDevents26&utm_content=olivia_rodrigo_270128"
+  },
+  {
+    "key": "intuit dome|01/29/2026|olivia rodrigo",
+    "venue": "Intuit Dome",
+    "day": "Thursday",
+    "date": "01/29/2026",
+    "time": "7:00 PM",
+    "name": "Olivia Rodrigo",
+    "link": "https://www.intuitdome.com/events/event-schedule/3918?utm_source=IDwebsite&utm_medium=eventschedule&utm_campaign=IDevents26&utm_content=olivia_rodrigo_270129"
+  },
+  {
+    "key": "intuit dome|02/26/2026|morat",
+    "venue": "Intuit Dome",
+    "day": "Thursday",
+    "date": "02/26/2026",
+    "time": "8:00 PM",
+    "name": "MORAT",
+    "link": "https://www.intuitdome.com/events/event-schedule/3967?utm_source=IDwebsite&utm_medium=eventschedule&utm_campaign=IDevents26&utm_content=morat_270226"
+  },
+  {
+    "key": "intuit dome|06/13/2026|shakira: las mujeres ya no lloran world tour 2026",
+    "venue": "Intuit Dome",
+    "day": "Saturday",
+    "date": "06/13/2026",
+    "time": "7:30 PM",
+    "name": "SHAKIRA: Las Mujeres Ya No Lloran World Tour 2026",
+    "link": "https://www.intuitdome.com/events/event-schedule/3671?utm_source=IDwebsite&utm_medium=eventschedule&utm_campaign=IDevents26&utm_content=shakira_260613"
+  },
+  {
+    "key": "intuit dome|06/14/2026|shakira: las mujeres ya no lloran world tour 2026",
+    "venue": "Intuit Dome",
+    "day": "Sunday",
+    "date": "06/14/2026",
+    "time": "7:30 PM",
+    "name": "SHAKIRA: Las Mujeres Ya No Lloran World Tour 2026",
+    "link": "https://www.intuitdome.com/events/event-schedule/3672?utm_source=IDwebsite&utm_medium=eventschedule&utm_campaign=IDevents26&utm_content=shakira_260614"
+  },
+  {
+    "key": "intuit dome|06/20/2026|big3",
+    "venue": "Intuit Dome",
+    "day": "Saturday",
+    "date": "06/20/2026",
+    "time": "12:30 PM",
+    "name": "BIG3",
+    "link": "https://www.intuitdome.com/events/event-schedule/3898?utm_source=IDwebsite&utm_medium=eventschedule&utm_campaign=IDevents26&utm_content=big3_260620"
+  },
+  {
+    "key": "intuit dome|07/11/2026|joji: solaris",
+    "venue": "Intuit Dome",
+    "day": "Saturday",
+    "date": "07/11/2026",
+    "time": "6:30 PM",
+    "name": "JOJI: SOLARIS",
+    "link": "https://www.intuitdome.com/events/event-schedule/3506?utm_source=IDwebsite&utm_medium=eventschedule&utm_campaign=IDevents26&utm_content=joji_260711"
+  },
+  {
+    "key": "intuit dome|07/12/2026|joji: solaris",
+    "venue": "Intuit Dome",
+    "day": "Sunday",
+    "date": "07/12/2026",
+    "time": "6:30 PM",
+    "name": "JOJI: SOLARIS",
+    "link": "https://www.intuitdome.com/events/event-schedule/3513?utm_source=IDwebsite&utm_medium=eventschedule&utm_campaign=IDevents26&utm_content=joji_260712"
+  },
+  {
+    "key": "intuit dome|07/17/2026|forrest frank",
+    "venue": "Intuit Dome",
+    "day": "Friday",
+    "date": "07/17/2026",
+    "time": "7:00 PM",
+    "name": "Forrest Frank",
+    "link": "https://www.intuitdome.com/events/event-schedule/3285?utm_source=IDwebsite&utm_medium=eventschedule&utm_campaign=IDevents26&utm_content=forrest_frank_260717"
+  },
+  {
+    "key": "intuit dome|07/27/2026|wwe monday night raw",
+    "venue": "Intuit Dome",
+    "day": "Monday",
+    "date": "07/27/2026",
+    "time": "4:30 PM",
+    "name": "WWE Monday Night RAW",
+    "link": "https://www.intuitdome.com/events/event-schedule/3937?utm_source=IDwebsite&utm_medium=eventschedule&utm_campaign=IDevents26&utm_content=wwe_monday_night_raw_260727"
+  },
+  {
+    "key": "intuit dome|08/07/2026|grupo frontera",
+    "venue": "Intuit Dome",
+    "day": "Friday",
+    "date": "08/07/2026",
+    "time": "8:00 PM",
+    "name": "Grupo Frontera",
+    "link": "https://www.intuitdome.com/events/event-schedule/3520?utm_source=IDwebsite&utm_medium=eventschedule&utm_campaign=IDevents26&utm_content=grupo_frontera_260807"
+  },
+  {
+    "key": "intuit dome|08/09/2026|lionel richie and earth, wind & fire",
+    "venue": "Intuit Dome",
+    "day": "Sunday",
+    "date": "08/09/2026",
+    "time": "7:30 PM",
+    "name": "Lionel Richie and Earth, Wind & Fire",
+    "link": "https://www.intuitdome.com/events/event-schedule/3449?utm_source=IDwebsite&utm_medium=eventschedule&utm_campaign=IDevents26&utm_content=lionel_richie_earth_wind_fire_260809"
+  },
+  {
+    "key": "intuit dome|08/15/2026|yeat",
+    "venue": "Intuit Dome",
+    "day": "Saturday",
+    "date": "08/15/2026",
+    "time": "7:00 PM",
+    "name": "Yeat",
+    "link": "https://www.intuitdome.com/events/event-schedule/3699?utm_source=IDwebsite&utm_medium=eventschedule&utm_campaign=IDevents26&utm_content=yeat_260815"
+  },
+  {
+    "key": "intuit dome|08/21/2026|ne-yo & akon",
+    "venue": "Intuit Dome",
+    "day": "Friday",
+    "date": "08/21/2026",
+    "time": "8:00 PM",
+    "name": "Ne-Yo & Akon",
+    "link": "https://www.intuitdome.com/events/event-schedule/3454?utm_source=IDwebsite&utm_medium=eventschedule&utm_campaign=IDevents26&utm_content=ne-yo_akon_260821"
+  },
+  {
+    "key": "intuit dome|09/03/2026|j. cole",
+    "venue": "Intuit Dome",
+    "day": "Thursday",
+    "date": "09/03/2026",
+    "time": "8:00 PM",
+    "name": "J. Cole",
+    "link": "https://www.intuitdome.com/events/event-schedule/3492?utm_source=IDwebsite&utm_medium=eventschedule&utm_campaign=IDevents26&utm_content=j_cole_260903"
+  },
+  {
+    "key": "intuit dome|09/04/2026|j. cole",
+    "venue": "Intuit Dome",
+    "day": "Friday",
+    "date": "09/04/2026",
+    "time": "8:00 PM",
+    "name": "J. Cole",
+    "link": "https://www.intuitdome.com/events/event-schedule/3498?utm_source=IDwebsite&utm_medium=eventschedule&utm_campaign=IDevents26&utm_content=j_cole_260903"
+  },
+  {
+    "key": "intuit dome|09/10/2026|world of warcraft®: 20 years of music",
+    "venue": "Intuit Dome",
+    "day": "Thursday",
+    "date": "09/10/2026",
+    "time": "8:00 PM",
+    "name": "World of Warcraft®: 20 Years of Music",
+    "link": "https://www.intuitdome.com/events/event-schedule/3683?utm_source=IDwebsite&utm_medium=eventschedule&utm_campaign=IDevents26&utm_content=world_of_warcraft_260910"
+  },
+  {
+    "key": "intuit dome|09/18/2026|maná",
+    "venue": "Intuit Dome",
+    "day": "Friday",
+    "date": "09/18/2026",
+    "time": "8:30 PM",
+    "name": "Maná",
+    "link": "https://intuitdome.com/events/mana?utm_source=IDwebsite&utm_medium=eventschedule&utm_campaign=IDevents26&utm_content=mana_260918"
+  },
+  {
+    "key": "intuit dome|09/19/2026|maná",
+    "venue": "Intuit Dome",
+    "day": "Saturday",
+    "date": "09/19/2026",
+    "time": "8:30 PM",
+    "name": "Maná",
+    "link": "https://intuitdome.com/events/mana?utm_source=IDwebsite&utm_medium=eventschedule&utm_campaign=IDevents26&utm_content=mana_260919"
+  },
+  {
+    "key": "intuit dome|09/24/2026|kehlani",
+    "venue": "Intuit Dome",
+    "day": "Thursday",
+    "date": "09/24/2026",
+    "time": "6:30 PM",
+    "name": "Kehlani",
+    "link": "https://www.intuitdome.com/events/event-schedule/4033?utm_source=IDwebsite&utm_medium=eventschedule&utm_campaign=IDevents26&utm_content=kehlani_260924"
+  },
+  {
+    "key": "intuit dome|10/03/2026|aespa live tour – synk : complæxity – in los angeles",
+    "venue": "Intuit Dome",
+    "day": "Saturday",
+    "date": "10/03/2026",
+    "time": "8:00 PM",
+    "name": "aespa LIVE TOUR – SYNK : COMPLæXITY – in Los Angeles",
+    "link": "https://www.intuitdome.com/events/event-schedule/3850?utm_source=IDwebsite&utm_medium=eventschedule&utm_campaign=IDevents26&utm_content=aespa_live_tour_261003"
+  },
+  {
+    "key": "intuit dome|10/10/2026|tlc and salt-n-pepa",
+    "venue": "Intuit Dome",
+    "day": "Saturday",
+    "date": "10/10/2026",
+    "time": "7:30 PM",
+    "name": "TLC and Salt-N-Pepa",
+    "link": "https://www.intuitdome.com/events/event-schedule/3613?utm_source=IDwebsite&utm_medium=eventschedule&utm_campaign=IDevents26&utm_content=tlc_salt-n-pepa_261010"
+  },
+  {
+    "key": "intuit dome|10/17/2026|young miko",
+    "venue": "Intuit Dome",
+    "day": "Saturday",
+    "date": "10/17/2026",
+    "time": "8:00 PM",
+    "name": "Young Miko",
+    "link": "https://www.intuitdome.com/events/event-schedule/3707?utm_source=IDwebsite&utm_medium=eventschedule&utm_campaign=IDevents26&utm_content=young_miko_261017"
+  },
+  {
+    "key": "intuit dome|10/24/2026|pokémon night out",
+    "venue": "Intuit Dome",
+    "day": "Saturday",
+    "date": "10/24/2026",
+    "time": "7:30 PM",
+    "name": "Pokémon Night Out",
+    "link": "https://www.intuitdome.com/events/event-schedule/3674?utm_source=IDwebsite&utm_medium=eventschedule&utm_campaign=IDevents26&utm_content=pokemon_night_out_261024"
+  },
+  {
+    "key": "intuit dome|11/22/2026|three days grace",
+    "venue": "Intuit Dome",
+    "day": "Sunday",
+    "date": "11/22/2026",
+    "time": "7:00 PM",
+    "name": "Three Days Grace",
+    "link": "https://www.intuitdome.com/events/event-schedule/3149?utm_source=IDwebsite&utm_medium=eventschedule&utm_campaign=IDevents26&utm_content=three_days_grace_261122"
+  },
+  {
+    "key": "kia forum|06/07/2026|rush – fifty something",
+    "venue": "Kia Forum",
+    "day": "Sunday",
+    "date": "06/07/2026",
+    "time": "7:00 PM",
+    "name": "RUSH – Fifty Something",
+    "link": "https://thekiaforum.com/event/rush/"
+  },
+  {
+    "key": "kia forum|06/09/2026|rush – fifty something",
+    "venue": "Kia Forum",
+    "day": "Tuesday",
+    "date": "06/09/2026",
+    "time": "7:00 PM",
+    "name": "RUSH – Fifty Something",
+    "link": "https://thekiaforum.com/event/rush-2/"
+  },
+  {
+    "key": "kia forum|06/11/2026|rush – fifty something",
+    "venue": "Kia Forum",
+    "day": "Thursday",
+    "date": "06/11/2026",
+    "time": "7:00 PM",
+    "name": "RUSH – Fifty Something",
+    "link": "https://thekiaforum.com/event/rush-3/"
+  },
+  {
+    "key": "kia forum|06/13/2026|rush – fifty something",
+    "venue": "Kia Forum",
+    "day": "Saturday",
+    "date": "06/13/2026",
+    "time": "7:00 PM",
+    "name": "RUSH – Fifty Something",
+    "link": "https://thekiaforum.com/event/rush-4/"
+  },
+  {
+    "key": "kia forum|06/17/2026|ariana grande – the eternal sunshine tour",
+    "venue": "Kia Forum",
+    "day": "Wednesday",
+    "date": "06/17/2026",
+    "time": "7:00 PM",
+    "name": "ARIANA GRANDE – The Eternal Sunshine Tour",
+    "link": "https://thekiaforum.com/event/ariana-grande-2/"
+  },
+  {
+    "key": "kia forum|06/19/2026|ariana grande – the eternal sunshine tour",
+    "venue": "Kia Forum",
+    "day": "Friday",
+    "date": "06/19/2026",
+    "time": "7:00 PM",
+    "name": "ARIANA GRANDE – The Eternal Sunshine Tour",
+    "link": "https://thekiaforum.com/event/ariana-grande/"
+  },
+  {
+    "key": "kia forum|06/20/2026|ariana grande – the eternal sunshine tour",
+    "venue": "Kia Forum",
+    "day": "Saturday",
+    "date": "06/20/2026",
+    "time": "7:00 PM",
+    "name": "ARIANA GRANDE – The Eternal Sunshine Tour",
+    "link": "https://thekiaforum.com/event/ariana-grande-3/"
+  },
+  {
+    "key": "kia forum|06/24/2026|madison beer – the locket tour",
+    "venue": "Kia Forum",
+    "day": "Wednesday",
+    "date": "06/24/2026",
+    "time": "7:00 PM",
+    "name": "MADISON BEER – the locket tour",
+    "link": "https://thekiaforum.com/event/madison-beer/"
+  },
+  {
+    "key": "kia forum|06/26/2026|palomazo norteño – clase maestra tour",
+    "venue": "Kia Forum",
+    "day": "Friday",
+    "date": "06/26/2026",
+    "time": "7:00 PM",
+    "name": "PALOMAZO NORTEÑO – CLASE MAESTRA TOUR",
+    "link": "https://thekiaforum.com/event/palomazo-norteno/"
+  },
+  {
+    "key": "kia forum|06/27/2026|a$ap rocky – don't be dumb world tour",
+    "venue": "Kia Forum",
+    "day": "Saturday",
+    "date": "06/27/2026",
+    "time": "7:00 PM",
+    "name": "A$AP ROCKY – Don't Be Dumb World Tour",
+    "link": "https://thekiaforum.com/event/aap-rocky/"
+  },
+  {
+    "key": "kia forum|06/29/2026|rosalía – lux tour 2026",
+    "venue": "Kia Forum",
+    "day": "Monday",
+    "date": "06/29/2026",
+    "time": "7:00 PM",
+    "name": "ROSALÍA – LUX TOUR 2026",
+    "link": "https://thekiaforum.com/event/rosalia/"
+  },
+  {
+    "key": "kia forum|07/01/2026|rosalía – lux tour 2026",
+    "venue": "Kia Forum",
+    "day": "Wednesday",
+    "date": "07/01/2026",
+    "time": "7:00 PM",
+    "name": "ROSALÍA – LUX TOUR 2026",
+    "link": "https://thekiaforum.com/event/rosalia-2/"
+  },
+  {
+    "key": "kia forum|07/08/2026|hilary duff – the lucky me tour",
+    "venue": "Kia Forum",
+    "day": "Wednesday",
+    "date": "07/08/2026",
+    "time": "7:00 PM",
+    "name": "HILARY DUFF – the lucky me tour",
+    "link": "https://thekiaforum.com/event/hilary-duff/"
+  },
+  {
+    "key": "kia forum|07/09/2026|hilary duff – the lucky me tour",
+    "venue": "Kia Forum",
+    "day": "Thursday",
+    "date": "07/09/2026",
+    "time": "7:00 PM",
+    "name": "HILARY DUFF – the lucky me tour",
+    "link": "https://thekiaforum.com/event/hilary-duff-2/"
+  },
+  {
+    "key": "kia forum|07/11/2026|5 seconds of summer – everyone’s a star! world tour",
+    "venue": "Kia Forum",
+    "day": "Saturday",
+    "date": "07/11/2026",
+    "time": "7:00 PM",
+    "name": "5 SECONDS OF SUMMER – EVERYONE’S A STAR! World Tour",
+    "link": "https://thekiaforum.com/event/5-seconds-of-summer/"
+  },
+  {
+    "key": "kia forum|07/17/2026|young the giant – victory garden tour",
+    "venue": "Kia Forum",
+    "day": "Friday",
+    "date": "07/17/2026",
+    "time": "7:00 PM",
+    "name": "YOUNG THE GIANT – Victory Garden Tour",
+    "link": "https://thekiaforum.com/event/young-the-giant/"
+  },
+  {
+    "key": "kia forum|07/18/2026|evanescence",
+    "venue": "Kia Forum",
+    "day": "Saturday",
+    "date": "07/18/2026",
+    "time": "7:00 PM",
+    "name": "EVANESCENCE",
+    "link": "https://thekiaforum.com/event/evanescence/"
+  },
+  {
+    "key": "kia forum|07/31/2026|motionless in white – the sweat and blood tour",
+    "venue": "Kia Forum",
+    "day": "Friday",
+    "date": "07/31/2026",
+    "time": "7:00 PM",
+    "name": "MOTIONLESS IN WHITE – The Sweat and Blood Tour",
+    "link": "https://thekiaforum.com/event/motionless-in-white/"
+  },
+  {
+    "key": "kia forum|08/01/2026|ive – world tour [show what i am] in los angeles",
+    "venue": "Kia Forum",
+    "day": "Saturday",
+    "date": "08/01/2026",
+    "time": "7:00 PM",
+    "name": "IVE – WORLD TOUR [SHOW WHAT I AM] IN LOS ANGELES",
+    "link": "https://thekiaforum.com/event/ive/"
+  },
+  {
+    "key": "kia forum|08/06/2026|rüfüs du sol",
+    "venue": "Kia Forum",
+    "day": "Thursday",
+    "date": "08/06/2026",
+    "time": "7:00 PM",
+    "name": "RÜFÜS DU SOL",
+    "link": "https://thekiaforum.com/event/rufus-du-sol/"
+  },
+  {
+    "key": "kia forum|08/07/2026|rüfüs du sol",
+    "venue": "Kia Forum",
+    "day": "Friday",
+    "date": "08/07/2026",
+    "time": "7:00 PM",
+    "name": "RÜFÜS DU SOL",
+    "link": "https://thekiaforum.com/event/rufus-du-sol-3/"
+  },
+  {
+    "key": "kia forum|08/11/2026|rüfüs du sol",
+    "venue": "Kia Forum",
+    "day": "Tuesday",
+    "date": "08/11/2026",
+    "time": "7:00 PM",
+    "name": "RÜFÜS DU SOL",
+    "link": "https://thekiaforum.com/event/rufus-du-sol-2/"
+  },
+  {
+    "key": "kia forum|08/12/2026|rüfüs du sol",
+    "venue": "Kia Forum",
+    "day": "Wednesday",
+    "date": "08/12/2026",
+    "time": "7:00 PM",
+    "name": "RÜFÜS DU SOL",
+    "link": "https://thekiaforum.com/event/rufus-du-sol-4/"
+  },
+  {
+    "key": "kia forum|08/13/2026|rüfüs du sol – with ben böhmer",
+    "venue": "Kia Forum",
+    "day": "Thursday",
+    "date": "08/13/2026",
+    "time": "7:00 PM",
+    "name": "RÜFÜS DU SOL – with Ben Böhmer",
+    "link": "https://thekiaforum.com/event/rufus-du-sol-5/"
+  },
+  {
+    "key": "kia forum|08/14/2026|melanie martinez – hades: the sacrifice",
+    "venue": "Kia Forum",
+    "day": "Friday",
+    "date": "08/14/2026",
+    "time": "7:00 PM",
+    "name": "MELANIE MARTINEZ – HADES: THE SACRIFICE",
+    "link": "https://thekiaforum.com/event/melanie-martinez/"
+  },
+  {
+    "key": "kia forum|08/21/2026|omar courtz – por si mañana no estoy usa tour",
+    "venue": "Kia Forum",
+    "day": "Friday",
+    "date": "08/21/2026",
+    "time": "7:00 PM",
+    "name": "OMAR COURTZ – POR SI MAÑANA NO ESTOY USA TOUR",
+    "link": "https://thekiaforum.com/event/omar-courtz/"
+  },
+  {
+    "key": "kia forum|09/06/2026|chicago & styx – the windy cities tour - all the hits... your kind of tour",
+    "venue": "Kia Forum",
+    "day": "Sunday",
+    "date": "09/06/2026",
+    "time": "7:00 PM",
+    "name": "CHICAGO & STYX – The Windy Cities Tour - All The Hits... Your Kind of Tour",
+    "link": "https://thekiaforum.com/event/chicago-styx/"
+  },
+  {
+    "key": "kia forum|09/11/2026|johnny blue skies & the dark clouds – mutiny for the masses 2026 tour",
+    "venue": "Kia Forum",
+    "day": "Friday",
+    "date": "09/11/2026",
+    "time": "7:00 PM",
+    "name": "JOHNNY BLUE SKIES & THE DARK CLOUDS – Mutiny for the Masses 2026 Tour",
+    "link": "https://thekiaforum.com/event/johnny-blue-skies-the-dark-clouds/"
+  },
+  {
+    "key": "kia forum|09/12/2026|soda stereo – ecos tour",
+    "venue": "Kia Forum",
+    "day": "Saturday",
+    "date": "09/12/2026",
+    "time": "7:00 PM",
+    "name": "SODA STEREO – ECOS TOUR",
+    "link": "https://thekiaforum.com/event/soda-stereo/"
+  },
+  {
+    "key": "kia forum|09/23/2026|robyn – the sexistential tour",
+    "venue": "Kia Forum",
+    "day": "Wednesday",
+    "date": "09/23/2026",
+    "time": "7:00 PM",
+    "name": "ROBYN – The Sexistential Tour",
+    "link": "https://thekiaforum.com/event/robyn/"
+  },
+  {
+    "key": "kia forum|09/24/2026|robyn – the sexistential tour",
+    "venue": "Kia Forum",
+    "day": "Thursday",
+    "date": "09/24/2026",
+    "time": "7:00 PM",
+    "name": "ROBYN – The Sexistential Tour",
+    "link": "https://thekiaforum.com/event/robyn-2/"
+  },
+  {
+    "key": "kia forum|09/25/2026|lily allen – lily allen performs west end girl",
+    "venue": "Kia Forum",
+    "day": "Friday",
+    "date": "09/25/2026",
+    "time": "7:00 PM",
+    "name": "LILY ALLEN – Lily Allen Performs West End Girl",
+    "link": "https://thekiaforum.com/event/lily-allen/"
+  },
+  {
+    "key": "kia forum|09/26/2026|billy strings",
+    "venue": "Kia Forum",
+    "day": "Saturday",
+    "date": "09/26/2026",
+    "time": "7:00 PM",
+    "name": "BILLY STRINGS",
+    "link": "https://thekiaforum.com/event/billy-strings-3/"
+  },
+  {
+    "key": "kia forum|09/30/2026|disney descendants, zombies & camp rock: worlds collide concert tour",
+    "venue": "Kia Forum",
+    "day": "Wednesday",
+    "date": "09/30/2026",
+    "time": "7:00 PM",
+    "name": "DISNEY DESCENDANTS, ZOMBIES & CAMP ROCK: WORLDS COLLIDE CONCERT TOUR",
+    "link": "https://thekiaforum.com/event/worlds-collide-concert-tour/"
+  },
+  {
+    "key": "kia forum|10/03/2026|klangkuenstler – outworld – klangkuenstler all night long",
+    "venue": "Kia Forum",
+    "day": "Saturday",
+    "date": "10/03/2026",
+    "time": "7:00 PM",
+    "name": "KLANGKUENSTLER – OUTWORLD – Klangkuenstler All Night Long",
+    "link": "https://thekiaforum.com/event/klangkuenstler/"
+  },
+  {
+    "key": "kia forum|10/06/2026|mumford & sons – prizefighter tour",
+    "venue": "Kia Forum",
+    "day": "Tuesday",
+    "date": "10/06/2026",
+    "time": "7:00 PM",
+    "name": "MUMFORD & SONS – Prizefighter Tour",
+    "link": "https://thekiaforum.com/event/mumford-sons/"
+  },
+  {
+    "key": "kia forum|10/07/2026|mumford & sons – prizefighter tour",
+    "venue": "Kia Forum",
+    "day": "Wednesday",
+    "date": "10/07/2026",
+    "time": "7:00 PM",
+    "name": "MUMFORD & SONS – Prizefighter Tour",
+    "link": "https://thekiaforum.com/event/mumford-sons-2/"
+  },
+  {
+    "key": "kia forum|10/09/2026|the neighbourhood – the wourld tour",
+    "venue": "Kia Forum",
+    "day": "Friday",
+    "date": "10/09/2026",
+    "time": "7:00 PM",
+    "name": "THE NEIGHBOURHOOD – THE WOURLD TOUR",
+    "link": "https://thekiaforum.com/event/the-neighbourhood/"
+  },
+  {
+    "key": "kia forum|10/10/2026|sombr – you are the reason tour",
+    "venue": "Kia Forum",
+    "day": "Saturday",
+    "date": "10/10/2026",
+    "time": "7:00 PM",
+    "name": "SOMBR – You Are The Reason Tour",
+    "link": "https://thekiaforum.com/event/sombr/"
+  },
+  {
+    "key": "kia forum|10/16/2026|juanes",
+    "venue": "Kia Forum",
+    "day": "Friday",
+    "date": "10/16/2026",
+    "time": "7:00 PM",
+    "name": "JUANES",
+    "link": "https://thekiaforum.com/event/juanes/"
+  },
+  {
+    "key": "kia forum|10/20/2026|monsta x – 2026 monsta x world tour [the x : nexus] in los angeles",
+    "venue": "Kia Forum",
+    "day": "Tuesday",
+    "date": "10/20/2026",
+    "time": "7:00 PM",
+    "name": "MONSTA X – 2026 MONSTA X WORLD TOUR [THE X : NEXUS] IN LOS ANGELES",
+    "link": "https://thekiaforum.com/event/monsta-x/"
+  },
+  {
+    "key": "kia forum|10/22/2026|doja cat – tour ma vie world tour",
+    "venue": "Kia Forum",
+    "day": "Thursday",
+    "date": "10/22/2026",
+    "time": "7:00 PM",
+    "name": "DOJA CAT – Tour Ma Vie World Tour",
+    "link": "https://thekiaforum.com/event/doja-cat/"
+  },
+  {
+    "key": "kia forum|10/24/2026|gorillaz – the mountain tour",
+    "venue": "Kia Forum",
+    "day": "Saturday",
+    "date": "10/24/2026",
+    "time": "7:00 PM",
+    "name": "GORILLAZ – The Mountain Tour",
+    "link": "https://thekiaforum.com/event/gorillaz-2/"
+  },
+  {
+    "key": "kia forum|11/06/2026|don omar – the last king world tour",
+    "venue": "Kia Forum",
+    "day": "Friday",
+    "date": "11/06/2026",
+    "time": "7:00 PM",
+    "name": "DON OMAR – The Last King World Tour",
+    "link": "https://thekiaforum.com/event/don-omar/"
+  },
+  {
+    "key": "kia forum|11/07/2026|mon laferte – femme fatale tour",
+    "venue": "Kia Forum",
+    "day": "Saturday",
+    "date": "11/07/2026",
+    "time": "7:00 PM",
+    "name": "MON LAFERTE – Femme Fatale Tour",
+    "link": "https://thekiaforum.com/event/mon-laferte/"
+  },
+  {
+    "key": "kia forum|11/12/2026|the smashing pumpkins – the rats in a cage tour",
+    "venue": "Kia Forum",
+    "day": "Thursday",
+    "date": "11/12/2026",
+    "time": "7:00 PM",
+    "name": "THE SMASHING PUMPKINS – The Rats In A Cage Tour",
+    "link": "https://thekiaforum.com/event/the-smashing-pumpkins/"
+  },
+  {
+    "key": "kia forum|11/13/2026|slayer – reign in blood 40th anniversary",
+    "venue": "Kia Forum",
+    "day": "Friday",
+    "date": "11/13/2026",
+    "time": "7:00 PM",
+    "name": "SLAYER – Reign in Blood 40th Anniversary",
+    "link": "https://thekiaforum.com/event/slayer/"
+  },
+  {
+    "key": "kia forum|11/14/2026|slayer – reign in blood 40th anniversary",
+    "venue": "Kia Forum",
+    "day": "Saturday",
+    "date": "11/14/2026",
+    "time": "7:00 PM",
+    "name": "SLAYER – Reign in Blood 40th Anniversary",
+    "link": "https://thekiaforum.com/event/slayer-2/"
+  },
+  {
+    "key": "kia forum|11/15/2026|rawayana – ¿dónde es el after? world tour",
+    "venue": "Kia Forum",
+    "day": "Sunday",
+    "date": "11/15/2026",
+    "time": "7:00 PM",
+    "name": "RAWAYANA – ¿Dónde es el after? World Tour",
+    "link": "https://thekiaforum.com/event/rawayana/"
+  },
+  {
+    "key": "kia forum|11/18/2026|teddy swims – the ugly tour",
+    "venue": "Kia Forum",
+    "day": "Wednesday",
+    "date": "11/18/2026",
+    "time": "7:00 PM",
+    "name": "TEDDY SWIMS – The UGLY Tour",
+    "link": "https://thekiaforum.com/event/teddy-swims/"
+  },
+  {
+    "key": "kia forum|12/04/2026|the neighbourhood – the wourld tour",
+    "venue": "Kia Forum",
+    "day": "Friday",
+    "date": "12/04/2026",
+    "time": "7:00 PM",
+    "name": "THE NEIGHBOURHOOD – THE WOURLD TOUR",
+    "link": "https://thekiaforum.com/event/the-neighbourhood-2/"
+  },
+  {
+    "key": "kia forum|12/05/2026|the neighbourhood – the wourld tour",
+    "venue": "Kia Forum",
+    "day": "Saturday",
+    "date": "12/05/2026",
+    "time": "7:00 PM",
+    "name": "THE NEIGHBOURHOOD – THE WOURLD TOUR",
+    "link": "https://thekiaforum.com/event/the-neighbourhood-3/"
+  },
+  {
+    "key": "kia forum|05/22/2027|niall horan – dinner party live on tour",
+    "venue": "Kia Forum",
+    "day": "Saturday",
+    "date": "05/22/2027",
+    "time": "7:00 PM",
+    "name": "NIALL HORAN – Dinner Party Live On Tour",
+    "link": "https://thekiaforum.com/event/niall-horan/"
+  },
+  {
+    "key": "dignity health sports park|07/17/2026|la galaxy vs lafc",
+    "venue": "Dignity Health Sports Park",
+    "day": "Friday",
+    "date": "07/17/2026",
+    "time": "TBA",
+    "name": "LA Galaxy vs LAFC",
+    "link": "https://www.dignityhealthsportspark.com/events/detail/la-galaxy-vs-lafc"
+  },
+  {
+    "key": "dignity health sports park|07/22/2026|la galaxy vs st. louis city sc",
+    "venue": "Dignity Health Sports Park",
+    "day": "Wednesday",
+    "date": "07/22/2026",
+    "time": "TBA",
+    "name": "LA Galaxy vs St. Louis CITY SC",
+    "link": "https://www.dignityhealthsportspark.com/events/detail/la-galaxy-vs-st-louis-city-sc"
+  },
+  {
+    "key": "dignity health sports park|07/25/2026|campeón de campeones 2026",
+    "venue": "Dignity Health Sports Park",
+    "day": "Saturday",
+    "date": "07/25/2026",
+    "time": "TBA",
+    "name": "Campeón de Campeones 2026",
+    "link": "https://www.dignityhealthsportspark.com/events/detail/campeon-de-campeones-2026"
+  },
+  {
+    "key": "dignity health sports park|08/01/2026|la galaxy vs fc dallas",
+    "venue": "Dignity Health Sports Park",
+    "day": "Saturday",
+    "date": "08/01/2026",
+    "time": "TBA",
+    "name": "LA Galaxy vs FC Dallas",
+    "link": "https://www.dignityhealthsportspark.com/events/detail/la-galaxy-vs-fc-dallas"
+  },
+  {
+    "key": "dignity health sports park|08/19/2026|la galaxy vs san jose earthquakes",
+    "venue": "Dignity Health Sports Park",
+    "day": "Wednesday",
+    "date": "08/19/2026",
+    "time": "TBA",
+    "name": "LA Galaxy vs San Jose Earthquakes",
+    "link": "https://www.dignityhealthsportspark.com/events/detail/la-galaxy-vs-san-jose-earthquakes"
+  },
+  {
+    "key": "dignity health sports park|09/05/2026|la galaxy vs new england revolution",
+    "venue": "Dignity Health Sports Park",
+    "day": "Saturday",
+    "date": "09/05/2026",
+    "time": "TBA",
+    "name": "LA Galaxy vs New England Revolution",
+    "link": "https://www.dignityhealthsportspark.com/events/detail/la-galaxy-vs-new-england-revolution"
+  },
+  {
     "key": "rose bowl stadium|05/29/2026|vip fan day mextour live",
     "venue": "Rose Bowl Stadium",
     "day": "Friday",
@@ -664,6 +1492,114 @@
     "time": "TBD",
     "name": "Rose Bowl Half Marathon & 5K",
     "link": "https://www.rosebowlstadium.com/events/details/626/rose-bowl-half-marathon-and-5k"
+  },
+  {
+    "key": "crypto.com arena|06/02/2026|los angeles sparks vs las vegas aces – commissioner's cup",
+    "venue": "Crypto.com Arena",
+    "day": "Tuesday",
+    "date": "06/02/2026",
+    "time": "7:00 PM",
+    "name": "Los Angeles Sparks vs Las Vegas Aces – Commissioner's Cup",
+    "link": "https://www.cryptoarena.com/events/detail/sparksaces060226"
+  },
+  {
+    "key": "crypto.com arena|06/05/2026|los angeles sparks vs dallas wings – commissioner's cup",
+    "venue": "Crypto.com Arena",
+    "day": "Friday",
+    "date": "06/05/2026",
+    "time": "7:00 PM",
+    "name": "Los Angeles Sparks vs Dallas Wings – Commissioner's Cup",
+    "link": "https://www.cryptoarena.com/events/detail/sparkswings060526"
+  },
+  {
+    "key": "crypto.com arena|06/06/2026|alex warren: finding family on the road – with special guests nat & alex wolff",
+    "venue": "Crypto.com Arena",
+    "day": "Saturday",
+    "date": "06/06/2026",
+    "time": "7:30 PM",
+    "name": "Alex Warren: Finding Family on the Road – With special guests Nat & Alex Wolff",
+    "link": "https://www.cryptoarena.com/events/detail/alexwarren060626"
+  },
+  {
+    "key": "l.a. memorial coliseum|06/11/2026|fifa fan festival™ los angeles",
+    "venue": "L.A. Memorial Coliseum",
+    "day": "Thursday",
+    "date": "06/11/2026",
+    "time": "TBA",
+    "name": "FIFA Fan Festival™ Los Angeles",
+    "link": "https://www.lacoliseum.com/events/fifa-fan-festival-los-angeles/"
+  },
+  {
+    "key": "l.a. memorial coliseum|07/04/2026|america250 july 4 concert",
+    "venue": "L.A. Memorial Coliseum",
+    "day": "Saturday",
+    "date": "07/04/2026",
+    "time": "TBA",
+    "name": "America250 July 4 Concert",
+    "link": "https://www.lacoliseum.com/events/america250-july-4-concert/"
+  },
+  {
+    "key": "l.a. memorial coliseum|08/29/2026|san jose state vs usc",
+    "venue": "L.A. Memorial Coliseum",
+    "day": "Saturday",
+    "date": "08/29/2026",
+    "time": "TBA",
+    "name": "San Jose State vs USC",
+    "link": "https://www.lacoliseum.com/events/sanjosestate-vs-usc-2026/"
+  },
+  {
+    "key": "l.a. memorial coliseum|09/04/2026|fresno state vs usc",
+    "venue": "L.A. Memorial Coliseum",
+    "day": "Friday",
+    "date": "09/04/2026",
+    "time": "TBA",
+    "name": "Fresno State vs USC",
+    "link": "https://www.lacoliseum.com/events/fresno-state-vs-usc-2026/"
+  },
+  {
+    "key": "l.a. memorial coliseum|09/12/2026|louisiana vs usc",
+    "venue": "L.A. Memorial Coliseum",
+    "day": "Saturday",
+    "date": "09/12/2026",
+    "time": "TBA",
+    "name": "Louisiana vs USC",
+    "link": "https://www.lacoliseum.com/events/louisiana-vs-usc-2026/"
+  },
+  {
+    "key": "l.a. memorial coliseum|09/26/2026|oregon vs usc",
+    "venue": "L.A. Memorial Coliseum",
+    "day": "Saturday",
+    "date": "09/26/2026",
+    "time": "TBA",
+    "name": "Oregon vs USC",
+    "link": "https://www.lacoliseum.com/events/oregon-vs-usc-2026/"
+  },
+  {
+    "key": "l.a. memorial coliseum|10/03/2026|washington vs usc",
+    "venue": "L.A. Memorial Coliseum",
+    "day": "Saturday",
+    "date": "10/03/2026",
+    "time": "TBA",
+    "name": "Washington vs USC",
+    "link": "https://www.lacoliseum.com/events/washington-vs-usc-2026/"
+  },
+  {
+    "key": "l.a. memorial coliseum|10/31/2026|ohio state vs usc",
+    "venue": "L.A. Memorial Coliseum",
+    "day": "Saturday",
+    "date": "10/31/2026",
+    "time": "TBA",
+    "name": "Ohio State vs USC",
+    "link": "https://www.lacoliseum.com/events/ohio-state-vs-usc-2026/"
+  },
+  {
+    "key": "l.a. memorial coliseum|11/21/2026|maryland vs usc",
+    "venue": "L.A. Memorial Coliseum",
+    "day": "Saturday",
+    "date": "11/21/2026",
+    "time": "TBA",
+    "name": "Maryland vs USC",
+    "link": "https://www.lacoliseum.com/events/maryland-vs-usc-2026/"
   },
   {
     "key": "la convention center|05/30/2026|society of nuclear medicine and molecular imaging annual meeting 2026",
