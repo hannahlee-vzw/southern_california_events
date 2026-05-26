@@ -369,15 +369,6 @@
     "link": "https://www.sofistadium.com/events/detail/rams-cowboys-2026"
   },
   {
-    "key": "sofi stadium|02/14/2027|super bowl lxi",
-    "venue": "SoFi Stadium",
-    "day": "Sunday",
-    "date": "02/14/2027",
-    "time": "TBA",
-    "name": "Super Bowl LXI",
-    "link": "https://www.sofistadium.com/events/detail/super-bowl-lxi"
-  },
-  {
     "key": "sofi stadium|UNKNOWN|chargers vs. chiefs – week 17",
     "venue": "SoFi Stadium",
     "day": "UNKNOWN",
@@ -394,6 +385,15 @@
     "time": "TBA",
     "name": "Rams vs. Seahawks – Week 18",
     "link": "https://www.sofistadium.com/events/detail/rams-seahawks-2027"
+  },
+  {
+    "key": "sofi stadium|02/14/2027|super bowl lxi",
+    "venue": "SoFi Stadium",
+    "day": "Sunday",
+    "date": "02/14/2027",
+    "time": "TBA",
+    "name": "Super Bowl LXI",
+    "link": "https://www.sofistadium.com/events/detail/super-bowl-lxi"
   },
   {
     "key": "intuit dome|01/12/2026|olivia rodrigo",
