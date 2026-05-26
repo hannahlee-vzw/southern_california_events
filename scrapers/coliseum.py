@@ -63,7 +63,7 @@ class ColiseumScraper(BaseScraper):
                 day   = day_el.get_text(strip=True).split("-")[0].strip() if day_el else ""
 
                 day_str, date_str = _parse_date(month, day)
-                events.append(Event(day=day_str, date=date_str, time="TBD", name=name, link=link))
+                events.append(Event(day=day_str, date=date_str, time="TBA", name=name, link=link))
             except Exception:
                 continue
 

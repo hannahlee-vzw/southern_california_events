@@ -70,7 +70,7 @@ def _parse_datetime(raw: str, year: str) -> tuple[str, str, str]:
     into ("Saturday", "06/13/2026", "7:30 PM").
     """
     raw = raw.strip()
-    time_str = "TBD"
+    time_str = "TBA"
 
     if " / " in raw:
         date_part, time_part = raw.split(" / ", 1)

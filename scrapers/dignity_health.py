@@ -73,9 +73,9 @@ def _parse(raw_date: str, raw_time: str) -> tuple[str, str, str]:
         day_str  = dt.strftime("%A")
         date_str = dt.strftime("%m/%d/%Y")
     except Exception:
-        return "UNKNOWN", "UNKNOWN", raw_time or "TBD"
+        return "UNKNOWN", "UNKNOWN", raw_time or "TBA"
 
-    time_str = raw_time if raw_time else "TBD"
+    time_str = raw_time if raw_time else "TBA"
     try:
         t = dateutil_parser.parse(raw_time, fuzzy=True)
         time_str = t.strftime("%I:%M %p").lstrip("0")

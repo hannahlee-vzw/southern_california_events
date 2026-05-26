@@ -91,6 +91,12 @@ class SofiScraper(BaseScraper):
                 year  = year_el.get_text(strip=True).strip(", ") if year_el else ""
                 raw_date = f"{month} {day} {year}".strip()
 
+                # Fallback: if sub-spans are absent, read the parent singleDate text directly
+                if not raw_date:
+                    single_el = card.select_one("span.m-date__singleDate")
+                    if single_el:
+                        raw_date = single_el.get_text(separator=" ", strip=True)
+
                 raw_time = time_el.get_text(strip=True) if time_el else ""
 
                 day_str, date_str, time_str = _parse(raw_date, raw_time)
@@ -106,14 +112,18 @@ class SofiScraper(BaseScraper):
 
 
 def _parse(raw_date: str, raw_time: str) -> tuple[str, str, str]:
+    # Treat any "TBA" variant as no time known
+    if raw_time and "tba" in raw_time.lower():
+        raw_time = ""
+
     try:
         dt = dateutil_parser.parse(raw_date, fuzzy=True)
         day_str  = dt.strftime("%A")
         date_str = dt.strftime("%m/%d/%Y")
     except Exception:
-        return "UNKNOWN", "UNKNOWN", raw_time or "TBD"
+        return "UNKNOWN", "UNKNOWN", raw_time or "TBA"
 
-    time_str = raw_time if raw_time else "TBD"
+    time_str = raw_time if raw_time else "TBA"
     try:
         t = dateutil_parser.parse(raw_time, fuzzy=True)
         time_str = t.strftime("%I:%M %p").lstrip("0")

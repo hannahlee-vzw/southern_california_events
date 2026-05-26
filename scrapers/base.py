@@ -6,7 +6,7 @@ from dataclasses import dataclass
 class Event:
     day: str    # e.g. "Saturday"
     date: str   # e.g. "06/14/2026"
-    time: str   # e.g. "7:30 PM" or "TBD"
+    time: str   # e.g. "7:30 PM" or "TBA"
     name: str
     link: str   # absolute URL
 

@@ -53,7 +53,7 @@ class ConventionCenterScraper(BaseScraper):
                 link     = absolute_url(href, self.url)
 
                 day_str, date_str = _parse_date(raw_date)
-                events.append(Event(day=day_str, date=date_str, time="TBD", name=name, link=link))
+                events.append(Event(day=day_str, date=date_str, time="TBA", name=name, link=link))
             except Exception:
                 continue
 

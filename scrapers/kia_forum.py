@@ -77,7 +77,7 @@ def _parse_date_time(display: str, datetime_attr: str) -> tuple[str, str, str]:
     today = date.today()
 
     # Extract time from the datetime attribute
-    time_str = "TBD"
+    time_str = "TBA"
     try:
         dt_attr = dateutil_parser.parse(datetime_attr)
         if dt_attr.hour or dt_attr.minute:

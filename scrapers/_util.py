@@ -19,23 +19,23 @@ def parse_date_time(raw_date: str, raw_time: str) -> tuple[str, str, str]:
         return (
             dt.strftime("%A"),
             dt.strftime("%m/%d/%Y"),
-            dt.strftime("%-I:%M %p") if hasattr(dt, "hour") else "TBD",
+            dt.strftime("%-I:%M %p") if hasattr(dt, "hour") else "TBA",
         )
     except Exception:
         pass
     # Try date only
     try:
         dt = dateutil_parser.parse(raw_date, fuzzy=True)
-        time_str = "TBD"
+        time_str = "TBA"
         if raw_time:
             try:
                 t = dateutil_parser.parse(raw_time, fuzzy=True)
                 time_str = t.strftime("%I:%M %p").lstrip("0")
             except Exception:
-                time_str = raw_time.strip() or "TBD"
+                time_str = raw_time.strip() or "TBA"
         return dt.strftime("%A"), dt.strftime("%m/%d/%Y"), time_str
     except Exception:
-        return "UNKNOWN", "UNKNOWN", raw_time.strip() or "TBD"
+        return "UNKNOWN", "UNKNOWN", raw_time.strip() or "TBA"
 
 
 def dedup(events: list) -> list:
