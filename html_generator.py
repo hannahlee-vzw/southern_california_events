@@ -118,6 +118,13 @@ def _build_html(results: list[VenueResult], past_events: list[dict] = []) -> str
 
     past_rows = _past_event_rows(past_events)
     past_count = len(past_events)
+
+    unique_venues = sorted({ev["venue"] for ev in past_events}) if past_events else []
+    venue_options = "\n".join(
+        f'<option value="{html.escape(v)}">{html.escape(v)}</option>'
+        for v in unique_venues
+    )
+
     past_nav_item = (
         f'<li class="nav-item" role="presentation">'
         f'<button class="nav-link" id="tab-past-events" data-bs-toggle="tab" '
@@ -128,8 +135,15 @@ def _build_html(results: list[VenueResult], past_events: list[dict] = []) -> str
     )
     past_pane = f"""
         <div class="tab-pane fade" id="pane-past-events" role="tabpanel" aria-labelledby="tab-past-events">
-          <div class="mt-3 mb-2">
+          <div class="d-flex justify-content-between align-items-center mt-3 mb-2">
             <span class="text-muted small">{past_count} archived event(s) across all venues, most recent first</span>
+            <div class="d-flex align-items-center gap-2">
+              <label for="past-venue-filter" class="text-muted small mb-0">Filter by venue:</label>
+              <select id="past-venue-filter" class="form-select form-select-sm" style="width:auto">
+                <option value="">All Venues</option>
+                {venue_options}
+              </select>
+            </div>
           </div>
           <div class="table-responsive">
             <table class="table table-striped table-hover table-sm sortable" id="tbl-past-events">
@@ -192,6 +206,13 @@ def _build_html(results: list[VenueResult], past_events: list[dict] = []) -> str
 <script>
   document.querySelectorAll('table.sortable').forEach(function(table) {{
     new Tablesort(table);
+  }});
+  document.getElementById('past-venue-filter').addEventListener('change', function() {{
+    var selected = this.value;
+    document.querySelectorAll('#tbl-past-events tbody tr').forEach(function(row) {{
+      var venue = row.cells[0] ? row.cells[0].textContent : '';
+      row.style.display = (!selected || venue === selected) ? '' : 'none';
+    }});
   }});
 </script>
 </body>
