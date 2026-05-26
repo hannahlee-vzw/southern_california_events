@@ -1960,5 +1960,734 @@
     "time": "TBA",
     "name": "American Association of Thoracic Surgery Annual Meeting",
     "link": "https://www.laconventioncenter.com/events/detail/aats-annual-mtg-2027"
+  },
+  {
+    "key": "dodger stadium|03/26/2026|vs. arizona diamondbacks",
+    "venue": "Dodger Stadium",
+    "day": "Thursday",
+    "date": "03/26/2026",
+    "time": "5:30 PM",
+    "name": "vs. Arizona Diamondbacks",
+    "link": "https://www.mlb.com/gameday/823974"
+  },
+  {
+    "key": "dodger stadium|03/27/2026|vs. arizona diamondbacks",
+    "venue": "Dodger Stadium",
+    "day": "Friday",
+    "date": "03/27/2026",
+    "time": "7:10 PM",
+    "name": "vs. Arizona Diamondbacks",
+    "link": "https://www.mlb.com/gameday/823971"
+  },
+  {
+    "key": "dodger stadium|03/28/2026|vs. arizona diamondbacks",
+    "venue": "Dodger Stadium",
+    "day": "Saturday",
+    "date": "03/28/2026",
+    "time": "6:10 PM",
+    "name": "vs. Arizona Diamondbacks",
+    "link": "https://www.mlb.com/gameday/823973"
+  },
+  {
+    "key": "dodger stadium|03/30/2026|vs. cleveland guardians",
+    "venue": "Dodger Stadium",
+    "day": "Monday",
+    "date": "03/30/2026",
+    "time": "7:10 PM",
+    "name": "vs. Cleveland Guardians",
+    "link": "https://www.mlb.com/gameday/823972"
+  },
+  {
+    "key": "dodger stadium|03/31/2026|vs. cleveland guardians",
+    "venue": "Dodger Stadium",
+    "day": "Tuesday",
+    "date": "03/31/2026",
+    "time": "7:10 PM",
+    "name": "vs. Cleveland Guardians",
+    "link": "https://www.mlb.com/gameday/823969"
+  },
+  {
+    "key": "dodger stadium|04/01/2026|vs. cleveland guardians",
+    "venue": "Dodger Stadium",
+    "day": "Wednesday",
+    "date": "04/01/2026",
+    "time": "5:20 PM",
+    "name": "vs. Cleveland Guardians",
+    "link": "https://www.mlb.com/gameday/823970"
+  },
+  {
+    "key": "dodger stadium|04/10/2026|vs. texas rangers",
+    "venue": "Dodger Stadium",
+    "day": "Friday",
+    "date": "04/10/2026",
+    "time": "7:10 PM",
+    "name": "vs. Texas Rangers",
+    "link": "https://www.mlb.com/gameday/823968"
+  },
+  {
+    "key": "dodger stadium|04/11/2026|vs. texas rangers",
+    "venue": "Dodger Stadium",
+    "day": "Saturday",
+    "date": "04/11/2026",
+    "time": "6:10 PM",
+    "name": "vs. Texas Rangers",
+    "link": "https://www.mlb.com/gameday/823967"
+  },
+  {
+    "key": "dodger stadium|04/12/2026|vs. texas rangers",
+    "venue": "Dodger Stadium",
+    "day": "Sunday",
+    "date": "04/12/2026",
+    "time": "1:10 PM",
+    "name": "vs. Texas Rangers",
+    "link": "https://www.mlb.com/gameday/823966"
+  },
+  {
+    "key": "dodger stadium|04/13/2026|vs. new york mets",
+    "venue": "Dodger Stadium",
+    "day": "Monday",
+    "date": "04/13/2026",
+    "time": "7:10 PM",
+    "name": "vs. New York Mets",
+    "link": "https://www.mlb.com/gameday/823964"
+  },
+  {
+    "key": "dodger stadium|04/14/2026|vs. new york mets",
+    "venue": "Dodger Stadium",
+    "day": "Tuesday",
+    "date": "04/14/2026",
+    "time": "7:10 PM",
+    "name": "vs. New York Mets",
+    "link": "https://www.mlb.com/gameday/823965"
+  },
+  {
+    "key": "dodger stadium|04/15/2026|vs. new york mets",
+    "venue": "Dodger Stadium",
+    "day": "Wednesday",
+    "date": "04/15/2026",
+    "time": "7:10 PM",
+    "name": "vs. New York Mets",
+    "link": "https://www.mlb.com/gameday/823963"
+  },
+  {
+    "key": "dodger stadium|04/24/2026|vs. chicago cubs",
+    "venue": "Dodger Stadium",
+    "day": "Friday",
+    "date": "04/24/2026",
+    "time": "7:15 PM",
+    "name": "vs. Chicago Cubs",
+    "link": "https://www.mlb.com/gameday/823962"
+  },
+  {
+    "key": "dodger stadium|04/25/2026|vs. chicago cubs",
+    "venue": "Dodger Stadium",
+    "day": "Saturday",
+    "date": "04/25/2026",
+    "time": "4:15 PM",
+    "name": "vs. Chicago Cubs",
+    "link": "https://www.mlb.com/gameday/823960"
+  },
+  {
+    "key": "dodger stadium|04/26/2026|vs. chicago cubs",
+    "venue": "Dodger Stadium",
+    "day": "Sunday",
+    "date": "04/26/2026",
+    "time": "1:10 PM",
+    "name": "vs. Chicago Cubs",
+    "link": "https://www.mlb.com/gameday/823959"
+  },
+  {
+    "key": "dodger stadium|04/27/2026|vs. miami marlins",
+    "venue": "Dodger Stadium",
+    "day": "Monday",
+    "date": "04/27/2026",
+    "time": "7:10 PM",
+    "name": "vs. Miami Marlins",
+    "link": "https://www.mlb.com/gameday/823961"
+  },
+  {
+    "key": "dodger stadium|04/28/2026|vs. miami marlins",
+    "venue": "Dodger Stadium",
+    "day": "Tuesday",
+    "date": "04/28/2026",
+    "time": "7:10 PM",
+    "name": "vs. Miami Marlins",
+    "link": "https://www.mlb.com/gameday/823956"
+  },
+  {
+    "key": "dodger stadium|04/29/2026|vs. miami marlins",
+    "venue": "Dodger Stadium",
+    "day": "Wednesday",
+    "date": "04/29/2026",
+    "time": "12:10 PM",
+    "name": "vs. Miami Marlins",
+    "link": "https://www.mlb.com/gameday/823958"
+  },
+  {
+    "key": "dodger stadium|05/08/2026|vs. atlanta braves",
+    "venue": "Dodger Stadium",
+    "day": "Friday",
+    "date": "05/08/2026",
+    "time": "7:10 PM",
+    "name": "vs. Atlanta Braves",
+    "link": "https://www.mlb.com/gameday/823957"
+  },
+  {
+    "key": "dodger stadium|05/09/2026|vs. atlanta braves",
+    "venue": "Dodger Stadium",
+    "day": "Saturday",
+    "date": "05/09/2026",
+    "time": "6:10 PM",
+    "name": "vs. Atlanta Braves",
+    "link": "https://www.mlb.com/gameday/823955"
+  },
+  {
+    "key": "dodger stadium|05/10/2026|vs. atlanta braves",
+    "venue": "Dodger Stadium",
+    "day": "Sunday",
+    "date": "05/10/2026",
+    "time": "1:10 PM",
+    "name": "vs. Atlanta Braves",
+    "link": "https://www.mlb.com/gameday/823954"
+  },
+  {
+    "key": "dodger stadium|05/11/2026|vs. san francisco giants",
+    "venue": "Dodger Stadium",
+    "day": "Monday",
+    "date": "05/11/2026",
+    "time": "7:10 PM",
+    "name": "vs. San Francisco Giants",
+    "link": "https://www.mlb.com/gameday/823953"
+  },
+  {
+    "key": "dodger stadium|05/12/2026|vs. san francisco giants",
+    "venue": "Dodger Stadium",
+    "day": "Tuesday",
+    "date": "05/12/2026",
+    "time": "7:10 PM",
+    "name": "vs. San Francisco Giants",
+    "link": "https://www.mlb.com/gameday/823951"
+  },
+  {
+    "key": "dodger stadium|05/13/2026|vs. san francisco giants",
+    "venue": "Dodger Stadium",
+    "day": "Wednesday",
+    "date": "05/13/2026",
+    "time": "7:10 PM",
+    "name": "vs. San Francisco Giants",
+    "link": "https://www.mlb.com/gameday/823952"
+  },
+  {
+    "key": "dodger stadium|05/14/2026|vs. san francisco giants",
+    "venue": "Dodger Stadium",
+    "day": "Thursday",
+    "date": "05/14/2026",
+    "time": "7:10 PM",
+    "name": "vs. San Francisco Giants",
+    "link": "https://www.mlb.com/gameday/823950"
+  },
+  {
+    "key": "dodger stadium|05/25/2026|vs. colorado rockies",
+    "venue": "Dodger Stadium",
+    "day": "Monday",
+    "date": "05/25/2026",
+    "time": "6:10 PM",
+    "name": "vs. Colorado Rockies",
+    "link": "https://www.mlb.com/gameday/823948"
+  },
+  {
+    "key": "dodger stadium|05/26/2026|vs. colorado rockies",
+    "venue": "Dodger Stadium",
+    "day": "Tuesday",
+    "date": "05/26/2026",
+    "time": "7:10 PM",
+    "name": "vs. Colorado Rockies",
+    "link": "https://www.mlb.com/gameday/823949"
+  },
+  {
+    "key": "dodger stadium|05/27/2026|vs. colorado rockies",
+    "venue": "Dodger Stadium",
+    "day": "Wednesday",
+    "date": "05/27/2026",
+    "time": "7:10 PM",
+    "name": "vs. Colorado Rockies",
+    "link": "https://www.mlb.com/gameday/823947"
+  },
+  {
+    "key": "dodger stadium|05/29/2026|vs. philadelphia phillies",
+    "venue": "Dodger Stadium",
+    "day": "Friday",
+    "date": "05/29/2026",
+    "time": "7:15 PM",
+    "name": "vs. Philadelphia Phillies",
+    "link": "https://www.mlb.com/gameday/823946"
+  },
+  {
+    "key": "dodger stadium|05/30/2026|vs. philadelphia phillies",
+    "venue": "Dodger Stadium",
+    "day": "Saturday",
+    "date": "05/30/2026",
+    "time": "7:10 PM",
+    "name": "vs. Philadelphia Phillies",
+    "link": "https://www.mlb.com/gameday/823945"
+  },
+  {
+    "key": "dodger stadium|05/31/2026|vs. philadelphia phillies",
+    "venue": "Dodger Stadium",
+    "day": "Sunday",
+    "date": "05/31/2026",
+    "time": "1:10 PM",
+    "name": "vs. Philadelphia Phillies",
+    "link": "https://www.mlb.com/gameday/823944"
+  },
+  {
+    "key": "dodger stadium|06/05/2026|vs. los angeles angels",
+    "venue": "Dodger Stadium",
+    "day": "Friday",
+    "date": "06/05/2026",
+    "time": "7:10 PM",
+    "name": "vs. Los Angeles Angels",
+    "link": "https://www.mlb.com/gameday/823943"
+  },
+  {
+    "key": "dodger stadium|06/06/2026|vs. los angeles angels",
+    "venue": "Dodger Stadium",
+    "day": "Saturday",
+    "date": "06/06/2026",
+    "time": "7:10 PM",
+    "name": "vs. Los Angeles Angels",
+    "link": "https://www.mlb.com/gameday/823942"
+  },
+  {
+    "key": "dodger stadium|06/07/2026|vs. los angeles angels",
+    "venue": "Dodger Stadium",
+    "day": "Sunday",
+    "date": "06/07/2026",
+    "time": "1:10 PM",
+    "name": "vs. Los Angeles Angels",
+    "link": "https://www.mlb.com/gameday/823941"
+  },
+  {
+    "key": "dodger stadium|06/15/2026|vs. tampa bay rays",
+    "venue": "Dodger Stadium",
+    "day": "Monday",
+    "date": "06/15/2026",
+    "time": "7:10 PM",
+    "name": "vs. Tampa Bay Rays",
+    "link": "https://www.mlb.com/gameday/823938"
+  },
+  {
+    "key": "dodger stadium|06/16/2026|vs. tampa bay rays",
+    "venue": "Dodger Stadium",
+    "day": "Tuesday",
+    "date": "06/16/2026",
+    "time": "7:10 PM",
+    "name": "vs. Tampa Bay Rays",
+    "link": "https://www.mlb.com/gameday/823939"
+  },
+  {
+    "key": "dodger stadium|06/17/2026|vs. tampa bay rays",
+    "venue": "Dodger Stadium",
+    "day": "Wednesday",
+    "date": "06/17/2026",
+    "time": "12:10 PM",
+    "name": "vs. Tampa Bay Rays",
+    "link": "https://www.mlb.com/gameday/823940"
+  },
+  {
+    "key": "dodger stadium|06/19/2026|vs. baltimore orioles",
+    "venue": "Dodger Stadium",
+    "day": "Friday",
+    "date": "06/19/2026",
+    "time": "7:10 PM",
+    "name": "vs. Baltimore Orioles",
+    "link": "https://www.mlb.com/gameday/823936"
+  },
+  {
+    "key": "dodger stadium|06/20/2026|vs. baltimore orioles",
+    "venue": "Dodger Stadium",
+    "day": "Saturday",
+    "date": "06/20/2026",
+    "time": "7:10 PM",
+    "name": "vs. Baltimore Orioles",
+    "link": "https://www.mlb.com/gameday/823937"
+  },
+  {
+    "key": "dodger stadium|06/21/2026|vs. baltimore orioles",
+    "venue": "Dodger Stadium",
+    "day": "Sunday",
+    "date": "06/21/2026",
+    "time": "1:10 PM",
+    "name": "vs. Baltimore Orioles",
+    "link": "https://www.mlb.com/gameday/823934"
+  },
+  {
+    "key": "dodger stadium|07/02/2026|vs. san diego padres",
+    "venue": "Dodger Stadium",
+    "day": "Thursday",
+    "date": "07/02/2026",
+    "time": "7:10 PM",
+    "name": "vs. San Diego Padres",
+    "link": "https://www.mlb.com/gameday/823935"
+  },
+  {
+    "key": "dodger stadium|07/03/2026|vs. san diego padres",
+    "venue": "Dodger Stadium",
+    "day": "Friday",
+    "date": "07/03/2026",
+    "time": "7:10 PM",
+    "name": "vs. San Diego Padres",
+    "link": "https://www.mlb.com/gameday/823933"
+  },
+  {
+    "key": "dodger stadium|07/04/2026|vs. san diego padres",
+    "venue": "Dodger Stadium",
+    "day": "Saturday",
+    "date": "07/04/2026",
+    "time": "7:10 PM",
+    "name": "vs. San Diego Padres",
+    "link": "https://www.mlb.com/gameday/823932"
+  },
+  {
+    "key": "dodger stadium|07/05/2026|vs. san diego padres",
+    "venue": "Dodger Stadium",
+    "day": "Sunday",
+    "date": "07/05/2026",
+    "time": "4:20 PM",
+    "name": "vs. San Diego Padres",
+    "link": "https://www.mlb.com/gameday/823931"
+  },
+  {
+    "key": "dodger stadium|07/06/2026|vs. colorado rockies",
+    "venue": "Dodger Stadium",
+    "day": "Monday",
+    "date": "07/06/2026",
+    "time": "7:10 PM",
+    "name": "vs. Colorado Rockies",
+    "link": "https://www.mlb.com/gameday/823930"
+  },
+  {
+    "key": "dodger stadium|07/07/2026|vs. colorado rockies",
+    "venue": "Dodger Stadium",
+    "day": "Tuesday",
+    "date": "07/07/2026",
+    "time": "7:10 PM",
+    "name": "vs. Colorado Rockies",
+    "link": "https://www.mlb.com/gameday/823929"
+  },
+  {
+    "key": "dodger stadium|07/08/2026|vs. colorado rockies",
+    "venue": "Dodger Stadium",
+    "day": "Wednesday",
+    "date": "07/08/2026",
+    "time": "7:10 PM",
+    "name": "vs. Colorado Rockies",
+    "link": "https://www.mlb.com/gameday/823928"
+  },
+  {
+    "key": "dodger stadium|07/10/2026|vs. arizona diamondbacks",
+    "venue": "Dodger Stadium",
+    "day": "Friday",
+    "date": "07/10/2026",
+    "time": "7:10 PM",
+    "name": "vs. Arizona Diamondbacks",
+    "link": "https://www.mlb.com/gameday/823927"
+  },
+  {
+    "key": "dodger stadium|07/11/2026|vs. arizona diamondbacks",
+    "venue": "Dodger Stadium",
+    "day": "Saturday",
+    "date": "07/11/2026",
+    "time": "6:10 PM",
+    "name": "vs. Arizona Diamondbacks",
+    "link": "https://www.mlb.com/gameday/823926"
+  },
+  {
+    "key": "dodger stadium|07/12/2026|vs. arizona diamondbacks",
+    "venue": "Dodger Stadium",
+    "day": "Sunday",
+    "date": "07/12/2026",
+    "time": "1:10 PM",
+    "name": "vs. Arizona Diamondbacks",
+    "link": "https://www.mlb.com/gameday/823925"
+  },
+  {
+    "key": "dodger stadium|07/28/2026|vs. seattle mariners",
+    "venue": "Dodger Stadium",
+    "day": "Tuesday",
+    "date": "07/28/2026",
+    "time": "7:10 PM",
+    "name": "vs. Seattle Mariners",
+    "link": "https://www.mlb.com/gameday/823923"
+  },
+  {
+    "key": "dodger stadium|07/29/2026|vs. seattle mariners",
+    "venue": "Dodger Stadium",
+    "day": "Wednesday",
+    "date": "07/29/2026",
+    "time": "7:10 PM",
+    "name": "vs. Seattle Mariners",
+    "link": "https://www.mlb.com/gameday/823924"
+  },
+  {
+    "key": "dodger stadium|07/30/2026|vs. seattle mariners",
+    "venue": "Dodger Stadium",
+    "day": "Thursday",
+    "date": "07/30/2026",
+    "time": "7:10 PM",
+    "name": "vs. Seattle Mariners",
+    "link": "https://www.mlb.com/gameday/823921"
+  },
+  {
+    "key": "dodger stadium|07/31/2026|vs. boston red sox",
+    "venue": "Dodger Stadium",
+    "day": "Friday",
+    "date": "07/31/2026",
+    "time": "7:10 PM",
+    "name": "vs. Boston Red Sox",
+    "link": "https://www.mlb.com/gameday/823922"
+  },
+  {
+    "key": "dodger stadium|08/01/2026|vs. boston red sox",
+    "venue": "Dodger Stadium",
+    "day": "Saturday",
+    "date": "08/01/2026",
+    "time": "6:10 PM",
+    "name": "vs. Boston Red Sox",
+    "link": "https://www.mlb.com/gameday/823920"
+  },
+  {
+    "key": "dodger stadium|08/02/2026|vs. boston red sox",
+    "venue": "Dodger Stadium",
+    "day": "Sunday",
+    "date": "08/02/2026",
+    "time": "4:20 PM",
+    "name": "vs. Boston Red Sox",
+    "link": "https://www.mlb.com/gameday/823919"
+  },
+  {
+    "key": "dodger stadium|08/10/2026|vs. kansas city royals",
+    "venue": "Dodger Stadium",
+    "day": "Monday",
+    "date": "08/10/2026",
+    "time": "7:10 PM",
+    "name": "vs. Kansas City Royals",
+    "link": "https://www.mlb.com/gameday/823918"
+  },
+  {
+    "key": "dodger stadium|08/11/2026|vs. kansas city royals",
+    "venue": "Dodger Stadium",
+    "day": "Tuesday",
+    "date": "08/11/2026",
+    "time": "7:10 PM",
+    "name": "vs. Kansas City Royals",
+    "link": "https://www.mlb.com/gameday/823917"
+  },
+  {
+    "key": "dodger stadium|08/12/2026|vs. kansas city royals",
+    "venue": "Dodger Stadium",
+    "day": "Wednesday",
+    "date": "08/12/2026",
+    "time": "7:10 PM",
+    "name": "vs. Kansas City Royals",
+    "link": "https://www.mlb.com/gameday/823916"
+  },
+  {
+    "key": "dodger stadium|08/13/2026|vs. milwaukee brewers",
+    "venue": "Dodger Stadium",
+    "day": "Thursday",
+    "date": "08/13/2026",
+    "time": "7:10 PM",
+    "name": "vs. Milwaukee Brewers",
+    "link": "https://www.mlb.com/gameday/823915"
+  },
+  {
+    "key": "dodger stadium|08/14/2026|vs. milwaukee brewers",
+    "venue": "Dodger Stadium",
+    "day": "Friday",
+    "date": "08/14/2026",
+    "time": "7:10 PM",
+    "name": "vs. Milwaukee Brewers",
+    "link": "https://www.mlb.com/gameday/823913"
+  },
+  {
+    "key": "dodger stadium|08/15/2026|vs. milwaukee brewers",
+    "venue": "Dodger Stadium",
+    "day": "Saturday",
+    "date": "08/15/2026",
+    "time": "4:15 PM",
+    "name": "vs. Milwaukee Brewers",
+    "link": "https://www.mlb.com/gameday/823914"
+  },
+  {
+    "key": "dodger stadium|08/16/2026|vs. milwaukee brewers",
+    "venue": "Dodger Stadium",
+    "day": "Sunday",
+    "date": "08/16/2026",
+    "time": "1:10 PM",
+    "name": "vs. Milwaukee Brewers",
+    "link": "https://www.mlb.com/gameday/823912"
+  },
+  {
+    "key": "dodger stadium|08/21/2026|vs. pittsburgh pirates",
+    "venue": "Dodger Stadium",
+    "day": "Friday",
+    "date": "08/21/2026",
+    "time": "7:10 PM",
+    "name": "vs. Pittsburgh Pirates",
+    "link": "https://www.mlb.com/gameday/823911"
+  },
+  {
+    "key": "dodger stadium|08/22/2026|vs. pittsburgh pirates",
+    "venue": "Dodger Stadium",
+    "day": "Saturday",
+    "date": "08/22/2026",
+    "time": "6:10 PM",
+    "name": "vs. Pittsburgh Pirates",
+    "link": "https://www.mlb.com/gameday/823910"
+  },
+  {
+    "key": "dodger stadium|08/23/2026|vs. pittsburgh pirates",
+    "venue": "Dodger Stadium",
+    "day": "Sunday",
+    "date": "08/23/2026",
+    "time": "1:10 PM",
+    "name": "vs. Pittsburgh Pirates",
+    "link": "https://www.mlb.com/gameday/823909"
+  },
+  {
+    "key": "dodger stadium|09/01/2026|vs. st. louis cardinals",
+    "venue": "Dodger Stadium",
+    "day": "Tuesday",
+    "date": "09/01/2026",
+    "time": "7:10 PM",
+    "name": "vs. St. Louis Cardinals",
+    "link": "https://www.mlb.com/gameday/823908"
+  },
+  {
+    "key": "dodger stadium|09/02/2026|vs. st. louis cardinals",
+    "venue": "Dodger Stadium",
+    "day": "Wednesday",
+    "date": "09/02/2026",
+    "time": "7:10 PM",
+    "name": "vs. St. Louis Cardinals",
+    "link": "https://www.mlb.com/gameday/823906"
+  },
+  {
+    "key": "dodger stadium|09/03/2026|vs. st. louis cardinals",
+    "venue": "Dodger Stadium",
+    "day": "Thursday",
+    "date": "09/03/2026",
+    "time": "7:10 PM",
+    "name": "vs. St. Louis Cardinals",
+    "link": "https://www.mlb.com/gameday/823907"
+  },
+  {
+    "key": "dodger stadium|09/04/2026|vs. washington nationals",
+    "venue": "Dodger Stadium",
+    "day": "Friday",
+    "date": "09/04/2026",
+    "time": "7:10 PM",
+    "name": "vs. Washington Nationals",
+    "link": "https://www.mlb.com/gameday/823905"
+  },
+  {
+    "key": "dodger stadium|09/05/2026|vs. washington nationals",
+    "venue": "Dodger Stadium",
+    "day": "Saturday",
+    "date": "09/05/2026",
+    "time": "6:10 PM",
+    "name": "vs. Washington Nationals",
+    "link": "https://www.mlb.com/gameday/823904"
+  },
+  {
+    "key": "dodger stadium|09/06/2026|vs. washington nationals",
+    "venue": "Dodger Stadium",
+    "day": "Sunday",
+    "date": "09/06/2026",
+    "time": "7:10 PM",
+    "name": "vs. Washington Nationals",
+    "link": "https://www.mlb.com/gameday/823903"
+  },
+  {
+    "key": "dodger stadium|09/07/2026|vs. cincinnati reds",
+    "venue": "Dodger Stadium",
+    "day": "Monday",
+    "date": "09/07/2026",
+    "time": "6:10 PM",
+    "name": "vs. Cincinnati Reds",
+    "link": "https://www.mlb.com/gameday/823902"
+  },
+  {
+    "key": "dodger stadium|09/08/2026|vs. cincinnati reds",
+    "venue": "Dodger Stadium",
+    "day": "Tuesday",
+    "date": "09/08/2026",
+    "time": "7:10 PM",
+    "name": "vs. Cincinnati Reds",
+    "link": "https://www.mlb.com/gameday/823901"
+  },
+  {
+    "key": "dodger stadium|09/09/2026|vs. cincinnati reds",
+    "venue": "Dodger Stadium",
+    "day": "Wednesday",
+    "date": "09/09/2026",
+    "time": "7:10 PM",
+    "name": "vs. Cincinnati Reds",
+    "link": "https://www.mlb.com/gameday/823900"
+  },
+  {
+    "key": "dodger stadium|09/18/2026|vs. san francisco giants",
+    "venue": "Dodger Stadium",
+    "day": "Friday",
+    "date": "09/18/2026",
+    "time": "7:10 PM",
+    "name": "vs. San Francisco Giants",
+    "link": "https://www.mlb.com/gameday/823898"
+  },
+  {
+    "key": "dodger stadium|09/19/2026|vs. san francisco giants",
+    "venue": "Dodger Stadium",
+    "day": "Saturday",
+    "date": "09/19/2026",
+    "time": "6:10 PM",
+    "name": "vs. San Francisco Giants",
+    "link": "https://www.mlb.com/gameday/823899"
+  },
+  {
+    "key": "dodger stadium|09/20/2026|vs. san francisco giants",
+    "venue": "Dodger Stadium",
+    "day": "Sunday",
+    "date": "09/20/2026",
+    "time": "1:10 PM",
+    "name": "vs. San Francisco Giants",
+    "link": "https://www.mlb.com/gameday/823896"
+  },
+  {
+    "key": "dodger stadium|09/22/2026|vs. san diego padres",
+    "venue": "Dodger Stadium",
+    "day": "Tuesday",
+    "date": "09/22/2026",
+    "time": "7:10 PM",
+    "name": "vs. San Diego Padres",
+    "link": "https://www.mlb.com/gameday/823897"
+  },
+  {
+    "key": "dodger stadium|09/23/2026|vs. san diego padres",
+    "venue": "Dodger Stadium",
+    "day": "Wednesday",
+    "date": "09/23/2026",
+    "time": "7:10 PM",
+    "name": "vs. San Diego Padres",
+    "link": "https://www.mlb.com/gameday/823894"
+  },
+  {
+    "key": "dodger stadium|09/24/2026|vs. san diego padres",
+    "venue": "Dodger Stadium",
+    "day": "Thursday",
+    "date": "09/24/2026",
+    "time": "7:10 PM",
+    "name": "vs. San Diego Padres",
+    "link": "https://www.mlb.com/gameday/823895"
   }
 ]
