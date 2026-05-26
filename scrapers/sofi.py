@@ -23,7 +23,7 @@ from dateutil import parser as dateutil_parser
 from playwright.sync_api import sync_playwright
 
 from .base import BaseScraper, Event
-from ._util import absolute_url, dedup, sort_events
+from ._util import absolute_url, dedup
 
 EXCLUDE_KEYWORDS = [
     "book your flight",
@@ -125,7 +125,7 @@ class SofiScraper(BaseScraper):
             except Exception:
                 continue
 
-        return sort_events(dedup(events))
+        return dedup(events)
 
 
 def _parse(raw_date: str, raw_time: str) -> tuple[str, str, str]:
