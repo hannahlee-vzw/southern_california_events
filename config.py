@@ -49,4 +49,9 @@ VENUES: list[VenueConfig] = [
         url="https://www.laconventioncenter.com/events",
         scraper_module="scrapers.convention_center",
     ),
+    VenueConfig(
+        name="Dodger Stadium",
+        url="https://www.mlb.com/dodgers/schedule",
+        scraper_module="scrapers.dodgers",
+    ),
 ]
