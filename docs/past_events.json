@@ -1618,5 +1618,115 @@
     "name": "LA Art Show 2027",
     "link": "https://www.laconventioncenter.com/events/detail/la-art-show-2027",
     "archived_on": "2026-05-26"
+  },
+  {
+    "key": "intuit dome|01/12/2026|olivia rodrigo",
+    "venue": "Intuit Dome",
+    "day": "Monday",
+    "date": "01/12/2026",
+    "time": "7:00 PM",
+    "name": "Olivia Rodrigo",
+    "link": "https://www.intuitdome.com/events/event-schedule/3888?utm_source=IDwebsite&utm_medium=eventschedule&utm_campaign=IDevents26&utm_content=olivia_rodrigo_270112",
+    "archived_on": "2026-05-26"
+  },
+  {
+    "key": "intuit dome|01/13/2026|olivia rodrigo",
+    "venue": "Intuit Dome",
+    "day": "Tuesday",
+    "date": "01/13/2026",
+    "time": "7:00 PM",
+    "name": "Olivia Rodrigo",
+    "link": "https://www.intuitdome.com/events/event-schedule/3889?utm_source=IDwebsite&utm_medium=eventschedule&utm_campaign=IDevents26&utm_content=olivia_rodrigo_270113",
+    "archived_on": "2026-05-26"
+  },
+  {
+    "key": "intuit dome|01/16/2026|olivia rodrigo",
+    "venue": "Intuit Dome",
+    "day": "Friday",
+    "date": "01/16/2026",
+    "time": "7:00 PM",
+    "name": "Olivia Rodrigo",
+    "link": "https://www.intuitdome.com/events/event-schedule/3890?utm_source=IDwebsite&utm_medium=eventschedule&utm_campaign=IDevents26&utm_content=olivia_rodrigo_270116",
+    "archived_on": "2026-05-26"
+  },
+  {
+    "key": "intuit dome|01/17/2026|olivia rodrigo",
+    "venue": "Intuit Dome",
+    "day": "Saturday",
+    "date": "01/17/2026",
+    "time": "7:00 PM",
+    "name": "Olivia Rodrigo",
+    "link": "https://www.intuitdome.com/events/event-schedule/3891?utm_source=IDwebsite&utm_medium=eventschedule&utm_campaign=IDevents26&utm_content=olivia_rodrigo_270117",
+    "archived_on": "2026-05-26"
+  },
+  {
+    "key": "intuit dome|01/20/2026|olivia rodrigo",
+    "venue": "Intuit Dome",
+    "day": "Tuesday",
+    "date": "01/20/2026",
+    "time": "7:00 PM",
+    "name": "Olivia Rodrigo",
+    "link": "https://www.intuitdome.com/events/event-schedule/3913?utm_source=IDwebsite&utm_medium=eventschedule&utm_campaign=IDevents26&utm_content=olivia_rodrigo_270120",
+    "archived_on": "2026-05-26"
+  },
+  {
+    "key": "intuit dome|01/21/2026|olivia rodrigo",
+    "venue": "Intuit Dome",
+    "day": "Wednesday",
+    "date": "01/21/2026",
+    "time": "7:00 PM",
+    "name": "Olivia Rodrigo",
+    "link": "https://www.intuitdome.com/events/event-schedule/3914?utm_source=IDwebsite&utm_medium=eventschedule&utm_campaign=IDevents26&utm_content=olivia_rodrigo_270121",
+    "archived_on": "2026-05-26"
+  },
+  {
+    "key": "intuit dome|01/24/2026|olivia rodrigo",
+    "venue": "Intuit Dome",
+    "day": "Saturday",
+    "date": "01/24/2026",
+    "time": "7:00 PM",
+    "name": "Olivia Rodrigo",
+    "link": "https://www.intuitdome.com/events/event-schedule/3915?utm_source=IDwebsite&utm_medium=eventschedule&utm_campaign=IDevents26&utm_content=olivia_rodrigo_270124",
+    "archived_on": "2026-05-26"
+  },
+  {
+    "key": "intuit dome|01/25/2026|olivia rodrigo",
+    "venue": "Intuit Dome",
+    "day": "Sunday",
+    "date": "01/25/2026",
+    "time": "7:00 PM",
+    "name": "Olivia Rodrigo",
+    "link": "https://www.intuitdome.com/events/event-schedule/3916?utm_source=IDwebsite&utm_medium=eventschedule&utm_campaign=IDevents26&utm_content=olivia_rodrigo_270125",
+    "archived_on": "2026-05-26"
+  },
+  {
+    "key": "intuit dome|01/28/2026|olivia rodrigo",
+    "venue": "Intuit Dome",
+    "day": "Wednesday",
+    "date": "01/28/2026",
+    "time": "7:00 PM",
+    "name": "Olivia Rodrigo",
+    "link": "https://www.intuitdome.com/events/event-schedule/3917?utm_source=IDwebsite&utm_medium=eventschedule&utm_campaign=IDevents26&utm_content=olivia_rodrigo_270128",
+    "archived_on": "2026-05-26"
+  },
+  {
+    "key": "intuit dome|01/29/2026|olivia rodrigo",
+    "venue": "Intuit Dome",
+    "day": "Thursday",
+    "date": "01/29/2026",
+    "time": "7:00 PM",
+    "name": "Olivia Rodrigo",
+    "link": "https://www.intuitdome.com/events/event-schedule/3918?utm_source=IDwebsite&utm_medium=eventschedule&utm_campaign=IDevents26&utm_content=olivia_rodrigo_270129",
+    "archived_on": "2026-05-26"
+  },
+  {
+    "key": "intuit dome|02/26/2026|morat",
+    "venue": "Intuit Dome",
+    "day": "Thursday",
+    "date": "02/26/2026",
+    "time": "8:00 PM",
+    "name": "MORAT",
+    "link": "https://www.intuitdome.com/events/event-schedule/3967?utm_source=IDwebsite&utm_medium=eventschedule&utm_campaign=IDevents26&utm_content=morat_270226",
+    "archived_on": "2026-05-26"
   }
 ]

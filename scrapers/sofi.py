@@ -54,13 +54,21 @@ class SofiScraper(BaseScraper):
                 browser.close()
                 return events
 
-            # Click "Load More" until the button disappears
+            # Click "Load More" until the button disappears or no new events load
             while True:
                 btn = page.query_selector(LOAD_MORE_SELECTOR)
                 if not btn or not btn.is_visible():
                     break
+                count_before = len(page.query_selector_all("div.eventItem.entry"))
+                btn.scroll_into_view_if_needed()
                 btn.click()
-                page.wait_for_load_state("networkidle", timeout=10_000)
+                try:
+                    page.wait_for_function(
+                        f"document.querySelectorAll('div.eventItem.entry').length > {count_before}",
+                        timeout=10_000,
+                    )
+                except Exception:
+                    break
 
             soup = BeautifulSoup(page.content(), "html.parser")
             browser.close()
