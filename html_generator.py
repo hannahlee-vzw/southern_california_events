@@ -99,7 +99,7 @@ def _past_event_rows(past_events: list[dict]) -> str:
     for ev in past_events:
         name_cell = f'<a href="{html.escape(ev["link"])}" target="_blank" rel="noopener">{html.escape(ev["name"])}</a>'
         rows.append(
-            f"<tr>"
+            f'<tr data-venue="{html.escape(ev["venue"])}">'
             f"<td>{html.escape(ev['venue'])}</td>"
             f"<td>{html.escape(ev['day'])}</td>"
             f"<td>{html.escape(ev['date'])}</td>"
@@ -210,7 +210,7 @@ def _build_html(results: list[VenueResult], past_events: list[dict] = []) -> str
   document.getElementById('past-venue-filter').addEventListener('change', function() {{
     var selected = this.value;
     document.querySelectorAll('#tbl-past-events tbody tr').forEach(function(row) {{
-      var venue = row.cells[0] ? row.cells[0].textContent : '';
+      var venue = row.getAttribute('data-venue') || '';
       row.style.display = (!selected || venue === selected) ? '' : 'none';
     }});
   }});
