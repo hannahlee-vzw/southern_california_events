@@ -107,6 +107,15 @@ class SofiScraper(BaseScraper):
 
                 raw_time = time_el.get_text(strip=True) if time_el else ""
 
+                # Fallback: some cards use plain div.date text like "Sun., Feb. 14, 2027 / Time TBA"
+                if not raw_date:
+                    date_el = card.select_one("div.date")
+                    if date_el:
+                        parts = date_el.get_text(strip=True).split("/", 1)
+                        raw_date = parts[0].strip()
+                        if not raw_time and len(parts) > 1:
+                            raw_time = parts[1].strip()
+
                 day_str, date_str, time_str = _parse(raw_date, raw_time)
 
                 href = link_el.get("href", "") if link_el else ""
