@@ -207,6 +207,195 @@
     "link": "https://www.sofistadium.com/events/detail/chris-brown-usher-september-25"
   },
   {
+    "key": "sofi stadium|09/26/2026|the r&b tour - starring usher raymond & chris brown",
+    "venue": "SoFi Stadium",
+    "day": "Saturday",
+    "date": "09/26/2026",
+    "time": "7:00 PM",
+    "name": "The R&B Tour - Starring Usher Raymond & Chris Brown",
+    "link": "https://www.sofistadium.com/events/detail/chris-brown-usher-september-26"
+  },
+  {
+    "key": "sofi stadium|09/30/2026|bruno mars – the romantic tour with anderson.paak as dj pee.wee",
+    "venue": "SoFi Stadium",
+    "day": "Wednesday",
+    "date": "09/30/2026",
+    "time": "7:00 PM",
+    "name": "Bruno Mars – The Romantic Tour with Anderson.Paak as DJ Pee.Wee",
+    "link": "https://www.sofistadium.com/events/detail/bruno-mars-september-30"
+  },
+  {
+    "key": "sofi stadium|10/02/2026|bruno mars – the romantic tour with anderson.paak as dj pee.wee and raye",
+    "venue": "SoFi Stadium",
+    "day": "Friday",
+    "date": "10/02/2026",
+    "time": "7:00 PM",
+    "name": "Bruno Mars – The Romantic Tour with Anderson.Paak as DJ Pee.Wee and Raye",
+    "link": "https://www.sofistadium.com/events/detail/bruno-mars-october-2"
+  },
+  {
+    "key": "sofi stadium|10/03/2026|bruno mars – the romantic tour with anderson.paak as dj pee.wee and raye",
+    "venue": "SoFi Stadium",
+    "day": "Saturday",
+    "date": "10/03/2026",
+    "time": "7:00 PM",
+    "name": "Bruno Mars – The Romantic Tour with Anderson.Paak as DJ Pee.Wee and Raye",
+    "link": "https://www.sofistadium.com/events/detail/bruno-mars-october-3"
+  },
+  {
+    "key": "sofi stadium|10/06/2026|bruno mars – the romantic tour with anderson.paak as dj pee.wee and raye",
+    "venue": "SoFi Stadium",
+    "day": "Tuesday",
+    "date": "10/06/2026",
+    "time": "7:00 PM",
+    "name": "Bruno Mars – The Romantic Tour with Anderson.Paak as DJ Pee.Wee and Raye",
+    "link": "https://www.sofistadium.com/events/detail/bruno-mars-october-6"
+  },
+  {
+    "key": "sofi stadium|10/07/2026|bruno mars – the romantic tour with anderson.paak as dj pee.wee and raye",
+    "venue": "SoFi Stadium",
+    "day": "Wednesday",
+    "date": "10/07/2026",
+    "time": "7:00 PM",
+    "name": "Bruno Mars – The Romantic Tour with Anderson.Paak as DJ Pee.Wee and Raye",
+    "link": "https://www.sofistadium.com/events/detail/bruno-mars-october-7"
+  },
+  {
+    "key": "sofi stadium|10/11/2026|chargers vs. broncos – week 5",
+    "venue": "SoFi Stadium",
+    "day": "Sunday",
+    "date": "10/11/2026",
+    "time": "1:05 PM",
+    "name": "Chargers vs. Broncos – Week 5",
+    "link": "https://www.sofistadium.com/events/detail/chargers-broncos-2026"
+  },
+  {
+    "key": "sofi stadium|10/12/2026|rams vs. bills – week 5",
+    "venue": "SoFi Stadium",
+    "day": "Monday",
+    "date": "10/12/2026",
+    "time": "5:15 PM",
+    "name": "Rams vs. Bills – Week 5",
+    "link": "https://www.sofistadium.com/events/detail/rams-bills-2026"
+  },
+  {
+    "key": "sofi stadium|10/18/2026|rams vs. cardinals – week 6",
+    "venue": "SoFi Stadium",
+    "day": "Sunday",
+    "date": "10/18/2026",
+    "time": "1:05 PM",
+    "name": "Rams vs. Cardinals – Week 6",
+    "link": "https://www.sofistadium.com/events/detail/rams-cardinals-2026"
+  },
+  {
+    "key": "sofi stadium|11/01/2026|rams vs. chargers – week 8",
+    "venue": "SoFi Stadium",
+    "day": "Sunday",
+    "date": "11/01/2026",
+    "time": "1:05 PM",
+    "name": "Rams vs. Chargers – Week 8",
+    "link": "https://www.sofistadium.com/events/detail/rams-chargers-2026"
+  },
+  {
+    "key": "sofi stadium|11/08/2026|chargers vs. texans – week 9",
+    "venue": "SoFi Stadium",
+    "day": "Sunday",
+    "date": "11/08/2026",
+    "time": "1:05 PM",
+    "name": "Chargers vs. Texans – Week 9",
+    "link": "https://www.sofistadium.com/events/detail/chargers-texans-2026"
+  },
+  {
+    "key": "sofi stadium|11/15/2026|the r&b tour - starring usher raymond & chris brown",
+    "venue": "SoFi Stadium",
+    "day": "Sunday",
+    "date": "11/15/2026",
+    "time": "7:00 PM",
+    "name": "The R&B Tour - Starring Usher Raymond & Chris Brown",
+    "link": "https://www.sofistadium.com/events/detail/chris-brown-usher-november-15"
+  },
+  {
+    "key": "sofi stadium|11/22/2026|chargers vs. jets – week 11",
+    "venue": "SoFi Stadium",
+    "day": "Sunday",
+    "date": "11/22/2026",
+    "time": "1:05 PM",
+    "name": "Chargers vs. Jets – Week 11",
+    "link": "https://www.sofistadium.com/events/detail/chargers-jets-2026"
+  },
+  {
+    "key": "sofi stadium|11/25/2026|rams vs. packers – week 12",
+    "venue": "SoFi Stadium",
+    "day": "Wednesday",
+    "date": "11/25/2026",
+    "time": "5:00 PM",
+    "name": "Rams vs. Packers – Week 12",
+    "link": "https://www.sofistadium.com/events/detail/rams-packers-2026"
+  },
+  {
+    "key": "sofi stadium|11/29/2026|chargers vs. patriots – week 12",
+    "venue": "SoFi Stadium",
+    "day": "Sunday",
+    "date": "11/29/2026",
+    "time": "5:20 PM",
+    "name": "Chargers vs. Patriots – Week 12",
+    "link": "https://www.sofistadium.com/events/detail/chargers-patriots-2026"
+  },
+  {
+    "key": "sofi stadium|12/03/2026|rams vs. chiefs – week 13",
+    "venue": "SoFi Stadium",
+    "day": "Thursday",
+    "date": "12/03/2026",
+    "time": "5:15 PM",
+    "name": "Rams vs. Chiefs – Week 13",
+    "link": "https://www.sofistadium.com/events/detail/rams-chiefs-2026"
+  },
+  {
+    "key": "sofi stadium|12/17/2026|chargers vs. 49ers – week 15",
+    "venue": "SoFi Stadium",
+    "day": "Thursday",
+    "date": "12/17/2026",
+    "time": "5:15 PM",
+    "name": "Chargers vs. 49ers – Week 15",
+    "link": "https://www.sofistadium.com/events/detail/chargers-49ers-2026"
+  },
+  {
+    "key": "sofi stadium|12/20/2026|rams vs. cowboys – week 15",
+    "venue": "SoFi Stadium",
+    "day": "Sunday",
+    "date": "12/20/2026",
+    "time": "1:25 PM",
+    "name": "Rams vs. Cowboys – Week 15",
+    "link": "https://www.sofistadium.com/events/detail/rams-cowboys-2026"
+  },
+  {
+    "key": "sofi stadium|UNKNOWN|chargers vs. chiefs – week 17",
+    "venue": "SoFi Stadium",
+    "day": "UNKNOWN",
+    "date": "UNKNOWN",
+    "time": "TBA",
+    "name": "Chargers vs. Chiefs – Week 17",
+    "link": "https://www.sofistadium.com/events/detail/chargers-chiefs-2026"
+  },
+  {
+    "key": "sofi stadium|UNKNOWN|rams vs. seahawks – week 18",
+    "venue": "SoFi Stadium",
+    "day": "UNKNOWN",
+    "date": "UNKNOWN",
+    "time": "TBA",
+    "name": "Rams vs. Seahawks – Week 18",
+    "link": "https://www.sofistadium.com/events/detail/rams-seahawks-2027"
+  },
+  {
+    "key": "sofi stadium|UNKNOWN|super bowl lxi",
+    "venue": "SoFi Stadium",
+    "day": "UNKNOWN",
+    "date": "UNKNOWN",
+    "time": "TBA",
+    "name": "Super Bowl LXI",
+    "link": "https://www.sofistadium.com/events/detail/super-bowl-lxi"
+  },
+  {
     "key": "intuit dome|01/12/2026|olivia rodrigo",
     "venue": "Intuit Dome",
     "day": "Monday",
