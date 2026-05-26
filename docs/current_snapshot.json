@@ -369,19 +369,19 @@
     "link": "https://www.sofistadium.com/events/detail/rams-cowboys-2026"
   },
   {
-    "key": "sofi stadium|UNKNOWN|chargers vs. chiefs – week 17",
+    "key": "sofi stadium|TBA|chargers vs. chiefs – week 17",
     "venue": "SoFi Stadium",
-    "day": "UNKNOWN",
-    "date": "UNKNOWN",
+    "day": "TBA",
+    "date": "TBA",
     "time": "TBA",
     "name": "Chargers vs. Chiefs – Week 17",
     "link": "https://www.sofistadium.com/events/detail/chargers-chiefs-2026"
   },
   {
-    "key": "sofi stadium|UNKNOWN|rams vs. seahawks – week 18",
+    "key": "sofi stadium|TBA|rams vs. seahawks – week 18",
     "venue": "SoFi Stadium",
-    "day": "UNKNOWN",
-    "date": "UNKNOWN",
+    "day": "TBA",
+    "date": "TBA",
     "time": "TBA",
     "name": "Rams vs. Seahawks – Week 18",
     "link": "https://www.sofistadium.com/events/detail/rams-seahawks-2027"
@@ -1494,24 +1494,6 @@
     "link": "https://www.rosebowlstadium.com/events/details/626/rose-bowl-half-marathon-and-5k"
   },
   {
-    "key": "crypto.com arena|06/02/2026|los angeles sparks vs las vegas aces – commissioner's cup",
-    "venue": "Crypto.com Arena",
-    "day": "Tuesday",
-    "date": "06/02/2026",
-    "time": "7:00 PM",
-    "name": "Los Angeles Sparks vs Las Vegas Aces – Commissioner's Cup",
-    "link": "https://www.cryptoarena.com/events/detail/sparksaces060226"
-  },
-  {
-    "key": "crypto.com arena|06/05/2026|los angeles sparks vs dallas wings – commissioner's cup",
-    "venue": "Crypto.com Arena",
-    "day": "Friday",
-    "date": "06/05/2026",
-    "time": "7:00 PM",
-    "name": "Los Angeles Sparks vs Dallas Wings – Commissioner's Cup",
-    "link": "https://www.cryptoarena.com/events/detail/sparkswings060526"
-  },
-  {
     "key": "l.a. memorial coliseum|06/11/2026|fifa fan festival™ los angeles",
     "venue": "L.A. Memorial Coliseum",
     "day": "Thursday",
@@ -1591,5 +1573,365 @@
     "time": "TBA",
     "name": "Maryland vs USC",
     "link": "https://www.lacoliseum.com/events/maryland-vs-usc-2026/"
+  },
+  {
+    "key": "la convention center|05/30/2026|society of nuclear medicine and molecular imaging annual meeting 2026",
+    "venue": "LA Convention Center",
+    "day": "Saturday",
+    "date": "05/30/2026",
+    "time": "TBA",
+    "name": "Society of Nuclear Medicine and Molecular Imaging Annual Meeting 2026",
+    "link": "https://www.laconventioncenter.com/events/detail/society-of-nuclear-medicine-and-molecular-imaging-annual-meeting-2026"
+  },
+  {
+    "key": "la convention center|06/06/2026|fitted x cod - los angeles",
+    "venue": "LA Convention Center",
+    "day": "Saturday",
+    "date": "06/06/2026",
+    "time": "TBA",
+    "name": "FITTED x COD - LOS ANGELES",
+    "link": "https://www.laconventioncenter.com/events/detail/fitted-cod-los-angeles"
+  },
+  {
+    "key": "la convention center|06/10/2026|aws summit los angeles 2026",
+    "venue": "LA Convention Center",
+    "day": "Wednesday",
+    "date": "06/10/2026",
+    "time": "TBA",
+    "name": "AWS Summit Los Angeles 2026",
+    "link": "https://www.laconventioncenter.com/events/detail/aws-summit-los-angeles-2026"
+  },
+  {
+    "key": "la convention center|06/13/2026|la card show",
+    "venue": "LA Convention Center",
+    "day": "Saturday",
+    "date": "06/13/2026",
+    "time": "TBA",
+    "name": "LA Card Show",
+    "link": "https://www.laconventioncenter.com/events/detail/la-card-show"
+  },
+  {
+    "key": "la convention center|06/13/2026|horrorcon los angeles",
+    "venue": "LA Convention Center",
+    "day": "Saturday",
+    "date": "06/13/2026",
+    "time": "TBA",
+    "name": "HorrorCon Los Angeles",
+    "link": "https://www.laconventioncenter.com/events/detail/horrorcon-los-angeles-2026"
+  },
+  {
+    "key": "la convention center|06/13/2026|coretcg x one piece regionals",
+    "venue": "LA Convention Center",
+    "day": "Saturday",
+    "date": "06/13/2026",
+    "time": "TBA",
+    "name": "CoreTCG x One Piece Regionals",
+    "link": "https://www.laconventioncenter.com/events/detail/coretcg-one-piece-regionals"
+  },
+  {
+    "key": "la convention center|06/13/2026|tonight's conversation: live & uncut los angeles",
+    "venue": "LA Convention Center",
+    "day": "Saturday",
+    "date": "06/13/2026",
+    "time": "TBA",
+    "name": "Tonight's Conversation: LIVE & UNCUT Los Angeles",
+    "link": "https://www.laconventioncenter.com/events/detail/tonights-conversation-live-uncut-los-angeles"
+  },
+  {
+    "key": "la convention center|06/19/2026|socal cup: the showcase",
+    "venue": "LA Convention Center",
+    "day": "Friday",
+    "date": "06/19/2026",
+    "time": "TBA",
+    "name": "SoCal Cup: The Showcase",
+    "link": "https://www.laconventioncenter.com/events/detail/socal-cup-the-showcase-1"
+  },
+  {
+    "key": "la convention center|07/02/2026|anime expo 2026",
+    "venue": "LA Convention Center",
+    "day": "Thursday",
+    "date": "07/02/2026",
+    "time": "TBA",
+    "name": "Anime Expo 2026",
+    "link": "https://www.laconventioncenter.com/events/detail/anime-expo-2026"
+  },
+  {
+    "key": "la convention center|07/11/2026|gothic market los angeles 2026",
+    "venue": "LA Convention Center",
+    "day": "Saturday",
+    "date": "07/11/2026",
+    "time": "TBA",
+    "name": "Gothic Market Los Angeles 2026",
+    "link": "https://www.laconventioncenter.com/events/detail/gothic-market-los-angeles-2026"
+  },
+  {
+    "key": "la convention center|07/11/2026|spocom los angeles 2026",
+    "venue": "LA Convention Center",
+    "day": "Saturday",
+    "date": "07/11/2026",
+    "time": "TBA",
+    "name": "SPOCOM Los Angeles 2026",
+    "link": "https://www.laconventioncenter.com/events/detail/spocom-los-angeles-2026"
+  },
+  {
+    "key": "la convention center|07/11/2026|los angeles summer international open ibjjf jiu-jitsu championship",
+    "venue": "LA Convention Center",
+    "day": "Saturday",
+    "date": "07/11/2026",
+    "time": "TBA",
+    "name": "Los Angeles Summer International Open IBJJF Jiu-Jitsu Championship",
+    "link": "https://www.laconventioncenter.com/events/detail/los-angeles-summer-international-open-ibjjf-jiu-jitsu-championship"
+  },
+  {
+    "key": "la convention center|08/01/2026|collect-a-con los angeles",
+    "venue": "LA Convention Center",
+    "day": "Saturday",
+    "date": "08/01/2026",
+    "time": "TBA",
+    "name": "Collect-A-Con Los Angeles",
+    "link": "https://www.laconventioncenter.com/events/detail/collect-a-con-los-angeles-august-2026"
+  },
+  {
+    "key": "la convention center|08/03/2026|nalc 74th biennial convention",
+    "venue": "LA Convention Center",
+    "day": "Monday",
+    "date": "08/03/2026",
+    "time": "TBA",
+    "name": "NALC 74th Biennial Convention",
+    "link": "https://www.laconventioncenter.com/events/detail/nalc-74th-biennial-convention"
+  },
+  {
+    "key": "la convention center|08/08/2026|el sembrador ministries - metanoia los angeles",
+    "venue": "LA Convention Center",
+    "day": "Saturday",
+    "date": "08/08/2026",
+    "time": "TBA",
+    "name": "El Sembrador Ministries - Metanoia Los Angeles",
+    "link": "https://www.laconventioncenter.com/events/detail/el-sembrador-ministries-metanoia-los-angeles"
+  },
+  {
+    "key": "la convention center|08/13/2026|kcon la 2026",
+    "venue": "LA Convention Center",
+    "day": "Thursday",
+    "date": "08/13/2026",
+    "time": "TBA",
+    "name": "KCON LA 2026",
+    "link": "https://www.laconventioncenter.com/events/detail/kcon-la-2026"
+  },
+  {
+    "key": "la convention center|08/15/2026|apwu biennial convention 2026",
+    "venue": "LA Convention Center",
+    "day": "Saturday",
+    "date": "08/15/2026",
+    "time": "TBA",
+    "name": "APWU Biennial Convention 2026",
+    "link": "https://www.laconventioncenter.com/events/detail/apwu-biennial-convention-2026"
+  },
+  {
+    "key": "la convention center|08/22/2026|smith chason college los angeles campus graduation 2026",
+    "venue": "LA Convention Center",
+    "day": "Saturday",
+    "date": "08/22/2026",
+    "time": "TBA",
+    "name": "Smith Chason College Los Angeles Campus Graduation 2026",
+    "link": "https://www.laconventioncenter.com/events/detail/smith-chason-college-los-angeles-campus-graduation-2026"
+  },
+  {
+    "key": "la convention center|09/16/2026|asla 2026 conference on landscape architecture",
+    "venue": "LA Convention Center",
+    "day": "Wednesday",
+    "date": "09/16/2026",
+    "time": "TBA",
+    "name": "ASLA 2026 Conference on Landscape Architecture",
+    "link": "https://www.laconventioncenter.com/events/detail/asla-2026-conference-on-landscape-architecture"
+  },
+  {
+    "key": "la convention center|09/19/2026|got sole los angeles",
+    "venue": "LA Convention Center",
+    "day": "Saturday",
+    "date": "09/19/2026",
+    "time": "TBA",
+    "name": "Got Sole Los Angeles",
+    "link": "https://www.laconventioncenter.com/events/detail/got-sole-los-angeles"
+  },
+  {
+    "key": "la convention center|09/20/2026|california bridal & wedding expo",
+    "venue": "LA Convention Center",
+    "day": "Sunday",
+    "date": "09/20/2026",
+    "time": "TBA",
+    "name": "California Bridal & Wedding Expo",
+    "link": "https://www.laconventioncenter.com/events/detail/california-bridal-wedding-expo-15"
+  },
+  {
+    "key": "la convention center|09/20/2026|wekfest la 2026",
+    "venue": "LA Convention Center",
+    "day": "Sunday",
+    "date": "09/20/2026",
+    "time": "TBA",
+    "name": "Wekfest LA 2026",
+    "link": "https://www.laconventioncenter.com/events/detail/wekfest-la-2026"
+  },
+  {
+    "key": "la convention center|09/23/2026|national black mba annual conference & exposition",
+    "venue": "LA Convention Center",
+    "day": "Wednesday",
+    "date": "09/23/2026",
+    "time": "TBA",
+    "name": "National Black MBA Annual Conference & Exposition",
+    "link": "https://www.laconventioncenter.com/events/detail/national-black-mba-association-conference-exposition"
+  },
+  {
+    "key": "la convention center|09/25/2026|riftbound regional qualifier",
+    "venue": "LA Convention Center",
+    "day": "Friday",
+    "date": "09/25/2026",
+    "time": "TBA",
+    "name": "Riftbound Regional Qualifier",
+    "link": "https://www.laconventioncenter.com/events/detail/riftbound-regional-qualifier"
+  },
+  {
+    "key": "la convention center|10/07/2026|38th annual scanph conference",
+    "venue": "LA Convention Center",
+    "day": "Wednesday",
+    "date": "10/07/2026",
+    "time": "TBA",
+    "name": "38th Annual SCANPH Conference",
+    "link": "https://www.laconventioncenter.com/events/detail/38th-annual-scanph-conference"
+  },
+  {
+    "key": "la convention center|10/08/2026|net zero conference 2026",
+    "venue": "LA Convention Center",
+    "day": "Thursday",
+    "date": "10/08/2026",
+    "time": "TBA",
+    "name": "Net Zero Conference 2026",
+    "link": "https://www.laconventioncenter.com/events/detail/net-zero-conference-2026"
+  },
+  {
+    "key": "la convention center|10/09/2026|scg con los angeles 2026",
+    "venue": "LA Convention Center",
+    "day": "Friday",
+    "date": "10/09/2026",
+    "time": "TBA",
+    "name": "SCG CON Los Angeles 2026",
+    "link": "https://www.laconventioncenter.com/events/detail/scg-con-los-angeles-2026"
+  },
+  {
+    "key": "la convention center|10/17/2026|american academy of otolaryngology: 2026 aao oto expo",
+    "venue": "LA Convention Center",
+    "day": "Saturday",
+    "date": "10/17/2026",
+    "time": "TBA",
+    "name": "American Academy of Otolaryngology: 2026 AAO OTO EXPO",
+    "link": "https://www.laconventioncenter.com/events/detail/american-academy-of-otolaryngology-2026-aao-oto-expo"
+  },
+  {
+    "key": "la convention center|10/30/2026|l.a. comic con 2026",
+    "venue": "LA Convention Center",
+    "day": "Friday",
+    "date": "10/30/2026",
+    "time": "TBA",
+    "name": "L.A. Comic Con 2026",
+    "link": "https://www.laconventioncenter.com/events/detail/la-comic-con-2026"
+  },
+  {
+    "key": "la convention center|11/04/2026|build expo 2026",
+    "venue": "LA Convention Center",
+    "day": "Wednesday",
+    "date": "11/04/2026",
+    "time": "TBA",
+    "name": "Build Expo 2026",
+    "link": "https://www.laconventioncenter.com/events/detail/build-expo-2026"
+  },
+  {
+    "key": "la convention center|12/12/2026|spirit royale cheer | marquee championship los angeles",
+    "venue": "LA Convention Center",
+    "day": "Saturday",
+    "date": "12/12/2026",
+    "time": "TBA",
+    "name": "Spirit Royale Cheer | Marquee Championship Los Angeles",
+    "link": "https://www.laconventioncenter.com/events/detail/spirit-royale-cheer-marquee-los-angeles"
+  },
+  {
+    "key": "la convention center|12/18/2026|copa toque futsal festival",
+    "venue": "LA Convention Center",
+    "day": "Friday",
+    "date": "12/18/2026",
+    "time": "TBA",
+    "name": "Copa Toque Futsal Festival",
+    "link": "https://www.laconventioncenter.com/events/detail/copa-toque-festival-2026"
+  },
+  {
+    "key": "la convention center|12/19/2026|collect-a-con los angeles",
+    "venue": "LA Convention Center",
+    "day": "Saturday",
+    "date": "12/19/2026",
+    "time": "TBA",
+    "name": "Collect-A-Con Los Angeles",
+    "link": "https://www.laconventioncenter.com/events/detail/collect-a-con-los-angeles-december-2026"
+  },
+  {
+    "key": "la convention center|01/06/2027|la art show 2027",
+    "venue": "LA Convention Center",
+    "day": "Wednesday",
+    "date": "01/06/2027",
+    "time": "TBA",
+    "name": "LA Art Show 2027",
+    "link": "https://www.laconventioncenter.com/events/detail/la-art-show-2027"
+  },
+  {
+    "key": "la convention center|01/07/2027|modern language association annual convention 2027",
+    "venue": "LA Convention Center",
+    "day": "Thursday",
+    "date": "01/07/2027",
+    "time": "TBA",
+    "name": "Modern Language Association Annual Convention 2027",
+    "link": "https://www.laconventioncenter.com/events/detail/modern-language-association-annual-convention-2027"
+  },
+  {
+    "key": "la convention center|01/23/2027|the fit expo los angeles 2027",
+    "venue": "LA Convention Center",
+    "day": "Saturday",
+    "date": "01/23/2027",
+    "time": "TBA",
+    "name": "The Fit Expo Los Angeles 2027",
+    "link": "https://www.laconventioncenter.com/events/detail/the-fit-expo-los-angeles-2027"
+  },
+  {
+    "key": "la convention center|02/23/2027|makeup + luxe pack in los angeles 2027",
+    "venue": "LA Convention Center",
+    "day": "Tuesday",
+    "date": "02/23/2027",
+    "time": "TBA",
+    "name": "MakeUp + LUXE PACK in Los Angeles 2027",
+    "link": "https://www.laconventioncenter.com/events/detail/makeup-luxe-pack-in-los-angeles-2027"
+  },
+  {
+    "key": "la convention center|04/01/2027|star wars celebration 2027",
+    "venue": "LA Convention Center",
+    "day": "Thursday",
+    "date": "04/01/2027",
+    "time": "TBA",
+    "name": "Star Wars Celebration 2027",
+    "link": "https://www.laconventioncenter.com/events/detail/star-wars-celebration-2027"
+  },
+  {
+    "key": "la convention center|04/15/2027|acp internal medicine meeting 2027",
+    "venue": "LA Convention Center",
+    "day": "Thursday",
+    "date": "04/15/2027",
+    "time": "TBA",
+    "name": "ACP Internal Medicine Meeting 2027",
+    "link": "https://www.laconventioncenter.com/events/detail/acp-internal-medicine-meeting-2027"
+  },
+  {
+    "key": "la convention center|05/01/2027|american association of thoracic surgery annual meeting",
+    "venue": "LA Convention Center",
+    "day": "Saturday",
+    "date": "05/01/2027",
+    "time": "TBA",
+    "name": "American Association of Thoracic Surgery Annual Meeting",
+    "link": "https://www.laconventioncenter.com/events/detail/aats-annual-mtg-2027"
   }
 ]
