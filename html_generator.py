@@ -8,9 +8,9 @@ from config import VENUES
 DOCS_DIR = pathlib.Path("docs")
 
 
-def generate(results: list[VenueResult]) -> None:
+def generate(results: list[VenueResult], past_events: list[dict] | None = None) -> None:
     DOCS_DIR.mkdir(exist_ok=True)
-    page = _build_html(results)
+    page = _build_html(results, past_events or [])
     (DOCS_DIR / "index.html").write_text(page, encoding="utf-8")
     print(f"Generated docs/index.html  ({len(results)} venue tabs)")
 
@@ -92,11 +92,59 @@ def _tab_panes(results: list[VenueResult]) -> str:
     return "\n".join(panes)
 
 
-def _build_html(results: list[VenueResult]) -> str:
+def _past_event_rows(past_events: list[dict]) -> str:
+    if not past_events:
+        return '<tr><td colspan="5" class="text-center text-muted fst-italic">No archived events yet</td></tr>'
+    rows = []
+    for ev in past_events:
+        name_cell = f'<a href="{html.escape(ev["link"])}" target="_blank" rel="noopener">{html.escape(ev["name"])}</a>'
+        rows.append(
+            f"<tr>"
+            f"<td>{html.escape(ev['venue'])}</td>"
+            f"<td>{html.escape(ev['day'])}</td>"
+            f"<td>{html.escape(ev['date'])}</td>"
+            f"<td>{html.escape(ev['time'])}</td>"
+            f"<td>{name_cell}</td>"
+            f"</tr>"
+        )
+    return "\n".join(rows)
+
+
+def _build_html(results: list[VenueResult], past_events: list[dict] = []) -> str:
     timestamp = datetime.now().strftime("%A, %B %d, %Y at %I:%M %p")
     total = sum(len(vr.events) for vr in results)
     tab_nav = _tab_nav(results)
     tab_panes = _tab_panes(results)
+
+    past_rows = _past_event_rows(past_events)
+    past_count = len(past_events)
+    past_nav_item = (
+        f'<li class="nav-item" role="presentation">'
+        f'<button class="nav-link" id="tab-past-events" data-bs-toggle="tab" '
+        f'data-bs-target="#pane-past-events" type="button" role="tab" '
+        f'aria-controls="pane-past-events" aria-selected="false">'
+        f'Past Events <span class="badge bg-secondary">{past_count}</span>'
+        f'</button></li>'
+    )
+    past_pane = f"""
+        <div class="tab-pane fade" id="pane-past-events" role="tabpanel" aria-labelledby="tab-past-events">
+          <div class="mt-3 mb-2">
+            <span class="text-muted small">{past_count} archived event(s) across all venues, most recent first</span>
+          </div>
+          <div class="table-responsive">
+            <table class="table table-striped table-hover table-sm sortable" id="tbl-past-events">
+              <thead class="table-dark">
+                <tr>
+                  <th>Venue</th><th>Day</th><th>Date</th><th>Time</th><th>Event Name</th>
+                </tr>
+              </thead>
+              <tbody>
+                {past_rows}
+              </tbody>
+            </table>
+          </div>
+        </div>"""
+    archived_label = f' &middot; {past_count} archived' if past_count else ''
 
     return f"""<!DOCTYPE html>
 <html lang="en">
@@ -118,7 +166,7 @@ def _build_html(results: list[VenueResult]) -> str:
   <div class="d-flex justify-content-between align-items-start mb-3">
     <div>
       <h1 class="h3 mb-0">LA Venue Events</h1>
-      <p class="text-muted small mb-0">{total} total events across {len(results)} venues</p>
+      <p class="text-muted small mb-0">{total} total events across {len(results)} venues{archived_label}</p>
     </div>
     <a href="events.xlsx" download class="btn btn-outline-success btn-sm">
       &#8681; Download Excel
@@ -127,9 +175,11 @@ def _build_html(results: list[VenueResult]) -> str:
 
   <ul class="nav nav-tabs" id="venueTabs" role="tablist">
     {tab_nav}
+    {past_nav_item}
   </ul>
   <div class="tab-content" id="venueTabContent">
     {tab_panes}
+    {past_pane}
   </div>
 
   <footer class="mt-4 pt-3 border-top text-muted small">

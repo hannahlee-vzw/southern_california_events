@@ -2,6 +2,7 @@ import importlib
 import pathlib
 import sys
 
+import archive as _archive
 import config
 import exporter
 import html_generator
@@ -24,16 +25,24 @@ def main() -> int:
             results.append(VenueResult(venue_name=venue.name, events=[]))
 
     pathlib.Path("docs").mkdir(exist_ok=True)
+
+    try:
+        past_events = _archive.update_archive(results, pathlib.Path("docs"))
+        print(f"Archive: {len(past_events)} past events")
+    except Exception as exc:
+        print(f"WARNING — archive update failed: {exc}", file=sys.stderr)
+        past_events = []
+
     xlsx_path = pathlib.Path("docs/events.xlsx")
     try:
-        exporter.write(results, xlsx_path)
+        exporter.write(results, xlsx_path, past_events)
         print(f"\nWrote {xlsx_path}")
     except Exception as exc:
         print(f"ERROR writing Excel: {exc}", file=sys.stderr)
         return 1
 
     try:
-        html_generator.generate(results)
+        html_generator.generate(results, past_events)
     except Exception as exc:
         print(f"ERROR generating HTML: {exc}", file=sys.stderr)
         return 1
