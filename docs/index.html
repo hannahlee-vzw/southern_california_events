@@ -14,11 +14,18 @@
   </style>
 </head>
 <body>
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark px-3">
+  <span class="navbar-brand mb-0 h6">LA Monitors</span>
+  <div class="navbar-nav flex-row gap-2">
+    <a class="nav-link active fw-semibold" href="index.html">LA Events</a>
+    <a class="nav-link text-white-50" href="downdetector.html">DownDetector</a>
+  </div>
+</nav>
 <div class="container-fluid py-4">
   <div class="d-flex justify-content-between align-items-start mb-3">
     <div>
       <h1 class="h3 mb-0">LA Venue Events</h1>
-      <p class="text-muted small mb-0">273 total events across 9 venues &middot; 188 archived</p>
+      <p class="text-muted small mb-0">276 total events across 9 venues &middot; 190 archived</p>
     </div>
     <a href="events.xlsx" download class="btn btn-outline-success btn-sm">
       &#8681; Download Excel
@@ -28,14 +35,14 @@
   <ul class="nav nav-tabs" id="venueTabs" role="tablist">
     <li class="nav-item" role="presentation"><button class="nav-link active" id="tab-sofi-stadium" data-bs-toggle="tab" data-bs-target="#pane-sofi-stadium" type="button" role="tab" aria-controls="pane-sofi-stadium" aria-selected="true">SoFi Stadium <span class="badge bg-secondary">44</span></button></li>
 <li class="nav-item" role="presentation"><button class="nav-link" id="tab-intuit-dome" data-bs-toggle="tab" data-bs-target="#pane-intuit-dome" type="button" role="tab" aria-controls="pane-intuit-dome" aria-selected="false">Intuit Dome <span class="badge bg-secondary">33</span></button></li>
-<li class="nav-item" role="presentation"><button class="nav-link" id="tab-kia-forum" data-bs-toggle="tab" data-bs-target="#pane-kia-forum" type="button" role="tab" aria-controls="pane-kia-forum" aria-selected="false">Kia Forum <span class="badge bg-secondary">53</span></button></li>
+<li class="nav-item" role="presentation"><button class="nav-link" id="tab-kia-forum" data-bs-toggle="tab" data-bs-target="#pane-kia-forum" type="button" role="tab" aria-controls="pane-kia-forum" aria-selected="false">Kia Forum <span class="badge bg-secondary">57</span></button></li>
 <li class="nav-item" role="presentation"><button class="nav-link" id="tab-dignity-health-sports-park" data-bs-toggle="tab" data-bs-target="#pane-dignity-health-sports-park" type="button" role="tab" aria-controls="pane-dignity-health-sports-park" aria-selected="false">Dignity Health Sports Park <span class="badge bg-secondary">6</span></button></li>
 <li class="nav-item" role="presentation"><button class="nav-link" id="tab-rose-bowl-stadium" data-bs-toggle="tab" data-bs-target="#pane-rose-bowl-stadium" type="button" role="tab" aria-controls="pane-rose-bowl-stadium" aria-selected="false">Rose Bowl Stadium <span class="badge bg-secondary">30</span></button></li>
 <li class="nav-item" role="presentation"><button class="nav-link" id="tab-cryptocom-arena" data-bs-toggle="tab" data-bs-target="#pane-cryptocom-arena" type="button" role="tab" aria-controls="pane-cryptocom-arena" aria-selected="false">Crypto.com Arena <span class="badge bg-secondary">3</span></button></li>
 <li class="nav-item" role="presentation"><button class="nav-link" id="tab-la-memorial-coliseum" data-bs-toggle="tab" data-bs-target="#pane-la-memorial-coliseum" type="button" role="tab" aria-controls="pane-la-memorial-coliseum" aria-selected="false">L.A. Memorial Coliseum <span class="badge bg-secondary">9</span></button></li>
-<li class="nav-item" role="presentation"><button class="nav-link" id="tab-la-convention-center" data-bs-toggle="tab" data-bs-target="#pane-la-convention-center" type="button" role="tab" aria-controls="pane-la-convention-center" aria-selected="false">LA Convention Center <span class="badge bg-secondary">40</span></button></li>
-<li class="nav-item" role="presentation"><button class="nav-link" id="tab-dodger-stadium" data-bs-toggle="tab" data-bs-target="#pane-dodger-stadium" type="button" role="tab" aria-controls="pane-dodger-stadium" aria-selected="false">Dodger Stadium <span class="badge bg-secondary">55</span></button></li>
-    <li class="nav-item" role="presentation"><button class="nav-link" id="tab-past-events" data-bs-toggle="tab" data-bs-target="#pane-past-events" type="button" role="tab" aria-controls="pane-past-events" aria-selected="false">Past Events <span class="badge bg-secondary">188</span></button></li>
+<li class="nav-item" role="presentation"><button class="nav-link" id="tab-la-convention-center" data-bs-toggle="tab" data-bs-target="#pane-la-convention-center" type="button" role="tab" aria-controls="pane-la-convention-center" aria-selected="false">LA Convention Center <span class="badge bg-secondary">41</span></button></li>
+<li class="nav-item" role="presentation"><button class="nav-link" id="tab-dodger-stadium" data-bs-toggle="tab" data-bs-target="#pane-dodger-stadium" type="button" role="tab" aria-controls="pane-dodger-stadium" aria-selected="false">Dodger Stadium <span class="badge bg-secondary">53</span></button></li>
+    <li class="nav-item" role="presentation"><button class="nav-link" id="tab-past-events" data-bs-toggle="tab" data-bs-target="#pane-past-events" type="button" role="tab" aria-controls="pane-past-events" aria-selected="false">Past Events <span class="badge bg-secondary">190</span></button></li>
   </ul>
   <div class="tab-content" id="venueTabContent">
     
@@ -158,7 +165,7 @@
 
         <div class="tab-pane fade" id="pane-kia-forum" role="tabpanel" aria-labelledby="tab-kia-forum">
           <div class="d-flex justify-content-between align-items-center mt-3 mb-2">
-            <span class="text-muted small">53 event(s)</span>
+            <span class="text-muted small">57 event(s)</span>
             <a href="https://www.thekiaforum.com/events" target="_blank" rel="noopener" class="btn btn-sm btn-outline-secondary">
               View venue site &rarr;
             </a>
@@ -223,6 +230,10 @@
 <tr><td>Wednesday</td><td>11/18/2026</td><td>7:00 PM</td><td><a href="https://thekiaforum.com/event/teddy-swims/" target="_blank" rel="noopener">TEDDY SWIMS – The UGLY Tour</a></td></tr>
 <tr><td>Friday</td><td>12/04/2026</td><td>7:00 PM</td><td><a href="https://thekiaforum.com/event/the-neighbourhood-2/" target="_blank" rel="noopener">THE NEIGHBOURHOOD – THE WOURLD TOUR</a></td></tr>
 <tr><td>Saturday</td><td>12/05/2026</td><td>7:00 PM</td><td><a href="https://thekiaforum.com/event/the-neighbourhood-3/" target="_blank" rel="noopener">THE NEIGHBOURHOOD – THE WOURLD TOUR</a></td></tr>
+<tr><td>Monday</td><td>12/14/2026</td><td>7:00 PM</td><td><a href="https://thekiaforum.com/event/gracie-abrams-5/" target="_blank" rel="noopener">GRACIE ABRAMS – The Look at My Life Tour</a></td></tr>
+<tr><td>Friday</td><td>12/18/2026</td><td>7:00 PM</td><td><a href="https://thekiaforum.com/event/gracie-abrams-6/" target="_blank" rel="noopener">GRACIE ABRAMS – The Look at My Life Tour</a></td></tr>
+<tr><td>Saturday</td><td>12/19/2026</td><td>7:00 PM</td><td><a href="https://thekiaforum.com/event/gracie-abrams-4/" target="_blank" rel="noopener">GRACIE ABRAMS – The Look at My Life Tour</a></td></tr>
+<tr><td>Sunday</td><td>12/20/2026</td><td>7:00 PM</td><td><a href="https://thekiaforum.com/event/gracie-abrams-3/" target="_blank" rel="noopener">GRACIE ABRAMS – The Look at My Life Tour</a></td></tr>
 <tr><td>Saturday</td><td>05/22/2027</td><td>7:00 PM</td><td><a href="https://thekiaforum.com/event/niall-horan/" target="_blank" rel="noopener">NIALL HORAN – Dinner Party Live On Tour</a></td></tr>
               </tbody>
             </table>
@@ -283,9 +294,9 @@
 <tr><td>Saturday</td><td>08/15/2026</td><td>6:30 PM</td><td><a href="https://www.rosebowlstadium.com/events/details/633/noah-kahan-the-great-divide-tour" target="_blank" rel="noopener">NOAH KAHAN - THE GREAT DIVIDE TOUR</a></td></tr>
 <tr><td>Saturday</td><td>08/22/2026</td><td>TBD</td><td><a href="https://www.rosebowlstadium.com/events/details/640/just-like-heaven" target="_blank" rel="noopener">Just Like Heaven</a></td></tr>
 <tr><td>Saturday</td><td>09/05/2026</td><td>TBD</td><td><a href="https://www.rosebowlstadium.com/events/details/579/guns-n&#x27;-roses" target="_blank" rel="noopener">GUNS N’ ROSES</a></td></tr>
-<tr><td>Saturday</td><td>09/12/2026</td><td>TBD</td><td><a href="https://www.rosebowlstadium.com/events/details/594/san-diego-state-vs-ucla" target="_blank" rel="noopener">SAN DIEGO STATE VS UCLA</a></td></tr>
+<tr><td>Saturday</td><td>09/12/2026</td><td>4:15 PM</td><td><a href="https://www.rosebowlstadium.com/events/details/594/san-diego-state-vs-ucla" target="_blank" rel="noopener">SAN DIEGO STATE VS UCLA</a></td></tr>
 <tr><td>Sunday</td><td>09/13/2026</td><td>5:00 AM</td><td><a href="https://www.rosebowlstadium.com/events/details/604/rose-bowl-flea-market" target="_blank" rel="noopener">ROSE BOWL FLEA MARKET</a></td></tr>
-<tr><td>Saturday</td><td>09/19/2026</td><td>TBD</td><td><a href="https://www.rosebowlstadium.com/events/details/595/purdue-vs-ucla" target="_blank" rel="noopener">PURDUE VS UCLA</a></td></tr>
+<tr><td>Saturday</td><td>09/19/2026</td><td>8:00 PM</td><td><a href="https://www.rosebowlstadium.com/events/details/595/purdue-vs-ucla" target="_blank" rel="noopener">PURDUE VS UCLA</a></td></tr>
 <tr><td>Sunday</td><td>10/11/2026</td><td>5:00 AM</td><td><a href="https://www.rosebowlstadium.com/events/details/605/rose-bowl-flea-market" target="_blank" rel="noopener">ROSE BOWL FLEA MARKET</a></td></tr>
 <tr><td>Saturday</td><td>10/17/2026</td><td>TBD</td><td><a href="https://www.rosebowlstadium.com/events/details/627/wisconsin-vs-ucla" target="_blank" rel="noopener">WISCONSIN VS UCLA</a></td></tr>
 <tr><td>Saturday</td><td>10/24/2026</td><td>TBD</td><td><a href="https://www.rosebowlstadium.com/events/details/628/michigan-state-vs-ucla" target="_blank" rel="noopener">MICHIGAN STATE VS UCLA</a></td></tr>
@@ -359,7 +370,7 @@
 
         <div class="tab-pane fade" id="pane-la-convention-center" role="tabpanel" aria-labelledby="tab-la-convention-center">
           <div class="d-flex justify-content-between align-items-center mt-3 mb-2">
-            <span class="text-muted small">40 event(s)</span>
+            <span class="text-muted small">41 event(s)</span>
             <a href="https://www.laconventioncenter.com/events" target="_blank" rel="noopener" class="btn btn-sm btn-outline-secondary">
               View venue site &rarr;
             </a>
@@ -409,6 +420,7 @@
 <tr><td>Thursday</td><td>01/07/2027</td><td>TBA</td><td><a href="https://www.laconventioncenter.com/events/detail/modern-language-association-annual-convention-2027" target="_blank" rel="noopener">Modern Language Association Annual Convention 2027</a></td></tr>
 <tr><td>Saturday</td><td>01/23/2027</td><td>TBA</td><td><a href="https://www.laconventioncenter.com/events/detail/the-fit-expo-los-angeles-2027" target="_blank" rel="noopener">The Fit Expo Los Angeles 2027</a></td></tr>
 <tr><td>Tuesday</td><td>02/23/2027</td><td>TBA</td><td><a href="https://www.laconventioncenter.com/events/detail/makeup-luxe-pack-in-los-angeles-2027" target="_blank" rel="noopener">MakeUp + LUXE PACK in Los Angeles 2027</a></td></tr>
+<tr><td>Friday</td><td>02/26/2027</td><td>TBA</td><td><a href="https://www.laconventioncenter.com/events/detail/victory-gymnastics-victory-classic-1" target="_blank" rel="noopener">Victory Gymnastics - Victory Classic</a></td></tr>
 <tr><td>Thursday</td><td>04/01/2027</td><td>TBA</td><td><a href="https://www.laconventioncenter.com/events/detail/star-wars-celebration-2027" target="_blank" rel="noopener">Star Wars Celebration 2027</a></td></tr>
 <tr><td>Thursday</td><td>04/15/2027</td><td>TBA</td><td><a href="https://www.laconventioncenter.com/events/detail/acp-internal-medicine-meeting-2027" target="_blank" rel="noopener">ACP Internal Medicine Meeting 2027</a></td></tr>
 <tr><td>Saturday</td><td>05/01/2027</td><td>TBA</td><td><a href="https://www.laconventioncenter.com/events/detail/aats-annual-mtg-2027" target="_blank" rel="noopener">American Association of Thoracic Surgery Annual Meeting</a></td></tr>
@@ -419,7 +431,7 @@
 
         <div class="tab-pane fade" id="pane-dodger-stadium" role="tabpanel" aria-labelledby="tab-dodger-stadium">
           <div class="d-flex justify-content-between align-items-center mt-3 mb-2">
-            <span class="text-muted small">55 event(s)</span>
+            <span class="text-muted small">53 event(s)</span>
             <a href="https://www.mlb.com/dodgers/schedule" target="_blank" rel="noopener" class="btn btn-sm btn-outline-secondary">
               View venue site &rarr;
             </a>
@@ -432,9 +444,7 @@
                 </tr>
               </thead>
               <tbody>
-                <tr><td>Tuesday</td><td>05/26/2026</td><td>7:10 PM</td><td><a href="https://www.mlb.com/gameday/823949" target="_blank" rel="noopener">vs. Colorado Rockies</a></td></tr>
-<tr><td>Wednesday</td><td>05/27/2026</td><td>7:10 PM</td><td><a href="https://www.mlb.com/gameday/823947" target="_blank" rel="noopener">vs. Colorado Rockies</a></td></tr>
-<tr><td>Friday</td><td>05/29/2026</td><td>7:15 PM</td><td><a href="https://www.mlb.com/gameday/823946" target="_blank" rel="noopener">vs. Philadelphia Phillies</a></td></tr>
+                <tr><td>Friday</td><td>05/29/2026</td><td>7:15 PM</td><td><a href="https://www.mlb.com/gameday/823946" target="_blank" rel="noopener">vs. Philadelphia Phillies</a></td></tr>
 <tr><td>Saturday</td><td>05/30/2026</td><td>7:10 PM</td><td><a href="https://www.mlb.com/gameday/823945" target="_blank" rel="noopener">vs. Philadelphia Phillies</a></td></tr>
 <tr><td>Sunday</td><td>05/31/2026</td><td>1:10 PM</td><td><a href="https://www.mlb.com/gameday/823944" target="_blank" rel="noopener">vs. Philadelphia Phillies</a></td></tr>
 <tr><td>Friday</td><td>06/05/2026</td><td>7:10 PM</td><td><a href="https://www.mlb.com/gameday/823943" target="_blank" rel="noopener">vs. Los Angeles Angels</a></td></tr>
@@ -494,7 +504,7 @@
     
         <div class="tab-pane fade" id="pane-past-events" role="tabpanel" aria-labelledby="tab-past-events">
           <div class="d-flex justify-content-between align-items-center mt-3 mb-2">
-            <span class="text-muted small">188 archived event(s) across all venues, most recent first</span>
+            <span class="text-muted small">190 archived event(s) across all venues, most recent first</span>
             <div class="d-flex align-items-center gap-2">
               <label for="past-venue-filter" class="text-muted small mb-0">Filter by venue:</label>
               <select id="past-venue-filter" class="form-select form-select-sm" style="width:auto">
@@ -519,7 +529,9 @@
                 </tr>
               </thead>
               <tbody>
-                <tr data-venue="Dodger Stadium"><td>Dodger Stadium</td><td>Monday</td><td>05/25/2026</td><td>6:10 PM</td><td><a href="https://www.mlb.com/gameday/823948" target="_blank" rel="noopener">vs. Colorado Rockies</a></td></tr>
+                <tr data-venue="Dodger Stadium"><td>Dodger Stadium</td><td>Wednesday</td><td>05/27/2026</td><td>7:10 PM</td><td><a href="https://www.mlb.com/gameday/823947" target="_blank" rel="noopener">vs. Colorado Rockies</a></td></tr>
+<tr data-venue="Dodger Stadium"><td>Dodger Stadium</td><td>Tuesday</td><td>05/26/2026</td><td>7:10 PM</td><td><a href="https://www.mlb.com/gameday/823949" target="_blank" rel="noopener">vs. Colorado Rockies</a></td></tr>
+<tr data-venue="Dodger Stadium"><td>Dodger Stadium</td><td>Monday</td><td>05/25/2026</td><td>6:10 PM</td><td><a href="https://www.mlb.com/gameday/823948" target="_blank" rel="noopener">vs. Colorado Rockies</a></td></tr>
 <tr data-venue="Crypto.com Arena"><td>Crypto.com Arena</td><td>Thursday</td><td>05/21/2026</td><td>8:00PM</td><td><a href="https://www.cryptoarena.com/events/detail/romeosantosprinceroyce052126" target="_blank" rel="noopener">Romeo Santos &amp; Prince Royce</a></td></tr>
 <tr data-venue="Kia Forum"><td>Kia Forum</td><td>Wednesday</td><td>05/20/2026</td><td>TBA</td><td><a href="https://thekiaforum.com/event/florence-the-machine/" target="_blank" rel="noopener">FLORENCE + THE MACHINE</a></td></tr>
 <tr data-venue="Kia Forum"><td>Kia Forum</td><td>Tuesday</td><td>05/19/2026</td><td>TBA</td><td><a href="https://thekiaforum.com/event/florence-the-machine-2/" target="_blank" rel="noopener">FLORENCE + THE MACHINE</a></td></tr>
@@ -714,7 +726,7 @@
   </div>
 
   <footer class="mt-4 pt-3 border-top text-muted small">
-    Last updated: Tuesday, May 26, 2026 at 11:57 PM
+    Last updated: Thursday, May 28, 2026 at 09:10 PM
   </footer>
 </div>
 

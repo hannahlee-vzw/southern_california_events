@@ -1161,6 +1161,42 @@
     "link": "https://thekiaforum.com/event/the-neighbourhood-3/"
   },
   {
+    "key": "kia forum|12/14/2026|gracie abrams – the look at my life tour",
+    "venue": "Kia Forum",
+    "day": "Monday",
+    "date": "12/14/2026",
+    "time": "7:00 PM",
+    "name": "GRACIE ABRAMS – The Look at My Life Tour",
+    "link": "https://thekiaforum.com/event/gracie-abrams-5/"
+  },
+  {
+    "key": "kia forum|12/18/2026|gracie abrams – the look at my life tour",
+    "venue": "Kia Forum",
+    "day": "Friday",
+    "date": "12/18/2026",
+    "time": "7:00 PM",
+    "name": "GRACIE ABRAMS – The Look at My Life Tour",
+    "link": "https://thekiaforum.com/event/gracie-abrams-6/"
+  },
+  {
+    "key": "kia forum|12/19/2026|gracie abrams – the look at my life tour",
+    "venue": "Kia Forum",
+    "day": "Saturday",
+    "date": "12/19/2026",
+    "time": "7:00 PM",
+    "name": "GRACIE ABRAMS – The Look at My Life Tour",
+    "link": "https://thekiaforum.com/event/gracie-abrams-4/"
+  },
+  {
+    "key": "kia forum|12/20/2026|gracie abrams – the look at my life tour",
+    "venue": "Kia Forum",
+    "day": "Sunday",
+    "date": "12/20/2026",
+    "time": "7:00 PM",
+    "name": "GRACIE ABRAMS – The Look at My Life Tour",
+    "link": "https://thekiaforum.com/event/gracie-abrams-3/"
+  },
+  {
     "key": "kia forum|05/22/2027|niall horan – dinner party live on tour",
     "venue": "Kia Forum",
     "day": "Saturday",
@@ -1345,7 +1381,7 @@
     "venue": "Rose Bowl Stadium",
     "day": "Saturday",
     "date": "09/12/2026",
-    "time": "TBD",
+    "time": "4:15 PM",
     "name": "SAN DIEGO STATE VS UCLA",
     "link": "https://www.rosebowlstadium.com/events/details/594/san-diego-state-vs-ucla"
   },
@@ -1363,7 +1399,7 @@
     "venue": "Rose Bowl Stadium",
     "day": "Saturday",
     "date": "09/19/2026",
-    "time": "TBD",
+    "time": "8:00 PM",
     "name": "PURDUE VS UCLA",
     "link": "https://www.rosebowlstadium.com/events/details/595/purdue-vs-ucla"
   },
@@ -1935,6 +1971,15 @@
     "link": "https://www.laconventioncenter.com/events/detail/makeup-luxe-pack-in-los-angeles-2027"
   },
   {
+    "key": "la convention center|02/26/2027|victory gymnastics - victory classic",
+    "venue": "LA Convention Center",
+    "day": "Friday",
+    "date": "02/26/2027",
+    "time": "TBA",
+    "name": "Victory Gymnastics - Victory Classic",
+    "link": "https://www.laconventioncenter.com/events/detail/victory-gymnastics-victory-classic-1"
+  },
+  {
     "key": "la convention center|04/01/2027|star wars celebration 2027",
     "venue": "LA Convention Center",
     "day": "Thursday",
@@ -1960,24 +2005,6 @@
     "time": "TBA",
     "name": "American Association of Thoracic Surgery Annual Meeting",
     "link": "https://www.laconventioncenter.com/events/detail/aats-annual-mtg-2027"
-  },
-  {
-    "key": "dodger stadium|05/26/2026|vs. colorado rockies",
-    "venue": "Dodger Stadium",
-    "day": "Tuesday",
-    "date": "05/26/2026",
-    "time": "7:10 PM",
-    "name": "vs. Colorado Rockies",
-    "link": "https://www.mlb.com/gameday/823949"
-  },
-  {
-    "key": "dodger stadium|05/27/2026|vs. colorado rockies",
-    "venue": "Dodger Stadium",
-    "day": "Wednesday",
-    "date": "05/27/2026",
-    "time": "7:10 PM",
-    "name": "vs. Colorado Rockies",
-    "link": "https://www.mlb.com/gameday/823947"
   },
   {
     "key": "dodger stadium|05/29/2026|vs. philadelphia phillies",
