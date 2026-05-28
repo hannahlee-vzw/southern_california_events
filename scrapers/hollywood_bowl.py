@@ -27,16 +27,27 @@ class HollywoodBowlScraper(BaseScraper):
 
         with sync_playwright() as pw:
             browser = pw.chromium.launch(headless=True)
-            page = browser.new_page()
+            ctx = browser.new_context(
+                user_agent=(
+                    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+                    "AppleWebKit/537.36 (KHTML, like Gecko) "
+                    "Chrome/125.0.0.0 Safari/537.36"
+                )
+            )
+            page = ctx.new_page()
+            # Prevent headless detection
+            page.add_init_script("Object.defineProperty(navigator, 'webdriver', {get: () => undefined})")
             page.goto(self.url, wait_until="networkidle", timeout=30_000)
 
             try:
                 page.wait_for_selector("div.performance-card", timeout=15_000)
             except Exception:
+                ctx.close()
                 browser.close()
                 return events
 
             soup = BeautifulSoup(page.content(), "html.parser")
+            ctx.close()
             browser.close()
 
         for card in soup.select("div.performance-card"):
