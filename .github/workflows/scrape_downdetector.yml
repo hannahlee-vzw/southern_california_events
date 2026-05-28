@@ -1,0 +1,42 @@
+name: Scrape DownDetector
+
+on:
+  schedule:
+    # Every hour at :07 (offset from :00 to reduce thundering herd on shared runners)
+    - cron: '7 * * * *'
+  workflow_dispatch:  # also allows manual "Run workflow" button in GitHub Actions UI
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write   # needed to commit and push docs/downdetector.html back to the repo
+
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+
+      - name: Install Python dependencies
+        run: pip install -r requirements.txt
+
+      - name: Install Playwright browsers
+        run: playwright install --with-deps chromium
+
+      - name: Run DownDetector scraper
+        run: python scrape_downdetector.py
+
+      - name: Commit and push docs/downdetector.html
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/downdetector.html
+          # Only commit if something changed
+          git diff --staged --quiet || git commit -m "Update DownDetector: $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git push

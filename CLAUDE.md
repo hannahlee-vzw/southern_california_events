@@ -2,18 +2,21 @@
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
-## Running the scraper
+## Running the scrapers
 
 ```bash
 # Install dependencies (once)
 pip install -r requirements.txt
 playwright install chromium
 
-# Run all scrapers and generate outputs
+# Run venue events scrapers → docs/index.html + docs/events.xlsx
 python main.py
+
+# Run DownDetector scraper → docs/downdetector.html
+python scrape_downdetector.py
 ```
 
-Outputs: `docs/index.html` and `docs/events.xlsx` — both written directly into `docs/` and committed to git. No Excel file is created in the project root.
+`main.py` outputs `docs/index.html` and `docs/events.xlsx`. `scrape_downdetector.py` outputs `docs/downdetector.html`. Both write directly into `docs/` and are committed to git. No files are created in the project root.
 
 ## Architecture
 
@@ -41,13 +44,40 @@ Outputs: `docs/index.html` and `docs/events.xlsx` — both written directly into
 
 All existing scrapers are scaffolded but have **placeholder selectors** — they will return 0 events until the real selectors are filled in.
 
+## DownDetector scraper
+
+**Script:** [scrape_downdetector.py](scrape_downdetector.py) — standalone, does not use `main.py` or `config.VENUES`.
+
+**Target:** Verizon service page on DownDetector (JS-rendered, use Playwright).
+
+**Data captured per run:**
+- Current status label (e.g. `Normal`, `Warning`, `Danger`)
+- Current report count (number of user reports in the last hour)
+- Problem breakdown (percentages by category: Network, Internet, Phone, etc.)
+- Up to 20 most recent user comments with timestamps
+- Scrape timestamp (written into the page as "Last updated: …")
+
+**Output:** writes `docs/downdetector.html` — Bootstrap 5, shared nav header linking back to `index.html`, status badge, report count, problem breakdown table, comments table.
+
+**Navigation:** Both `docs/index.html` and `docs/downdetector.html` include a shared nav bar at the top with links to each other so users can switch between pages.
+
 ## Outputs
 
 - **Excel** ([exporter.py](exporter.py)): writes `docs/events.xlsx` directly — one sheet per venue, bold dark-blue header row, frozen first row, auto-fitted columns, hyperlinked links. No local copy is produced.
-- **HTML** ([html_generator.py](html_generator.py)): writes `docs/index.html` — Bootstrap 5 + Tablesort, one tab per venue. Venue URL for each tab's "Venue Page" column comes from `config.VENUES`.
+- **LA Events HTML** ([html_generator.py](html_generator.py)): writes `docs/index.html` — Bootstrap 5 + Tablesort, one tab per venue. Venue URL for each tab's "Venue Page" column comes from `config.VENUES`.
+- **DownDetector HTML** ([scrape_downdetector.py](scrape_downdetector.py)): writes `docs/downdetector.html` — Bootstrap 5, Verizon outage snapshot with status, counts, and comments.
 
 ## Automation
 
-GitHub Actions ([.github/workflows/scrape.yml](.github/workflows/scrape.yml)) runs the scraper every Monday at 8 AM PT and commits `docs/` back to the repo. GitHub Pages then serves `docs/index.html` automatically. To trigger manually: **Actions → Scrape Events → Run workflow**.
+Two separate GitHub Actions workflows run on independent schedules:
 
-To change the schedule, edit the `cron` expression in the workflow file.
+| Workflow | File | Schedule | Script |
+|----------|------|----------|--------|
+| Scrape Events | [.github/workflows/scrape.yml](.github/workflows/scrape.yml) | Every Monday 8 AM PT | `main.py` |
+| Scrape DownDetector | [.github/workflows/scrape_downdetector.yml](.github/workflows/scrape_downdetector.yml) | Every hour | `scrape_downdetector.py` |
+
+Each workflow commits only its own output file(s) to `docs/`. GitHub Pages serves both pages automatically.
+
+To trigger manually: **Actions → [workflow name] → Run workflow**.
+
+To change a schedule, edit the `cron` expression in the relevant workflow file.

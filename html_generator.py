@@ -176,6 +176,13 @@ def _build_html(results: list[VenueResult], past_events: list[dict] = []) -> str
   </style>
 </head>
 <body>
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark px-3">
+  <span class="navbar-brand mb-0 h6">LA Monitors</span>
+  <div class="navbar-nav flex-row gap-2">
+    <a class="nav-link active fw-semibold" href="index.html">LA Events</a>
+    <a class="nav-link text-white-50" href="downdetector.html">DownDetector</a>
+  </div>
+</nav>
 <div class="container-fluid py-4">
   <div class="d-flex justify-content-between align-items-start mb-3">
     <div>

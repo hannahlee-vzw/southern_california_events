@@ -1,8 +1,9 @@
 # LA Venue Event Scraper
 
-Scrapes upcoming event listings from 8 Los Angeles-area venues and publishes them to a shared website updated every week automatically.
+Scrapes upcoming event listings from 8 Los Angeles-area venues and publishes them to a shared website updated every week automatically. Also tracks Verizon service outage reports from DownDetector, updated hourly.
 
-**Website:** https://hannahlee-vzw.github.io/southern_california_events/
+**LA Events:** https://hannahlee-vzw.github.io/southern_california_events/
+**DownDetector (Verizon):** https://hannahlee-vzw.github.io/southern_california_events/downdetector.html
 
 ---
 
@@ -23,8 +24,9 @@ Scrapes upcoming event listings from 8 Los Angeles-area venues and publishes the
 
 | Format | Description |
 |--------|-------------|
-| GitHub Pages website | One tab per venue, sortable columns, updated every Monday |
-| `docs/events.xlsx` | Downloadable Excel file linked from the website |
+| `docs/index.html` | LA Events — one tab per venue, sortable columns, updated every Monday |
+| `docs/downdetector.html` | Verizon DownDetector snapshot — status, report count, problem breakdown, updated hourly |
+| `docs/events.xlsx` | Downloadable Excel file linked from the events website |
 
 Each event row contains: **Day · Date · Time · Event Name · Link**
 
@@ -37,21 +39,30 @@ pip install -r requirements.txt
 playwright install chromium
 ```
 
-Run the scraper manually:
+Run the venue events scraper:
 
 ```bash
 python main.py
 ```
 
-This writes `docs/events.xlsx` and regenerates `docs/index.html`. Commit and push `docs/` to update the live website.
+Run the DownDetector scraper:
+
+```bash
+python scrape_downdetector.py
+```
+
+Each script writes its output directly to `docs/`. Commit and push `docs/` to update the live website.
 
 ---
 
-## Automatic Weekly Updates
+## Automatic Updates
 
-A GitHub Actions workflow ([`.github/workflows/scrape.yml`](.github/workflows/scrape.yml)) runs every **Monday at 8:00 AM PT** and automatically commits the updated `docs/` folder. No action needed after initial setup.
+| Workflow | Schedule | Script | Output |
+|----------|----------|--------|--------|
+| [Scrape Events](.github/workflows/scrape.yml) | Every Monday 8:00 AM PT | `main.py` | `docs/index.html`, `docs/events.xlsx` |
+| [Scrape DownDetector](.github/workflows/scrape_downdetector.yml) | Every hour | `scrape_downdetector.py` | `docs/downdetector.html` |
 
-To trigger a run manually: **Actions → Scrape Events → Run workflow**
+To trigger a run manually: **Actions → [workflow name] → Run workflow**
 
 ---
 
