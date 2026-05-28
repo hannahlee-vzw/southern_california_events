@@ -54,4 +54,9 @@ VENUES: list[VenueConfig] = [
         url="https://www.mlb.com/dodgers/schedule",
         scraper_module="scrapers.dodgers",
     ),
+    VenueConfig(
+        name="Hollywood Bowl",
+        url="https://www.hollywoodbowl.com/events/performances?Venue=Hollywood+Bowl&Season=upcoming",
+        scraper_module="scrapers.hollywood_bowl",
+    ),
 ]

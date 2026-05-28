@@ -73,7 +73,7 @@ Two separate GitHub Actions workflows run on independent schedules:
 
 | Workflow | File | Schedule | Script |
 |----------|------|----------|--------|
-| Scrape Events | [.github/workflows/scrape.yml](.github/workflows/scrape.yml) | Every Monday 8 AM PT | `main.py` |
+| Scrape Events | [.github/workflows/scrape.yml](.github/workflows/scrape.yml) | Every day 8 AM PT | `main.py` |
 | Scrape DownDetector | [.github/workflows/scrape_downdetector.yml](.github/workflows/scrape_downdetector.yml) | Every hour | `scrape_downdetector.py` |
 
 Each workflow commits only its own output file(s) to `docs/`. GitHub Pages serves both pages automatically.

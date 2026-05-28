@@ -2,9 +2,9 @@ name: Scrape Events
 
 on:
   schedule:
-    # Every Monday at 8:00 AM Pacific Time (15:00 UTC, 16:00 UTC during daylight saving)
+    # Every day at 8:00 AM Pacific Time (15:00 UTC, 16:00 UTC during daylight saving)
     # Adjust the hour if the wrong time is observed.
-    - cron: '0 15 * * 1'
+    - cron: '0 15 * * *'
   workflow_dispatch:  # also allows manual "Run workflow" button in GitHub Actions UI
 
 jobs:
