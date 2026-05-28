@@ -17,6 +17,7 @@ Scrapes upcoming event listings from 8 Los Angeles-area venues and publishes the
 - Crypto.com Arena
 - L.A. Memorial Coliseum
 - LA Convention Center
+- Hollywood Bowl
 
 ---
 
