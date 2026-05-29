@@ -169,8 +169,9 @@ def _build_html(results: list[VenueResult], past_events: list[dict] = []) -> str
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css">
   <style>
     body {{ font-family: system-ui, sans-serif; }}
-    #venueTabs {{ min-width: 190px; width: 190px; }}
-    #venueTabs .nav-link {{ text-align: left; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; font-size: .875rem; padding: .4rem .75rem; }}
+    #venueTabs {{ min-width: 220px; width: 220px; }}
+    #venueTabs .nav-link {{ text-align: left; font-size: .875rem; padding: .4rem .75rem; }}
+    #venueTabs .nav-link .badge {{ flex-shrink: 0; }}
     th[aria-sort] {{ cursor: pointer; user-select: none; }}
     th[aria-sort="ascending"]::after  {{ content: " ▲"; }}
     th[aria-sort="descending"]::after {{ content: " ▼"; }}
