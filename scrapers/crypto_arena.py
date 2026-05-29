@@ -1,8 +1,8 @@
 """
 Crypto.com Arena — https://www.cryptoarena.com/events
 
-Rendering: Static HTML (same CMS as SoFi Stadium and Dignity Health Sports Park).
-Strategy: requests + BeautifulSoup.
+Rendering: JS-rendered CMS with paginated "Load More" button.
+Strategy: Playwright headless Chromium; click "Load More" until exhausted.
 
 Structure (near-identical to SoFi):
   div.eventItem.entry                    ← card
@@ -21,14 +21,14 @@ Structure (near-identical to SoFi):
       div.meta
         h5.time > span.start             ← "8:00 PM"  (cleaner, no prefix)
 """
-import requests
 from bs4 import BeautifulSoup
 from dateutil import parser as dateutil_parser
+from playwright.sync_api import sync_playwright
 
 from .base import BaseScraper, Event
 from ._util import absolute_url, dedup, sort_events
 
-HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; EventScraper/1.0)"}
+LOAD_MORE_SELECTOR = "#loadMoreEvents"
 
 EXCLUDE_KEYWORDS = [
     "vip tour",
@@ -43,9 +43,36 @@ def _is_excluded(name: str) -> bool:
 class CryptoArenaScraper(BaseScraper):
     def scrape(self) -> list[Event]:
         events: list[Event] = []
-        resp = requests.get(self.url, headers=HEADERS, timeout=20)
-        resp.raise_for_status()
-        soup = BeautifulSoup(resp.text, "html.parser")
+
+        with sync_playwright() as pw:
+            browser = pw.chromium.launch(headless=True)
+            page = browser.new_page()
+            page.goto(self.url, wait_until="networkidle", timeout=30_000)
+
+            try:
+                page.wait_for_selector("div.eventItem.entry", timeout=15_000)
+            except Exception:
+                browser.close()
+                return events
+
+            # Click "Load More" until the button disappears or no new events load
+            while True:
+                btn = page.query_selector(LOAD_MORE_SELECTOR)
+                if not btn or not btn.is_visible():
+                    break
+                count_before = len(page.query_selector_all("div.eventItem.entry"))
+                btn.scroll_into_view_if_needed()
+                btn.click()
+                try:
+                    page.wait_for_function(
+                        f"document.querySelectorAll('div.eventItem.entry').length > {count_before}",
+                        timeout=10_000,
+                    )
+                except Exception:
+                    break
+
+            soup = BeautifulSoup(page.content(), "html.parser")
+            browser.close()
 
         for card in soup.select("div.eventItem.entry"):
             try:
