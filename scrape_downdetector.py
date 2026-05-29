@@ -115,9 +115,6 @@ NAV_BAR = """<nav class="navbar navbar-expand-lg navbar-dark bg-dark px-3">
 
 @dataclass
 class DownDetectorSnapshot:
-    status: str = "Unknown"
-    report_count: str = "—"
-    problems: list[tuple[str, str]] = field(default_factory=list)
     comments: list[tuple[str, str]] = field(default_factory=list)
     scraped_at: str = ""
     error: str = ""
@@ -142,51 +139,11 @@ def scrape() -> DownDetectorSnapshot:
             soup = BeautifulSoup(page.content(), "html.parser")
             browser.close()
 
-        snap.status = _parse_status(soup)
-        snap.report_count = _parse_report_count(soup)
-        snap.problems = _parse_problems(soup)
         snap.comments = [c for c in _parse_comments(soup) if _is_socal_comment(c[1])]
     except Exception:
         snap.error = traceback.format_exc()
 
     return snap
-
-
-def _parse_status(soup: BeautifulSoup) -> str:
-    # h1 reads "User reports show <span>no current problems</span> with Verizon"
-    el = soup.select_one("span.text-inherit.font-medium")
-    text = el.get_text(strip=True).lower() if el else ""
-    if not text:
-        # Fallback: scan aria-label on the chart element
-        chart = soup.select_one("[aria-label*='Reports chart']")
-        text = (chart.get("aria-label", "") if chart else "").lower()
-    if "no" in text and "problem" in text:
-        return "Normal"
-    if "warning" in text:
-        return "Warning"
-    if "danger" in text or "outage" in text or "problem" in text:
-        return "Danger"
-    return "Unknown"
-
-
-def _parse_report_count(soup: BeautifulSoup) -> str:
-    # aria-label: "Reports chart for the last 24 hours with a peak of 143 reports, status: ..."
-    el = soup.select_one("[aria-label*='Reports chart']")
-    if el:
-        m = re.search(r"peak of (\d+) reports", el.get("aria-label", ""))
-        if m:
-            return m.group(1)
-    return "—"
-
-
-def _parse_problems(soup: BeautifulSoup) -> list[tuple[str, str]]:
-    # aria-label: "5G Home Internet: 41 percent of reports, 410 reports"
-    results = []
-    for item in soup.select("div[role='listitem'][aria-label*='percent of reports']"):
-        m = re.match(r"^(.+?):\s*(\d+)\s*percent", item.get("aria-label", ""))
-        if m:
-            results.append((m.group(1).strip(), f"{m.group(2)}%"))
-    return results
 
 
 def _is_socal_comment(text: str) -> bool:
@@ -206,27 +163,26 @@ def _parse_comments(soup: BeautifulSoup) -> list[tuple[str, str]]:
     return results
 
 
-def _status_badge(status: str) -> str:
+def _socal_activity_level(comment_count: int) -> str:
+    if comment_count == 0:
+        return "Normal"
+    if comment_count <= 3:
+        return "Elevated"
+    return "Active"
+
+
+def _socal_activity_badge(level: str) -> str:
     classes = {
         "Normal": "bg-success",
-        "Warning": "bg-warning text-dark",
-        "Danger": "bg-danger",
-    }.get(status, "bg-secondary")
-    return f'<span class="badge {classes} fs-6 px-3 py-2">{html.escape(status)}</span>'
-
-
-def _problem_rows(problems: list[tuple[str, str]]) -> str:
-    if not problems:
-        return '<tr><td colspan="2" class="text-center text-muted fst-italic">No breakdown data available</td></tr>'
-    return "\n".join(
-        f"<tr><td>{html.escape(label)}</td><td>{html.escape(pct)}</td></tr>"
-        for label, pct in problems
-    )
+        "Elevated": "bg-warning text-dark",
+        "Active": "bg-danger",
+    }.get(level, "bg-secondary")
+    return f'<span class="badge {classes} fs-6 px-3 py-2">{html.escape(level)}</span>'
 
 
 def _comment_rows(comments: list[tuple[str, str]]) -> str:
     if not comments:
-        return '<tr><td colspan="2" class="text-center text-muted fst-italic">No recent comments</td></tr>'
+        return '<tr><td colspan="2" class="text-center text-muted fst-italic">No recent SoCal reports</td></tr>'
     return "\n".join(
         f"<tr><td class='text-nowrap text-muted small'>{html.escape(ts)}</td>"
         f"<td>{html.escape(body)}</td></tr>"
@@ -244,8 +200,9 @@ def _build_html(snap: DownDetectorSnapshot) -> str:
             f"<pre class='small mt-2'>{html.escape(snap.error)}</pre></details></div>"
         )
 
-    status_badge = _status_badge(snap.status)
-    problem_rows = _problem_rows(snap.problems)
+    count = len(snap.comments)
+    level = _socal_activity_level(count)
+    activity_badge = _socal_activity_badge(level)
     comment_rows = _comment_rows(snap.comments)
 
     return f"""<!DOCTYPE html>
@@ -253,7 +210,7 @@ def _build_html(snap: DownDetectorSnapshot) -> str:
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>DownDetector — Verizon</title>
+  <title>DownDetector — Verizon SoCal</title>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css">
   <style>
     body {{ font-family: system-ui, sans-serif; }}
@@ -264,14 +221,14 @@ def _build_html(snap: DownDetectorSnapshot) -> str:
 <div class="container-fluid py-4">
   <div class="d-flex justify-content-between align-items-start mb-3">
     <div>
-      <h1 class="h3 mb-0">Verizon — DownDetector</h1>
+      <h1 class="h3 mb-0">Verizon — Southern California</h1>
       <p class="text-muted small mb-0">
         <a href="{html.escape(VERIZON_URL)}" target="_blank" rel="noopener">downdetector.com/status/verizon</a>
       </p>
     </div>
     <div class="text-end">
-      {status_badge}
-      <p class="text-muted small mt-1 mb-0">Current status</p>
+      {activity_badge}
+      <p class="text-muted small mt-1 mb-0">SoCal activity level</p>
     </div>
   </div>
 
@@ -281,30 +238,15 @@ def _build_html(snap: DownDetectorSnapshot) -> str:
     <div class="col-md-4">
       <div class="card h-100">
         <div class="card-body text-center">
-          <p class="text-muted small mb-1">Reports (last hour)</p>
-          <p class="display-4 fw-bold mb-0">{html.escape(snap.report_count)}</p>
-        </div>
-      </div>
-    </div>
-    <div class="col-md-8">
-      <div class="card h-100">
-        <div class="card-header fw-semibold">Problem Breakdown</div>
-        <div class="card-body p-0">
-          <table class="table table-sm mb-0">
-            <thead class="table-dark">
-              <tr><th>Category</th><th>Share</th></tr>
-            </thead>
-            <tbody>
-              {problem_rows}
-            </tbody>
-          </table>
+          <p class="text-muted small mb-1">SoCal reports found</p>
+          <p class="display-4 fw-bold mb-0">{count}</p>
         </div>
       </div>
     </div>
   </div>
 
   <div class="card">
-    <div class="card-header fw-semibold">Recent User Reports</div>
+    <div class="card-header fw-semibold">Southern California User Reports</div>
     <div class="table-responsive">
       <table class="table table-striped table-hover table-sm mb-0">
         <thead class="table-dark">
@@ -320,6 +262,7 @@ def _build_html(snap: DownDetectorSnapshot) -> str:
   <footer class="mt-4 pt-3 border-top text-muted small">
     Last updated: {html.escape(snap.scraped_at)}
     &middot; Source: <a href="{html.escape(VERIZON_URL)}" target="_blank" rel="noopener">DownDetector</a>
+    &middot; Comments filtered to Southern California only
   </footer>
 </div>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
@@ -335,8 +278,9 @@ def write(snap: DownDetectorSnapshot) -> None:
 if __name__ == "__main__":
     data = scrape()
     write(data)
+    level = _socal_activity_level(len(data.comments))
     status_note = f"  ERROR: {data.error.splitlines()[0]}" if data.error else ""
     print(
         f"Generated docs/downdetector.html  "
-        f"(status: {data.status}, {data.report_count} reports){status_note}"
+        f"(SoCal activity: {level}, {len(data.comments)} comments){status_note}"
     )
