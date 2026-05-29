@@ -70,7 +70,7 @@ def _tab_panes(results: list[VenueResult]) -> str:
         rows = _event_rows(vr.events)
         panes.append(f"""
         <div class="tab-pane fade{active}" id="pane-{vid}" role="tabpanel" aria-labelledby="tab-{vid}">
-          <div class="d-flex justify-content-between align-items-center mt-3 mb-2">
+          <div class="d-flex justify-content-between align-items-center mb-1">
             <span class="text-muted small">{len(vr.events)} event(s)</span>
             <a href="{html.escape(venue_url)}" target="_blank" rel="noopener" class="btn btn-sm btn-outline-secondary">
               View venue site &rarr;
@@ -135,7 +135,7 @@ def _build_html(results: list[VenueResult], past_events: list[dict] = []) -> str
     )
     past_pane = f"""
         <div class="tab-pane fade" id="pane-past-events" role="tabpanel" aria-labelledby="tab-past-events">
-          <div class="d-flex justify-content-between align-items-center mt-3 mb-2">
+          <div class="d-flex justify-content-between align-items-center mb-1">
             <span class="text-muted small">{past_count} archived event(s) across all venues, most recent first</span>
             <div class="d-flex align-items-center gap-2">
               <label for="past-venue-filter" class="text-muted small mb-0">Filter by venue:</label>
