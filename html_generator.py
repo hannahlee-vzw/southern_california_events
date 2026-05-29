@@ -51,12 +51,12 @@ def _tab_nav(results: list[VenueResult]) -> str:
         vid = _venue_id(vr.venue_name)
         count = len(vr.events)
         items.append(
-            f'<li class="nav-item" role="presentation">'
-            f'<button class="nav-link{active}" id="tab-{vid}" data-bs-toggle="tab" '
+            f'<button class="nav-link{active} d-flex justify-content-between align-items-center" '
+            f'id="tab-{vid}" data-bs-toggle="pill" '
             f'data-bs-target="#pane-{vid}" type="button" role="tab" '
             f'aria-controls="pane-{vid}" aria-selected="{selected}">'
-            f'{html.escape(vr.venue_name)} <span class="badge bg-secondary">{count}</span>'
-            f'</button></li>'
+            f'{html.escape(vr.venue_name)} <span class="badge bg-secondary ms-2">{count}</span>'
+            f'</button>'
         )
     return "\n".join(items)
 
@@ -126,12 +126,12 @@ def _build_html(results: list[VenueResult], past_events: list[dict] = []) -> str
     )
 
     past_nav_item = (
-        f'<li class="nav-item" role="presentation">'
-        f'<button class="nav-link" id="tab-past-events" data-bs-toggle="tab" '
+        f'<button class="nav-link d-flex justify-content-between align-items-center" '
+        f'id="tab-past-events" data-bs-toggle="pill" '
         f'data-bs-target="#pane-past-events" type="button" role="tab" '
         f'aria-controls="pane-past-events" aria-selected="false">'
-        f'Past Events <span class="badge bg-secondary">{past_count}</span>'
-        f'</button></li>'
+        f'Past Events <span class="badge bg-secondary ms-2">{past_count}</span>'
+        f'</button>'
     )
     past_pane = f"""
         <div class="tab-pane fade" id="pane-past-events" role="tabpanel" aria-labelledby="tab-past-events">
@@ -169,7 +169,8 @@ def _build_html(results: list[VenueResult], past_events: list[dict] = []) -> str
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css">
   <style>
     body {{ font-family: system-ui, sans-serif; }}
-    .nav-tabs {{ flex-wrap: wrap; }}
+    #venueTabs {{ min-width: 190px; width: 190px; }}
+    #venueTabs .nav-link {{ text-align: left; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; font-size: .875rem; padding: .4rem .75rem; }}
     th[aria-sort] {{ cursor: pointer; user-select: none; }}
     th[aria-sort="ascending"]::after  {{ content: " ▲"; }}
     th[aria-sort="descending"]::after {{ content: " ▼"; }}
@@ -194,13 +195,16 @@ def _build_html(results: list[VenueResult], past_events: list[dict] = []) -> str
     </a>
   </div>
 
-  <ul class="nav nav-tabs" id="venueTabs" role="tablist">
-    {tab_nav}
-    {past_nav_item}
-  </ul>
-  <div class="tab-content" id="venueTabContent">
-    {tab_panes}
-    {past_pane}
+  <div class="d-flex gap-3 align-items-start">
+    <div class="nav flex-column nav-pills border-end pe-3" id="venueTabs" role="tablist" aria-orientation="vertical">
+      {tab_nav}
+      <hr class="my-2">
+      {past_nav_item}
+    </div>
+    <div class="tab-content flex-grow-1" id="venueTabContent">
+      {tab_panes}
+      {past_pane}
+    </div>
   </div>
 
   <footer class="mt-4 pt-3 border-top text-muted small">
