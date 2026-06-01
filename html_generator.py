@@ -77,7 +77,13 @@ def _tab_panes(results: list[VenueResult]) -> str:
             </a>
           </div>
           <div class="table-responsive">
-            <table class="table table-striped table-hover table-sm sortable" id="tbl-{vid}">
+            <table class="table table-striped table-hover table-sm sortable" id="tbl-{vid}" style="table-layout:fixed;width:100%">
+              <colgroup>
+                <col style="width:80px">
+                <col style="width:110px">
+                <col style="width:90px">
+                <col>
+              </colgroup>
               <thead class="table-dark">
                 <tr>
                   <th>Day</th><th>Date</th><th>Time</th><th>Event Name</th>
