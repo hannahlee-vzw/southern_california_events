@@ -693,6 +693,24 @@
     "link": "https://www.intuitdome.com/events/event-schedule/4036?utm_source=IDwebsite&utm_medium=eventschedule&utm_campaign=IDevents26&utm_content=bryson_tiller_261025"
   },
   {
+    "key": "intuit dome|10/30/2026|phoebe bridgers",
+    "venue": "Intuit Dome",
+    "day": "Friday",
+    "date": "10/30/2026",
+    "time": "7:30 PM",
+    "name": "Phoebe Bridgers",
+    "link": "https://www.intuitdome.com/events/event-schedule/4041?utm_source=IDwebsite&utm_medium=eventschedule&utm_campaign=IDevents26&utm_content=phoebe_bridgers_261030"
+  },
+  {
+    "key": "intuit dome|10/31/2026|phoebe bridgers",
+    "venue": "Intuit Dome",
+    "day": "Saturday",
+    "date": "10/31/2026",
+    "time": "7:30 PM",
+    "name": "Phoebe Bridgers",
+    "link": "https://www.intuitdome.com/events/event-schedule/4050?utm_source=IDwebsite&utm_medium=eventschedule&utm_campaign=IDevents26&utm_content=phoebe_bridgers_261031"
+  },
+  {
     "key": "intuit dome|11/22/2026|three days grace",
     "venue": "Intuit Dome",
     "day": "Sunday",
@@ -2878,15 +2896,6 @@
     "time": "7:10 PM",
     "name": "vs. San Diego Padres",
     "link": "https://www.mlb.com/gameday/823895"
-  },
-  {
-    "key": "hollywood bowl|06/04/2026|the human league – soft cell, alison moyet",
-    "venue": "Hollywood Bowl",
-    "day": "Thursday",
-    "date": "06/04/2026",
-    "time": "7:30 PM",
-    "name": "The Human League – Soft Cell, Alison Moyet",
-    "link": "https://www.hollywoodbowl.com/events/performances/4283/2026-06-04/the-human-league"
   },
   {
     "key": "hollywood bowl|06/06/2026|37th mariachi usa with fireworks",
