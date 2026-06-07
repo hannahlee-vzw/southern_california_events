@@ -1620,24 +1620,6 @@
     "link": "https://www.rosebowlstadium.com/events/details/626/rose-bowl-half-marathon-and-5k"
   },
   {
-    "key": "crypto.com arena|06/05/2026|los angeles sparks vs dallas wings – commissioner's cup",
-    "venue": "Crypto.com Arena",
-    "day": "Friday",
-    "date": "06/05/2026",
-    "time": "7:00 PM",
-    "name": "Los Angeles Sparks vs Dallas Wings – Commissioner's Cup",
-    "link": "https://www.cryptoarena.com/events/detail/sparkswings060526"
-  },
-  {
-    "key": "crypto.com arena|06/06/2026|alex warren: finding family on the road – with special guests nat & alex wolff",
-    "venue": "Crypto.com Arena",
-    "day": "Saturday",
-    "date": "06/06/2026",
-    "time": "7:30 PM",
-    "name": "Alex Warren: Finding Family on the Road – With special guests Nat & Alex Wolff",
-    "link": "https://www.cryptoarena.com/events/detail/alexwarren060626"
-  },
-  {
     "key": "crypto.com arena|06/07/2026|los angeles sparks vs portland fire – commissioner's cup",
     "venue": "Crypto.com Arena",
     "day": "Sunday",
@@ -1647,12 +1629,12 @@
     "link": "https://www.cryptoarena.com/events/detail/sparksfire060726"
   },
   {
-    "key": "crypto.com arena|06/10/2026|fifa countdown concert",
+    "key": "crypto.com arena|06/10/2026|fifa countdown concert – davido, major lazer & ava max",
     "venue": "Crypto.com Arena",
     "day": "Wednesday",
     "date": "06/10/2026",
     "time": "6:00 PM",
-    "name": "FIFA Countdown Concert",
+    "name": "FIFA Countdown Concert – Davido, Major Lazer & Ava Max",
     "link": "https://www.cryptoarena.com/events/detail/fifaconcert26"
   },
   {
@@ -2448,24 +2430,6 @@
     "link": "https://www.laconventioncenter.com/events/detail/aats-annual-mtg-2027"
   },
   {
-    "key": "dodger stadium|06/05/2026|vs. los angeles angels",
-    "venue": "Dodger Stadium",
-    "day": "Friday",
-    "date": "06/05/2026",
-    "time": "7:10 PM",
-    "name": "vs. Los Angeles Angels",
-    "link": "https://www.mlb.com/gameday/823943"
-  },
-  {
-    "key": "dodger stadium|06/06/2026|vs. los angeles angels",
-    "venue": "Dodger Stadium",
-    "day": "Saturday",
-    "date": "06/06/2026",
-    "time": "7:10 PM",
-    "name": "vs. Los Angeles Angels",
-    "link": "https://www.mlb.com/gameday/823942"
-  },
-  {
     "key": "dodger stadium|06/07/2026|vs. los angeles angels",
     "venue": "Dodger Stadium",
     "day": "Sunday",
@@ -2896,15 +2860,6 @@
     "time": "7:10 PM",
     "name": "vs. San Diego Padres",
     "link": "https://www.mlb.com/gameday/823895"
-  },
-  {
-    "key": "hollywood bowl|06/06/2026|37th mariachi usa with fireworks",
-    "venue": "Hollywood Bowl",
-    "day": "Saturday",
-    "date": "06/06/2026",
-    "time": "6:00 PM",
-    "name": "37th Mariachi USA with Fireworks",
-    "link": "https://www.hollywoodbowl.com/events/performances/4274/2026-06-06/37th-mariachi-usa-with-fireworks"
   },
   {
     "key": "hollywood bowl|06/07/2026|paul simon",

@@ -2118,5 +2118,55 @@
     "name": "The Human League – Soft Cell, Alison Moyet",
     "link": "https://www.hollywoodbowl.com/events/performances/4283/2026-06-04/the-human-league",
     "archived_on": "2026-06-05"
+  },
+  {
+    "key": "crypto.com arena|06/05/2026|los angeles sparks vs dallas wings – commissioner's cup",
+    "venue": "Crypto.com Arena",
+    "day": "Friday",
+    "date": "06/05/2026",
+    "time": "7:00 PM",
+    "name": "Los Angeles Sparks vs Dallas Wings – Commissioner's Cup",
+    "link": "https://www.cryptoarena.com/events/detail/sparkswings060526",
+    "archived_on": "2026-06-07"
+  },
+  {
+    "key": "crypto.com arena|06/06/2026|alex warren: finding family on the road – with special guests nat & alex wolff",
+    "venue": "Crypto.com Arena",
+    "day": "Saturday",
+    "date": "06/06/2026",
+    "time": "7:30 PM",
+    "name": "Alex Warren: Finding Family on the Road – With special guests Nat & Alex Wolff",
+    "link": "https://www.cryptoarena.com/events/detail/alexwarren060626",
+    "archived_on": "2026-06-07"
+  },
+  {
+    "key": "dodger stadium|06/05/2026|vs. los angeles angels",
+    "venue": "Dodger Stadium",
+    "day": "Friday",
+    "date": "06/05/2026",
+    "time": "7:10 PM",
+    "name": "vs. Los Angeles Angels",
+    "link": "https://www.mlb.com/gameday/823943",
+    "archived_on": "2026-06-07"
+  },
+  {
+    "key": "dodger stadium|06/06/2026|vs. los angeles angels",
+    "venue": "Dodger Stadium",
+    "day": "Saturday",
+    "date": "06/06/2026",
+    "time": "7:10 PM",
+    "name": "vs. Los Angeles Angels",
+    "link": "https://www.mlb.com/gameday/823942",
+    "archived_on": "2026-06-07"
+  },
+  {
+    "key": "hollywood bowl|06/06/2026|37th mariachi usa with fireworks",
+    "venue": "Hollywood Bowl",
+    "day": "Saturday",
+    "date": "06/06/2026",
+    "time": "6:00 PM",
+    "name": "37th Mariachi USA with Fireworks",
+    "link": "https://www.hollywoodbowl.com/events/performances/4274/2026-06-06/37th-mariachi-usa-with-fireworks",
+    "archived_on": "2026-06-07"
   }
 ]
