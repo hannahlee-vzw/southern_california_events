@@ -2168,5 +2168,45 @@
     "name": "37th Mariachi USA with Fireworks",
     "link": "https://www.hollywoodbowl.com/events/performances/4274/2026-06-06/37th-mariachi-usa-with-fireworks",
     "archived_on": "2026-06-07"
+  },
+  {
+    "key": "kia forum|06/07/2026|rush – fifty something",
+    "venue": "Kia Forum",
+    "day": "Sunday",
+    "date": "06/07/2026",
+    "time": "7:00 PM",
+    "name": "RUSH – Fifty Something",
+    "link": "https://thekiaforum.com/event/rush/",
+    "archived_on": "2026-06-08"
+  },
+  {
+    "key": "crypto.com arena|06/07/2026|los angeles sparks vs portland fire – commissioner's cup",
+    "venue": "Crypto.com Arena",
+    "day": "Sunday",
+    "date": "06/07/2026",
+    "time": "4:00 PM",
+    "name": "Los Angeles Sparks vs Portland Fire – Commissioner's Cup",
+    "link": "https://www.cryptoarena.com/events/detail/sparksfire060726",
+    "archived_on": "2026-06-08"
+  },
+  {
+    "key": "dodger stadium|06/07/2026|vs. los angeles angels",
+    "venue": "Dodger Stadium",
+    "day": "Sunday",
+    "date": "06/07/2026",
+    "time": "1:10 PM",
+    "name": "vs. Los Angeles Angels",
+    "link": "https://www.mlb.com/gameday/823941",
+    "archived_on": "2026-06-08"
+  },
+  {
+    "key": "hollywood bowl|06/07/2026|paul simon",
+    "venue": "Hollywood Bowl",
+    "day": "Sunday",
+    "date": "06/07/2026",
+    "time": "8:00 PM",
+    "name": "Paul Simon",
+    "link": "https://www.hollywoodbowl.com/events/performances/4359/2026-06-07/paul-simon",
+    "archived_on": "2026-06-08"
   }
 ]

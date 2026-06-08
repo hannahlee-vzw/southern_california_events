@@ -711,6 +711,15 @@
     "link": "https://www.intuitdome.com/events/event-schedule/4050?utm_source=IDwebsite&utm_medium=eventschedule&utm_campaign=IDevents26&utm_content=phoebe_bridgers_261031"
   },
   {
+    "key": "intuit dome|11/01/2026|phoebe bridgers",
+    "venue": "Intuit Dome",
+    "day": "Sunday",
+    "date": "11/01/2026",
+    "time": "7:30 PM",
+    "name": "Phoebe Bridgers",
+    "link": "https://www.intuitdome.com/events/event-schedule/4051?utm_source=IDwebsite&utm_medium=eventschedule&utm_campaign=IDevents26&utm_content=phoebe_bridgers_261101"
+  },
+  {
     "key": "intuit dome|11/22/2026|three days grace",
     "venue": "Intuit Dome",
     "day": "Sunday",
@@ -718,15 +727,6 @@
     "time": "7:00 PM",
     "name": "Three Days Grace",
     "link": "https://www.intuitdome.com/events/event-schedule/3149?utm_source=IDwebsite&utm_medium=eventschedule&utm_campaign=IDevents26&utm_content=three_days_grace_261122"
-  },
-  {
-    "key": "kia forum|06/07/2026|rush – fifty something",
-    "venue": "Kia Forum",
-    "day": "Sunday",
-    "date": "06/07/2026",
-    "time": "7:00 PM",
-    "name": "RUSH – Fifty Something",
-    "link": "https://thekiaforum.com/event/rush/"
   },
   {
     "key": "kia forum|06/09/2026|rush – fifty something",
@@ -1078,6 +1078,24 @@
     "time": "7:00 PM",
     "name": "JUANES",
     "link": "https://thekiaforum.com/event/juanes/"
+  },
+  {
+    "key": "kia forum|10/17/2026|charli xcx – music, fashion, film tour",
+    "venue": "Kia Forum",
+    "day": "Saturday",
+    "date": "10/17/2026",
+    "time": "7:00 PM",
+    "name": "CHARLI XCX – MUSIC, FASHION, FILM TOUR",
+    "link": "https://thekiaforum.com/event/charli-xcx/"
+  },
+  {
+    "key": "kia forum|10/18/2026|charli xcx – music, fashion, film tour",
+    "venue": "Kia Forum",
+    "day": "Sunday",
+    "date": "10/18/2026",
+    "time": "7:00 PM",
+    "name": "CHARLI XCX – MUSIC, FASHION, FILM TOUR",
+    "link": "https://thekiaforum.com/event/charli-xcx-2/"
   },
   {
     "key": "kia forum|10/20/2026|monsta x – 2026 monsta x world tour [the x : nexus] in los angeles",
@@ -1620,21 +1638,12 @@
     "link": "https://www.rosebowlstadium.com/events/details/626/rose-bowl-half-marathon-and-5k"
   },
   {
-    "key": "crypto.com arena|06/07/2026|los angeles sparks vs portland fire – commissioner's cup",
-    "venue": "Crypto.com Arena",
-    "day": "Sunday",
-    "date": "06/07/2026",
-    "time": "4:00 PM",
-    "name": "Los Angeles Sparks vs Portland Fire – Commissioner's Cup",
-    "link": "https://www.cryptoarena.com/events/detail/sparksfire060726"
-  },
-  {
-    "key": "crypto.com arena|06/10/2026|fifa countdown concert – davido, major lazer & ava max",
+    "key": "crypto.com arena|06/10/2026|fifa countdown concert – davido, major lazer, ava max, and bia",
     "venue": "Crypto.com Arena",
     "day": "Wednesday",
     "date": "06/10/2026",
     "time": "6:00 PM",
-    "name": "FIFA Countdown Concert – Davido, Major Lazer & Ava Max",
+    "name": "FIFA Countdown Concert – Davido, Major Lazer, Ava Max, and Bia",
     "link": "https://www.cryptoarena.com/events/detail/fifaconcert26"
   },
   {
@@ -2430,15 +2439,6 @@
     "link": "https://www.laconventioncenter.com/events/detail/aats-annual-mtg-2027"
   },
   {
-    "key": "dodger stadium|06/07/2026|vs. los angeles angels",
-    "venue": "Dodger Stadium",
-    "day": "Sunday",
-    "date": "06/07/2026",
-    "time": "1:10 PM",
-    "name": "vs. Los Angeles Angels",
-    "link": "https://www.mlb.com/gameday/823941"
-  },
-  {
     "key": "dodger stadium|06/15/2026|vs. tampa bay rays",
     "venue": "Dodger Stadium",
     "day": "Monday",
@@ -2860,15 +2860,6 @@
     "time": "7:10 PM",
     "name": "vs. San Diego Padres",
     "link": "https://www.mlb.com/gameday/823895"
-  },
-  {
-    "key": "hollywood bowl|06/07/2026|paul simon",
-    "venue": "Hollywood Bowl",
-    "day": "Sunday",
-    "date": "06/07/2026",
-    "time": "8:00 PM",
-    "name": "Paul Simon",
-    "link": "https://www.hollywoodbowl.com/events/performances/4359/2026-06-07/paul-simon"
   },
   {
     "key": "hollywood bowl|06/10/2026|rod stewart – richard marx",
