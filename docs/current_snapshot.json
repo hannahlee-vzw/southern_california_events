@@ -1,5 +1,410 @@
 [
   {
+    "key": "sofi stadium|06/12/2026|usa vs. paraguay – fifa world cup 26™",
+    "venue": "SoFi Stadium",
+    "day": "Friday",
+    "date": "06/12/2026",
+    "time": "6:00 PM",
+    "name": "USA vs. Paraguay – FIFA World Cup 26™",
+    "link": "https://www.sofistadium.com/events/detail/fifa-world-cup-usa-paraguay"
+  },
+  {
+    "key": "sofi stadium|06/15/2026|ir iran vs. new zealand – fifa world cup 26™",
+    "venue": "SoFi Stadium",
+    "day": "Monday",
+    "date": "06/15/2026",
+    "time": "6:00 PM",
+    "name": "IR Iran vs. New Zealand – FIFA World Cup 26™",
+    "link": "https://www.sofistadium.com/events/detail/fifa-world-cup-iran-new-zealand"
+  },
+  {
+    "key": "sofi stadium|06/18/2026|switzerland vs. bosnia and herzegovina – fifa world cup 26™",
+    "venue": "SoFi Stadium",
+    "day": "Thursday",
+    "date": "06/18/2026",
+    "time": "12:00 PM",
+    "name": "Switzerland vs. Bosnia and Herzegovina – FIFA World Cup 26™",
+    "link": "https://www.sofistadium.com/events/detail/fifa-world-cup-switzerland-vs-bosnia-and-herzegovina"
+  },
+  {
+    "key": "sofi stadium|06/21/2026|belgium vs. ir iran – fifa world cup 26™",
+    "venue": "SoFi Stadium",
+    "day": "Sunday",
+    "date": "06/21/2026",
+    "time": "12:00 PM",
+    "name": "Belgium vs. IR Iran – FIFA World Cup 26™",
+    "link": "https://www.sofistadium.com/events/detail/fifa-world-cup-belgium-iran"
+  },
+  {
+    "key": "sofi stadium|06/25/2026|türkiye vs. usa – fifa world cup 26™",
+    "venue": "SoFi Stadium",
+    "day": "Thursday",
+    "date": "06/25/2026",
+    "time": "7:00 PM",
+    "name": "Türkiye vs. USA – FIFA World Cup 26™",
+    "link": "https://www.sofistadium.com/events/detail/fifa-world-cup-turkiye-vs-usa"
+  },
+  {
+    "key": "sofi stadium|06/28/2026|round of 32: tbd vs. tbd – fifa world cup 26™",
+    "venue": "SoFi Stadium",
+    "day": "Sunday",
+    "date": "06/28/2026",
+    "time": "12:00 PM",
+    "name": "Round of 32: TBD vs. TBD – FIFA World Cup 26™",
+    "link": "https://www.sofistadium.com/events/detail/fifa-world-cup-roundof32-june28"
+  },
+  {
+    "key": "sofi stadium|07/02/2026|round of 32: tbd vs. tbd – fifa world cup 26™",
+    "venue": "SoFi Stadium",
+    "day": "Thursday",
+    "date": "07/02/2026",
+    "time": "12:00 PM",
+    "name": "Round of 32: TBD vs. TBD – FIFA World Cup 26™",
+    "link": "https://www.sofistadium.com/events/detail/fifa-world-cup-roundof32-july2"
+  },
+  {
+    "key": "sofi stadium|07/10/2026|quarterfinals: tbd vs. tbd – fifa world cup 26™",
+    "venue": "SoFi Stadium",
+    "day": "Friday",
+    "date": "07/10/2026",
+    "time": "12:00 PM",
+    "name": "Quarterfinals: TBD vs. TBD – FIFA World Cup 26™",
+    "link": "https://www.sofistadium.com/events/detail/fifa-world-cup-quarterfinal-july10"
+  },
+  {
+    "key": "sofi stadium|08/08/2026|ed sheeran – with myles smith, sigrid, aaron rowe",
+    "venue": "SoFi Stadium",
+    "day": "Saturday",
+    "date": "08/08/2026",
+    "time": "5:30 PM",
+    "name": "Ed Sheeran – With Myles Smith, Sigrid, Aaron Rowe",
+    "link": "https://www.sofistadium.com/events/detail/ed-sheeran-august-8-2026"
+  },
+  {
+    "key": "sofi stadium|08/14/2026|karol g - viajando por el mundo tropitour",
+    "venue": "SoFi Stadium",
+    "day": "Friday",
+    "date": "08/14/2026",
+    "time": "7:00 PM",
+    "name": "KAROL G - VIAJANDO POR EL MUNDO TROPITOUR",
+    "link": "https://www.sofistadium.com/events/detail/karol-g-august-14"
+  },
+  {
+    "key": "sofi stadium|08/15/2026|karol g - viajando por el mundo tropitour",
+    "venue": "SoFi Stadium",
+    "day": "Saturday",
+    "date": "08/15/2026",
+    "time": "7:00 PM",
+    "name": "KAROL G - VIAJANDO POR EL MUNDO TROPITOUR",
+    "link": "https://www.sofistadium.com/events/detail/karol-g-august-15"
+  },
+  {
+    "key": "sofi stadium|08/16/2026|karol g - viajando por el mundo tropitour",
+    "venue": "SoFi Stadium",
+    "day": "Sunday",
+    "date": "08/16/2026",
+    "time": "7:00 PM",
+    "name": "KAROL G - VIAJANDO POR EL MUNDO TROPITOUR",
+    "link": "https://www.sofistadium.com/events/detail/karol-g-august-16"
+  },
+  {
+    "key": "sofi stadium|08/20/2026|chargers vs 49ers – preseason",
+    "venue": "SoFi Stadium",
+    "day": "Thursday",
+    "date": "08/20/2026",
+    "time": "7:00 PM",
+    "name": "Chargers vs 49ers – Preseason",
+    "link": "https://www.sofistadium.com/events/detail/chargers-49ers-preseason-2026"
+  },
+  {
+    "key": "sofi stadium|08/22/2026|rams vs. saints – preseason",
+    "venue": "SoFi Stadium",
+    "day": "Saturday",
+    "date": "08/22/2026",
+    "time": "1:00 PM",
+    "name": "Rams vs. Saints – Preseason",
+    "link": "https://www.sofistadium.com/events/detail/rams-saints-preseason-2026"
+  },
+  {
+    "key": "sofi stadium|08/27/2026|chargers vs rams – preseason",
+    "venue": "SoFi Stadium",
+    "day": "Thursday",
+    "date": "08/27/2026",
+    "time": "7:00 PM",
+    "name": "Chargers vs Rams – Preseason",
+    "link": "https://www.sofistadium.com/events/detail/chargers-rams-preseason-2026"
+  },
+  {
+    "key": "sofi stadium|09/01/2026|bts – bts world tour ‘arirang’ in los angeles",
+    "venue": "SoFi Stadium",
+    "day": "Tuesday",
+    "date": "09/01/2026",
+    "time": "8:00 PM",
+    "name": "BTS – BTS WORLD TOUR ‘ARIRANG’ IN LOS ANGELES",
+    "link": "https://www.sofistadium.com/events/detail/bts-september-1-2026"
+  },
+  {
+    "key": "sofi stadium|09/02/2026|bts – bts world tour ‘arirang’ in los angeles",
+    "venue": "SoFi Stadium",
+    "day": "Wednesday",
+    "date": "09/02/2026",
+    "time": "8:00 PM",
+    "name": "BTS – BTS WORLD TOUR ‘ARIRANG’ IN LOS ANGELES",
+    "link": "https://www.sofistadium.com/events/detail/bts-september-2-2026"
+  },
+  {
+    "key": "sofi stadium|09/05/2026|bts – bts world tour ‘arirang’ in los angeles",
+    "venue": "SoFi Stadium",
+    "day": "Saturday",
+    "date": "09/05/2026",
+    "time": "8:00 PM",
+    "name": "BTS – BTS WORLD TOUR ‘ARIRANG’ IN LOS ANGELES",
+    "link": "https://www.sofistadium.com/events/detail/bts-september-5-2026"
+  },
+  {
+    "key": "sofi stadium|09/06/2026|bts – bts world tour ‘arirang’ in los angeles",
+    "venue": "SoFi Stadium",
+    "day": "Sunday",
+    "date": "09/06/2026",
+    "time": "8:00 PM",
+    "name": "BTS – BTS WORLD TOUR ‘ARIRANG’ IN LOS ANGELES",
+    "link": "https://www.sofistadium.com/events/detail/bts-september-6-2026"
+  },
+  {
+    "key": "sofi stadium|09/13/2026|chargers vs. cardinals – week 1",
+    "venue": "SoFi Stadium",
+    "day": "Sunday",
+    "date": "09/13/2026",
+    "time": "1:25 PM",
+    "name": "Chargers vs. Cardinals – Week 1",
+    "link": "https://www.sofistadium.com/events/detail/chargers-cardinals-2026"
+  },
+  {
+    "key": "sofi stadium|09/20/2026|chargers vs. raiders – week 2",
+    "venue": "SoFi Stadium",
+    "day": "Sunday",
+    "date": "09/20/2026",
+    "time": "1:05 PM",
+    "name": "Chargers vs. Raiders – Week 2",
+    "link": "https://www.sofistadium.com/events/detail/chargers-raiders-2026"
+  },
+  {
+    "key": "sofi stadium|09/21/2026|rams vs. giants – week 2",
+    "venue": "SoFi Stadium",
+    "day": "Monday",
+    "date": "09/21/2026",
+    "time": "5:15 PM",
+    "name": "Rams vs. Giants – Week 2",
+    "link": "https://www.sofistadium.com/events/detail/rams-giants-2026"
+  },
+  {
+    "key": "sofi stadium|09/25/2026|the r&b tour - starring usher raymond & chris brown",
+    "venue": "SoFi Stadium",
+    "day": "Friday",
+    "date": "09/25/2026",
+    "time": "7:00 PM",
+    "name": "The R&B Tour - Starring Usher Raymond & Chris Brown",
+    "link": "https://www.sofistadium.com/events/detail/chris-brown-usher-september-25"
+  },
+  {
+    "key": "sofi stadium|09/26/2026|the r&b tour - starring usher raymond & chris brown",
+    "venue": "SoFi Stadium",
+    "day": "Saturday",
+    "date": "09/26/2026",
+    "time": "7:00 PM",
+    "name": "The R&B Tour - Starring Usher Raymond & Chris Brown",
+    "link": "https://www.sofistadium.com/events/detail/chris-brown-usher-september-26"
+  },
+  {
+    "key": "sofi stadium|09/30/2026|bruno mars – the romantic tour with anderson.paak as dj pee.wee",
+    "venue": "SoFi Stadium",
+    "day": "Wednesday",
+    "date": "09/30/2026",
+    "time": "7:00 PM",
+    "name": "Bruno Mars – The Romantic Tour with Anderson.Paak as DJ Pee.Wee",
+    "link": "https://www.sofistadium.com/events/detail/bruno-mars-september-30"
+  },
+  {
+    "key": "sofi stadium|10/02/2026|bruno mars – the romantic tour with anderson.paak as dj pee.wee and raye",
+    "venue": "SoFi Stadium",
+    "day": "Friday",
+    "date": "10/02/2026",
+    "time": "7:00 PM",
+    "name": "Bruno Mars – The Romantic Tour with Anderson.Paak as DJ Pee.Wee and Raye",
+    "link": "https://www.sofistadium.com/events/detail/bruno-mars-october-2"
+  },
+  {
+    "key": "sofi stadium|10/03/2026|bruno mars – the romantic tour with anderson.paak as dj pee.wee and raye",
+    "venue": "SoFi Stadium",
+    "day": "Saturday",
+    "date": "10/03/2026",
+    "time": "7:00 PM",
+    "name": "Bruno Mars – The Romantic Tour with Anderson.Paak as DJ Pee.Wee and Raye",
+    "link": "https://www.sofistadium.com/events/detail/bruno-mars-october-3"
+  },
+  {
+    "key": "sofi stadium|10/06/2026|bruno mars – the romantic tour with anderson.paak as dj pee.wee and raye",
+    "venue": "SoFi Stadium",
+    "day": "Tuesday",
+    "date": "10/06/2026",
+    "time": "7:00 PM",
+    "name": "Bruno Mars – The Romantic Tour with Anderson.Paak as DJ Pee.Wee and Raye",
+    "link": "https://www.sofistadium.com/events/detail/bruno-mars-october-6"
+  },
+  {
+    "key": "sofi stadium|10/07/2026|bruno mars – the romantic tour with anderson.paak as dj pee.wee and raye",
+    "venue": "SoFi Stadium",
+    "day": "Wednesday",
+    "date": "10/07/2026",
+    "time": "7:00 PM",
+    "name": "Bruno Mars – The Romantic Tour with Anderson.Paak as DJ Pee.Wee and Raye",
+    "link": "https://www.sofistadium.com/events/detail/bruno-mars-october-7"
+  },
+  {
+    "key": "sofi stadium|10/11/2026|chargers vs. broncos – week 5",
+    "venue": "SoFi Stadium",
+    "day": "Sunday",
+    "date": "10/11/2026",
+    "time": "1:05 PM",
+    "name": "Chargers vs. Broncos – Week 5",
+    "link": "https://www.sofistadium.com/events/detail/chargers-broncos-2026"
+  },
+  {
+    "key": "sofi stadium|10/12/2026|rams vs. bills – week 5",
+    "venue": "SoFi Stadium",
+    "day": "Monday",
+    "date": "10/12/2026",
+    "time": "5:15 PM",
+    "name": "Rams vs. Bills – Week 5",
+    "link": "https://www.sofistadium.com/events/detail/rams-bills-2026"
+  },
+  {
+    "key": "sofi stadium|10/18/2026|rams vs. cardinals – week 6",
+    "venue": "SoFi Stadium",
+    "day": "Sunday",
+    "date": "10/18/2026",
+    "time": "1:05 PM",
+    "name": "Rams vs. Cardinals – Week 6",
+    "link": "https://www.sofistadium.com/events/detail/rams-cardinals-2026"
+  },
+  {
+    "key": "sofi stadium|10/23/2026|jaÿ-z 30",
+    "venue": "SoFi Stadium",
+    "day": "Friday",
+    "date": "10/23/2026",
+    "time": "8:00 PM",
+    "name": "JAŸ-Z 30",
+    "link": "https://www.sofistadium.com/events/detail/jay-z-october-23-2026"
+  },
+  {
+    "key": "sofi stadium|11/01/2026|rams vs. chargers – week 8",
+    "venue": "SoFi Stadium",
+    "day": "Sunday",
+    "date": "11/01/2026",
+    "time": "1:05 PM",
+    "name": "Rams vs. Chargers – Week 8",
+    "link": "https://www.sofistadium.com/events/detail/rams-chargers-2026"
+  },
+  {
+    "key": "sofi stadium|11/08/2026|chargers vs. texans – week 9",
+    "venue": "SoFi Stadium",
+    "day": "Sunday",
+    "date": "11/08/2026",
+    "time": "1:05 PM",
+    "name": "Chargers vs. Texans – Week 9",
+    "link": "https://www.sofistadium.com/events/detail/chargers-texans-2026"
+  },
+  {
+    "key": "sofi stadium|11/15/2026|the r&b tour - starring usher raymond & chris brown",
+    "venue": "SoFi Stadium",
+    "day": "Sunday",
+    "date": "11/15/2026",
+    "time": "7:00 PM",
+    "name": "The R&B Tour - Starring Usher Raymond & Chris Brown",
+    "link": "https://www.sofistadium.com/events/detail/chris-brown-usher-november-15"
+  },
+  {
+    "key": "sofi stadium|11/22/2026|chargers vs. jets – week 11",
+    "venue": "SoFi Stadium",
+    "day": "Sunday",
+    "date": "11/22/2026",
+    "time": "1:05 PM",
+    "name": "Chargers vs. Jets – Week 11",
+    "link": "https://www.sofistadium.com/events/detail/chargers-jets-2026"
+  },
+  {
+    "key": "sofi stadium|11/25/2026|rams vs. packers – week 12",
+    "venue": "SoFi Stadium",
+    "day": "Wednesday",
+    "date": "11/25/2026",
+    "time": "5:00 PM",
+    "name": "Rams vs. Packers – Week 12",
+    "link": "https://www.sofistadium.com/events/detail/rams-packers-2026"
+  },
+  {
+    "key": "sofi stadium|11/29/2026|chargers vs. patriots – week 12",
+    "venue": "SoFi Stadium",
+    "day": "Sunday",
+    "date": "11/29/2026",
+    "time": "5:20 PM",
+    "name": "Chargers vs. Patriots – Week 12",
+    "link": "https://www.sofistadium.com/events/detail/chargers-patriots-2026"
+  },
+  {
+    "key": "sofi stadium|12/03/2026|rams vs. chiefs – week 13",
+    "venue": "SoFi Stadium",
+    "day": "Thursday",
+    "date": "12/03/2026",
+    "time": "5:15 PM",
+    "name": "Rams vs. Chiefs – Week 13",
+    "link": "https://www.sofistadium.com/events/detail/rams-chiefs-2026"
+  },
+  {
+    "key": "sofi stadium|12/17/2026|chargers vs. 49ers – week 15",
+    "venue": "SoFi Stadium",
+    "day": "Thursday",
+    "date": "12/17/2026",
+    "time": "5:15 PM",
+    "name": "Chargers vs. 49ers – Week 15",
+    "link": "https://www.sofistadium.com/events/detail/chargers-49ers-2026"
+  },
+  {
+    "key": "sofi stadium|12/20/2026|rams vs. cowboys – week 15",
+    "venue": "SoFi Stadium",
+    "day": "Sunday",
+    "date": "12/20/2026",
+    "time": "1:25 PM",
+    "name": "Rams vs. Cowboys – Week 15",
+    "link": "https://www.sofistadium.com/events/detail/rams-cowboys-2026"
+  },
+  {
+    "key": "sofi stadium|TBA|chargers vs. chiefs – week 17",
+    "venue": "SoFi Stadium",
+    "day": "TBA",
+    "date": "TBA",
+    "time": "TBA",
+    "name": "Chargers vs. Chiefs – Week 17",
+    "link": "https://www.sofistadium.com/events/detail/chargers-chiefs-2026"
+  },
+  {
+    "key": "sofi stadium|TBA|rams vs. seahawks – week 18",
+    "venue": "SoFi Stadium",
+    "day": "TBA",
+    "date": "TBA",
+    "time": "TBA",
+    "name": "Rams vs. Seahawks – Week 18",
+    "link": "https://www.sofistadium.com/events/detail/rams-seahawks-2027"
+  },
+  {
+    "key": "sofi stadium|02/14/2027|super bowl lxi",
+    "venue": "SoFi Stadium",
+    "day": "Sunday",
+    "date": "02/14/2027",
+    "time": "TBA",
+    "name": "Super Bowl LXI",
+    "link": "https://www.sofistadium.com/events/detail/super-bowl-lxi"
+  },
+  {
     "key": "intuit dome|01/12/2026|olivia rodrigo",
     "venue": "Intuit Dome",
     "day": "Monday",
@@ -331,15 +736,6 @@
     "time": "7:00 PM",
     "name": "Three Days Grace",
     "link": "https://www.intuitdome.com/events/event-schedule/3149?utm_source=IDwebsite&utm_medium=eventschedule&utm_campaign=IDevents26&utm_content=three_days_grace_261122"
-  },
-  {
-    "key": "kia forum|06/09/2026|rush – fifty something",
-    "venue": "Kia Forum",
-    "day": "Tuesday",
-    "date": "06/09/2026",
-    "time": "7:00 PM",
-    "name": "RUSH – Fifty Something",
-    "link": "https://thekiaforum.com/event/rush-2/"
   },
   {
     "key": "kia forum|06/11/2026|rush – fifty something",
@@ -855,6 +1251,15 @@
     "link": "https://thekiaforum.com/event/niall-horan/"
   },
   {
+    "key": "dignity health sports park|07/11/2026|la galaxy vs club américa",
+    "venue": "Dignity Health Sports Park",
+    "day": "Saturday",
+    "date": "07/11/2026",
+    "time": "TBA",
+    "name": "LA Galaxy vs Club América",
+    "link": "https://www.dignityhealthsportspark.com/events/detail/la-galaxy-vs-club-america-1"
+  },
+  {
     "key": "dignity health sports park|07/17/2026|la galaxy vs lafc",
     "venue": "Dignity Health Sports Park",
     "day": "Friday",
@@ -979,15 +1384,6 @@
     "time": "10:30 AM",
     "name": "Picture on the Pitch",
     "link": "https://www.rosebowlstadium.com/events/details/652/picture-on-the-pitch"
-  },
-  {
-    "key": "rose bowl stadium|06/26/2026|626 elite youth football camp",
-    "venue": "Rose Bowl Stadium",
-    "day": "Friday",
-    "date": "06/26/2026",
-    "time": "5:00 PM",
-    "name": "626 ELITE YOUTH FOOTBALL CAMP",
-    "link": "https://www.rosebowlstadium.com/events/details/661/626-elite-youth-football-camp"
   },
   {
     "key": "rose bowl stadium|06/27/2026|demo days",
@@ -1123,6 +1519,15 @@
     "time": "8:00 PM",
     "name": "PURDUE VS UCLA",
     "link": "https://www.rosebowlstadium.com/events/details/595/purdue-vs-ucla"
+  },
+  {
+    "key": "rose bowl stadium|10/09/2026|next rung - battle for mental health",
+    "venue": "Rose Bowl Stadium",
+    "day": "Friday",
+    "date": "10/09/2026",
+    "time": "5:00 PM",
+    "name": "Next Rung - Battle for Mental Health",
+    "link": "https://www.rosebowlstadium.com/events/details/662/next-rung-battle-for-mental-health"
   },
   {
     "key": "rose bowl stadium|10/11/2026|rose bowl flea market",
@@ -2506,7 +2911,7 @@
     "venue": "Hollywood Bowl",
     "day": "Friday",
     "date": "06/19/2026",
-    "time": "8:00 PM",
+    "time": "7:00 PM",
     "name": "Chance the Rapper – A Juneteenth Celebration",
     "link": "https://www.hollywoodbowl.com/events/performances/4292/2026-06-19/chance-the-rapper"
   },
