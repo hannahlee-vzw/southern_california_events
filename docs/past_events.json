@@ -2218,5 +2218,35 @@
     "name": "RUSH – Fifty Something",
     "link": "https://thekiaforum.com/event/rush-2/",
     "archived_on": "2026-06-10"
+  },
+  {
+    "key": "crypto.com arena|06/10/2026|fifa countdown concert – davido, major lazer, ava max, and bia",
+    "venue": "Crypto.com Arena",
+    "day": "Wednesday",
+    "date": "06/10/2026",
+    "time": "6:00 PM",
+    "name": "FIFA Countdown Concert – Davido, Major Lazer, Ava Max, and Bia",
+    "link": "https://www.cryptoarena.com/events/detail/fifaconcert26",
+    "archived_on": "2026-06-11"
+  },
+  {
+    "key": "la convention center|06/10/2026|aws summit los angeles 2026",
+    "venue": "LA Convention Center",
+    "day": "Wednesday",
+    "date": "06/10/2026",
+    "time": "TBA",
+    "name": "AWS Summit Los Angeles 2026",
+    "link": "https://www.laconventioncenter.com/events/detail/aws-summit-los-angeles-2026",
+    "archived_on": "2026-06-11"
+  },
+  {
+    "key": "hollywood bowl|06/10/2026|rod stewart – richard marx",
+    "venue": "Hollywood Bowl",
+    "day": "Wednesday",
+    "date": "06/10/2026",
+    "time": "7:30 PM",
+    "name": "Rod Stewart – Richard Marx",
+    "link": "https://www.hollywoodbowl.com/events/performances/4258/2026-06-10/rod-stewart",
+    "archived_on": "2026-06-11"
   }
 ]
