@@ -2248,5 +2248,35 @@
     "name": "Rod Stewart – Richard Marx",
     "link": "https://www.hollywoodbowl.com/events/performances/4258/2026-06-10/rod-stewart",
     "archived_on": "2026-06-11"
+  },
+  {
+    "key": "kia forum|06/11/2026|rush – fifty something",
+    "venue": "Kia Forum",
+    "day": "Thursday",
+    "date": "06/11/2026",
+    "time": "7:00 PM",
+    "name": "RUSH – Fifty Something",
+    "link": "https://thekiaforum.com/event/rush-3/",
+    "archived_on": "2026-06-12"
+  },
+  {
+    "key": "crypto.com arena|06/11/2026|louis tomlinson – how did we get here? world tour 2026 with guests the aces and the royston club",
+    "venue": "Crypto.com Arena",
+    "day": "Thursday",
+    "date": "06/11/2026",
+    "time": "7:00 PM",
+    "name": "Louis Tomlinson – How Did We Get Here? World Tour 2026 with Guests The Aces and The Royston Club",
+    "link": "https://www.cryptoarena.com/events/detail/louistomlinson061126",
+    "archived_on": "2026-06-12"
+  },
+  {
+    "key": "l.a. memorial coliseum|06/11/2026|fifa fan festival™ los angeles",
+    "venue": "L.A. Memorial Coliseum",
+    "day": "Thursday",
+    "date": "06/11/2026",
+    "time": "TBA",
+    "name": "FIFA Fan Festival™ Los Angeles",
+    "link": "https://www.lacoliseum.com/events/fifa-fan-festival-los-angeles/",
+    "archived_on": "2026-06-12"
   }
 ]
