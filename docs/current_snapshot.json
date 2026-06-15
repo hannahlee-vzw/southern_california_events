@@ -117,6 +117,15 @@
     "link": "https://www.sofistadium.com/events/detail/rams-saints-preseason-2026"
   },
   {
+    "key": "sofi stadium|08/23/2026|nfl fantasy draft party – draft your fantasy team at sofi stadium!",
+    "venue": "SoFi Stadium",
+    "day": "Sunday",
+    "date": "08/23/2026",
+    "time": "3:30 PM",
+    "name": "NFL Fantasy Draft Party – Draft Your Fantasy Team at SoFi Stadium!",
+    "link": "https://www.sofistadium.com/events/detail/fantasy-draft-2026"
+  },
+  {
     "key": "sofi stadium|08/27/2026|chargers vs rams – preseason",
     "venue": "SoFi Stadium",
     "day": "Thursday",
@@ -493,15 +502,6 @@
     "time": "8:00 PM",
     "name": "MORAT",
     "link": "https://www.intuitdome.com/events/event-schedule/3967?utm_source=IDwebsite&utm_medium=eventschedule&utm_campaign=IDevents26&utm_content=morat_270226"
-  },
-  {
-    "key": "intuit dome|06/14/2026|shakira: las mujeres ya no lloran world tour 2026",
-    "venue": "Intuit Dome",
-    "day": "Sunday",
-    "date": "06/14/2026",
-    "time": "7:30 PM",
-    "name": "SHAKIRA: Las Mujeres Ya No Lloran World Tour 2026",
-    "link": "https://www.intuitdome.com/events/event-schedule/3672?utm_source=IDwebsite&utm_medium=eventschedule&utm_campaign=IDevents26&utm_content=shakira_260614"
   },
   {
     "key": "intuit dome|06/20/2026|big3",
@@ -1107,6 +1107,15 @@
     "link": "https://thekiaforum.com/event/mon-laferte/"
   },
   {
+    "key": "kia forum|11/08/2026|mon laferte – femme fatale tour",
+    "venue": "Kia Forum",
+    "day": "Sunday",
+    "date": "11/08/2026",
+    "time": "7:00 PM",
+    "name": "MON LAFERTE – Femme Fatale Tour",
+    "link": "https://thekiaforum.com/event/mon-laferte-2/"
+  },
+  {
     "key": "kia forum|11/12/2026|the smashing pumpkins – the rats in a cage tour",
     "venue": "Kia Forum",
     "day": "Thursday",
@@ -1233,6 +1242,15 @@
     "link": "https://www.dignityhealthsportspark.com/events/detail/la-galaxy-vs-lafc"
   },
   {
+    "key": "dignity health sports park|07/18/2026|diego pacheco vs immanuwel aleem",
+    "venue": "Dignity Health Sports Park",
+    "day": "Saturday",
+    "date": "07/18/2026",
+    "time": "TBA",
+    "name": "Diego Pacheco vs Immanuwel Aleem",
+    "link": "https://www.dignityhealthsportspark.com/events/detail/matchroom-boxing-presents-diego-pacheco-vs-immanuwel-aleem"
+  },
+  {
     "key": "dignity health sports park|07/22/2026|la galaxy vs st. louis city sc",
     "venue": "Dignity Health Sports Park",
     "day": "Wednesday",
@@ -1330,15 +1348,6 @@
     "time": "TBA",
     "name": "LA Galaxy vs Austin FC",
     "link": "https://www.dignityhealthsportspark.com/events/detail/la-galaxy-vs-austin-fc"
-  },
-  {
-    "key": "rose bowl stadium|06/14/2026|rose bowl flea market",
-    "venue": "Rose Bowl Stadium",
-    "day": "Sunday",
-    "date": "06/14/2026",
-    "time": "5:00 AM",
-    "name": "ROSE BOWL FLEA MARKET",
-    "link": "https://www.rosebowlstadium.com/events/details/601/rose-bowl-flea-market"
   },
   {
     "key": "rose bowl stadium|06/20/2026|picture on the pitch",
@@ -1618,15 +1627,6 @@
     "time": "TBD",
     "name": "Rose Bowl Half Marathon & 5K",
     "link": "https://www.rosebowlstadium.com/events/details/626/rose-bowl-half-marathon-and-5k"
-  },
-  {
-    "key": "crypto.com arena|06/14/2026|ariana grande – the eternal sunshine tour",
-    "venue": "Crypto.com Arena",
-    "day": "Sunday",
-    "date": "06/14/2026",
-    "time": "8:00 PM",
-    "name": "Ariana Grande – The Eternal Sunshine Tour",
-    "link": "https://www.cryptoarena.com/events/detail/arianagrande26"
   },
   {
     "key": "crypto.com arena|06/17/2026|los angeles sparks vs minnesota lynx – commissioner's cup",
@@ -2025,42 +2025,6 @@
     "link": "https://www.lacoliseum.com/events/maryland-vs-usc-2026/"
   },
   {
-    "key": "la convention center|06/14/2026|la card show",
-    "venue": "LA Convention Center",
-    "day": "Sunday",
-    "date": "06/14/2026",
-    "time": "TBA",
-    "name": "LA Card Show",
-    "link": "https://www.laconventioncenter.com/events/detail/la-card-show"
-  },
-  {
-    "key": "la convention center|06/14/2026|fitted x cod - los angeles",
-    "venue": "LA Convention Center",
-    "day": "Sunday",
-    "date": "06/14/2026",
-    "time": "TBA",
-    "name": "FITTED x COD - LOS ANGELES",
-    "link": "https://www.laconventioncenter.com/events/detail/fitted-cod-los-angeles"
-  },
-  {
-    "key": "la convention center|06/14/2026|horrorcon los angeles",
-    "venue": "LA Convention Center",
-    "day": "Sunday",
-    "date": "06/14/2026",
-    "time": "TBA",
-    "name": "HorrorCon Los Angeles",
-    "link": "https://www.laconventioncenter.com/events/detail/horrorcon-los-angeles-2026"
-  },
-  {
-    "key": "la convention center|06/14/2026|coretcg x one piece regionals",
-    "venue": "LA Convention Center",
-    "day": "Sunday",
-    "date": "06/14/2026",
-    "time": "TBA",
-    "name": "CoreTCG x One Piece Regionals",
-    "link": "https://www.laconventioncenter.com/events/detail/coretcg-one-piece-regionals"
-  },
-  {
     "key": "la convention center|06/19/2026|socal cup: the showcase",
     "venue": "LA Convention Center",
     "day": "Friday",
@@ -2167,6 +2131,15 @@
     "time": "TBA",
     "name": "Smith Chason College Los Angeles Campus Graduation 2026",
     "link": "https://www.laconventioncenter.com/events/detail/smith-chason-college-los-angeles-campus-graduation-2026"
+  },
+  {
+    "key": "la convention center|09/05/2026|los angeles lowrider magazine super show",
+    "venue": "LA Convention Center",
+    "day": "Saturday",
+    "date": "09/05/2026",
+    "time": "TBA",
+    "name": "Los Angeles Lowrider Magazine Super Show",
+    "link": "https://www.laconventioncenter.com/events/detail/los-angeles-lowrider-magazine-super-show"
   },
   {
     "key": "la convention center|09/16/2026|asla 2026 conference on landscape architecture",
@@ -2799,21 +2772,12 @@
     "link": "https://www.mlb.com/gameday/823895"
   },
   {
-    "key": "hollywood bowl|06/14/2026|blue note jazz festival – day two: sunday",
-    "venue": "Hollywood Bowl",
-    "day": "Sunday",
-    "date": "06/14/2026",
-    "time": "6:00 PM",
-    "name": "Blue Note Jazz Festival – Day Two: Sunday",
-    "link": "https://www.hollywoodbowl.com/events/performances/4291/2026-06-14/blue-note-jazz-festival"
-  },
-  {
-    "key": "hollywood bowl|06/19/2026|chance the rapper – a juneteenth celebration",
+    "key": "hollywood bowl|06/19/2026|chance the rapper – a juneteenth celebration, d-nice, vic mensa, dc6 singers collective",
     "venue": "Hollywood Bowl",
     "day": "Friday",
     "date": "06/19/2026",
     "time": "7:00 PM",
-    "name": "Chance the Rapper – A Juneteenth Celebration",
+    "name": "Chance the Rapper – A Juneteenth Celebration, D-Nice, Vic Mensa, DC6 Singers Collective",
     "link": "https://www.hollywoodbowl.com/events/performances/4292/2026-06-19/chance-the-rapper"
   },
   {
