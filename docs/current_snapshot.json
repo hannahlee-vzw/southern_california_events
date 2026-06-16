@@ -1,14 +1,5 @@
 [
   {
-    "key": "sofi stadium|06/15/2026|ir iran vs. new zealand – fifa world cup 26™",
-    "venue": "SoFi Stadium",
-    "day": "Monday",
-    "date": "06/15/2026",
-    "time": "6:00 PM",
-    "name": "IR Iran vs. New Zealand – FIFA World Cup 26™",
-    "link": "https://www.sofistadium.com/events/detail/fifa-world-cup-iran-new-zealand"
-  },
-  {
     "key": "sofi stadium|06/18/2026|switzerland vs. bosnia and herzegovina – fifa world cup 26™",
     "venue": "SoFi Stadium",
     "day": "Thursday",
@@ -1359,6 +1350,15 @@
     "link": "https://www.rosebowlstadium.com/events/details/652/picture-on-the-pitch"
   },
   {
+    "key": "rose bowl stadium|06/26/2026|pasadena elite youth football camp",
+    "venue": "Rose Bowl Stadium",
+    "day": "Friday",
+    "date": "06/26/2026",
+    "time": "5:00 PM",
+    "name": "PASADENA ELITE YOUTH FOOTBALL CAMP",
+    "link": "https://www.rosebowlstadium.com/events/details/661/pasadena-elite-youth-football-camp"
+  },
+  {
     "key": "rose bowl stadium|06/27/2026|demo days",
     "venue": "Rose Bowl Stadium",
     "day": "Saturday",
@@ -2347,15 +2347,6 @@
     "time": "TBA",
     "name": "American Association of Thoracic Surgery Annual Meeting",
     "link": "https://www.laconventioncenter.com/events/detail/aats-annual-mtg-2027"
-  },
-  {
-    "key": "dodger stadium|06/15/2026|vs. tampa bay rays",
-    "venue": "Dodger Stadium",
-    "day": "Monday",
-    "date": "06/15/2026",
-    "time": "7:10 PM",
-    "name": "vs. Tampa Bay Rays",
-    "link": "https://www.mlb.com/gameday/823938"
   },
   {
     "key": "dodger stadium|06/16/2026|vs. tampa bay rays",

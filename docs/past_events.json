@@ -2448,5 +2448,25 @@
     "name": "Blue Note Jazz Festival – Day Two: Sunday",
     "link": "https://www.hollywoodbowl.com/events/performances/4291/2026-06-14/blue-note-jazz-festival",
     "archived_on": "2026-06-15"
+  },
+  {
+    "key": "sofi stadium|06/15/2026|ir iran vs. new zealand – fifa world cup 26™",
+    "venue": "SoFi Stadium",
+    "day": "Monday",
+    "date": "06/15/2026",
+    "time": "6:00 PM",
+    "name": "IR Iran vs. New Zealand – FIFA World Cup 26™",
+    "link": "https://www.sofistadium.com/events/detail/fifa-world-cup-iran-new-zealand",
+    "archived_on": "2026-06-16"
+  },
+  {
+    "key": "dodger stadium|06/15/2026|vs. tampa bay rays",
+    "venue": "Dodger Stadium",
+    "day": "Monday",
+    "date": "06/15/2026",
+    "time": "7:10 PM",
+    "name": "vs. Tampa Bay Rays",
+    "link": "https://www.mlb.com/gameday/823938",
+    "archived_on": "2026-06-16"
   }
 ]
