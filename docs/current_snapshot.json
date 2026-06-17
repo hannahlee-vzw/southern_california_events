@@ -630,6 +630,33 @@
     "link": "https://www.intuitdome.com/events/event-schedule/4033?utm_source=IDwebsite&utm_medium=eventschedule&utm_campaign=IDevents26&utm_content=kehlani_260924"
   },
   {
+    "key": "intuit dome|09/24/2026|laver cup 2027",
+    "venue": "Intuit Dome",
+    "day": "Thursday",
+    "date": "09/24/2026",
+    "time": "1:00 PM",
+    "name": "Laver Cup 2027",
+    "link": "https://www.intuitdome.com/events/event-schedule"
+  },
+  {
+    "key": "intuit dome|09/25/2026|laver cup 2027",
+    "venue": "Intuit Dome",
+    "day": "Friday",
+    "date": "09/25/2026",
+    "time": "1:00 PM",
+    "name": "Laver Cup 2027",
+    "link": "https://www.intuitdome.com/events/event-schedule"
+  },
+  {
+    "key": "intuit dome|09/26/2026|laver cup 2027",
+    "venue": "Intuit Dome",
+    "day": "Saturday",
+    "date": "09/26/2026",
+    "time": "12:00 PM",
+    "name": "Laver Cup 2027",
+    "link": "https://www.intuitdome.com/events/event-schedule"
+  },
+  {
     "key": "intuit dome|10/03/2026|aespa live tour – synk : complæxity – in los angeles",
     "venue": "Intuit Dome",
     "day": "Saturday",
@@ -2196,6 +2223,15 @@
     "link": "https://www.laconventioncenter.com/events/detail/riftbound-regional-qualifier"
   },
   {
+    "key": "la convention center|10/03/2026|complexcon 2026",
+    "venue": "LA Convention Center",
+    "day": "Saturday",
+    "date": "10/03/2026",
+    "time": "TBA",
+    "name": "ComplexCon 2026",
+    "link": "https://www.laconventioncenter.com/events/detail/complexcon-los-angeles-2026"
+  },
+  {
     "key": "la convention center|10/07/2026|38th annual scanph conference",
     "venue": "LA Convention Center",
     "day": "Wednesday",
@@ -2347,15 +2383,6 @@
     "time": "TBA",
     "name": "American Association of Thoracic Surgery Annual Meeting",
     "link": "https://www.laconventioncenter.com/events/detail/aats-annual-mtg-2027"
-  },
-  {
-    "key": "dodger stadium|06/16/2026|vs. tampa bay rays",
-    "venue": "Dodger Stadium",
-    "day": "Tuesday",
-    "date": "06/16/2026",
-    "time": "7:10 PM",
-    "name": "vs. Tampa Bay Rays",
-    "link": "https://www.mlb.com/gameday/823939"
   },
   {
     "key": "dodger stadium|06/17/2026|vs. tampa bay rays",
