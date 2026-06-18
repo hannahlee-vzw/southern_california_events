@@ -1,14 +1,5 @@
 [
   {
-    "key": "sofi stadium|06/18/2026|switzerland vs. bosnia and herzegovina – fifa world cup 26™",
-    "venue": "SoFi Stadium",
-    "day": "Thursday",
-    "date": "06/18/2026",
-    "time": "12:00 PM",
-    "name": "Switzerland vs. Bosnia and Herzegovina – FIFA World Cup 26™",
-    "link": "https://www.sofistadium.com/events/detail/fifa-world-cup-switzerland-vs-bosnia-and-herzegovina"
-  },
-  {
     "key": "sofi stadium|06/21/2026|belgium vs. ir iran – fifa world cup 26™",
     "venue": "SoFi Stadium",
     "day": "Sunday",
@@ -657,6 +648,15 @@
     "link": "https://www.intuitdome.com/events/event-schedule"
   },
   {
+    "key": "intuit dome|10/01/2026|rod wave",
+    "venue": "Intuit Dome",
+    "day": "Thursday",
+    "date": "10/01/2026",
+    "time": "8:30 PM",
+    "name": "Rod Wave",
+    "link": "https://www.intuitdome.com/events/event-schedule/4161?utm_source=IDwebsite&utm_medium=eventschedule&utm_campaign=IDevents26&utm_content=rod_wave_261001"
+  },
+  {
     "key": "intuit dome|10/03/2026|aespa live tour – synk : complæxity – in los angeles",
     "venue": "Intuit Dome",
     "day": "Saturday",
@@ -736,15 +736,6 @@
     "time": "7:00 PM",
     "name": "Three Days Grace",
     "link": "https://www.intuitdome.com/events/event-schedule/3149?utm_source=IDwebsite&utm_medium=eventschedule&utm_campaign=IDevents26&utm_content=three_days_grace_261122"
-  },
-  {
-    "key": "kia forum|06/17/2026|ariana grande – the eternal sunshine tour",
-    "venue": "Kia Forum",
-    "day": "Wednesday",
-    "date": "06/17/2026",
-    "time": "7:00 PM",
-    "name": "ARIANA GRANDE – The Eternal Sunshine Tour",
-    "link": "https://thekiaforum.com/event/ariana-grande-2/"
   },
   {
     "key": "kia forum|06/19/2026|ariana grande – the eternal sunshine tour",
@@ -1368,15 +1359,6 @@
     "link": "https://www.dignityhealthsportspark.com/events/detail/la-galaxy-vs-austin-fc"
   },
   {
-    "key": "rose bowl stadium|06/20/2026|picture on the pitch",
-    "venue": "Rose Bowl Stadium",
-    "day": "Saturday",
-    "date": "06/20/2026",
-    "time": "10:30 AM",
-    "name": "Picture on the Pitch",
-    "link": "https://www.rosebowlstadium.com/events/details/652/picture-on-the-pitch"
-  },
-  {
     "key": "rose bowl stadium|06/26/2026|pasadena elite youth football camp",
     "venue": "Rose Bowl Stadium",
     "day": "Friday",
@@ -1654,15 +1636,6 @@
     "time": "TBD",
     "name": "Rose Bowl Half Marathon & 5K",
     "link": "https://www.rosebowlstadium.com/events/details/626/rose-bowl-half-marathon-and-5k"
-  },
-  {
-    "key": "crypto.com arena|06/17/2026|los angeles sparks vs minnesota lynx – commissioner's cup",
-    "venue": "Crypto.com Arena",
-    "day": "Wednesday",
-    "date": "06/17/2026",
-    "time": "7:00 PM",
-    "name": "Los Angeles Sparks vs Minnesota Lynx – Commissioner's Cup",
-    "link": "https://www.cryptoarena.com/events/detail/sparkslynx061726"
   },
   {
     "key": "crypto.com arena|06/18/2026|diljit dosanjh – aura north american tour 2026",
@@ -2259,6 +2232,15 @@
     "link": "https://www.laconventioncenter.com/events/detail/scg-con-los-angeles-2026"
   },
   {
+    "key": "la convention center|10/10/2026|naga grappling championship los angeles",
+    "venue": "LA Convention Center",
+    "day": "Saturday",
+    "date": "10/10/2026",
+    "time": "TBA",
+    "name": "NAGA Grappling Championship Los Angeles",
+    "link": "https://www.laconventioncenter.com/events/detail/naga-grappling-championship-los-angeles"
+  },
+  {
     "key": "la convention center|10/17/2026|american academy of otolaryngology: 2026 aao oto expo",
     "venue": "LA Convention Center",
     "day": "Saturday",
@@ -2383,15 +2365,6 @@
     "time": "TBA",
     "name": "American Association of Thoracic Surgery Annual Meeting",
     "link": "https://www.laconventioncenter.com/events/detail/aats-annual-mtg-2027"
-  },
-  {
-    "key": "dodger stadium|06/17/2026|vs. tampa bay rays",
-    "venue": "Dodger Stadium",
-    "day": "Wednesday",
-    "date": "06/17/2026",
-    "time": "12:10 PM",
-    "name": "vs. Tampa Bay Rays",
-    "link": "https://www.mlb.com/gameday/823940"
   },
   {
     "key": "dodger stadium|06/19/2026|vs. baltimore orioles",

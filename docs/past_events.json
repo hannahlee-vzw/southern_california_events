@@ -2478,5 +2478,35 @@
     "name": "vs. Tampa Bay Rays",
     "link": "https://www.mlb.com/gameday/823939",
     "archived_on": "2026-06-17"
+  },
+  {
+    "key": "kia forum|06/17/2026|ariana grande – the eternal sunshine tour",
+    "venue": "Kia Forum",
+    "day": "Wednesday",
+    "date": "06/17/2026",
+    "time": "7:00 PM",
+    "name": "ARIANA GRANDE – The Eternal Sunshine Tour",
+    "link": "https://thekiaforum.com/event/ariana-grande-2/",
+    "archived_on": "2026-06-18"
+  },
+  {
+    "key": "crypto.com arena|06/17/2026|los angeles sparks vs minnesota lynx – commissioner's cup",
+    "venue": "Crypto.com Arena",
+    "day": "Wednesday",
+    "date": "06/17/2026",
+    "time": "7:00 PM",
+    "name": "Los Angeles Sparks vs Minnesota Lynx – Commissioner's Cup",
+    "link": "https://www.cryptoarena.com/events/detail/sparkslynx061726",
+    "archived_on": "2026-06-18"
+  },
+  {
+    "key": "dodger stadium|06/17/2026|vs. tampa bay rays",
+    "venue": "Dodger Stadium",
+    "day": "Wednesday",
+    "date": "06/17/2026",
+    "time": "12:10 PM",
+    "name": "vs. Tampa Bay Rays",
+    "link": "https://www.mlb.com/gameday/823940",
+    "archived_on": "2026-06-18"
   }
 ]
