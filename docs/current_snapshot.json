@@ -738,15 +738,6 @@
     "link": "https://www.intuitdome.com/events/event-schedule/3149?utm_source=IDwebsite&utm_medium=eventschedule&utm_campaign=IDevents26&utm_content=three_days_grace_261122"
   },
   {
-    "key": "kia forum|06/19/2026|ariana grande – the eternal sunshine tour",
-    "venue": "Kia Forum",
-    "day": "Friday",
-    "date": "06/19/2026",
-    "time": "7:00 PM",
-    "name": "ARIANA GRANDE – The Eternal Sunshine Tour",
-    "link": "https://thekiaforum.com/event/ariana-grande/"
-  },
-  {
     "key": "kia forum|06/20/2026|ariana grande – the eternal sunshine tour",
     "venue": "Kia Forum",
     "day": "Saturday",
@@ -2016,10 +2007,10 @@
     "link": "https://www.lacoliseum.com/events/maryland-vs-usc-2026/"
   },
   {
-    "key": "la convention center|06/19/2026|socal cup: the showcase",
+    "key": "la convention center|06/20/2026|socal cup: the showcase",
     "venue": "LA Convention Center",
-    "day": "Friday",
-    "date": "06/19/2026",
+    "day": "Saturday",
+    "date": "06/20/2026",
     "time": "TBA",
     "name": "SoCal Cup: The Showcase",
     "link": "https://www.laconventioncenter.com/events/detail/socal-cup-the-showcase-1"
@@ -2356,15 +2347,6 @@
     "time": "TBA",
     "name": "American Association of Thoracic Surgery Annual Meeting",
     "link": "https://www.laconventioncenter.com/events/detail/aats-annual-mtg-2027"
-  },
-  {
-    "key": "dodger stadium|06/19/2026|vs. baltimore orioles",
-    "venue": "Dodger Stadium",
-    "day": "Friday",
-    "date": "06/19/2026",
-    "time": "7:10 PM",
-    "name": "vs. Baltimore Orioles",
-    "link": "https://www.mlb.com/gameday/823936"
   },
   {
     "key": "dodger stadium|06/20/2026|vs. baltimore orioles",
@@ -2752,15 +2734,6 @@
     "time": "7:10 PM",
     "name": "vs. San Diego Padres",
     "link": "https://www.mlb.com/gameday/823895"
-  },
-  {
-    "key": "hollywood bowl|06/19/2026|chance the rapper – a juneteenth celebration, d-nice, vic mensa, dc6 singers collective",
-    "venue": "Hollywood Bowl",
-    "day": "Friday",
-    "date": "06/19/2026",
-    "time": "7:00 PM",
-    "name": "Chance the Rapper – A Juneteenth Celebration, D-Nice, Vic Mensa, DC6 Singers Collective",
-    "link": "https://www.hollywoodbowl.com/events/performances/4292/2026-06-19/chance-the-rapper"
   },
   {
     "key": "hollywood bowl|06/20/2026|opening night at the bowl: the best of broadway",
