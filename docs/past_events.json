@@ -2558,5 +2558,55 @@
     "name": "Chance the Rapper – A Juneteenth Celebration, D-Nice, Vic Mensa, DC6 Singers Collective",
     "link": "https://www.hollywoodbowl.com/events/performances/4292/2026-06-19/chance-the-rapper",
     "archived_on": "2026-06-20"
+  },
+  {
+    "key": "intuit dome|06/20/2026|big3",
+    "venue": "Intuit Dome",
+    "day": "Saturday",
+    "date": "06/20/2026",
+    "time": "12:30 PM",
+    "name": "BIG3",
+    "link": "https://www.intuitdome.com/events/event-schedule/3898?utm_source=IDwebsite&utm_medium=eventschedule&utm_campaign=IDevents26&utm_content=big3_260620",
+    "archived_on": "2026-06-21"
+  },
+  {
+    "key": "kia forum|06/20/2026|ariana grande – the eternal sunshine tour",
+    "venue": "Kia Forum",
+    "day": "Saturday",
+    "date": "06/20/2026",
+    "time": "7:00 PM",
+    "name": "ARIANA GRANDE – The Eternal Sunshine Tour",
+    "link": "https://thekiaforum.com/event/ariana-grande-3/",
+    "archived_on": "2026-06-21"
+  },
+  {
+    "key": "la convention center|06/20/2026|socal cup: the showcase",
+    "venue": "LA Convention Center",
+    "day": "Saturday",
+    "date": "06/20/2026",
+    "time": "TBA",
+    "name": "SoCal Cup: The Showcase",
+    "link": "https://www.laconventioncenter.com/events/detail/socal-cup-the-showcase-1",
+    "archived_on": "2026-06-21"
+  },
+  {
+    "key": "dodger stadium|06/20/2026|vs. baltimore orioles",
+    "venue": "Dodger Stadium",
+    "day": "Saturday",
+    "date": "06/20/2026",
+    "time": "7:10 PM",
+    "name": "vs. Baltimore Orioles",
+    "link": "https://www.mlb.com/gameday/823937",
+    "archived_on": "2026-06-21"
+  },
+  {
+    "key": "hollywood bowl|06/20/2026|opening night at the bowl: the best of broadway",
+    "venue": "Hollywood Bowl",
+    "day": "Saturday",
+    "date": "06/20/2026",
+    "time": "8:00 PM",
+    "name": "Opening Night at the Bowl: The Best of Broadway",
+    "link": "https://www.hollywoodbowl.com/events/performances/4247/2026-06-20/opening-night-at-the-bowl-the-best-of-broadway",
+    "archived_on": "2026-06-21"
   }
 ]
