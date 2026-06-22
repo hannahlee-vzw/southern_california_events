@@ -1,14 +1,5 @@
 [
   {
-    "key": "sofi stadium|06/21/2026|belgium vs. ir iran – fifa world cup 26™",
-    "venue": "SoFi Stadium",
-    "day": "Sunday",
-    "date": "06/21/2026",
-    "time": "12:00 PM",
-    "name": "Belgium vs. IR Iran – FIFA World Cup 26™",
-    "link": "https://www.sofistadium.com/events/detail/fifa-world-cup-belgium-iran"
-  },
-  {
     "key": "sofi stadium|06/25/2026|türkiye vs. usa – fifa world cup 26™",
     "venue": "SoFi Stadium",
     "day": "Thursday",
@@ -475,6 +466,15 @@
     "time": "7:00 PM",
     "name": "Olivia Rodrigo",
     "link": "https://www.intuitdome.com/events/event-schedule/3918?utm_source=IDwebsite&utm_medium=eventschedule&utm_campaign=IDevents26&utm_content=olivia_rodrigo_270129"
+  },
+  {
+    "key": "intuit dome|02/12/2026|don omar",
+    "venue": "Intuit Dome",
+    "day": "Thursday",
+    "date": "02/12/2026",
+    "time": "8:00 PM",
+    "name": "Don Omar",
+    "link": "https://www.intuitdome.com/events/event-schedule/4166?utm_source=IDwebsite&utm_medium=eventschedule&utm_campaign=IDevents26&utm_content=don_omar_270212"
   },
   {
     "key": "intuit dome|02/26/2026|morat",
@@ -1062,6 +1062,15 @@
     "link": "https://thekiaforum.com/event/doja-cat/"
   },
   {
+    "key": "kia forum|10/23/2026|worship",
+    "venue": "Kia Forum",
+    "day": "Friday",
+    "date": "10/23/2026",
+    "time": "7:00 PM",
+    "name": "WORSHIP",
+    "link": "https://thekiaforum.com/event/worship/"
+  },
+  {
     "key": "kia forum|10/24/2026|gorillaz – the mountain tour",
     "venue": "Kia Forum",
     "day": "Saturday",
@@ -1611,15 +1620,6 @@
     "link": "https://www.rosebowlstadium.com/events/details/626/rose-bowl-half-marathon-and-5k"
   },
   {
-    "key": "crypto.com arena|06/21/2026|los angeles sparks vs new york liberty",
-    "venue": "Crypto.com Arena",
-    "day": "Sunday",
-    "date": "06/21/2026",
-    "time": "5:00 PM",
-    "name": "Los Angeles Sparks vs New York Liberty",
-    "link": "https://www.cryptoarena.com/events/detail/sparksliberty062126"
-  },
-  {
     "key": "crypto.com arena|06/25/2026|summer walker – still finally over it tour",
     "venue": "Crypto.com Arena",
     "day": "Thursday",
@@ -1827,6 +1827,15 @@
     "link": "https://www.cryptoarena.com/events/detail/sparksfire092026"
   },
   {
+    "key": "crypto.com arena|09/22/2026|utah mammoth vs los angeles kings – preseason",
+    "venue": "Crypto.com Arena",
+    "day": "Tuesday",
+    "date": "09/22/2026",
+    "time": "7:00 PM",
+    "name": "Utah Mammoth vs Los Angeles Kings – Preseason",
+    "link": "https://www.cryptoarena.com/events/detail/kingsmammoth092226"
+  },
+  {
     "key": "crypto.com arena|09/24/2026|los angeles sparks vs golden state valkyries",
     "venue": "Crypto.com Arena",
     "day": "Thursday",
@@ -1843,6 +1852,15 @@
     "time": "8:00 PM",
     "name": "Yandel – SINFÓNICO USA TOUR 2026",
     "link": "https://www.cryptoarena.com/events/detail/yandel092526"
+  },
+  {
+    "key": "crypto.com arena|09/26/2026|anaheim ducks vs los angeles kings – preseason",
+    "venue": "Crypto.com Arena",
+    "day": "Saturday",
+    "date": "09/26/2026",
+    "time": "1:00 PM",
+    "name": "Anaheim Ducks vs Los Angeles Kings – Preseason",
+    "link": "https://www.cryptoarena.com/events/detail/kingsducks092626"
   },
   {
     "key": "crypto.com arena|09/28/2026|disney descendants, zombies & camp rock: worlds collide concert tour – malachi barton, liamani segura, dara reneé, mekonnen knife, hudson stone, swayam bhatia, kiara romero, alexandro byrd",
@@ -1987,15 +2005,6 @@
     "time": "TBA",
     "name": "Maryland vs USC",
     "link": "https://www.lacoliseum.com/events/maryland-vs-usc-2026/"
-  },
-  {
-    "key": "la convention center|06/21/2026|socal cup: the showcase",
-    "venue": "LA Convention Center",
-    "day": "Sunday",
-    "date": "06/21/2026",
-    "time": "TBA",
-    "name": "SoCal Cup: The Showcase",
-    "link": "https://www.laconventioncenter.com/events/detail/socal-cup-the-showcase-1"
   },
   {
     "key": "la convention center|06/26/2026|prestige career college hrtp graduation ceremony 2026",
@@ -2277,6 +2286,15 @@
     "link": "https://www.laconventioncenter.com/events/detail/modern-language-association-annual-convention-2027"
   },
   {
+    "key": "la convention center|01/16/2027|the socal cup: the open championship",
+    "venue": "LA Convention Center",
+    "day": "Saturday",
+    "date": "01/16/2027",
+    "time": "TBA",
+    "name": "The SoCal Cup: The Open Championship",
+    "link": "https://www.laconventioncenter.com/events/detail/socal-cup-the-open-championship"
+  },
+  {
     "key": "la convention center|01/23/2027|the fit expo los angeles 2027",
     "venue": "LA Convention Center",
     "day": "Saturday",
@@ -2331,13 +2349,13 @@
     "link": "https://www.laconventioncenter.com/events/detail/aats-annual-mtg-2027"
   },
   {
-    "key": "dodger stadium|06/21/2026|vs. baltimore orioles",
-    "venue": "Dodger Stadium",
-    "day": "Sunday",
-    "date": "06/21/2026",
-    "time": "1:10 PM",
-    "name": "vs. Baltimore Orioles",
-    "link": "https://www.mlb.com/gameday/823934"
+    "key": "la convention center|06/19/2027|the socal cup: the showcase 2027",
+    "venue": "LA Convention Center",
+    "day": "Saturday",
+    "date": "06/19/2027",
+    "time": "TBA",
+    "name": "The SoCal Cup: The Showcase 2027",
+    "link": "https://www.laconventioncenter.com/events/detail/socal-cup-volleyball-showcase-2027"
   },
   {
     "key": "dodger stadium|07/02/2026|vs. san diego padres",
@@ -2707,15 +2725,6 @@
     "time": "7:10 PM",
     "name": "vs. San Diego Padres",
     "link": "https://www.mlb.com/gameday/823895"
-  },
-  {
-    "key": "hollywood bowl|06/21/2026|reggae night xxiv – ziggy marley, burning spear, zuri marley, kcrw festival",
-    "venue": "Hollywood Bowl",
-    "day": "Sunday",
-    "date": "06/21/2026",
-    "time": "7:00 PM",
-    "name": "Reggae Night XXIV – Ziggy Marley, Burning Spear, Zuri Marley, KCRW Festival",
-    "link": "https://www.hollywoodbowl.com/events/performances/4293/2026-06-21/reggae-night-xxiv"
   },
   {
     "key": "hollywood bowl|06/24/2026|the tabernacle choir at temple square: songs of hope benefit concert",

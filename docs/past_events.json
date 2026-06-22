@@ -2608,5 +2608,55 @@
     "name": "Opening Night at the Bowl: The Best of Broadway",
     "link": "https://www.hollywoodbowl.com/events/performances/4247/2026-06-20/opening-night-at-the-bowl-the-best-of-broadway",
     "archived_on": "2026-06-21"
+  },
+  {
+    "key": "sofi stadium|06/21/2026|belgium vs. ir iran – fifa world cup 26™",
+    "venue": "SoFi Stadium",
+    "day": "Sunday",
+    "date": "06/21/2026",
+    "time": "12:00 PM",
+    "name": "Belgium vs. IR Iran – FIFA World Cup 26™",
+    "link": "https://www.sofistadium.com/events/detail/fifa-world-cup-belgium-iran",
+    "archived_on": "2026-06-22"
+  },
+  {
+    "key": "crypto.com arena|06/21/2026|los angeles sparks vs new york liberty",
+    "venue": "Crypto.com Arena",
+    "day": "Sunday",
+    "date": "06/21/2026",
+    "time": "5:00 PM",
+    "name": "Los Angeles Sparks vs New York Liberty",
+    "link": "https://www.cryptoarena.com/events/detail/sparksliberty062126",
+    "archived_on": "2026-06-22"
+  },
+  {
+    "key": "la convention center|06/21/2026|socal cup: the showcase",
+    "venue": "LA Convention Center",
+    "day": "Sunday",
+    "date": "06/21/2026",
+    "time": "TBA",
+    "name": "SoCal Cup: The Showcase",
+    "link": "https://www.laconventioncenter.com/events/detail/socal-cup-the-showcase-1",
+    "archived_on": "2026-06-22"
+  },
+  {
+    "key": "dodger stadium|06/21/2026|vs. baltimore orioles",
+    "venue": "Dodger Stadium",
+    "day": "Sunday",
+    "date": "06/21/2026",
+    "time": "1:10 PM",
+    "name": "vs. Baltimore Orioles",
+    "link": "https://www.mlb.com/gameday/823934",
+    "archived_on": "2026-06-22"
+  },
+  {
+    "key": "hollywood bowl|06/21/2026|reggae night xxiv – ziggy marley, burning spear, zuri marley, kcrw festival",
+    "venue": "Hollywood Bowl",
+    "day": "Sunday",
+    "date": "06/21/2026",
+    "time": "7:00 PM",
+    "name": "Reggae Night XXIV – Ziggy Marley, Burning Spear, Zuri Marley, KCRW Festival",
+    "link": "https://www.hollywoodbowl.com/events/performances/4293/2026-06-21/reggae-night-xxiv",
+    "archived_on": "2026-06-22"
   }
 ]
