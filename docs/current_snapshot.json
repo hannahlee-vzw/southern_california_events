@@ -729,15 +729,6 @@
     "link": "https://www.intuitdome.com/events/event-schedule/3149?utm_source=IDwebsite&utm_medium=eventschedule&utm_campaign=IDevents26&utm_content=three_days_grace_261122"
   },
   {
-    "key": "kia forum|06/24/2026|madison beer – the locket tour",
-    "venue": "Kia Forum",
-    "day": "Wednesday",
-    "date": "06/24/2026",
-    "time": "7:00 PM",
-    "name": "MADISON BEER – the locket tour",
-    "link": "https://thekiaforum.com/event/madison-beer/"
-  },
-  {
     "key": "kia forum|06/26/2026|palomazo norteño – clase maestra tour",
     "venue": "Kia Forum",
     "day": "Friday",
@@ -1051,6 +1042,15 @@
     "time": "7:00 PM",
     "name": "MONSTA X – 2026 MONSTA X WORLD TOUR [THE X : NEXUS] IN LOS ANGELES",
     "link": "https://thekiaforum.com/event/monsta-x/"
+  },
+  {
+    "key": "kia forum|10/21/2026|beabadoobee – the powerlines tour",
+    "venue": "Kia Forum",
+    "day": "Wednesday",
+    "date": "10/21/2026",
+    "time": "7:00 PM",
+    "name": "beabadoobee – The Powerlines Tour",
+    "link": "https://thekiaforum.com/event/beabadoobee/"
   },
   {
     "key": "kia forum|10/22/2026|doja cat – tour ma vie world tour",
@@ -2725,15 +2725,6 @@
     "time": "7:10 PM",
     "name": "vs. San Diego Padres",
     "link": "https://www.mlb.com/gameday/823895"
-  },
-  {
-    "key": "hollywood bowl|06/24/2026|the tabernacle choir at temple square: songs of hope benefit concert",
-    "venue": "Hollywood Bowl",
-    "day": "Wednesday",
-    "date": "06/24/2026",
-    "time": "8:00 PM",
-    "name": "The Tabernacle Choir at Temple Square: Songs of Hope Benefit Concert",
-    "link": "https://www.hollywoodbowl.com/events/performances/4838/2026-06-24/the-tabernacle-choir-at-temple-square-songs-of-hope-benefit-concert"
   },
   {
     "key": "hollywood bowl|06/25/2026|the tabernacle choir at temple square: songs of hope benefit concert",
