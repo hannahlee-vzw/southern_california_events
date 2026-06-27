@@ -481,7 +481,7 @@
     "venue": "Intuit Dome",
     "day": "Saturday",
     "date": "07/11/2026",
-    "time": "6:30 PM",
+    "time": "7:30 PM",
     "name": "JOJI: SOLARIS",
     "link": "https://www.intuitdome.com/events/event-schedule/3506?utm_source=IDwebsite&utm_medium=eventschedule&utm_campaign=IDevents26&utm_content=joji_260711"
   },
@@ -490,7 +490,7 @@
     "venue": "Intuit Dome",
     "day": "Sunday",
     "date": "07/12/2026",
-    "time": "6:30 PM",
+    "time": "7:30 PM",
     "name": "JOJI: SOLARIS",
     "link": "https://www.intuitdome.com/events/event-schedule/3513?utm_source=IDwebsite&utm_medium=eventschedule&utm_campaign=IDevents26&utm_content=joji_260712"
   },
@@ -718,15 +718,6 @@
     "time": "7:00 PM",
     "name": "Three Days Grace",
     "link": "https://www.intuitdome.com/events/event-schedule/3149?utm_source=IDwebsite&utm_medium=eventschedule&utm_campaign=IDevents26&utm_content=three_days_grace_261122"
-  },
-  {
-    "key": "kia forum|06/26/2026|palomazo norteño – clase maestra tour",
-    "venue": "Kia Forum",
-    "day": "Friday",
-    "date": "06/26/2026",
-    "time": "7:00 PM",
-    "name": "PALOMAZO NORTEÑO – CLASE MAESTRA TOUR",
-    "link": "https://thekiaforum.com/event/palomazo-norteno/"
   },
   {
     "key": "kia forum|06/27/2026|a$ap rocky – don't be dumb world tour",
@@ -1332,15 +1323,6 @@
     "link": "https://www.dignityhealthsportspark.com/events/detail/la-galaxy-vs-austin-fc"
   },
   {
-    "key": "rose bowl stadium|06/26/2026|pasadena elite youth football camp",
-    "venue": "Rose Bowl Stadium",
-    "day": "Friday",
-    "date": "06/26/2026",
-    "time": "5:00 PM",
-    "name": "Pasadena Elite Youth Football Camp",
-    "link": "https://www.rosebowlstadium.com/events/details/661/pasadena-elite-youth-football-camp"
-  },
-  {
     "key": "rose bowl stadium|06/27/2026|demo days",
     "venue": "Rose Bowl Stadium",
     "day": "Saturday",
@@ -1609,15 +1591,6 @@
     "time": "TBD",
     "name": "Rose Bowl Half Marathon & 5K",
     "link": "https://www.rosebowlstadium.com/events/details/626/rose-bowl-half-marathon-and-5k"
-  },
-  {
-    "key": "crypto.com arena|06/26/2026|kid cudi presents: the rebel ragers tour 2026 – with big boi, dot da genius, and chip tha ripper",
-    "venue": "Crypto.com Arena",
-    "day": "Friday",
-    "date": "06/26/2026",
-    "time": "6:30 PM",
-    "name": "Kid Cudi Presents: The Rebel Ragers Tour 2026 – With Big Boi, Dot Da Genius, and Chip Tha Ripper",
-    "link": "https://www.cryptoarena.com/events/detail/kidkudi062626"
   },
   {
     "key": "crypto.com arena|06/28/2026|don toliver – octane tour with sahbabii, sofaygo, and chase b",
@@ -1996,15 +1969,6 @@
     "time": "TBA",
     "name": "Maryland vs USC",
     "link": "https://www.lacoliseum.com/events/maryland-vs-usc-2026/"
-  },
-  {
-    "key": "la convention center|06/26/2026|prestige career college hrtp graduation ceremony 2026",
-    "venue": "LA Convention Center",
-    "day": "Friday",
-    "date": "06/26/2026",
-    "time": "TBA",
-    "name": "Prestige Career College HRTP Graduation Ceremony 2026",
-    "link": "https://www.laconventioncenter.com/events/detail/prestige-career-college-hrtp-graduation-ceremony-2026"
   },
   {
     "key": "la convention center|07/02/2026|anime expo 2026",
