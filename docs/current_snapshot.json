@@ -1,14 +1,5 @@
 [
   {
-    "key": "sofi stadium|06/28/2026|round of 32: south africa vs. canada – fifa world cup 26™",
-    "venue": "SoFi Stadium",
-    "day": "Sunday",
-    "date": "06/28/2026",
-    "time": "12:00 PM",
-    "name": "Round of 32: South Africa vs. Canada – FIFA World Cup 26™",
-    "link": "https://www.sofistadium.com/events/detail/fifa-world-cup-roundof32-june28"
-  },
-  {
     "key": "sofi stadium|07/02/2026|round of 32: tbd vs. tbd – fifa world cup 26™",
     "venue": "SoFi Stadium",
     "day": "Thursday",
@@ -1314,15 +1305,6 @@
     "link": "https://www.dignityhealthsportspark.com/events/detail/la-galaxy-vs-austin-fc"
   },
   {
-    "key": "rose bowl stadium|06/28/2026|demo days",
-    "venue": "Rose Bowl Stadium",
-    "day": "Sunday",
-    "date": "06/28/2026",
-    "time": "10:00 AM",
-    "name": "Demo Days",
-    "link": "https://www.rosebowlstadium.com/events/details/650/demo-days"
-  },
-  {
     "key": "rose bowl stadium|07/03/2026|foodieland",
     "venue": "Rose Bowl Stadium",
     "day": "Friday",
@@ -1575,11 +1557,11 @@
     "link": "https://www.rosebowlstadium.com/events/details/626/rose-bowl-half-marathon-and-5k"
   },
   {
-    "key": "crypto.com arena|06/28/2026|don toliver – octane tour with sahbabii, sofaygo, and chase b",
+    "key": "crypto.com arena|06/29/2026|don toliver – octane tour with sahbabii, sofaygo, and chase b",
     "venue": "Crypto.com Arena",
-    "day": "Sunday",
-    "date": "06/28/2026",
-    "time": "TBA",
+    "day": "Monday",
+    "date": "06/29/2026",
+    "time": "7:30 PM",
     "name": "Don Toliver – Octane Tour with SahBabii, SoFaygo, and Chase B",
     "link": "https://www.cryptoarena.com/events/detail/dontoliver062926"
   },
