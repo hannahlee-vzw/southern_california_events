@@ -711,15 +711,6 @@
     "link": "https://www.intuitdome.com/events/event-schedule/3149?utm_source=IDwebsite&utm_medium=eventschedule&utm_campaign=IDevents26&utm_content=three_days_grace_261122"
   },
   {
-    "key": "kia forum|06/29/2026|rosalía – lux tour 2026",
-    "venue": "Kia Forum",
-    "day": "Monday",
-    "date": "06/29/2026",
-    "time": "7:00 PM",
-    "name": "ROSALÍA – LUX TOUR 2026",
-    "link": "https://thekiaforum.com/event/rosalia/"
-  },
-  {
     "key": "kia forum|07/01/2026|rosalía – lux tour 2026",
     "venue": "Kia Forum",
     "day": "Wednesday",
@@ -1557,15 +1548,6 @@
     "link": "https://www.rosebowlstadium.com/events/details/626/rose-bowl-half-marathon-and-5k"
   },
   {
-    "key": "crypto.com arena|06/29/2026|don toliver – octane tour with sahbabii, sofaygo, and chase b",
-    "venue": "Crypto.com Arena",
-    "day": "Monday",
-    "date": "06/29/2026",
-    "time": "7:30 PM",
-    "name": "Don Toliver – Octane Tour with SahBabii, SoFaygo, and Chase B",
-    "link": "https://www.cryptoarena.com/events/detail/dontoliver062926"
-  },
-  {
     "key": "crypto.com arena|07/02/2026|j-pop sound capsule 2026 – ali | roselia | spyair | yoko kanno | yoko takahashi",
     "venue": "Crypto.com Arena",
     "day": "Thursday",
@@ -1665,12 +1647,12 @@
     "link": "https://www.cryptoarena.com/events/detail/sparksvalkyries080926"
   },
   {
-    "key": "crypto.com arena|08/10/2026|benson boone – wanted man tour 2026",
+    "key": "crypto.com arena|08/10/2026|benson boone – special guest ashe - wanted man tour 2026",
     "venue": "Crypto.com Arena",
     "day": "Monday",
     "date": "08/10/2026",
     "time": "TBA",
-    "name": "Benson Boone – Wanted Man Tour 2026",
+    "name": "Benson Boone – Special Guest Ashe - Wanted Man Tour 2026",
     "link": "https://www.cryptoarena.com/events/detail/bensonboone26"
   },
   {
@@ -2016,6 +1998,15 @@
     "link": "https://www.laconventioncenter.com/events/detail/apwu-biennial-convention-2026"
   },
   {
+    "key": "la convention center|08/21/2026|coffee fest 2026",
+    "venue": "LA Convention Center",
+    "day": "Friday",
+    "date": "08/21/2026",
+    "time": "TBA",
+    "name": "Coffee Fest 2026",
+    "link": "https://www.laconventioncenter.com/events/detail/coffee-fest-2026"
+  },
+  {
     "key": "la convention center|08/22/2026|smith chason college los angeles campus graduation 2026",
     "venue": "LA Convention Center",
     "day": "Saturday",
@@ -2124,6 +2115,15 @@
     "link": "https://www.laconventioncenter.com/events/detail/scg-con-los-angeles-2026"
   },
   {
+    "key": "la convention center|10/10/2026|el sembrador - cdj 2026",
+    "venue": "LA Convention Center",
+    "day": "Saturday",
+    "date": "10/10/2026",
+    "time": "TBA",
+    "name": "El Sembrador - CDJ 2026",
+    "link": "https://www.laconventioncenter.com/events/detail/el-sembrador-cdj"
+  },
+  {
     "key": "la convention center|10/10/2026|naga grappling championship los angeles",
     "venue": "LA Convention Center",
     "day": "Saturday",
@@ -2133,12 +2133,12 @@
     "link": "https://www.laconventioncenter.com/events/detail/naga-grappling-championship-los-angeles"
   },
   {
-    "key": "la convention center|10/17/2026|american academy of otolaryngology: 2026 aao oto expo",
+    "key": "la convention center|10/17/2026|aao-hnsf 2026 annual meeting & oto expo",
     "venue": "LA Convention Center",
     "day": "Saturday",
     "date": "10/17/2026",
     "time": "TBA",
-    "name": "American Academy of Otolaryngology: 2026 AAO OTO EXPO",
+    "name": "AAO-HNSF 2026 Annual Meeting & OTO EXPO",
     "link": "https://www.laconventioncenter.com/events/detail/american-academy-of-otolaryngology-2026-aao-oto-expo"
   },
   {
