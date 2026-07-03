@@ -1,14 +1,5 @@
 [
   {
-    "key": "sofi stadium|07/02/2026|round of 32: tbd vs. tbd – fifa world cup 26™",
-    "venue": "SoFi Stadium",
-    "day": "Thursday",
-    "date": "07/02/2026",
-    "time": "12:00 PM",
-    "name": "Round of 32: TBD vs. TBD – FIFA World Cup 26™",
-    "link": "https://www.sofistadium.com/events/detail/fifa-world-cup-roundof32-july2"
-  },
-  {
     "key": "sofi stadium|07/10/2026|quarterfinals: tbd vs. tbd – fifa world cup 26™",
     "venue": "SoFi Stadium",
     "day": "Friday",
@@ -1539,15 +1530,6 @@
     "link": "https://www.rosebowlstadium.com/events/details/626/rose-bowl-half-marathon-and-5k"
   },
   {
-    "key": "crypto.com arena|07/02/2026|j-pop sound capsule 2026 – ali | roselia | spyair | yoko kanno | yoko takahashi",
-    "venue": "Crypto.com Arena",
-    "day": "Thursday",
-    "date": "07/02/2026",
-    "time": "8:00 PM",
-    "name": "J-POP SOUND CAPSULE 2026 – ALI | Roselia | SPYAIR | Yoko Kanno | Yoko Takahashi",
-    "link": "https://www.cryptoarena.com/events/detail/j-pop-sound-capsule-2026"
-  },
-  {
     "key": "crypto.com arena|07/04/2026|anime expo 2026 masquerade",
     "venue": "Crypto.com Arena",
     "day": "Saturday",
@@ -1908,10 +1890,10 @@
     "link": "https://www.lacoliseum.com/events/maryland-vs-usc-2026/"
   },
   {
-    "key": "la convention center|07/02/2026|anime expo 2026",
+    "key": "la convention center|07/03/2026|anime expo 2026",
     "venue": "LA Convention Center",
-    "day": "Thursday",
-    "date": "07/02/2026",
+    "day": "Friday",
+    "date": "07/03/2026",
     "time": "TBA",
     "name": "Anime Expo 2026",
     "link": "https://www.laconventioncenter.com/events/detail/anime-expo-2026"
@@ -1942,6 +1924,15 @@
     "time": "TBA",
     "name": "Los Angeles Summer International Open IBJJF Jiu-Jitsu Championship",
     "link": "https://www.laconventioncenter.com/events/detail/los-angeles-summer-international-open-ibjjf-jiu-jitsu-championship"
+  },
+  {
+    "key": "la convention center|07/19/2026|siggraph 2026",
+    "venue": "LA Convention Center",
+    "day": "Sunday",
+    "date": "07/19/2026",
+    "time": "TBA",
+    "name": "SIGGRAPH 2026",
+    "link": "https://www.laconventioncenter.com/events/detail/siggraph-2026"
   },
   {
     "key": "la convention center|08/01/2026|collect-a-con los angeles",
@@ -2266,15 +2257,6 @@
     "time": "TBA",
     "name": "The SoCal Cup: The Showcase 2027",
     "link": "https://www.laconventioncenter.com/events/detail/socal-cup-volleyball-showcase-2027"
-  },
-  {
-    "key": "dodger stadium|07/02/2026|vs. san diego padres",
-    "venue": "Dodger Stadium",
-    "day": "Thursday",
-    "date": "07/02/2026",
-    "time": "7:10 PM",
-    "name": "vs. San Diego Padres",
-    "link": "https://www.mlb.com/gameday/823935"
   },
   {
     "key": "dodger stadium|07/03/2026|vs. san diego padres",
@@ -2635,15 +2617,6 @@
     "time": "7:10 PM",
     "name": "vs. San Diego Padres",
     "link": "https://www.mlb.com/gameday/823895"
-  },
-  {
-    "key": "hollywood bowl|07/02/2026|july fourth fireworks spectacular with the beach boys – with special guest john stamos",
-    "venue": "Hollywood Bowl",
-    "day": "Thursday",
-    "date": "07/02/2026",
-    "time": "7:30 PM",
-    "name": "July Fourth Fireworks Spectacular with The Beach Boys – with Special Guest John Stamos",
-    "link": "https://www.hollywoodbowl.com/events/performances/4249/2026-07-02/july-fourth-fireworks-spectacular-with-the-beach-boys"
   },
   {
     "key": "hollywood bowl|07/03/2026|july fourth fireworks spectacular with the beach boys – with special guest john stamos",

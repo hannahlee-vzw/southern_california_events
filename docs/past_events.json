@@ -2838,5 +2838,55 @@
     "name": "ROSALÍA – LUX TOUR 2026",
     "link": "https://thekiaforum.com/event/rosalia-2/",
     "archived_on": "2026-07-02"
+  },
+  {
+    "key": "sofi stadium|07/02/2026|round of 32: tbd vs. tbd – fifa world cup 26™",
+    "venue": "SoFi Stadium",
+    "day": "Thursday",
+    "date": "07/02/2026",
+    "time": "12:00 PM",
+    "name": "Round of 32: TBD vs. TBD – FIFA World Cup 26™",
+    "link": "https://www.sofistadium.com/events/detail/fifa-world-cup-roundof32-july2",
+    "archived_on": "2026-07-03"
+  },
+  {
+    "key": "crypto.com arena|07/02/2026|j-pop sound capsule 2026 – ali | roselia | spyair | yoko kanno | yoko takahashi",
+    "venue": "Crypto.com Arena",
+    "day": "Thursday",
+    "date": "07/02/2026",
+    "time": "8:00 PM",
+    "name": "J-POP SOUND CAPSULE 2026 – ALI | Roselia | SPYAIR | Yoko Kanno | Yoko Takahashi",
+    "link": "https://www.cryptoarena.com/events/detail/j-pop-sound-capsule-2026",
+    "archived_on": "2026-07-03"
+  },
+  {
+    "key": "la convention center|07/02/2026|anime expo 2026",
+    "venue": "LA Convention Center",
+    "day": "Thursday",
+    "date": "07/02/2026",
+    "time": "TBA",
+    "name": "Anime Expo 2026",
+    "link": "https://www.laconventioncenter.com/events/detail/anime-expo-2026",
+    "archived_on": "2026-07-03"
+  },
+  {
+    "key": "dodger stadium|07/02/2026|vs. san diego padres",
+    "venue": "Dodger Stadium",
+    "day": "Thursday",
+    "date": "07/02/2026",
+    "time": "7:10 PM",
+    "name": "vs. San Diego Padres",
+    "link": "https://www.mlb.com/gameday/823935",
+    "archived_on": "2026-07-03"
+  },
+  {
+    "key": "hollywood bowl|07/02/2026|july fourth fireworks spectacular with the beach boys – with special guest john stamos",
+    "venue": "Hollywood Bowl",
+    "day": "Thursday",
+    "date": "07/02/2026",
+    "time": "7:30 PM",
+    "name": "July Fourth Fireworks Spectacular with The Beach Boys – with Special Guest John Stamos",
+    "link": "https://www.hollywoodbowl.com/events/performances/4249/2026-07-02/july-fourth-fireworks-spectacular-with-the-beach-boys",
+    "archived_on": "2026-07-03"
   }
 ]
