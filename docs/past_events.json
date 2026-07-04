@@ -2888,5 +2888,45 @@
     "name": "July Fourth Fireworks Spectacular with The Beach Boys – with Special Guest John Stamos",
     "link": "https://www.hollywoodbowl.com/events/performances/4249/2026-07-02/july-fourth-fireworks-spectacular-with-the-beach-boys",
     "archived_on": "2026-07-03"
+  },
+  {
+    "key": "rose bowl stadium|07/03/2026|foodieland",
+    "venue": "Rose Bowl Stadium",
+    "day": "Friday",
+    "date": "07/03/2026",
+    "time": "3:00 PM",
+    "name": "Foodieland",
+    "link": "https://www.rosebowlstadium.com/events/details/637/foodieland",
+    "archived_on": "2026-07-04"
+  },
+  {
+    "key": "la convention center|07/03/2026|anime expo 2026",
+    "venue": "LA Convention Center",
+    "day": "Friday",
+    "date": "07/03/2026",
+    "time": "TBA",
+    "name": "Anime Expo 2026",
+    "link": "https://www.laconventioncenter.com/events/detail/anime-expo-2026",
+    "archived_on": "2026-07-04"
+  },
+  {
+    "key": "dodger stadium|07/03/2026|vs. san diego padres",
+    "venue": "Dodger Stadium",
+    "day": "Friday",
+    "date": "07/03/2026",
+    "time": "7:10 PM",
+    "name": "vs. San Diego Padres",
+    "link": "https://www.mlb.com/gameday/823933",
+    "archived_on": "2026-07-04"
+  },
+  {
+    "key": "hollywood bowl|07/03/2026|july fourth fireworks spectacular with the beach boys – with special guest john stamos",
+    "venue": "Hollywood Bowl",
+    "day": "Friday",
+    "date": "07/03/2026",
+    "time": "7:30 PM",
+    "name": "July Fourth Fireworks Spectacular with The Beach Boys – with Special Guest John Stamos",
+    "link": "https://www.hollywoodbowl.com/events/performances/4250/2026-07-03/july-fourth-fireworks-spectacular-with-the-beach-boys",
+    "archived_on": "2026-07-04"
   }
 ]

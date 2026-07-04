@@ -1278,15 +1278,6 @@
     "link": "https://www.dignityhealthsportspark.com/events/detail/la-galaxy-vs-austin-fc"
   },
   {
-    "key": "rose bowl stadium|07/03/2026|foodieland",
-    "venue": "Rose Bowl Stadium",
-    "day": "Friday",
-    "date": "07/03/2026",
-    "time": "3:00 PM",
-    "name": "Foodieland",
-    "link": "https://www.rosebowlstadium.com/events/details/637/foodieland"
-  },
-  {
     "key": "rose bowl stadium|07/04/2026|foodieland",
     "venue": "Rose Bowl Stadium",
     "day": "Saturday",
@@ -1818,12 +1809,12 @@
     "link": "https://www.cryptoarena.com/events/detail/ncaawestregional2027"
   },
   {
-    "key": "l.a. memorial coliseum|07/04/2026|america250 july 4 concert",
+    "key": "l.a. memorial coliseum|07/04/2026|america250 july 4th benefit show",
     "venue": "L.A. Memorial Coliseum",
     "day": "Saturday",
     "date": "07/04/2026",
     "time": "TBA",
-    "name": "America250 July 4 Concert",
+    "name": "America250 July 4th Benefit Show",
     "link": "https://www.lacoliseum.com/events/america250-july-4-concert/"
   },
   {
@@ -1890,10 +1881,10 @@
     "link": "https://www.lacoliseum.com/events/maryland-vs-usc-2026/"
   },
   {
-    "key": "la convention center|07/03/2026|anime expo 2026",
+    "key": "la convention center|07/04/2026|anime expo 2026",
     "venue": "LA Convention Center",
-    "day": "Friday",
-    "date": "07/03/2026",
+    "day": "Saturday",
+    "date": "07/04/2026",
     "time": "TBA",
     "name": "Anime Expo 2026",
     "link": "https://www.laconventioncenter.com/events/detail/anime-expo-2026"
@@ -2259,15 +2250,6 @@
     "link": "https://www.laconventioncenter.com/events/detail/socal-cup-volleyball-showcase-2027"
   },
   {
-    "key": "dodger stadium|07/03/2026|vs. san diego padres",
-    "venue": "Dodger Stadium",
-    "day": "Friday",
-    "date": "07/03/2026",
-    "time": "7:10 PM",
-    "name": "vs. San Diego Padres",
-    "link": "https://www.mlb.com/gameday/823933"
-  },
-  {
     "key": "dodger stadium|07/04/2026|vs. san diego padres",
     "venue": "Dodger Stadium",
     "day": "Saturday",
@@ -2617,15 +2599,6 @@
     "time": "7:10 PM",
     "name": "vs. San Diego Padres",
     "link": "https://www.mlb.com/gameday/823895"
-  },
-  {
-    "key": "hollywood bowl|07/03/2026|july fourth fireworks spectacular with the beach boys – with special guest john stamos",
-    "venue": "Hollywood Bowl",
-    "day": "Friday",
-    "date": "07/03/2026",
-    "time": "7:30 PM",
-    "name": "July Fourth Fireworks Spectacular with The Beach Boys – with Special Guest John Stamos",
-    "link": "https://www.hollywoodbowl.com/events/performances/4250/2026-07-03/july-fourth-fireworks-spectacular-with-the-beach-boys"
   },
   {
     "key": "hollywood bowl|07/04/2026|july fourth fireworks spectacular with the beach boys – with special guest john stamos",
