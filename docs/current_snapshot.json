@@ -1278,15 +1278,6 @@
     "link": "https://www.dignityhealthsportspark.com/events/detail/la-galaxy-vs-austin-fc"
   },
   {
-    "key": "rose bowl stadium|07/04/2026|foodieland",
-    "venue": "Rose Bowl Stadium",
-    "day": "Saturday",
-    "date": "07/04/2026",
-    "time": "1:00 PM",
-    "name": "Foodieland",
-    "link": "https://www.rosebowlstadium.com/events/details/638/foodieland"
-  },
-  {
     "key": "rose bowl stadium|07/05/2026|foodieland",
     "venue": "Rose Bowl Stadium",
     "day": "Sunday",
@@ -1519,15 +1510,6 @@
     "time": "TBD",
     "name": "Rose Bowl Half Marathon & 5K",
     "link": "https://www.rosebowlstadium.com/events/details/626/rose-bowl-half-marathon-and-5k"
-  },
-  {
-    "key": "crypto.com arena|07/04/2026|anime expo 2026 masquerade",
-    "venue": "Crypto.com Arena",
-    "day": "Saturday",
-    "date": "07/04/2026",
-    "time": "8:30 PM",
-    "name": "Anime Expo 2026 Masquerade",
-    "link": "https://www.cryptoarena.com/events/detail/animeexpo2026masquerade"
   },
   {
     "key": "crypto.com arena|07/06/2026|los angeles sparks vs seattle storm",
@@ -1809,15 +1791,6 @@
     "link": "https://www.cryptoarena.com/events/detail/ncaawestregional2027"
   },
   {
-    "key": "l.a. memorial coliseum|07/04/2026|america250 july 4th benefit show",
-    "venue": "L.A. Memorial Coliseum",
-    "day": "Saturday",
-    "date": "07/04/2026",
-    "time": "TBA",
-    "name": "America250 July 4th Benefit Show",
-    "link": "https://www.lacoliseum.com/events/america250-july-4-concert/"
-  },
-  {
     "key": "l.a. memorial coliseum|08/29/2026|san jose state vs usc",
     "venue": "L.A. Memorial Coliseum",
     "day": "Saturday",
@@ -1881,10 +1854,10 @@
     "link": "https://www.lacoliseum.com/events/maryland-vs-usc-2026/"
   },
   {
-    "key": "la convention center|07/04/2026|anime expo 2026",
+    "key": "la convention center|07/05/2026|anime expo 2026",
     "venue": "LA Convention Center",
-    "day": "Saturday",
-    "date": "07/04/2026",
+    "day": "Sunday",
+    "date": "07/05/2026",
     "time": "TBA",
     "name": "Anime Expo 2026",
     "link": "https://www.laconventioncenter.com/events/detail/anime-expo-2026"
@@ -2250,15 +2223,6 @@
     "link": "https://www.laconventioncenter.com/events/detail/socal-cup-volleyball-showcase-2027"
   },
   {
-    "key": "dodger stadium|07/04/2026|vs. san diego padres",
-    "venue": "Dodger Stadium",
-    "day": "Saturday",
-    "date": "07/04/2026",
-    "time": "7:10 PM",
-    "name": "vs. San Diego Padres",
-    "link": "https://www.mlb.com/gameday/823932"
-  },
-  {
     "key": "dodger stadium|07/05/2026|vs. san diego padres",
     "venue": "Dodger Stadium",
     "day": "Sunday",
@@ -2599,15 +2563,6 @@
     "time": "7:10 PM",
     "name": "vs. San Diego Padres",
     "link": "https://www.mlb.com/gameday/823895"
-  },
-  {
-    "key": "hollywood bowl|07/04/2026|july fourth fireworks spectacular with the beach boys – with special guest john stamos",
-    "venue": "Hollywood Bowl",
-    "day": "Saturday",
-    "date": "07/04/2026",
-    "time": "7:30 PM",
-    "name": "July Fourth Fireworks Spectacular with The Beach Boys – with Special Guest John Stamos",
-    "link": "https://www.hollywoodbowl.com/events/performances/4251/2026-07-04/july-fourth-fireworks-spectacular-with-the-beach-boys"
   },
   {
     "key": "hollywood bowl|07/05/2026|herb alpert & the tijuana brass & other delights",
