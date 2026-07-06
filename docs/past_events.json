@@ -2988,5 +2988,45 @@
     "name": "July Fourth Fireworks Spectacular with The Beach Boys – with Special Guest John Stamos",
     "link": "https://www.hollywoodbowl.com/events/performances/4251/2026-07-04/july-fourth-fireworks-spectacular-with-the-beach-boys",
     "archived_on": "2026-07-05"
+  },
+  {
+    "key": "rose bowl stadium|07/05/2026|foodieland",
+    "venue": "Rose Bowl Stadium",
+    "day": "Sunday",
+    "date": "07/05/2026",
+    "time": "1:00 PM",
+    "name": "Foodieland",
+    "link": "https://www.rosebowlstadium.com/events/details/639/foodieland",
+    "archived_on": "2026-07-06"
+  },
+  {
+    "key": "la convention center|07/05/2026|anime expo 2026",
+    "venue": "LA Convention Center",
+    "day": "Sunday",
+    "date": "07/05/2026",
+    "time": "TBA",
+    "name": "Anime Expo 2026",
+    "link": "https://www.laconventioncenter.com/events/detail/anime-expo-2026",
+    "archived_on": "2026-07-06"
+  },
+  {
+    "key": "dodger stadium|07/05/2026|vs. san diego padres",
+    "venue": "Dodger Stadium",
+    "day": "Sunday",
+    "date": "07/05/2026",
+    "time": "4:20 PM",
+    "name": "vs. San Diego Padres",
+    "link": "https://www.mlb.com/gameday/823931",
+    "archived_on": "2026-07-06"
+  },
+  {
+    "key": "hollywood bowl|07/05/2026|herb alpert & the tijuana brass & other delights",
+    "venue": "Hollywood Bowl",
+    "day": "Sunday",
+    "date": "07/05/2026",
+    "time": "7:30 PM",
+    "name": "Herb Alpert & The Tijuana Brass & Other Delights",
+    "link": "https://www.hollywoodbowl.com/events/performances/4294/2026-07-05/herb-alpert-the-tijuana-brass-other-delights",
+    "archived_on": "2026-07-06"
   }
 ]

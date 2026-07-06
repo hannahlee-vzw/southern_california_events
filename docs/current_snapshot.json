@@ -450,6 +450,15 @@
     "link": "https://www.intuitdome.com/events/event-schedule/4166?utm_source=IDwebsite&utm_medium=eventschedule&utm_campaign=IDevents26&utm_content=don_omar_270212"
   },
   {
+    "key": "intuit dome|02/13/2026|los tucanes de tijuana",
+    "venue": "Intuit Dome",
+    "day": "Friday",
+    "date": "02/13/2026",
+    "time": "8:00 PM",
+    "name": "Los Tucanes de Tijuana",
+    "link": "https://www.intuitdome.com/events/event-schedule/4191?utm_source=IDwebsite&utm_medium=eventschedule&utm_campaign=IDevents26&utm_content=los_tucanes_270213"
+  },
+  {
     "key": "intuit dome|02/26/2026|morat",
     "venue": "Intuit Dome",
     "day": "Thursday",
@@ -1278,15 +1287,6 @@
     "link": "https://www.dignityhealthsportspark.com/events/detail/la-galaxy-vs-austin-fc"
   },
   {
-    "key": "rose bowl stadium|07/05/2026|foodieland",
-    "venue": "Rose Bowl Stadium",
-    "day": "Sunday",
-    "date": "07/05/2026",
-    "time": "1:00 PM",
-    "name": "Foodieland",
-    "link": "https://www.rosebowlstadium.com/events/details/639/foodieland"
-  },
-  {
     "key": "rose bowl stadium|07/11/2026|drum corps at the rose bowl",
     "venue": "Rose Bowl Stadium",
     "day": "Saturday",
@@ -1854,15 +1854,6 @@
     "link": "https://www.lacoliseum.com/events/maryland-vs-usc-2026/"
   },
   {
-    "key": "la convention center|07/05/2026|anime expo 2026",
-    "venue": "LA Convention Center",
-    "day": "Sunday",
-    "date": "07/05/2026",
-    "time": "TBA",
-    "name": "Anime Expo 2026",
-    "link": "https://www.laconventioncenter.com/events/detail/anime-expo-2026"
-  },
-  {
     "key": "la convention center|07/11/2026|gothic market los angeles 2026",
     "venue": "LA Convention Center",
     "day": "Saturday",
@@ -2223,15 +2214,6 @@
     "link": "https://www.laconventioncenter.com/events/detail/socal-cup-volleyball-showcase-2027"
   },
   {
-    "key": "dodger stadium|07/05/2026|vs. san diego padres",
-    "venue": "Dodger Stadium",
-    "day": "Sunday",
-    "date": "07/05/2026",
-    "time": "4:20 PM",
-    "name": "vs. San Diego Padres",
-    "link": "https://www.mlb.com/gameday/823931"
-  },
-  {
     "key": "dodger stadium|07/06/2026|vs. colorado rockies",
     "venue": "Dodger Stadium",
     "day": "Monday",
@@ -2563,15 +2545,6 @@
     "time": "7:10 PM",
     "name": "vs. San Diego Padres",
     "link": "https://www.mlb.com/gameday/823895"
-  },
-  {
-    "key": "hollywood bowl|07/05/2026|herb alpert & the tijuana brass & other delights",
-    "venue": "Hollywood Bowl",
-    "day": "Sunday",
-    "date": "07/05/2026",
-    "time": "7:30 PM",
-    "name": "Herb Alpert & The Tijuana Brass & Other Delights",
-    "link": "https://www.hollywoodbowl.com/events/performances/4294/2026-07-05/herb-alpert-the-tijuana-brass-other-delights"
   },
   {
     "key": "hollywood bowl|07/08/2026|wilkins conducts bernstein & ellington",
