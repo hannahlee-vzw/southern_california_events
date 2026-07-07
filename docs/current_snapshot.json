@@ -900,6 +900,15 @@
     "link": "https://thekiaforum.com/event/billy-strings-3/"
   },
   {
+    "key": "kia forum|09/27/2026|sin bandera – escenas us tour",
+    "venue": "Kia Forum",
+    "day": "Sunday",
+    "date": "09/27/2026",
+    "time": "7:00 PM",
+    "name": "SIN BANDERA – ESCENAS US TOUR",
+    "link": "https://thekiaforum.com/event/sin-bandera/"
+  },
+  {
     "key": "kia forum|09/30/2026|disney descendants, zombies & camp rock: worlds collide concert tour",
     "venue": "Kia Forum",
     "day": "Wednesday",
@@ -1318,7 +1327,7 @@
     "venue": "Rose Bowl Stadium",
     "day": "Saturday",
     "date": "08/08/2026",
-    "time": "TBD",
+    "time": "1:00 PM",
     "name": "Head in the Clouds",
     "link": "https://www.rosebowlstadium.com/events/details/642/head-in-the-clouds"
   },
@@ -1345,7 +1354,7 @@
     "venue": "Rose Bowl Stadium",
     "day": "Saturday",
     "date": "08/22/2026",
-    "time": "TBD",
+    "time": "12:00 PM",
     "name": "Just Like Heaven",
     "link": "https://www.rosebowlstadium.com/events/details/640/just-like-heaven"
   },
@@ -1354,7 +1363,7 @@
     "venue": "Rose Bowl Stadium",
     "day": "Saturday",
     "date": "09/05/2026",
-    "time": "TBD",
+    "time": "6:25 PM",
     "name": "GUNS N’ ROSES",
     "link": "https://www.rosebowlstadium.com/events/details/579/guns-n'-roses"
   },
@@ -1512,15 +1521,6 @@
     "link": "https://www.rosebowlstadium.com/events/details/626/rose-bowl-half-marathon-and-5k"
   },
   {
-    "key": "crypto.com arena|07/06/2026|los angeles sparks vs seattle storm",
-    "venue": "Crypto.com Arena",
-    "day": "Monday",
-    "date": "07/06/2026",
-    "time": "7:00 PM",
-    "name": "Los Angeles Sparks vs Seattle Storm",
-    "link": "https://www.cryptoarena.com/events/detail/sparksstorm070626"
-  },
-  {
     "key": "crypto.com arena|07/08/2026|los angeles sparks vs indiana fever",
     "venue": "Crypto.com Arena",
     "day": "Wednesday",
@@ -1539,12 +1539,12 @@
     "link": "https://www.cryptoarena.com/events/detail/sparkssky071026"
   },
   {
-    "key": "crypto.com arena|07/14/2026|olivia dean – the art of loving - live 2026",
+    "key": "crypto.com arena|07/14/2026|olivia dean – the art of loving - live 2026 with special guest baby rose",
     "venue": "Crypto.com Arena",
     "day": "Tuesday",
     "date": "07/14/2026",
     "time": "TBA",
-    "name": "Olivia Dean – The Art of Loving - Live 2026",
+    "name": "Olivia Dean – The Art of Loving - Live 2026 with Special Guest Baby Rose",
     "link": "https://www.cryptoarena.com/events/detail/oliviadean26"
   },
   {
@@ -2196,6 +2196,15 @@
     "link": "https://www.laconventioncenter.com/events/detail/acp-internal-medicine-meeting-2027"
   },
   {
+    "key": "la convention center|04/30/2027|immunology 2027",
+    "venue": "LA Convention Center",
+    "day": "Friday",
+    "date": "04/30/2027",
+    "time": "TBA",
+    "name": "Immunology 2027",
+    "link": "https://www.laconventioncenter.com/events/detail/immunology-2027"
+  },
+  {
     "key": "la convention center|05/01/2027|american association of thoracic surgery annual meeting",
     "venue": "LA Convention Center",
     "day": "Saturday",
@@ -2205,6 +2214,24 @@
     "link": "https://www.laconventioncenter.com/events/detail/aats-annual-mtg-2027"
   },
   {
+    "key": "la convention center|06/01/2027|nafsa: association of international educators annual conference 2027",
+    "venue": "LA Convention Center",
+    "day": "Tuesday",
+    "date": "06/01/2027",
+    "time": "TBA",
+    "name": "NAFSA: Association of International Educators Annual Conference 2027",
+    "link": "https://www.laconventioncenter.com/events/detail/nafsa-association-of-international-educators-annual-conference"
+  },
+  {
+    "key": "la convention center|06/14/2027|apic27",
+    "venue": "LA Convention Center",
+    "day": "Monday",
+    "date": "06/14/2027",
+    "time": "TBA",
+    "name": "APIC27",
+    "link": "https://www.laconventioncenter.com/events/detail/apic27"
+  },
+  {
     "key": "la convention center|06/19/2027|the socal cup: the showcase 2027",
     "venue": "LA Convention Center",
     "day": "Saturday",
@@ -2212,15 +2239,6 @@
     "time": "TBA",
     "name": "The SoCal Cup: The Showcase 2027",
     "link": "https://www.laconventioncenter.com/events/detail/socal-cup-volleyball-showcase-2027"
-  },
-  {
-    "key": "dodger stadium|07/06/2026|vs. colorado rockies",
-    "venue": "Dodger Stadium",
-    "day": "Monday",
-    "date": "07/06/2026",
-    "time": "7:10 PM",
-    "name": "vs. Colorado Rockies",
-    "link": "https://www.mlb.com/gameday/823930"
   },
   {
     "key": "dodger stadium|07/07/2026|vs. colorado rockies",
@@ -2898,13 +2916,13 @@
     "link": "https://www.hollywoodbowl.com/events/performances/4325/2026-08-20/celebrating-gustavo-at-the-bowl-beethoven-9"
   },
   {
-    "key": "hollywood bowl|08/21/2026|celebrating gustavo at the bowl: dudamel's playlist",
+    "key": "hollywood bowl|08/21/2026|celebrating gustavo at the bowl: gustavo’s fiesta",
     "venue": "Hollywood Bowl",
     "day": "Friday",
     "date": "08/21/2026",
     "time": "8:00 PM",
-    "name": "Celebrating Gustavo at the Bowl: Dudamel's Playlist",
-    "link": "https://www.hollywoodbowl.com/events/performances/4326/2026-08-21/celebrating-gustavo-at-the-bowl-dudamels-playlist"
+    "name": "Celebrating Gustavo at the Bowl: Gustavo’s Fiesta",
+    "link": "https://www.hollywoodbowl.com/events/performances/4326/2026-08-21/celebrating-gustavo-at-the-bowl-gustavos-fiesta"
   },
   {
     "key": "hollywood bowl|08/22/2026|celebrating gustavo at the bowl: foo fighters with the la phil and yola",
@@ -2916,13 +2934,13 @@
     "link": "https://www.hollywoodbowl.com/events/performances/4287/2026-08-22/celebrating-gustavo-at-the-bowl-foo-fighters-with-the-la-phil-and-yola"
   },
   {
-    "key": "hollywood bowl|08/23/2026|celebrating gustavo at the bowl: a musical legacy",
+    "key": "hollywood bowl|08/23/2026|a concert for venezuela – a benefit to support earthquake relief",
     "venue": "Hollywood Bowl",
     "day": "Sunday",
     "date": "08/23/2026",
     "time": "7:00 PM",
-    "name": "Celebrating Gustavo at the Bowl: A Musical Legacy",
-    "link": "https://www.hollywoodbowl.com/events/performances/4361/2026-08-23/celebrating-gustavo-at-the-bowl-a-musical-legacy"
+    "name": "A Concert for Venezuela – A Benefit to Support Earthquake Relief",
+    "link": "https://www.hollywoodbowl.com/events/performances/4361/2026-08-23/a-concert-for-venezuela"
   },
   {
     "key": "hollywood bowl|08/25/2026|beethoven’s fifth",

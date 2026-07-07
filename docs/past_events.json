@@ -3028,5 +3028,25 @@
     "name": "Herb Alpert & The Tijuana Brass & Other Delights",
     "link": "https://www.hollywoodbowl.com/events/performances/4294/2026-07-05/herb-alpert-the-tijuana-brass-other-delights",
     "archived_on": "2026-07-06"
+  },
+  {
+    "key": "crypto.com arena|07/06/2026|los angeles sparks vs seattle storm",
+    "venue": "Crypto.com Arena",
+    "day": "Monday",
+    "date": "07/06/2026",
+    "time": "7:00 PM",
+    "name": "Los Angeles Sparks vs Seattle Storm",
+    "link": "https://www.cryptoarena.com/events/detail/sparksstorm070626",
+    "archived_on": "2026-07-07"
+  },
+  {
+    "key": "dodger stadium|07/06/2026|vs. colorado rockies",
+    "venue": "Dodger Stadium",
+    "day": "Monday",
+    "date": "07/06/2026",
+    "time": "7:10 PM",
+    "name": "vs. Colorado Rockies",
+    "link": "https://www.mlb.com/gameday/823930",
+    "archived_on": "2026-07-07"
   }
 ]
