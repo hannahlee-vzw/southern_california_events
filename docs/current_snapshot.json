@@ -625,7 +625,7 @@
     "venue": "Intuit Dome",
     "day": "Thursday",
     "date": "10/01/2026",
-    "time": "8:30 PM",
+    "time": "8:00 PM",
     "name": "Rod Wave",
     "link": "https://www.intuitdome.com/events/event-schedule/4161?utm_source=IDwebsite&utm_medium=eventschedule&utm_campaign=IDevents26&utm_content=rod_wave_261001"
   },
@@ -900,12 +900,12 @@
     "link": "https://thekiaforum.com/event/billy-strings-3/"
   },
   {
-    "key": "kia forum|09/27/2026|sin bandera – escenas us tour",
+    "key": "kia forum|09/27/2026|sin bandera – escenas tour",
     "venue": "Kia Forum",
     "day": "Sunday",
     "date": "09/27/2026",
     "time": "7:00 PM",
-    "name": "SIN BANDERA – ESCENAS US TOUR",
+    "name": "SIN BANDERA – ESCENAS TOUR",
     "link": "https://thekiaforum.com/event/sin-bandera/"
   },
   {
@@ -2239,15 +2239,6 @@
     "time": "TBA",
     "name": "The SoCal Cup: The Showcase 2027",
     "link": "https://www.laconventioncenter.com/events/detail/socal-cup-volleyball-showcase-2027"
-  },
-  {
-    "key": "dodger stadium|07/07/2026|vs. colorado rockies",
-    "venue": "Dodger Stadium",
-    "day": "Tuesday",
-    "date": "07/07/2026",
-    "time": "7:10 PM",
-    "name": "vs. Colorado Rockies",
-    "link": "https://www.mlb.com/gameday/823929"
   },
   {
     "key": "dodger stadium|07/08/2026|vs. colorado rockies",
