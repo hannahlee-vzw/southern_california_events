@@ -711,15 +711,6 @@
     "link": "https://www.intuitdome.com/events/event-schedule/3149?utm_source=IDwebsite&utm_medium=eventschedule&utm_campaign=IDevents26&utm_content=three_days_grace_261122"
   },
   {
-    "key": "kia forum|07/08/2026|hilary duff – the lucky me tour",
-    "venue": "Kia Forum",
-    "day": "Wednesday",
-    "date": "07/08/2026",
-    "time": "7:00 PM",
-    "name": "HILARY DUFF – the lucky me tour",
-    "link": "https://thekiaforum.com/event/hilary-duff/"
-  },
-  {
     "key": "kia forum|07/09/2026|hilary duff – the lucky me tour",
     "venue": "Kia Forum",
     "day": "Thursday",
@@ -1521,15 +1512,6 @@
     "link": "https://www.rosebowlstadium.com/events/details/626/rose-bowl-half-marathon-and-5k"
   },
   {
-    "key": "crypto.com arena|07/08/2026|los angeles sparks vs indiana fever",
-    "venue": "Crypto.com Arena",
-    "day": "Wednesday",
-    "date": "07/08/2026",
-    "time": "7:00 PM",
-    "name": "Los Angeles Sparks vs Indiana Fever",
-    "link": "https://www.cryptoarena.com/events/detail/sparksfever070826"
-  },
-  {
     "key": "crypto.com arena|07/10/2026|los angeles sparks vs chicago sky",
     "venue": "Crypto.com Arena",
     "day": "Friday",
@@ -2241,15 +2223,6 @@
     "link": "https://www.laconventioncenter.com/events/detail/socal-cup-volleyball-showcase-2027"
   },
   {
-    "key": "dodger stadium|07/08/2026|vs. colorado rockies",
-    "venue": "Dodger Stadium",
-    "day": "Wednesday",
-    "date": "07/08/2026",
-    "time": "7:10 PM",
-    "name": "vs. Colorado Rockies",
-    "link": "https://www.mlb.com/gameday/823928"
-  },
-  {
     "key": "dodger stadium|07/10/2026|vs. arizona diamondbacks",
     "venue": "Dodger Stadium",
     "day": "Friday",
@@ -2556,15 +2529,6 @@
     "link": "https://www.mlb.com/gameday/823895"
   },
   {
-    "key": "hollywood bowl|07/08/2026|wilkins conducts bernstein & ellington",
-    "venue": "Hollywood Bowl",
-    "day": "Wednesday",
-    "date": "07/08/2026",
-    "time": "8:00 PM",
-    "name": "Wilkins Conducts Bernstein & Ellington",
-    "link": "https://www.hollywoodbowl.com/events/performances/4295/2026-07-08/wilkins-conducts-bernstein-ellington"
-  },
-  {
     "key": "hollywood bowl|07/09/2026|the classical world cup",
     "venue": "Hollywood Bowl",
     "day": "Thursday",
@@ -2700,12 +2664,12 @@
     "link": "https://www.hollywoodbowl.com/events/performances/4260/2026-07-25/smokey-robinson-gladys-knight-just-the-two-of-us"
   },
   {
-    "key": "hollywood bowl|07/26/2026|boris brejcha with the hollywood bowl orchestra – kcrw festival",
+    "key": "hollywood bowl|07/26/2026|boris brejcha with the hollywood bowl orchestra – frieder & jakob, kcrw festival",
     "venue": "Hollywood Bowl",
     "day": "Sunday",
     "date": "07/26/2026",
     "time": "7:00 PM",
-    "name": "Boris Brejcha with the Hollywood Bowl Orchestra – KCRW Festival",
+    "name": "Boris Brejcha with the Hollywood Bowl Orchestra – Frieder & Jakob, KCRW Festival",
     "link": "https://www.hollywoodbowl.com/events/performances/4308/2026-07-26/boris-brejcha-with-the-hollywood-bowl-orchestra"
   },
   {
