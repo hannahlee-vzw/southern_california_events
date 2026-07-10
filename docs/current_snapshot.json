@@ -526,7 +526,7 @@
     "venue": "Intuit Dome",
     "day": "Saturday",
     "date": "08/15/2026",
-    "time": "7:00 PM",
+    "time": "7:30 PM",
     "name": "Yeat",
     "link": "https://www.intuitdome.com/events/event-schedule/3699?utm_source=IDwebsite&utm_medium=eventschedule&utm_campaign=IDevents26&utm_content=yeat_260815"
   },
@@ -709,15 +709,6 @@
     "time": "7:00 PM",
     "name": "Three Days Grace",
     "link": "https://www.intuitdome.com/events/event-schedule/3149?utm_source=IDwebsite&utm_medium=eventschedule&utm_campaign=IDevents26&utm_content=three_days_grace_261122"
-  },
-  {
-    "key": "kia forum|07/09/2026|hilary duff – the lucky me tour",
-    "venue": "Kia Forum",
-    "day": "Thursday",
-    "date": "07/09/2026",
-    "time": "7:00 PM",
-    "name": "HILARY DUFF – the lucky me tour",
-    "link": "https://thekiaforum.com/event/hilary-duff-2/"
   },
   {
     "key": "kia forum|07/11/2026|5 seconds of summer – everyone’s a star! world tour",
@@ -1393,6 +1384,15 @@
     "time": "5:00 PM",
     "name": "Next Rung - Battle for Mental Health",
     "link": "https://www.rosebowlstadium.com/events/details/662/next-rung-battle-for-mental-health"
+  },
+  {
+    "key": "rose bowl stadium|10/10/2026|race for the rescues",
+    "venue": "Rose Bowl Stadium",
+    "day": "Saturday",
+    "date": "10/10/2026",
+    "time": "7:00 AM",
+    "name": "Race For The Rescues",
+    "link": "https://www.rosebowlstadium.com/events/details/664/race-for-the-rescues"
   },
   {
     "key": "rose bowl stadium|10/11/2026|rose bowl flea market",
@@ -2527,15 +2527,6 @@
     "time": "7:10 PM",
     "name": "vs. San Diego Padres",
     "link": "https://www.mlb.com/gameday/823895"
-  },
-  {
-    "key": "hollywood bowl|07/09/2026|the classical world cup",
-    "venue": "Hollywood Bowl",
-    "day": "Thursday",
-    "date": "07/09/2026",
-    "time": "8:00 PM",
-    "name": "The Classical World Cup",
-    "link": "https://www.hollywoodbowl.com/events/performances/4296/2026-07-09/the-classical-world-cup"
   },
   {
     "key": "hollywood bowl|07/10/2026|music from the films of wes anderson",

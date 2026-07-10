@@ -3098,5 +3098,25 @@
     "name": "Wilkins Conducts Bernstein & Ellington",
     "link": "https://www.hollywoodbowl.com/events/performances/4295/2026-07-08/wilkins-conducts-bernstein-ellington",
     "archived_on": "2026-07-09"
+  },
+  {
+    "key": "kia forum|07/09/2026|hilary duff – the lucky me tour",
+    "venue": "Kia Forum",
+    "day": "Thursday",
+    "date": "07/09/2026",
+    "time": "7:00 PM",
+    "name": "HILARY DUFF – the lucky me tour",
+    "link": "https://thekiaforum.com/event/hilary-duff-2/",
+    "archived_on": "2026-07-10"
+  },
+  {
+    "key": "hollywood bowl|07/09/2026|the classical world cup",
+    "venue": "Hollywood Bowl",
+    "day": "Thursday",
+    "date": "07/09/2026",
+    "time": "8:00 PM",
+    "name": "The Classical World Cup",
+    "link": "https://www.hollywoodbowl.com/events/performances/4296/2026-07-09/the-classical-world-cup",
+    "archived_on": "2026-07-10"
   }
 ]
