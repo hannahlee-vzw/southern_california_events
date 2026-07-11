@@ -3118,5 +3118,45 @@
     "name": "The Classical World Cup",
     "link": "https://www.hollywoodbowl.com/events/performances/4296/2026-07-09/the-classical-world-cup",
     "archived_on": "2026-07-10"
+  },
+  {
+    "key": "sofi stadium|07/10/2026|quarterfinals: tbd vs. tbd – fifa world cup 26™",
+    "venue": "SoFi Stadium",
+    "day": "Friday",
+    "date": "07/10/2026",
+    "time": "12:00 PM",
+    "name": "Quarterfinals: TBD vs. TBD – FIFA World Cup 26™",
+    "link": "https://www.sofistadium.com/events/detail/fifa-world-cup-quarterfinal-july10",
+    "archived_on": "2026-07-11"
+  },
+  {
+    "key": "crypto.com arena|07/10/2026|los angeles sparks vs chicago sky",
+    "venue": "Crypto.com Arena",
+    "day": "Friday",
+    "date": "07/10/2026",
+    "time": "7:00 PM",
+    "name": "Los Angeles Sparks vs Chicago Sky",
+    "link": "https://www.cryptoarena.com/events/detail/sparkssky071026",
+    "archived_on": "2026-07-11"
+  },
+  {
+    "key": "dodger stadium|07/10/2026|vs. arizona diamondbacks",
+    "venue": "Dodger Stadium",
+    "day": "Friday",
+    "date": "07/10/2026",
+    "time": "7:10 PM",
+    "name": "vs. Arizona Diamondbacks",
+    "link": "https://www.mlb.com/gameday/823927",
+    "archived_on": "2026-07-11"
+  },
+  {
+    "key": "hollywood bowl|07/10/2026|music from the films of wes anderson",
+    "venue": "Hollywood Bowl",
+    "day": "Friday",
+    "date": "07/10/2026",
+    "time": "8:00 PM",
+    "name": "Music from the Films of Wes Anderson",
+    "link": "https://www.hollywoodbowl.com/events/performances/4288/2026-07-10/music-from-the-films-of-wes-anderson",
+    "archived_on": "2026-07-11"
   }
 ]
