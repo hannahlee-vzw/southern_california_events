@@ -459,15 +459,6 @@
     "link": "https://www.intuitdome.com/events/event-schedule/3967?utm_source=IDwebsite&utm_medium=eventschedule&utm_campaign=IDevents26&utm_content=morat_270226"
   },
   {
-    "key": "intuit dome|07/11/2026|joji: solaris",
-    "venue": "Intuit Dome",
-    "day": "Saturday",
-    "date": "07/11/2026",
-    "time": "7:30 PM",
-    "name": "JOJI: SOLARIS",
-    "link": "https://www.intuitdome.com/events/event-schedule/3506?utm_source=IDwebsite&utm_medium=eventschedule&utm_campaign=IDevents26&utm_content=joji_260711"
-  },
-  {
     "key": "intuit dome|07/12/2026|joji: solaris",
     "venue": "Intuit Dome",
     "day": "Sunday",
@@ -700,15 +691,6 @@
     "time": "7:00 PM",
     "name": "Three Days Grace",
     "link": "https://www.intuitdome.com/events/event-schedule/3149?utm_source=IDwebsite&utm_medium=eventschedule&utm_campaign=IDevents26&utm_content=three_days_grace_261122"
-  },
-  {
-    "key": "kia forum|07/11/2026|5 seconds of summer – everyone’s a star! world tour",
-    "venue": "Kia Forum",
-    "day": "Saturday",
-    "date": "07/11/2026",
-    "time": "7:00 PM",
-    "name": "5 SECONDS OF SUMMER – EVERYONE’S A STAR! World Tour",
-    "link": "https://thekiaforum.com/event/5-seconds-of-summer/"
   },
   {
     "key": "kia forum|07/17/2026|young the giant – victory garden tour",
@@ -1143,15 +1125,6 @@
     "link": "https://thekiaforum.com/event/niall-horan/"
   },
   {
-    "key": "dignity health sports park|07/11/2026|la galaxy vs club américa",
-    "venue": "Dignity Health Sports Park",
-    "day": "Saturday",
-    "date": "07/11/2026",
-    "time": "TBA",
-    "name": "LA Galaxy vs Club América",
-    "link": "https://www.dignityhealthsportspark.com/events/detail/la-galaxy-vs-club-america-1"
-  },
-  {
     "key": "dignity health sports park|07/17/2026|la galaxy vs lafc",
     "venue": "Dignity Health Sports Park",
     "day": "Friday",
@@ -1267,15 +1240,6 @@
     "time": "TBA",
     "name": "LA Galaxy vs Austin FC",
     "link": "https://www.dignityhealthsportspark.com/events/detail/la-galaxy-vs-austin-fc"
-  },
-  {
-    "key": "rose bowl stadium|07/11/2026|drum corps at the rose bowl",
-    "venue": "Rose Bowl Stadium",
-    "day": "Saturday",
-    "date": "07/11/2026",
-    "time": "5:15 PM",
-    "name": "DRUM CORPS AT THE ROSE BOWL",
-    "link": "https://www.rosebowlstadium.com/events/details/644/drum-corps-at-the-rose-bowl"
   },
   {
     "key": "rose bowl stadium|07/12/2026|rose bowl flea market",
@@ -1818,28 +1782,19 @@
     "link": "https://www.lacoliseum.com/events/maryland-vs-usc-2026/"
   },
   {
-    "key": "la convention center|07/11/2026|gothic market los angeles 2026",
+    "key": "la convention center|07/12/2026|gothic market los angeles 2026",
     "venue": "LA Convention Center",
-    "day": "Saturday",
-    "date": "07/11/2026",
+    "day": "Sunday",
+    "date": "07/12/2026",
     "time": "TBA",
     "name": "Gothic Market Los Angeles 2026",
     "link": "https://www.laconventioncenter.com/events/detail/gothic-market-los-angeles-2026"
   },
   {
-    "key": "la convention center|07/11/2026|spocom los angeles 2026",
+    "key": "la convention center|07/12/2026|los angeles summer international open ibjjf jiu-jitsu championship",
     "venue": "LA Convention Center",
-    "day": "Saturday",
-    "date": "07/11/2026",
-    "time": "TBA",
-    "name": "SPOCOM Los Angeles 2026",
-    "link": "https://www.laconventioncenter.com/events/detail/spocom-los-angeles-2026"
-  },
-  {
-    "key": "la convention center|07/11/2026|los angeles summer international open ibjjf jiu-jitsu championship",
-    "venue": "LA Convention Center",
-    "day": "Saturday",
-    "date": "07/11/2026",
+    "day": "Sunday",
+    "date": "07/12/2026",
     "time": "TBA",
     "name": "Los Angeles Summer International Open IBJJF Jiu-Jitsu Championship",
     "link": "https://www.laconventioncenter.com/events/detail/los-angeles-summer-international-open-ibjjf-jiu-jitsu-championship"
@@ -2205,15 +2160,6 @@
     "link": "https://www.laconventioncenter.com/events/detail/socal-cup-volleyball-showcase-2027"
   },
   {
-    "key": "dodger stadium|07/11/2026|vs. arizona diamondbacks",
-    "venue": "Dodger Stadium",
-    "day": "Saturday",
-    "date": "07/11/2026",
-    "time": "6:10 PM",
-    "name": "vs. Arizona Diamondbacks",
-    "link": "https://www.mlb.com/gameday/823926"
-  },
-  {
     "key": "dodger stadium|07/12/2026|vs. arizona diamondbacks",
     "venue": "Dodger Stadium",
     "day": "Sunday",
@@ -2500,15 +2446,6 @@
     "time": "7:10 PM",
     "name": "vs. San Diego Padres",
     "link": "https://www.mlb.com/gameday/823895"
-  },
-  {
-    "key": "hollywood bowl|07/11/2026|music from the films of wes anderson",
-    "venue": "Hollywood Bowl",
-    "day": "Saturday",
-    "date": "07/11/2026",
-    "time": "8:00 PM",
-    "name": "Music from the Films of Wes Anderson",
-    "link": "https://www.hollywoodbowl.com/events/performances/4289/2026-07-11/music-from-the-films-of-wes-anderson"
   },
   {
     "key": "hollywood bowl|07/12/2026|music from the films of wes anderson – kcrw festival",
