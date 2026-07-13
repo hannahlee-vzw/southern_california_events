@@ -459,15 +459,6 @@
     "link": "https://www.intuitdome.com/events/event-schedule/3967?utm_source=IDwebsite&utm_medium=eventschedule&utm_campaign=IDevents26&utm_content=morat_270226"
   },
   {
-    "key": "intuit dome|07/12/2026|joji: solaris",
-    "venue": "Intuit Dome",
-    "day": "Sunday",
-    "date": "07/12/2026",
-    "time": "7:30 PM",
-    "name": "JOJI: SOLARIS",
-    "link": "https://www.intuitdome.com/events/event-schedule/3513?utm_source=IDwebsite&utm_medium=eventschedule&utm_campaign=IDevents26&utm_content=joji_260712"
-  },
-  {
     "key": "intuit dome|07/17/2026|forrest frank",
     "venue": "Intuit Dome",
     "day": "Friday",
@@ -835,15 +826,6 @@
     "time": "7:00 PM",
     "name": "ROBYN – The Sexistential Tour",
     "link": "https://thekiaforum.com/event/robyn-2/"
-  },
-  {
-    "key": "kia forum|09/25/2026|lily allen – lily allen performs west end girl",
-    "venue": "Kia Forum",
-    "day": "Friday",
-    "date": "09/25/2026",
-    "time": "7:00 PM",
-    "name": "LILY ALLEN – Lily Allen Performs West End Girl",
-    "link": "https://thekiaforum.com/event/lily-allen/"
   },
   {
     "key": "kia forum|09/26/2026|billy strings",
@@ -1240,15 +1222,6 @@
     "time": "TBA",
     "name": "LA Galaxy vs Austin FC",
     "link": "https://www.dignityhealthsportspark.com/events/detail/la-galaxy-vs-austin-fc"
-  },
-  {
-    "key": "rose bowl stadium|07/12/2026|rose bowl flea market",
-    "venue": "Rose Bowl Stadium",
-    "day": "Sunday",
-    "date": "07/12/2026",
-    "time": "5:00 AM",
-    "name": "ROSE BOWL FLEA MARKET",
-    "link": "https://www.rosebowlstadium.com/events/details/602/rose-bowl-flea-market"
   },
   {
     "key": "rose bowl stadium|08/02/2026|dena community backpack giveaway",
@@ -1782,24 +1755,6 @@
     "link": "https://www.lacoliseum.com/events/maryland-vs-usc-2026/"
   },
   {
-    "key": "la convention center|07/12/2026|gothic market los angeles 2026",
-    "venue": "LA Convention Center",
-    "day": "Sunday",
-    "date": "07/12/2026",
-    "time": "TBA",
-    "name": "Gothic Market Los Angeles 2026",
-    "link": "https://www.laconventioncenter.com/events/detail/gothic-market-los-angeles-2026"
-  },
-  {
-    "key": "la convention center|07/12/2026|los angeles summer international open ibjjf jiu-jitsu championship",
-    "venue": "LA Convention Center",
-    "day": "Sunday",
-    "date": "07/12/2026",
-    "time": "TBA",
-    "name": "Los Angeles Summer International Open IBJJF Jiu-Jitsu Championship",
-    "link": "https://www.laconventioncenter.com/events/detail/los-angeles-summer-international-open-ibjjf-jiu-jitsu-championship"
-  },
-  {
     "key": "la convention center|07/19/2026|siggraph 2026",
     "venue": "LA Convention Center",
     "day": "Sunday",
@@ -2160,15 +2115,6 @@
     "link": "https://www.laconventioncenter.com/events/detail/socal-cup-volleyball-showcase-2027"
   },
   {
-    "key": "dodger stadium|07/12/2026|vs. arizona diamondbacks",
-    "venue": "Dodger Stadium",
-    "day": "Sunday",
-    "date": "07/12/2026",
-    "time": "1:10 PM",
-    "name": "vs. Arizona Diamondbacks",
-    "link": "https://www.mlb.com/gameday/823925"
-  },
-  {
     "key": "dodger stadium|07/28/2026|vs. seattle mariners",
     "venue": "Dodger Stadium",
     "day": "Tuesday",
@@ -2446,15 +2392,6 @@
     "time": "7:10 PM",
     "name": "vs. San Diego Padres",
     "link": "https://www.mlb.com/gameday/823895"
-  },
-  {
-    "key": "hollywood bowl|07/12/2026|music from the films of wes anderson – kcrw festival",
-    "venue": "Hollywood Bowl",
-    "day": "Sunday",
-    "date": "07/12/2026",
-    "time": "7:00 PM",
-    "name": "Music from the Films of Wes Anderson – KCRW Festival",
-    "link": "https://www.hollywoodbowl.com/events/performances/4534/2026-07-12/music-from-the-films-of-wes-anderson"
   },
   {
     "key": "hollywood bowl|07/14/2026|tchaikovsky & beethoven",

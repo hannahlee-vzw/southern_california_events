@@ -3248,5 +3248,65 @@
     "name": "Music from the Films of Wes Anderson",
     "link": "https://www.hollywoodbowl.com/events/performances/4289/2026-07-11/music-from-the-films-of-wes-anderson",
     "archived_on": "2026-07-12"
+  },
+  {
+    "key": "intuit dome|07/12/2026|joji: solaris",
+    "venue": "Intuit Dome",
+    "day": "Sunday",
+    "date": "07/12/2026",
+    "time": "7:30 PM",
+    "name": "JOJI: SOLARIS",
+    "link": "https://www.intuitdome.com/events/event-schedule/3513?utm_source=IDwebsite&utm_medium=eventschedule&utm_campaign=IDevents26&utm_content=joji_260712",
+    "archived_on": "2026-07-13"
+  },
+  {
+    "key": "rose bowl stadium|07/12/2026|rose bowl flea market",
+    "venue": "Rose Bowl Stadium",
+    "day": "Sunday",
+    "date": "07/12/2026",
+    "time": "5:00 AM",
+    "name": "ROSE BOWL FLEA MARKET",
+    "link": "https://www.rosebowlstadium.com/events/details/602/rose-bowl-flea-market",
+    "archived_on": "2026-07-13"
+  },
+  {
+    "key": "la convention center|07/12/2026|gothic market los angeles 2026",
+    "venue": "LA Convention Center",
+    "day": "Sunday",
+    "date": "07/12/2026",
+    "time": "TBA",
+    "name": "Gothic Market Los Angeles 2026",
+    "link": "https://www.laconventioncenter.com/events/detail/gothic-market-los-angeles-2026",
+    "archived_on": "2026-07-13"
+  },
+  {
+    "key": "la convention center|07/12/2026|los angeles summer international open ibjjf jiu-jitsu championship",
+    "venue": "LA Convention Center",
+    "day": "Sunday",
+    "date": "07/12/2026",
+    "time": "TBA",
+    "name": "Los Angeles Summer International Open IBJJF Jiu-Jitsu Championship",
+    "link": "https://www.laconventioncenter.com/events/detail/los-angeles-summer-international-open-ibjjf-jiu-jitsu-championship",
+    "archived_on": "2026-07-13"
+  },
+  {
+    "key": "dodger stadium|07/12/2026|vs. arizona diamondbacks",
+    "venue": "Dodger Stadium",
+    "day": "Sunday",
+    "date": "07/12/2026",
+    "time": "1:10 PM",
+    "name": "vs. Arizona Diamondbacks",
+    "link": "https://www.mlb.com/gameday/823925",
+    "archived_on": "2026-07-13"
+  },
+  {
+    "key": "hollywood bowl|07/12/2026|music from the films of wes anderson – kcrw festival",
+    "venue": "Hollywood Bowl",
+    "day": "Sunday",
+    "date": "07/12/2026",
+    "time": "7:00 PM",
+    "name": "Music from the Films of Wes Anderson – KCRW Festival",
+    "link": "https://www.hollywoodbowl.com/events/performances/4534/2026-07-12/music-from-the-films-of-wes-anderson",
+    "archived_on": "2026-07-13"
   }
 ]
