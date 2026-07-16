@@ -1449,15 +1449,6 @@
     "link": "https://www.rosebowlstadium.com/events/details/626/rose-bowl-half-marathon-and-5k"
   },
   {
-    "key": "crypto.com arena|07/15/2026|olivia dean – the art of loving - live 2026 with special guest baby rose",
-    "venue": "Crypto.com Arena",
-    "day": "Wednesday",
-    "date": "07/15/2026",
-    "time": "8:00 PM",
-    "name": "Olivia Dean – The Art of Loving - Live 2026 with Special Guest Baby Rose",
-    "link": "https://www.cryptoarena.com/events/detail/oliviadean26"
-  },
-  {
     "key": "crypto.com arena|07/17/2026|monster jam",
     "venue": "Crypto.com Arena",
     "day": "Friday",
@@ -1636,6 +1627,15 @@
     "time": "7:00 PM",
     "name": "Disney Descendants, ZOMBIES & Camp Rock: Worlds Collide Concert Tour – Malachi Barton, Liamani Segura, Dara Reneé, Mekonnen Knife, Hudson Stone, Swayam Bhatia, Kiara Romero, Alexandro Byrd",
     "link": "https://www.cryptoarena.com/events/detail/disneydescendants092826"
+  },
+  {
+    "key": "crypto.com arena|10/06/2026|florida panthers vs los angeles kings",
+    "venue": "Crypto.com Arena",
+    "day": "Tuesday",
+    "date": "10/06/2026",
+    "time": "7:30 PM",
+    "name": "Florida Panthers vs Los Angeles Kings",
+    "link": "https://www.cryptoarena.com/events/detail/kingspanthers100626"
   },
   {
     "key": "crypto.com arena|10/10/2026|jungle – world tour 2026 with rio kosta",
@@ -2401,15 +2401,6 @@
     "time": "7:10 PM",
     "name": "vs. San Diego Padres",
     "link": "https://www.mlb.com/gameday/823895"
-  },
-  {
-    "key": "hollywood bowl|07/15/2026|salsa spectacular: nathy peluso & grupo niche – el marchante with willy calderon",
-    "venue": "Hollywood Bowl",
-    "day": "Wednesday",
-    "date": "07/15/2026",
-    "time": "8:00 PM",
-    "name": "Salsa Spectacular: Nathy Peluso & Grupo Niche – El Marchante with Willy Calderon",
-    "link": "https://www.hollywoodbowl.com/events/performances/4298/2026-07-15/salsa-spectacular-nathy-peluso-grupo-niche"
   },
   {
     "key": "hollywood bowl|07/16/2026|mozart & brahms",

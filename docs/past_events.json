@@ -3328,5 +3328,25 @@
     "name": "Tchaikovsky & Beethoven",
     "link": "https://www.hollywoodbowl.com/events/performances/4297/2026-07-14/tchaikovsky-beethoven",
     "archived_on": "2026-07-15"
+  },
+  {
+    "key": "crypto.com arena|07/15/2026|olivia dean – the art of loving - live 2026 with special guest baby rose",
+    "venue": "Crypto.com Arena",
+    "day": "Wednesday",
+    "date": "07/15/2026",
+    "time": "8:00 PM",
+    "name": "Olivia Dean – The Art of Loving - Live 2026 with Special Guest Baby Rose",
+    "link": "https://www.cryptoarena.com/events/detail/oliviadean26",
+    "archived_on": "2026-07-16"
+  },
+  {
+    "key": "hollywood bowl|07/15/2026|salsa spectacular: nathy peluso & grupo niche – el marchante with willy calderon",
+    "venue": "Hollywood Bowl",
+    "day": "Wednesday",
+    "date": "07/15/2026",
+    "time": "8:00 PM",
+    "name": "Salsa Spectacular: Nathy Peluso & Grupo Niche – El Marchante with Willy Calderon",
+    "link": "https://www.hollywoodbowl.com/events/performances/4298/2026-07-15/salsa-spectacular-nathy-peluso-grupo-niche",
+    "archived_on": "2026-07-16"
   }
 ]
