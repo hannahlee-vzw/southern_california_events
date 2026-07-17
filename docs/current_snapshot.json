@@ -1647,6 +1647,24 @@
     "link": "https://www.cryptoarena.com/events/detail/jungle101026"
   },
   {
+    "key": "crypto.com arena|10/13/2026|edmonton oilers vs los angeles kings",
+    "venue": "Crypto.com Arena",
+    "day": "Tuesday",
+    "date": "10/13/2026",
+    "time": "7:30 PM",
+    "name": "Edmonton Oilers vs Los Angeles Kings",
+    "link": "https://www.cryptoarena.com/events/detail/kingsoilers101326"
+  },
+  {
+    "key": "crypto.com arena|10/17/2026|boston bruins vs los angeles kings",
+    "venue": "Crypto.com Arena",
+    "day": "Saturday",
+    "date": "10/17/2026",
+    "time": "6:00 PM",
+    "name": "Boston Bruins vs Los Angeles Kings",
+    "link": "https://www.cryptoarena.com/events/detail/kingsbruins101726"
+  },
+  {
     "key": "crypto.com arena|10/18/2026|kacey musgraves – middle of nowhere tour with gabriella rose and estevie",
     "venue": "Crypto.com Arena",
     "day": "Sunday",
@@ -1665,6 +1683,33 @@
     "link": "https://www.cryptoarena.com/events/detail/weezer102426"
   },
   {
+    "key": "crypto.com arena|10/29/2026|ottawa senators vs los angeles kings",
+    "venue": "Crypto.com Arena",
+    "day": "Thursday",
+    "date": "10/29/2026",
+    "time": "7:00 PM",
+    "name": "Ottawa Senators vs Los Angeles Kings",
+    "link": "https://www.cryptoarena.com/events/detail/kingssenators102926"
+  },
+  {
+    "key": "crypto.com arena|10/31/2026|buffalo sabres vs los angeles kings",
+    "venue": "Crypto.com Arena",
+    "day": "Saturday",
+    "date": "10/31/2026",
+    "time": "1:00 PM",
+    "name": "Buffalo Sabres vs Los Angeles Kings",
+    "link": "https://www.cryptoarena.com/events/detail/kingssabres103126"
+  },
+  {
+    "key": "crypto.com arena|11/04/2026|san jose sharks vs los angeles kings",
+    "venue": "Crypto.com Arena",
+    "day": "Wednesday",
+    "date": "11/04/2026",
+    "time": "7:00 PM",
+    "name": "San Jose Sharks vs Los Angeles Kings",
+    "link": "https://www.cryptoarena.com/events/detail/kingssharks110426"
+  },
+  {
     "key": "crypto.com arena|11/05/2026|xg world tour: the core in los angeles",
     "venue": "Crypto.com Arena",
     "day": "Thursday",
@@ -1674,6 +1719,42 @@
     "link": "https://www.cryptoarena.com/events/detail/xg-110526"
   },
   {
+    "key": "crypto.com arena|11/07/2026|pittsburgh penguins vs los angeles kings",
+    "venue": "Crypto.com Arena",
+    "day": "Saturday",
+    "date": "11/07/2026",
+    "time": "6:00 PM",
+    "name": "Pittsburgh Penguins vs Los Angeles Kings",
+    "link": "https://www.cryptoarena.com/events/detail/kingspenguins110726"
+  },
+  {
+    "key": "crypto.com arena|11/10/2026|nashville predators vs los angeles kings",
+    "venue": "Crypto.com Arena",
+    "day": "Tuesday",
+    "date": "11/10/2026",
+    "time": "7:00 PM",
+    "name": "Nashville Predators vs Los Angeles Kings",
+    "link": "https://www.cryptoarena.com/events/detail/kingspreds111026"
+  },
+  {
+    "key": "crypto.com arena|11/12/2026|new york islanders vs los angeles kings",
+    "venue": "Crypto.com Arena",
+    "day": "Thursday",
+    "date": "11/12/2026",
+    "time": "7:00 PM",
+    "name": "New York Islanders vs Los Angeles Kings",
+    "link": "https://www.cryptoarena.com/events/detail/kingsislanders111226"
+  },
+  {
+    "key": "crypto.com arena|11/14/2026|calgary flames vs los angeles kings",
+    "venue": "Crypto.com Arena",
+    "day": "Saturday",
+    "date": "11/14/2026",
+    "time": "7:00 PM",
+    "name": "Calgary Flames vs Los Angeles Kings",
+    "link": "https://www.cryptoarena.com/events/detail/kingsflames111426"
+  },
+  {
     "key": "crypto.com arena|11/21/2026|katseye – the wildworld tour",
     "venue": "Crypto.com Arena",
     "day": "Saturday",
@@ -1681,6 +1762,294 @@
     "time": "TBA",
     "name": "KATSEYE – The WILDWORLD Tour",
     "link": "https://www.cryptoarena.com/events/detail/katseye26"
+  },
+  {
+    "key": "crypto.com arena|11/28/2026|anaheim ducks vs los angeles kings",
+    "venue": "Crypto.com Arena",
+    "day": "Saturday",
+    "date": "11/28/2026",
+    "time": "6:00 PM",
+    "name": "Anaheim Ducks vs Los Angeles Kings",
+    "link": "https://www.cryptoarena.com/events/detail/kingsducks112826"
+  },
+  {
+    "key": "crypto.com arena|12/01/2026|vegas golden knights vs los angeles kings",
+    "venue": "Crypto.com Arena",
+    "day": "Tuesday",
+    "date": "12/01/2026",
+    "time": "7:00 PM",
+    "name": "Vegas Golden Knights vs Los Angeles Kings",
+    "link": "https://www.cryptoarena.com/events/detail/kingsknights120126"
+  },
+  {
+    "key": "crypto.com arena|12/03/2026|minnesota wild vs los angeles kings",
+    "venue": "Crypto.com Arena",
+    "day": "Thursday",
+    "date": "12/03/2026",
+    "time": "7:00 PM",
+    "name": "Minnesota Wild vs Los Angeles Kings",
+    "link": "https://www.cryptoarena.com/events/detail/kingswild120326"
+  },
+  {
+    "key": "crypto.com arena|12/05/2026|utah mammoth vs los angeles kings",
+    "venue": "Crypto.com Arena",
+    "day": "Saturday",
+    "date": "12/05/2026",
+    "time": "7:00 PM",
+    "name": "Utah Mammoth vs Los Angeles Kings",
+    "link": "https://www.cryptoarena.com/events/detail/kingsmammoth120526"
+  },
+  {
+    "key": "crypto.com arena|12/09/2026|san jose sharks vs los angeles kings",
+    "venue": "Crypto.com Arena",
+    "day": "Wednesday",
+    "date": "12/09/2026",
+    "time": "7:00 PM",
+    "name": "San Jose Sharks vs Los Angeles Kings",
+    "link": "https://www.cryptoarena.com/events/detail/kingssharks120926"
+  },
+  {
+    "key": "crypto.com arena|12/12/2026|vancouver canucks vs los angeles kings",
+    "venue": "Crypto.com Arena",
+    "day": "Saturday",
+    "date": "12/12/2026",
+    "time": "7:00 PM",
+    "name": "Vancouver Canucks vs Los Angeles Kings",
+    "link": "https://www.cryptoarena.com/events/detail/kingscanucks121226"
+  },
+  {
+    "key": "crypto.com arena|12/26/2026|utah mammoth vs los angeles kings",
+    "venue": "Crypto.com Arena",
+    "day": "Saturday",
+    "date": "12/26/2026",
+    "time": "7:00 PM",
+    "name": "Utah Mammoth vs Los Angeles Kings",
+    "link": "https://www.cryptoarena.com/events/detail/kingsmammoth122626"
+  },
+  {
+    "key": "crypto.com arena|12/30/2026|toronto maple leafs vs los angeles kings",
+    "venue": "Crypto.com Arena",
+    "day": "Wednesday",
+    "date": "12/30/2026",
+    "time": "7:00 PM",
+    "name": "Toronto Maple Leafs vs Los Angeles Kings",
+    "link": "https://www.cryptoarena.com/events/detail/kingsleafs123026"
+  },
+  {
+    "key": "crypto.com arena|01/02/2027|new jersey devils vs los angeles kings",
+    "venue": "Crypto.com Arena",
+    "day": "Saturday",
+    "date": "01/02/2027",
+    "time": "6:00 PM",
+    "name": "New Jersey Devils vs Los Angeles Kings",
+    "link": "https://www.cryptoarena.com/events/detail/kingsdevils010227"
+  },
+  {
+    "key": "crypto.com arena|01/04/2027|philadelphia flyers vs los angeles kings",
+    "venue": "Crypto.com Arena",
+    "day": "Monday",
+    "date": "01/04/2027",
+    "time": "7:00 PM",
+    "name": "Philadelphia Flyers vs Los Angeles Kings",
+    "link": "https://www.cryptoarena.com/events/detail/kingsflyers010427"
+  },
+  {
+    "key": "crypto.com arena|01/06/2027|washington capitals vs los angeles kings",
+    "venue": "Crypto.com Arena",
+    "day": "Wednesday",
+    "date": "01/06/2027",
+    "time": "7:00 PM",
+    "name": "Washington Capitals vs Los Angeles Kings",
+    "link": "https://www.cryptoarena.com/events/detail/kingscaps010627"
+  },
+  {
+    "key": "crypto.com arena|01/09/2027|dallas stars vs los angeles kings",
+    "venue": "Crypto.com Arena",
+    "day": "Saturday",
+    "date": "01/09/2027",
+    "time": "6:00 PM",
+    "name": "Dallas Stars vs Los Angeles Kings",
+    "link": "https://www.cryptoarena.com/events/detail/kingsstars010927"
+  },
+  {
+    "key": "crypto.com arena|01/11/2027|new york rangers vs los angeles kings",
+    "venue": "Crypto.com Arena",
+    "day": "Monday",
+    "date": "01/11/2027",
+    "time": "7:00 PM",
+    "name": "New York Rangers vs Los Angeles Kings",
+    "link": "https://www.cryptoarena.com/events/detail/kingsrangers011127"
+  },
+  {
+    "key": "crypto.com arena|01/13/2027|st. louis blues vs los angeles kings",
+    "venue": "Crypto.com Arena",
+    "day": "Wednesday",
+    "date": "01/13/2027",
+    "time": "7:00 PM",
+    "name": "St. Louis Blues vs Los Angeles Kings",
+    "link": "https://www.cryptoarena.com/events/detail/kingsblues011327"
+  },
+  {
+    "key": "crypto.com arena|01/19/2027|seattle kraken vs los angeles kings",
+    "venue": "Crypto.com Arena",
+    "day": "Tuesday",
+    "date": "01/19/2027",
+    "time": "7:00 PM",
+    "name": "Seattle Kraken vs Los Angeles Kings",
+    "link": "https://www.cryptoarena.com/events/detail/kingskraken011927"
+  },
+  {
+    "key": "crypto.com arena|01/21/2027|edmonton oilers vs los angeles kings",
+    "venue": "Crypto.com Arena",
+    "day": "Thursday",
+    "date": "01/21/2027",
+    "time": "7:00 PM",
+    "name": "Edmonton Oilers vs Los Angeles Kings",
+    "link": "https://www.cryptoarena.com/events/detail/kingsoilers012127"
+  },
+  {
+    "key": "crypto.com arena|02/11/2027|detroit red wings vs los angeles kings",
+    "venue": "Crypto.com Arena",
+    "day": "Thursday",
+    "date": "02/11/2027",
+    "time": "7:00 PM",
+    "name": "Detroit Red Wings vs Los Angeles Kings",
+    "link": "https://www.cryptoarena.com/events/detail/kingswings021127"
+  },
+  {
+    "key": "crypto.com arena|02/13/2027|chicago blackhawks vs los angeles kings",
+    "venue": "Crypto.com Arena",
+    "day": "Saturday",
+    "date": "02/13/2027",
+    "time": "3:00 PM",
+    "name": "Chicago Blackhawks vs Los Angeles Kings",
+    "link": "https://www.cryptoarena.com/events/detail/kingsblackhawks021327"
+  },
+  {
+    "key": "crypto.com arena|02/15/2027|calgary flames vs los angeles kings",
+    "venue": "Crypto.com Arena",
+    "day": "Monday",
+    "date": "02/15/2027",
+    "time": "7:00 PM",
+    "name": "Calgary Flames vs Los Angeles Kings",
+    "link": "https://www.cryptoarena.com/events/detail/kingsflames021527"
+  },
+  {
+    "key": "crypto.com arena|02/20/2027|seattle kraken vs los angeles kings",
+    "venue": "Crypto.com Arena",
+    "day": "Saturday",
+    "date": "02/20/2027",
+    "time": "7:30 PM",
+    "name": "Seattle Kraken vs Los Angeles Kings",
+    "link": "https://www.cryptoarena.com/events/detail/kingskraken022027"
+  },
+  {
+    "key": "crypto.com arena|02/24/2027|montreal canadiens vs los angeles kings",
+    "venue": "Crypto.com Arena",
+    "day": "Wednesday",
+    "date": "02/24/2027",
+    "time": "7:00 PM",
+    "name": "Montreal Canadiens vs Los Angeles Kings",
+    "link": "https://www.cryptoarena.com/events/detail/kingscanadiens022427"
+  },
+  {
+    "key": "crypto.com arena|03/01/2027|anaheim ducks vs los angeles kings",
+    "venue": "Crypto.com Arena",
+    "day": "Monday",
+    "date": "03/01/2027",
+    "time": "7:00 PM",
+    "name": "Anaheim Ducks vs Los Angeles Kings",
+    "link": "https://www.cryptoarena.com/events/detail/kingsducks030127"
+  },
+  {
+    "key": "crypto.com arena|03/03/2027|tampa bay lightning vs los angeles kings",
+    "venue": "Crypto.com Arena",
+    "day": "Wednesday",
+    "date": "03/03/2027",
+    "time": "7:00 PM",
+    "name": "Tampa Bay Lightning vs Los Angeles Kings",
+    "link": "https://www.cryptoarena.com/events/detail/kingslightning030327"
+  },
+  {
+    "key": "crypto.com arena|03/05/2027|columbus blue jackets vs los angeles kings",
+    "venue": "Crypto.com Arena",
+    "day": "Friday",
+    "date": "03/05/2027",
+    "time": "7:00 PM",
+    "name": "Columbus Blue Jackets vs Los Angeles Kings",
+    "link": "https://www.cryptoarena.com/events/detail/kingsjackets030527"
+  },
+  {
+    "key": "crypto.com arena|03/07/2027|colorado avalanche vs los angeles kings",
+    "venue": "Crypto.com Arena",
+    "day": "Sunday",
+    "date": "03/07/2027",
+    "time": "12:30 PM",
+    "name": "Colorado Avalanche vs Los Angeles Kings",
+    "link": "https://www.cryptoarena.com/events/detail/kingsavs030727"
+  },
+  {
+    "key": "crypto.com arena|03/13/2027|dallas stars vs los angeles kings",
+    "venue": "Crypto.com Arena",
+    "day": "Saturday",
+    "date": "03/13/2027",
+    "time": "6:00 PM",
+    "name": "Dallas Stars vs Los Angeles Kings",
+    "link": "https://www.cryptoarena.com/events/detail/kingsstars031327"
+  },
+  {
+    "key": "crypto.com arena|03/16/2027|winnipeg jets vs los angeles kings",
+    "venue": "Crypto.com Arena",
+    "day": "Tuesday",
+    "date": "03/16/2027",
+    "time": "7:00 PM",
+    "name": "Winnipeg Jets vs Los Angeles Kings",
+    "link": "https://www.cryptoarena.com/events/detail/kingsjets031627"
+  },
+  {
+    "key": "crypto.com arena|03/18/2027|carolina hurricanes vs los angeles kings",
+    "venue": "Crypto.com Arena",
+    "day": "Thursday",
+    "date": "03/18/2027",
+    "time": "7:00 PM",
+    "name": "Carolina Hurricanes vs Los Angeles Kings",
+    "link": "https://www.cryptoarena.com/events/detail/kingscanes031827"
+  },
+  {
+    "key": "crypto.com arena|03/29/2027|vancouver canucks vs los angeles kings",
+    "venue": "Crypto.com Arena",
+    "day": "Monday",
+    "date": "03/29/2027",
+    "time": "6:30 PM",
+    "name": "Vancouver Canucks vs Los Angeles Kings",
+    "link": "https://www.cryptoarena.com/events/detail/kingscanucks032927"
+  },
+  {
+    "key": "crypto.com arena|03/31/2027|winnipeg jets vs los angeles kings",
+    "venue": "Crypto.com Arena",
+    "day": "Wednesday",
+    "date": "03/31/2027",
+    "time": "7:00 PM",
+    "name": "Winnipeg Jets vs Los Angeles Kings",
+    "link": "https://www.cryptoarena.com/events/detail/kingsjets033127"
+  },
+  {
+    "key": "crypto.com arena|04/03/2027|st. louis blues vs los angeles kings",
+    "venue": "Crypto.com Arena",
+    "day": "Saturday",
+    "date": "04/03/2027",
+    "time": "7:30 PM",
+    "name": "St. Louis Blues vs Los Angeles Kings",
+    "link": "https://www.cryptoarena.com/events/detail/kingsblues040327"
+  },
+  {
+    "key": "crypto.com arena|04/08/2027|vegas golden knights vs los angeles kings",
+    "venue": "Crypto.com Arena",
+    "day": "Thursday",
+    "date": "04/08/2027",
+    "time": "7:00 PM",
+    "name": "Vegas Golden Knights vs Los Angeles Kings",
+    "link": "https://www.cryptoarena.com/events/detail/kingsblues040827"
   },
   {
     "key": "crypto.com arena|TBA|j. cole – the fall-off world tour",
@@ -2401,15 +2770,6 @@
     "time": "7:10 PM",
     "name": "vs. San Diego Padres",
     "link": "https://www.mlb.com/gameday/823895"
-  },
-  {
-    "key": "hollywood bowl|07/16/2026|mozart & brahms",
-    "venue": "Hollywood Bowl",
-    "day": "Thursday",
-    "date": "07/16/2026",
-    "time": "8:00 PM",
-    "name": "Mozart & Brahms",
-    "link": "https://www.hollywoodbowl.com/events/performances/4299/2026-07-16/mozart-brahms"
   },
   {
     "key": "hollywood bowl|07/17/2026|let the sunshine in: the music of ’69",
