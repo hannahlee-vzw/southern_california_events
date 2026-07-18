@@ -3358,5 +3358,55 @@
     "name": "Mozart & Brahms",
     "link": "https://www.hollywoodbowl.com/events/performances/4299/2026-07-16/mozart-brahms",
     "archived_on": "2026-07-17"
+  },
+  {
+    "key": "intuit dome|07/17/2026|forrest frank",
+    "venue": "Intuit Dome",
+    "day": "Friday",
+    "date": "07/17/2026",
+    "time": "7:00 PM",
+    "name": "Forrest Frank",
+    "link": "https://intuitdome.com/events/forrest-frank?utm_source=IDwebsite&utm_medium=eventschedule&utm_campaign=IDevents26&utm_content=forrest_frank_260717",
+    "archived_on": "2026-07-18"
+  },
+  {
+    "key": "kia forum|07/17/2026|young the giant – victory garden tour",
+    "venue": "Kia Forum",
+    "day": "Friday",
+    "date": "07/17/2026",
+    "time": "7:00 PM",
+    "name": "YOUNG THE GIANT – Victory Garden Tour",
+    "link": "https://thekiaforum.com/event/young-the-giant/",
+    "archived_on": "2026-07-18"
+  },
+  {
+    "key": "dignity health sports park|07/17/2026|la galaxy vs lafc",
+    "venue": "Dignity Health Sports Park",
+    "day": "Friday",
+    "date": "07/17/2026",
+    "time": "TBA",
+    "name": "LA Galaxy vs LAFC",
+    "link": "https://www.dignityhealthsportspark.com/events/detail/la-galaxy-vs-lafc",
+    "archived_on": "2026-07-18"
+  },
+  {
+    "key": "crypto.com arena|07/17/2026|monster jam",
+    "venue": "Crypto.com Arena",
+    "day": "Friday",
+    "date": "07/17/2026",
+    "time": "TBA",
+    "name": "Monster Jam",
+    "link": "https://www.cryptoarena.com/events/detail/monsterjam26",
+    "archived_on": "2026-07-18"
+  },
+  {
+    "key": "hollywood bowl|07/17/2026|let the sunshine in: the music of ’69",
+    "venue": "Hollywood Bowl",
+    "day": "Friday",
+    "date": "07/17/2026",
+    "time": "8:00 PM",
+    "name": "Let the Sunshine In: The Music of ’69",
+    "link": "https://www.hollywoodbowl.com/events/performances/4300/2026-07-17/let-the-sunshine-in-the-music-of-69",
+    "archived_on": "2026-07-18"
   }
 ]

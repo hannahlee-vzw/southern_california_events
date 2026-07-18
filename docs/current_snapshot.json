@@ -459,15 +459,6 @@
     "link": "https://www.intuitdome.com/events/event-schedule/3967?utm_source=IDwebsite&utm_medium=eventschedule&utm_campaign=IDevents26&utm_content=morat_270226"
   },
   {
-    "key": "intuit dome|07/17/2026|forrest frank",
-    "venue": "Intuit Dome",
-    "day": "Friday",
-    "date": "07/17/2026",
-    "time": "7:00 PM",
-    "name": "Forrest Frank",
-    "link": "https://intuitdome.com/events/forrest-frank?utm_source=IDwebsite&utm_medium=eventschedule&utm_campaign=IDevents26&utm_content=forrest_frank_260717"
-  },
-  {
     "key": "intuit dome|07/27/2026|wwe monday night raw",
     "venue": "Intuit Dome",
     "day": "Monday",
@@ -682,15 +673,6 @@
     "time": "7:00 PM",
     "name": "Three Days Grace",
     "link": "https://www.intuitdome.com/events/event-schedule/3149?utm_source=IDwebsite&utm_medium=eventschedule&utm_campaign=IDevents26&utm_content=three_days_grace_261122"
-  },
-  {
-    "key": "kia forum|07/17/2026|young the giant – victory garden tour",
-    "venue": "Kia Forum",
-    "day": "Friday",
-    "date": "07/17/2026",
-    "time": "7:00 PM",
-    "name": "YOUNG THE GIANT – Victory Garden Tour",
-    "link": "https://thekiaforum.com/event/young-the-giant/"
   },
   {
     "key": "kia forum|07/18/2026|evanescence",
@@ -1107,15 +1089,6 @@
     "link": "https://thekiaforum.com/event/niall-horan/"
   },
   {
-    "key": "dignity health sports park|07/17/2026|la galaxy vs lafc",
-    "venue": "Dignity Health Sports Park",
-    "day": "Friday",
-    "date": "07/17/2026",
-    "time": "TBA",
-    "name": "LA Galaxy vs LAFC",
-    "link": "https://www.dignityhealthsportspark.com/events/detail/la-galaxy-vs-lafc"
-  },
-  {
     "key": "dignity health sports park|07/18/2026|diego pacheco vs immanuwel aleem",
     "venue": "Dignity Health Sports Park",
     "day": "Saturday",
@@ -1449,10 +1422,10 @@
     "link": "https://www.rosebowlstadium.com/events/details/626/rose-bowl-half-marathon-and-5k"
   },
   {
-    "key": "crypto.com arena|07/17/2026|monster jam",
+    "key": "crypto.com arena|07/18/2026|monster jam",
     "venue": "Crypto.com Arena",
-    "day": "Friday",
-    "date": "07/17/2026",
+    "day": "Saturday",
+    "date": "07/18/2026",
     "time": "TBA",
     "name": "Monster Jam",
     "link": "https://www.cryptoarena.com/events/detail/monsterjam26"
@@ -2770,15 +2743,6 @@
     "time": "7:10 PM",
     "name": "vs. San Diego Padres",
     "link": "https://www.mlb.com/gameday/823895"
-  },
-  {
-    "key": "hollywood bowl|07/17/2026|let the sunshine in: the music of ’69",
-    "venue": "Hollywood Bowl",
-    "day": "Friday",
-    "date": "07/17/2026",
-    "time": "8:00 PM",
-    "name": "Let the Sunshine In: The Music of ’69",
-    "link": "https://www.hollywoodbowl.com/events/performances/4300/2026-07-17/let-the-sunshine-in-the-music-of-69"
   },
   {
     "key": "hollywood bowl|07/18/2026|blues traveler • gin blossoms – spin doctors",
