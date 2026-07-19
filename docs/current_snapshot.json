@@ -675,15 +675,6 @@
     "link": "https://www.intuitdome.com/events/event-schedule/3149?utm_source=IDwebsite&utm_medium=eventschedule&utm_campaign=IDevents26&utm_content=three_days_grace_261122"
   },
   {
-    "key": "kia forum|07/18/2026|evanescence",
-    "venue": "Kia Forum",
-    "day": "Saturday",
-    "date": "07/18/2026",
-    "time": "7:00 PM",
-    "name": "EVANESCENCE",
-    "link": "https://thekiaforum.com/event/evanescence/"
-  },
-  {
     "key": "kia forum|07/31/2026|motionless in white – the sweat and blood tour",
     "venue": "Kia Forum",
     "day": "Friday",
@@ -1089,15 +1080,6 @@
     "link": "https://thekiaforum.com/event/niall-horan/"
   },
   {
-    "key": "dignity health sports park|07/18/2026|diego pacheco vs immanuwel aleem",
-    "venue": "Dignity Health Sports Park",
-    "day": "Saturday",
-    "date": "07/18/2026",
-    "time": "TBA",
-    "name": "Diego Pacheco vs Immanuwel Aleem",
-    "link": "https://www.dignityhealthsportspark.com/events/detail/matchroom-boxing-presents-diego-pacheco-vs-immanuwel-aleem"
-  },
-  {
     "key": "dignity health sports park|07/22/2026|la galaxy vs st. louis city sc",
     "venue": "Dignity Health Sports Park",
     "day": "Wednesday",
@@ -1422,11 +1404,11 @@
     "link": "https://www.rosebowlstadium.com/events/details/626/rose-bowl-half-marathon-and-5k"
   },
   {
-    "key": "crypto.com arena|07/18/2026|monster jam",
+    "key": "crypto.com arena|07/19/2026|monster jam",
     "venue": "Crypto.com Arena",
-    "day": "Saturday",
-    "date": "07/18/2026",
-    "time": "TBA",
+    "day": "Sunday",
+    "date": "07/19/2026",
+    "time": "12:00 PM",
     "name": "Monster Jam",
     "link": "https://www.cryptoarena.com/events/detail/monsterjam26"
   },
@@ -2743,15 +2725,6 @@
     "time": "7:10 PM",
     "name": "vs. San Diego Padres",
     "link": "https://www.mlb.com/gameday/823895"
-  },
-  {
-    "key": "hollywood bowl|07/18/2026|blues traveler • gin blossoms – spin doctors",
-    "venue": "Hollywood Bowl",
-    "day": "Saturday",
-    "date": "07/18/2026",
-    "time": "8:00 PM",
-    "name": "Blues Traveler • Gin Blossoms – Spin Doctors",
-    "link": "https://www.hollywoodbowl.com/events/performances/4301/2026-07-18/blues-traveler-gin-blossoms"
   },
   {
     "key": "hollywood bowl|07/19/2026|bob moses and cannons: afterglow tour – oxis, kcrw festival",
