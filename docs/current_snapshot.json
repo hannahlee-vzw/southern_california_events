@@ -1404,15 +1404,6 @@
     "link": "https://www.rosebowlstadium.com/events/details/626/rose-bowl-half-marathon-and-5k"
   },
   {
-    "key": "crypto.com arena|07/19/2026|monster jam",
-    "venue": "Crypto.com Arena",
-    "day": "Sunday",
-    "date": "07/19/2026",
-    "time": "12:00 PM",
-    "name": "Monster Jam",
-    "link": "https://www.cryptoarena.com/events/detail/monsterjam26"
-  },
-  {
     "key": "crypto.com arena|07/22/2026|los angeles sparks vs phoenix mercury",
     "venue": "Crypto.com Arena",
     "day": "Wednesday",
@@ -2088,10 +2079,10 @@
     "link": "https://www.lacoliseum.com/events/maryland-vs-usc-2026/"
   },
   {
-    "key": "la convention center|07/19/2026|siggraph 2026",
+    "key": "la convention center|07/20/2026|siggraph 2026",
     "venue": "LA Convention Center",
-    "day": "Sunday",
-    "date": "07/19/2026",
+    "day": "Monday",
+    "date": "07/20/2026",
     "time": "TBA",
     "name": "SIGGRAPH 2026",
     "link": "https://www.laconventioncenter.com/events/detail/siggraph-2026"
@@ -2725,15 +2716,6 @@
     "time": "7:10 PM",
     "name": "vs. San Diego Padres",
     "link": "https://www.mlb.com/gameday/823895"
-  },
-  {
-    "key": "hollywood bowl|07/19/2026|bob moses and cannons: afterglow tour – oxis, kcrw festival",
-    "venue": "Hollywood Bowl",
-    "day": "Sunday",
-    "date": "07/19/2026",
-    "time": "7:00 PM",
-    "name": "Bob Moses and Cannons: Afterglow Tour – Oxis, KCRW Festival",
-    "link": "https://www.hollywoodbowl.com/events/performances/4302/2026-07-19/bob-moses-and-cannons-afterglow-tour"
   },
   {
     "key": "hollywood bowl|07/21/2026|joe hisaishi film music concert – featuring studio ghibli & more",
