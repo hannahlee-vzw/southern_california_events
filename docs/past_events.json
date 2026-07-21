@@ -3478,5 +3478,15 @@
     "name": "Bob Moses and Cannons: Afterglow Tour – Oxis, KCRW Festival",
     "link": "https://www.hollywoodbowl.com/events/performances/4302/2026-07-19/bob-moses-and-cannons-afterglow-tour",
     "archived_on": "2026-07-20"
+  },
+  {
+    "key": "la convention center|07/20/2026|siggraph 2026",
+    "venue": "LA Convention Center",
+    "day": "Monday",
+    "date": "07/20/2026",
+    "time": "TBA",
+    "name": "SIGGRAPH 2026",
+    "link": "https://www.laconventioncenter.com/events/detail/siggraph-2026",
+    "archived_on": "2026-07-21"
   }
 ]

@@ -1629,6 +1629,15 @@
     "link": "https://www.cryptoarena.com/events/detail/weezer102426"
   },
   {
+    "key": "crypto.com arena|10/28/2026|yg – the gentlemen's club tour with mozzy, kalan.frfr, natalie nunn, and chef boy",
+    "venue": "Crypto.com Arena",
+    "day": "Wednesday",
+    "date": "10/28/2026",
+    "time": "8:00 PM",
+    "name": "YG – The Gentlemen's Club Tour with Mozzy, Kalan.FrFr, Natalie Nunn, and Chef Boy",
+    "link": "https://www.cryptoarena.com/events/detail/yg102826"
+  },
+  {
     "key": "crypto.com arena|10/29/2026|ottawa senators vs los angeles kings",
     "venue": "Crypto.com Arena",
     "day": "Thursday",
@@ -2079,10 +2088,10 @@
     "link": "https://www.lacoliseum.com/events/maryland-vs-usc-2026/"
   },
   {
-    "key": "la convention center|07/20/2026|siggraph 2026",
+    "key": "la convention center|07/21/2026|siggraph 2026",
     "venue": "LA Convention Center",
-    "day": "Monday",
-    "date": "07/20/2026",
+    "day": "Tuesday",
+    "date": "07/21/2026",
     "time": "TBA",
     "name": "SIGGRAPH 2026",
     "link": "https://www.laconventioncenter.com/events/detail/siggraph-2026"
@@ -2115,10 +2124,10 @@
     "link": "https://www.laconventioncenter.com/events/detail/el-sembrador-ministries-metanoia-los-angeles"
   },
   {
-    "key": "la convention center|08/13/2026|kcon la 2026",
+    "key": "la convention center|08/14/2026|kcon la 2026",
     "venue": "LA Convention Center",
-    "day": "Thursday",
-    "date": "08/13/2026",
+    "day": "Friday",
+    "date": "08/14/2026",
     "time": "TBA",
     "name": "KCON LA 2026",
     "link": "https://www.laconventioncenter.com/events/detail/kcon-la-2026"
