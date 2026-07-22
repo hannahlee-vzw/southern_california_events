@@ -2088,10 +2088,10 @@
     "link": "https://www.lacoliseum.com/events/maryland-vs-usc-2026/"
   },
   {
-    "key": "la convention center|07/21/2026|siggraph 2026",
+    "key": "la convention center|07/22/2026|siggraph 2026",
     "venue": "LA Convention Center",
-    "day": "Tuesday",
-    "date": "07/21/2026",
+    "day": "Wednesday",
+    "date": "07/22/2026",
     "time": "TBA",
     "name": "SIGGRAPH 2026",
     "link": "https://www.laconventioncenter.com/events/detail/siggraph-2026"
@@ -2578,7 +2578,7 @@
     "venue": "Dodger Stadium",
     "day": "Saturday",
     "date": "08/22/2026",
-    "time": "6:10 PM",
+    "time": "4:15 PM",
     "name": "vs. Pittsburgh Pirates",
     "link": "https://www.mlb.com/gameday/823910"
   },
@@ -2725,15 +2725,6 @@
     "time": "7:10 PM",
     "name": "vs. San Diego Padres",
     "link": "https://www.mlb.com/gameday/823895"
-  },
-  {
-    "key": "hollywood bowl|07/21/2026|joe hisaishi film music concert – featuring studio ghibli & more",
-    "venue": "Hollywood Bowl",
-    "day": "Tuesday",
-    "date": "07/21/2026",
-    "time": "8:00 PM",
-    "name": "Joe Hisaishi Film Music Concert – Featuring Studio Ghibli & More",
-    "link": "https://www.hollywoodbowl.com/events/performances/4303/2026-07-21/joe-hisaishi-film-music-concert"
   },
   {
     "key": "hollywood bowl|07/22/2026|joe hisaishi film music concert – featuring studio ghibli & more",
