@@ -1080,15 +1080,6 @@
     "link": "https://thekiaforum.com/event/niall-horan/"
   },
   {
-    "key": "dignity health sports park|07/22/2026|la galaxy vs st. louis city sc",
-    "venue": "Dignity Health Sports Park",
-    "day": "Wednesday",
-    "date": "07/22/2026",
-    "time": "TBA",
-    "name": "LA Galaxy vs St. Louis CITY SC",
-    "link": "https://www.dignityhealthsportspark.com/events/detail/la-galaxy-vs-st-louis-city-sc"
-  },
-  {
     "key": "dignity health sports park|07/25/2026|campeón de campeones 2026",
     "venue": "Dignity Health Sports Park",
     "day": "Saturday",
@@ -1402,15 +1393,6 @@
     "time": "TBD",
     "name": "Rose Bowl Half Marathon & 5K",
     "link": "https://www.rosebowlstadium.com/events/details/626/rose-bowl-half-marathon-and-5k"
-  },
-  {
-    "key": "crypto.com arena|07/22/2026|los angeles sparks vs phoenix mercury",
-    "venue": "Crypto.com Arena",
-    "day": "Wednesday",
-    "date": "07/22/2026",
-    "time": "12:00 PM",
-    "name": "Los Angeles Sparks vs Phoenix Mercury",
-    "link": "https://www.cryptoarena.com/events/detail/sparksmercury072226"
   },
   {
     "key": "crypto.com arena|07/28/2026|los angeles sparks vs new york liberty",
@@ -2088,10 +2070,10 @@
     "link": "https://www.lacoliseum.com/events/maryland-vs-usc-2026/"
   },
   {
-    "key": "la convention center|07/22/2026|siggraph 2026",
+    "key": "la convention center|07/23/2026|siggraph 2026",
     "venue": "LA Convention Center",
-    "day": "Wednesday",
-    "date": "07/22/2026",
+    "day": "Thursday",
+    "date": "07/23/2026",
     "time": "TBA",
     "name": "SIGGRAPH 2026",
     "link": "https://www.laconventioncenter.com/events/detail/siggraph-2026"
@@ -2725,15 +2707,6 @@
     "time": "7:10 PM",
     "name": "vs. San Diego Padres",
     "link": "https://www.mlb.com/gameday/823895"
-  },
-  {
-    "key": "hollywood bowl|07/22/2026|joe hisaishi film music concert – featuring studio ghibli & more",
-    "venue": "Hollywood Bowl",
-    "day": "Wednesday",
-    "date": "07/22/2026",
-    "time": "8:00 PM",
-    "name": "Joe Hisaishi Film Music Concert – Featuring Studio Ghibli & More",
-    "link": "https://www.hollywoodbowl.com/events/performances/4304/2026-07-22/joe-hisaishi-film-music-concert"
   },
   {
     "key": "hollywood bowl|07/23/2026|joe hisaishi film music concert – featuring studio ghibli & more",
