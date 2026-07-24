@@ -1566,6 +1566,15 @@
     "link": "https://www.cryptoarena.com/events/detail/kingspanthers100626"
   },
   {
+    "key": "crypto.com arena|10/08/2026|sacramento kings vs los angeles lakers – preseason",
+    "venue": "Crypto.com Arena",
+    "day": "Thursday",
+    "date": "10/08/2026",
+    "time": "TBA",
+    "name": "Sacramento Kings vs Los Angeles Lakers – Preseason",
+    "link": "https://www.cryptoarena.com/events/detail/lakerskings100826"
+  },
+  {
     "key": "crypto.com arena|10/10/2026|jungle – world tour 2026 with rio kosta",
     "venue": "Crypto.com Arena",
     "day": "Saturday",
@@ -1582,6 +1591,15 @@
     "time": "7:30 PM",
     "name": "Edmonton Oilers vs Los Angeles Kings",
     "link": "https://www.cryptoarena.com/events/detail/kingsoilers101326"
+  },
+  {
+    "key": "crypto.com arena|10/16/2026|denver nuggets vs los angeles lakers – preseason",
+    "venue": "Crypto.com Arena",
+    "day": "Friday",
+    "date": "10/16/2026",
+    "time": "TBA",
+    "name": "Denver Nuggets vs Los Angeles Lakers – Preseason",
+    "link": "https://www.cryptoarena.com/events/detail/lakersnuggets101626"
   },
   {
     "key": "crypto.com arena|10/17/2026|boston bruins vs los angeles kings",
@@ -2068,15 +2086,6 @@
     "time": "TBA",
     "name": "Maryland vs USC",
     "link": "https://www.lacoliseum.com/events/maryland-vs-usc-2026/"
-  },
-  {
-    "key": "la convention center|07/23/2026|siggraph 2026",
-    "venue": "LA Convention Center",
-    "day": "Thursday",
-    "date": "07/23/2026",
-    "time": "TBA",
-    "name": "SIGGRAPH 2026",
-    "link": "https://www.laconventioncenter.com/events/detail/siggraph-2026"
   },
   {
     "key": "la convention center|08/01/2026|collect-a-con los angeles",
@@ -2707,15 +2716,6 @@
     "time": "7:10 PM",
     "name": "vs. San Diego Padres",
     "link": "https://www.mlb.com/gameday/823895"
-  },
-  {
-    "key": "hollywood bowl|07/23/2026|joe hisaishi film music concert – featuring studio ghibli & more",
-    "venue": "Hollywood Bowl",
-    "day": "Thursday",
-    "date": "07/23/2026",
-    "time": "8:00 PM",
-    "name": "Joe Hisaishi Film Music Concert – Featuring Studio Ghibli & More",
-    "link": "https://www.hollywoodbowl.com/events/performances/4305/2026-07-23/joe-hisaishi-film-music-concert"
   },
   {
     "key": "hollywood bowl|07/24/2026|smokey robinson & gladys knight: just the two of us",

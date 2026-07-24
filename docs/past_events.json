@@ -3548,5 +3548,25 @@
     "name": "Joe Hisaishi Film Music Concert – Featuring Studio Ghibli & More",
     "link": "https://www.hollywoodbowl.com/events/performances/4304/2026-07-22/joe-hisaishi-film-music-concert",
     "archived_on": "2026-07-23"
+  },
+  {
+    "key": "la convention center|07/23/2026|siggraph 2026",
+    "venue": "LA Convention Center",
+    "day": "Thursday",
+    "date": "07/23/2026",
+    "time": "TBA",
+    "name": "SIGGRAPH 2026",
+    "link": "https://www.laconventioncenter.com/events/detail/siggraph-2026",
+    "archived_on": "2026-07-24"
+  },
+  {
+    "key": "hollywood bowl|07/23/2026|joe hisaishi film music concert – featuring studio ghibli & more",
+    "venue": "Hollywood Bowl",
+    "day": "Thursday",
+    "date": "07/23/2026",
+    "time": "8:00 PM",
+    "name": "Joe Hisaishi Film Music Concert – Featuring Studio Ghibli & More",
+    "link": "https://www.hollywoodbowl.com/events/performances/4305/2026-07-23/joe-hisaishi-film-music-concert",
+    "archived_on": "2026-07-24"
   }
 ]
