@@ -468,15 +468,6 @@
     "link": "https://www.intuitdome.com/events/event-schedule/3967?utm_source=IDwebsite&utm_medium=eventschedule&utm_campaign=IDevents26&utm_content=morat_270226"
   },
   {
-    "key": "intuit dome|07/27/2026|wwe monday night raw",
-    "venue": "Intuit Dome",
-    "day": "Monday",
-    "date": "07/27/2026",
-    "time": "4:30 PM",
-    "name": "WWE Monday Night RAW",
-    "link": "https://www.intuitdome.com/events/event-schedule/3937?utm_source=IDwebsite&utm_medium=eventschedule&utm_campaign=IDevents26&utm_content=wwe_monday_night_raw_260727"
-  },
-  {
     "key": "intuit dome|08/07/2026|grupo frontera",
     "venue": "Intuit Dome",
     "day": "Friday",
@@ -2302,6 +2293,15 @@
     "time": "TBA",
     "name": "Tonight's Conversation: LIVE & UNCUT Los Angeles",
     "link": "https://www.laconventioncenter.com/events/detail/tonights-conversation-live-uncut-los-angeles-1"
+  },
+  {
+    "key": "la convention center|12/10/2026|st. john's holiday party",
+    "venue": "LA Convention Center",
+    "day": "Thursday",
+    "date": "12/10/2026",
+    "time": "TBA",
+    "name": "St. John's Holiday Party",
+    "link": "https://www.laconventioncenter.com/events/detail/st-johns-holiday-party"
   },
   {
     "key": "la convention center|12/12/2026|spirit royale cheer | marquee championship los angeles",
