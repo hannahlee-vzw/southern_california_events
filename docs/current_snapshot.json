@@ -1071,6 +1071,15 @@
     "link": "https://thekiaforum.com/event/gracie-abrams-3/"
   },
   {
+    "key": "kia forum|01/23/2027|joyce manor",
+    "venue": "Kia Forum",
+    "day": "Saturday",
+    "date": "01/23/2027",
+    "time": "7:00 PM",
+    "name": "JOYCE MANOR",
+    "link": "https://thekiaforum.com/event/joyce-manor/"
+  },
+  {
     "key": "kia forum|05/22/2027|niall horan – dinner party live on tour",
     "venue": "Kia Forum",
     "day": "Saturday",
@@ -1368,6 +1377,15 @@
     "link": "https://www.rosebowlstadium.com/events/details/486/holiday-tours"
   },
   {
+    "key": "rose bowl stadium|01/01/2027|rose bowl game",
+    "venue": "Rose Bowl Stadium",
+    "day": "Friday",
+    "date": "01/01/2027",
+    "time": "TBD",
+    "name": "Rose Bowl Game",
+    "link": "https://www.rosebowlstadium.com/events/details/667/rose-bowl-game"
+  },
+  {
     "key": "rose bowl stadium|01/02/2027|holiday tours",
     "venue": "Rose Bowl Stadium",
     "day": "Saturday",
@@ -1384,15 +1402,6 @@
     "time": "TBD",
     "name": "Rose Bowl Half Marathon & 5K",
     "link": "https://www.rosebowlstadium.com/events/details/626/rose-bowl-half-marathon-and-5k"
-  },
-  {
-    "key": "crypto.com arena|07/28/2026|los angeles sparks vs new york liberty",
-    "venue": "Crypto.com Arena",
-    "day": "Tuesday",
-    "date": "07/28/2026",
-    "time": "7:00 PM",
-    "name": "Los Angeles Sparks vs New York Liberty",
-    "link": "https://www.cryptoarena.com/events/detail/sparksliberty072826"
   },
   {
     "key": "crypto.com arena|08/07/2026|megan moroney – the cloud 9 tour with jp saxe and solon holt",
@@ -2448,15 +2457,6 @@
     "link": "https://www.laconventioncenter.com/events/detail/socal-cup-volleyball-showcase-2027"
   },
   {
-    "key": "dodger stadium|07/28/2026|vs. seattle mariners",
-    "venue": "Dodger Stadium",
-    "day": "Tuesday",
-    "date": "07/28/2026",
-    "time": "7:10 PM",
-    "name": "vs. Seattle Mariners",
-    "link": "https://www.mlb.com/gameday/823923"
-  },
-  {
     "key": "dodger stadium|07/29/2026|vs. seattle mariners",
     "venue": "Dodger Stadium",
     "day": "Wednesday",
@@ -2725,15 +2725,6 @@
     "time": "7:10 PM",
     "name": "vs. San Diego Padres",
     "link": "https://www.mlb.com/gameday/823895"
-  },
-  {
-    "key": "hollywood bowl|07/28/2026|rhapsody in blue& shostakovich",
-    "venue": "Hollywood Bowl",
-    "day": "Tuesday",
-    "date": "07/28/2026",
-    "time": "8:00 PM",
-    "name": "Rhapsody in Blue& Shostakovich",
-    "link": "https://www.hollywoodbowl.com/events/performances/4309/2026-07-28/rhapsody-in-blue-shostakovich"
   },
   {
     "key": "hollywood bowl|07/29/2026|tower of power and preservation hall jazz band",
@@ -3123,12 +3114,12 @@
     "link": "https://www.hollywoodbowl.com/events/performances/4357/2026-09-16/andrea-bocelli"
   },
   {
-    "key": "hollywood bowl|09/18/2026|orville peck",
+    "key": "hollywood bowl|09/18/2026|orville peck – lucius",
     "venue": "Hollywood Bowl",
     "day": "Friday",
     "date": "09/18/2026",
     "time": "8:00 PM",
-    "name": "Orville Peck",
+    "name": "Orville Peck – Lucius",
     "link": "https://www.hollywoodbowl.com/events/performances/4355/2026-09-18/orville-peck"
   },
   {
@@ -3195,13 +3186,13 @@
     "link": "https://www.hollywoodbowl.com/events/performances/4346/2026-09-27/jon-batiste"
   },
   {
-    "key": "hollywood bowl|09/29/2026|lauren halsey'semajendatwith erykah badu – and dj pee .wee (anderson .paak), and charles gaines collective with black nile",
+    "key": "hollywood bowl|09/29/2026|lauren halsey'semajendaterykah badu and the alchemist – with dj pee .wee (anderson .paak), charles gaines collective with black nile",
     "venue": "Hollywood Bowl",
     "day": "Tuesday",
     "date": "09/29/2026",
     "time": "8:00 PM",
-    "name": "Lauren Halsey'semajendatwith Erykah Badu – and DJ Pee .Wee (Anderson .Paak), and Charles Gaines Collective with Black Nile",
-    "link": "https://www.hollywoodbowl.com/events/performances/4843/2026-09-29/lauren-halseys-emajendat-with-erykah-badu"
+    "name": "Lauren Halsey'semajendatErykah Badu and The Alchemist – with DJ Pee .Wee (Anderson .Paak), Charles Gaines Collective with Black Nile",
+    "link": "https://www.hollywoodbowl.com/events/performances/4843/2026-09-29/lauren-halseys-emajendat-erykah-badu-and-the-alchemist"
   },
   {
     "key": "hollywood bowl|09/30/2026|rubén blades & roberto delgado big band: fotografías tour – silvana estrada",
@@ -3328,5 +3319,14 @@
     "time": "7:00 PM",
     "name": "My Chemical Romance – Thrice",
     "link": "https://www.hollywoodbowl.com/events/performances/4264/2026-10-31/my-chemical-romance"
+  },
+  {
+    "key": "hollywood bowl|11/07/2026|jimmy eat worldthe format",
+    "venue": "Hollywood Bowl",
+    "day": "Saturday",
+    "date": "11/07/2026",
+    "time": "7:00 PM",
+    "name": "Jimmy Eat WorldThe Format",
+    "link": "https://www.hollywoodbowl.com/events/performances/4898/2026-11-07/jimmy-eat-world-the-format"
   }
 ]

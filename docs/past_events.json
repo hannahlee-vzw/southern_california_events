@@ -3618,5 +3618,35 @@
     "name": "WWE Monday Night RAW",
     "link": "https://www.intuitdome.com/events/event-schedule/3937?utm_source=IDwebsite&utm_medium=eventschedule&utm_campaign=IDevents26&utm_content=wwe_monday_night_raw_260727",
     "archived_on": "2026-07-28"
+  },
+  {
+    "key": "crypto.com arena|07/28/2026|los angeles sparks vs new york liberty",
+    "venue": "Crypto.com Arena",
+    "day": "Tuesday",
+    "date": "07/28/2026",
+    "time": "7:00 PM",
+    "name": "Los Angeles Sparks vs New York Liberty",
+    "link": "https://www.cryptoarena.com/events/detail/sparksliberty072826",
+    "archived_on": "2026-07-29"
+  },
+  {
+    "key": "dodger stadium|07/28/2026|vs. seattle mariners",
+    "venue": "Dodger Stadium",
+    "day": "Tuesday",
+    "date": "07/28/2026",
+    "time": "7:10 PM",
+    "name": "vs. Seattle Mariners",
+    "link": "https://www.mlb.com/gameday/823923",
+    "archived_on": "2026-07-29"
+  },
+  {
+    "key": "hollywood bowl|07/28/2026|rhapsody in blue& shostakovich",
+    "venue": "Hollywood Bowl",
+    "day": "Tuesday",
+    "date": "07/28/2026",
+    "time": "8:00 PM",
+    "name": "Rhapsody in Blue& Shostakovich",
+    "link": "https://www.hollywoodbowl.com/events/performances/4309/2026-07-28/rhapsody-in-blue-shostakovich",
+    "archived_on": "2026-07-29"
   }
 ]
