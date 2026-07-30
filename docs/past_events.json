@@ -3648,5 +3648,25 @@
     "name": "Rhapsody in Blue& Shostakovich",
     "link": "https://www.hollywoodbowl.com/events/performances/4309/2026-07-28/rhapsody-in-blue-shostakovich",
     "archived_on": "2026-07-29"
+  },
+  {
+    "key": "dodger stadium|07/29/2026|vs. seattle mariners",
+    "venue": "Dodger Stadium",
+    "day": "Wednesday",
+    "date": "07/29/2026",
+    "time": "7:10 PM",
+    "name": "vs. Seattle Mariners",
+    "link": "https://www.mlb.com/gameday/823924",
+    "archived_on": "2026-07-30"
+  },
+  {
+    "key": "hollywood bowl|07/29/2026|tower of power and preservation hall jazz band",
+    "venue": "Hollywood Bowl",
+    "day": "Wednesday",
+    "date": "07/29/2026",
+    "time": "8:00 PM",
+    "name": "Tower of Power and Preservation Hall Jazz Band",
+    "link": "https://www.hollywoodbowl.com/events/performances/4310/2026-07-29/tower-of-power-and-preservation-hall-jazz-band",
+    "archived_on": "2026-07-30"
   }
 ]

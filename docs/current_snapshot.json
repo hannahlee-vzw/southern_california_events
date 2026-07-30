@@ -729,12 +729,12 @@
     "link": "https://thekiaforum.com/event/rufus-du-sol-4/"
   },
   {
-    "key": "kia forum|08/13/2026|rüfüs du sol – with ben böhmer",
+    "key": "kia forum|08/13/2026|rüfüs du sol",
     "venue": "Kia Forum",
     "day": "Thursday",
     "date": "08/13/2026",
     "time": "7:00 PM",
-    "name": "RÜFÜS DU SOL – with Ben Böhmer",
+    "name": "RÜFÜS DU SOL",
     "link": "https://thekiaforum.com/event/rufus-du-sol-5/"
   },
   {
@@ -2457,15 +2457,6 @@
     "link": "https://www.laconventioncenter.com/events/detail/socal-cup-volleyball-showcase-2027"
   },
   {
-    "key": "dodger stadium|07/29/2026|vs. seattle mariners",
-    "venue": "Dodger Stadium",
-    "day": "Wednesday",
-    "date": "07/29/2026",
-    "time": "7:10 PM",
-    "name": "vs. Seattle Mariners",
-    "link": "https://www.mlb.com/gameday/823924"
-  },
-  {
     "key": "dodger stadium|07/30/2026|vs. seattle mariners",
     "venue": "Dodger Stadium",
     "day": "Thursday",
@@ -2725,15 +2716,6 @@
     "time": "7:10 PM",
     "name": "vs. San Diego Padres",
     "link": "https://www.mlb.com/gameday/823895"
-  },
-  {
-    "key": "hollywood bowl|07/29/2026|tower of power and preservation hall jazz band",
-    "venue": "Hollywood Bowl",
-    "day": "Wednesday",
-    "date": "07/29/2026",
-    "time": "8:00 PM",
-    "name": "Tower of Power and Preservation Hall Jazz Band",
-    "link": "https://www.hollywoodbowl.com/events/performances/4310/2026-07-29/tower-of-power-and-preservation-hall-jazz-band"
   },
   {
     "key": "hollywood bowl|07/30/2026|pictures at an exhibition",
