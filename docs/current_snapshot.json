@@ -1395,6 +1395,15 @@
     "link": "https://www.rosebowlstadium.com/events/details/487/holiday-tours"
   },
   {
+    "key": "rose bowl stadium|01/02/2027|holiday huddle",
+    "venue": "Rose Bowl Stadium",
+    "day": "Saturday",
+    "date": "01/02/2027",
+    "time": "10:00 PM",
+    "name": "HOLIDAY HUDDLE",
+    "link": "https://www.rosebowlstadium.com/events/details/668/holiday-huddle"
+  },
+  {
     "key": "rose bowl stadium|01/17/2027|rose bowl half marathon & 5k",
     "venue": "Rose Bowl Stadium",
     "day": "Sunday",
@@ -2070,6 +2079,15 @@
     "link": "https://www.lacoliseum.com/events/washington-vs-usc-2026/"
   },
   {
+    "key": "l.a. memorial coliseum|10/06/2026|mextour: mexico vs. chile",
+    "venue": "L.A. Memorial Coliseum",
+    "day": "Tuesday",
+    "date": "10/06/2026",
+    "time": "TBA",
+    "name": "MEXTOUR: Mexico vs. Chile",
+    "link": "https://www.lacoliseum.com/events/mextour-mexico-vs-chile/"
+  },
+  {
     "key": "l.a. memorial coliseum|10/31/2026|ohio state vs usc",
     "venue": "L.A. Memorial Coliseum",
     "day": "Saturday",
@@ -2212,6 +2230,15 @@
     "time": "TBA",
     "name": "Riftbound Regional Qualifier",
     "link": "https://www.laconventioncenter.com/events/detail/riftbound-regional-qualifier"
+  },
+  {
+    "key": "la convention center|09/28/2026|2026 sports & entertainment procurement summit",
+    "venue": "LA Convention Center",
+    "day": "Monday",
+    "date": "09/28/2026",
+    "time": "TBA",
+    "name": "2026 Sports & Entertainment Procurement Summit",
+    "link": "https://www.laconventioncenter.com/events/detail/2026-sports-entertainment-procurement-summit"
   },
   {
     "key": "la convention center|10/03/2026|complexcon 2026",
@@ -2455,15 +2482,6 @@
     "time": "TBA",
     "name": "The SoCal Cup: The Showcase 2027",
     "link": "https://www.laconventioncenter.com/events/detail/socal-cup-volleyball-showcase-2027"
-  },
-  {
-    "key": "dodger stadium|07/30/2026|vs. seattle mariners",
-    "venue": "Dodger Stadium",
-    "day": "Thursday",
-    "date": "07/30/2026",
-    "time": "7:10 PM",
-    "name": "vs. Seattle Mariners",
-    "link": "https://www.mlb.com/gameday/823921"
   },
   {
     "key": "dodger stadium|07/31/2026|vs. boston red sox",
@@ -2716,15 +2734,6 @@
     "time": "7:10 PM",
     "name": "vs. San Diego Padres",
     "link": "https://www.mlb.com/gameday/823895"
-  },
-  {
-    "key": "hollywood bowl|07/30/2026|pictures at an exhibition",
-    "venue": "Hollywood Bowl",
-    "day": "Thursday",
-    "date": "07/30/2026",
-    "time": "8:00 PM",
-    "name": "Pictures at an Exhibition",
-    "link": "https://www.hollywoodbowl.com/events/performances/4311/2026-07-30/pictures-at-an-exhibition"
   },
   {
     "key": "hollywood bowl|07/31/2026|tchaikovsky spectacular with fireworks",
@@ -3168,12 +3177,12 @@
     "link": "https://www.hollywoodbowl.com/events/performances/4346/2026-09-27/jon-batiste"
   },
   {
-    "key": "hollywood bowl|09/29/2026|lauren halsey'semajendaterykah badu and the alchemist – with dj pee .wee (anderson .paak), charles gaines collective with black nile",
+    "key": "hollywood bowl|09/29/2026|lauren halsey'semajendaterykah badu and the alchemist – with dj pee .wee (anderson .paak), flea, charles gaines collective with black nile and devin daniels",
     "venue": "Hollywood Bowl",
     "day": "Tuesday",
     "date": "09/29/2026",
     "time": "8:00 PM",
-    "name": "Lauren Halsey'semajendatErykah Badu and The Alchemist – with DJ Pee .Wee (Anderson .Paak), Charles Gaines Collective with Black Nile",
+    "name": "Lauren Halsey'semajendatErykah Badu and The Alchemist – with DJ Pee .Wee (Anderson .Paak), Flea, Charles Gaines Collective with Black Nile and Devin Daniels",
     "link": "https://www.hollywoodbowl.com/events/performances/4843/2026-09-29/lauren-halseys-emajendat-erykah-badu-and-the-alchemist"
   },
   {

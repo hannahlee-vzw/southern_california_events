@@ -3668,5 +3668,25 @@
     "name": "Tower of Power and Preservation Hall Jazz Band",
     "link": "https://www.hollywoodbowl.com/events/performances/4310/2026-07-29/tower-of-power-and-preservation-hall-jazz-band",
     "archived_on": "2026-07-30"
+  },
+  {
+    "key": "dodger stadium|07/30/2026|vs. seattle mariners",
+    "venue": "Dodger Stadium",
+    "day": "Thursday",
+    "date": "07/30/2026",
+    "time": "7:10 PM",
+    "name": "vs. Seattle Mariners",
+    "link": "https://www.mlb.com/gameday/823921",
+    "archived_on": "2026-07-31"
+  },
+  {
+    "key": "hollywood bowl|07/30/2026|pictures at an exhibition",
+    "venue": "Hollywood Bowl",
+    "day": "Thursday",
+    "date": "07/30/2026",
+    "time": "8:00 PM",
+    "name": "Pictures at an Exhibition",
+    "link": "https://www.hollywoodbowl.com/events/performances/4311/2026-07-30/pictures-at-an-exhibition",
+    "archived_on": "2026-07-31"
   }
 ]
