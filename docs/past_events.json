@@ -3688,5 +3688,35 @@
     "name": "Pictures at an Exhibition",
     "link": "https://www.hollywoodbowl.com/events/performances/4311/2026-07-30/pictures-at-an-exhibition",
     "archived_on": "2026-07-31"
+  },
+  {
+    "key": "kia forum|07/31/2026|motionless in white – the sweat and blood tour",
+    "venue": "Kia Forum",
+    "day": "Friday",
+    "date": "07/31/2026",
+    "time": "7:00 PM",
+    "name": "MOTIONLESS IN WHITE – The Sweat and Blood Tour",
+    "link": "https://thekiaforum.com/event/motionless-in-white/",
+    "archived_on": "2026-08-01"
+  },
+  {
+    "key": "dodger stadium|07/31/2026|vs. boston red sox",
+    "venue": "Dodger Stadium",
+    "day": "Friday",
+    "date": "07/31/2026",
+    "time": "7:10 PM",
+    "name": "vs. Boston Red Sox",
+    "link": "https://www.mlb.com/gameday/823922",
+    "archived_on": "2026-08-01"
+  },
+  {
+    "key": "hollywood bowl|07/31/2026|tchaikovsky spectacular with fireworks",
+    "venue": "Hollywood Bowl",
+    "day": "Friday",
+    "date": "07/31/2026",
+    "time": "8:00 PM",
+    "name": "Tchaikovsky Spectacular with Fireworks",
+    "link": "https://www.hollywoodbowl.com/events/performances/4312/2026-07-31/tchaikovsky-spectacular-with-fireworks",
+    "archived_on": "2026-08-01"
   }
 ]

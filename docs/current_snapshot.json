@@ -675,15 +675,6 @@
     "link": "https://www.intuitdome.com/events/event-schedule/3149?utm_source=IDwebsite&utm_medium=eventschedule&utm_campaign=IDevents26&utm_content=three_days_grace_261122"
   },
   {
-    "key": "kia forum|07/31/2026|motionless in white – the sweat and blood tour",
-    "venue": "Kia Forum",
-    "day": "Friday",
-    "date": "07/31/2026",
-    "time": "7:00 PM",
-    "name": "MOTIONLESS IN WHITE – The Sweat and Blood Tour",
-    "link": "https://thekiaforum.com/event/motionless-in-white/"
-  },
-  {
     "key": "kia forum|08/01/2026|ive – world tour [show what i am] in los angeles",
     "venue": "Kia Forum",
     "day": "Saturday",
@@ -2196,15 +2187,6 @@
     "link": "https://www.laconventioncenter.com/events/detail/got-sole-los-angeles"
   },
   {
-    "key": "la convention center|09/20/2026|california bridal & wedding expo",
-    "venue": "LA Convention Center",
-    "day": "Sunday",
-    "date": "09/20/2026",
-    "time": "TBA",
-    "name": "California Bridal & Wedding Expo",
-    "link": "https://www.laconventioncenter.com/events/detail/california-bridal-wedding-expo-15"
-  },
-  {
     "key": "la convention center|09/20/2026|wekfest la 2026",
     "venue": "LA Convention Center",
     "day": "Sunday",
@@ -2212,6 +2194,15 @@
     "time": "TBA",
     "name": "Wekfest LA 2026",
     "link": "https://www.laconventioncenter.com/events/detail/wekfest-la-2026"
+  },
+  {
+    "key": "la convention center|09/20/2026|california bridal & wedding expo",
+    "venue": "LA Convention Center",
+    "day": "Sunday",
+    "date": "09/20/2026",
+    "time": "TBA",
+    "name": "California Bridal & Wedding Expo",
+    "link": "https://www.laconventioncenter.com/events/detail/california-bridal-wedding-expo-15"
   },
   {
     "key": "la convention center|09/23/2026|national black mba annual conference & exposition",
@@ -2304,6 +2295,15 @@
     "link": "https://www.laconventioncenter.com/events/detail/american-academy-of-otolaryngology-2026-aao-oto-expo"
   },
   {
+    "key": "la convention center|10/25/2026|2026 nmsdc annual conference & exchange",
+    "venue": "LA Convention Center",
+    "day": "Sunday",
+    "date": "10/25/2026",
+    "time": "TBA",
+    "name": "2026 NMSDC Annual Conference & Exchange",
+    "link": "https://www.laconventioncenter.com/events/detail/2026-nmsdc-annual-conference-exchange"
+  },
+  {
     "key": "la convention center|10/30/2026|l.a. comic con 2026",
     "venue": "LA Convention Center",
     "day": "Friday",
@@ -2340,12 +2340,12 @@
     "link": "https://www.laconventioncenter.com/events/detail/st-johns-holiday-party"
   },
   {
-    "key": "la convention center|12/12/2026|spirit royale cheer | marquee championship los angeles",
+    "key": "la convention center|12/12/2026|spirit royale cheer: marquee championship los angeles",
     "venue": "LA Convention Center",
     "day": "Saturday",
     "date": "12/12/2026",
     "time": "TBA",
-    "name": "Spirit Royale Cheer | Marquee Championship Los Angeles",
+    "name": "Spirit Royale Cheer: Marquee Championship Los Angeles",
     "link": "https://www.laconventioncenter.com/events/detail/spirit-royale-cheer-marquee-los-angeles"
   },
   {
@@ -2412,12 +2412,12 @@
     "link": "https://www.laconventioncenter.com/events/detail/makeup-luxe-pack-in-los-angeles-2027"
   },
   {
-    "key": "la convention center|02/26/2027|victory gymnastics - victory classic",
+    "key": "la convention center|02/26/2027|victory gymnastics: victory classic",
     "venue": "LA Convention Center",
     "day": "Friday",
     "date": "02/26/2027",
     "time": "TBA",
-    "name": "Victory Gymnastics - Victory Classic",
+    "name": "Victory Gymnastics: Victory Classic",
     "link": "https://www.laconventioncenter.com/events/detail/victory-gymnastics-victory-classic-1"
   },
   {
@@ -2439,13 +2439,13 @@
     "link": "https://www.laconventioncenter.com/events/detail/acp-internal-medicine-meeting-2027"
   },
   {
-    "key": "la convention center|04/30/2027|immunology 2027",
+    "key": "la convention center|04/30/2027|american association of immunologists - immunology 2027",
     "venue": "LA Convention Center",
     "day": "Friday",
     "date": "04/30/2027",
     "time": "TBA",
-    "name": "Immunology 2027",
-    "link": "https://www.laconventioncenter.com/events/detail/immunology-2027"
+    "name": "American Association of Immunologists - Immunology 2027",
+    "link": "https://www.laconventioncenter.com/events/detail/american-association-of-immunologists-immunology-2027"
   },
   {
     "key": "la convention center|05/01/2027|american association of thoracic surgery annual meeting",
@@ -2455,6 +2455,15 @@
     "time": "TBA",
     "name": "American Association of Thoracic Surgery Annual Meeting",
     "link": "https://www.laconventioncenter.com/events/detail/aats-annual-mtg-2027"
+  },
+  {
+    "key": "la convention center|05/21/2027|acog annual clinical and scientific meeting",
+    "venue": "LA Convention Center",
+    "day": "Friday",
+    "date": "05/21/2027",
+    "time": "TBA",
+    "name": "ACOG Annual Clinical and Scientific Meeting",
+    "link": "https://www.laconventioncenter.com/events/detail/acog-annual-clinical-and-scientific-meeting"
   },
   {
     "key": "la convention center|06/01/2027|nafsa: association of international educators annual conference 2027",
@@ -2472,7 +2481,7 @@
     "date": "06/14/2027",
     "time": "TBA",
     "name": "APIC27",
-    "link": "https://www.laconventioncenter.com/events/detail/apic27"
+    "link": "https://www.laconventioncenter.com/events/detail/association-for-professionals-in-infection-control-and-epidemiology-apic27"
   },
   {
     "key": "la convention center|06/19/2027|the socal cup: the showcase 2027",
@@ -2482,15 +2491,6 @@
     "time": "TBA",
     "name": "The SoCal Cup: The Showcase 2027",
     "link": "https://www.laconventioncenter.com/events/detail/socal-cup-volleyball-showcase-2027"
-  },
-  {
-    "key": "dodger stadium|07/31/2026|vs. boston red sox",
-    "venue": "Dodger Stadium",
-    "day": "Friday",
-    "date": "07/31/2026",
-    "time": "7:10 PM",
-    "name": "vs. Boston Red Sox",
-    "link": "https://www.mlb.com/gameday/823922"
   },
   {
     "key": "dodger stadium|08/01/2026|vs. boston red sox",
@@ -2734,15 +2734,6 @@
     "time": "7:10 PM",
     "name": "vs. San Diego Padres",
     "link": "https://www.mlb.com/gameday/823895"
-  },
-  {
-    "key": "hollywood bowl|07/31/2026|tchaikovsky spectacular with fireworks",
-    "venue": "Hollywood Bowl",
-    "day": "Friday",
-    "date": "07/31/2026",
-    "time": "8:00 PM",
-    "name": "Tchaikovsky Spectacular with Fireworks",
-    "link": "https://www.hollywoodbowl.com/events/performances/4312/2026-07-31/tchaikovsky-spectacular-with-fireworks"
   },
   {
     "key": "hollywood bowl|08/01/2026|tchaikovsky spectacular with fireworks",
