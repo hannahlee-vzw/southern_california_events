@@ -675,15 +675,6 @@
     "link": "https://www.intuitdome.com/events/event-schedule/3149?utm_source=IDwebsite&utm_medium=eventschedule&utm_campaign=IDevents26&utm_content=three_days_grace_261122"
   },
   {
-    "key": "kia forum|08/01/2026|ive – world tour [show what i am] in los angeles",
-    "venue": "Kia Forum",
-    "day": "Saturday",
-    "date": "08/01/2026",
-    "time": "7:00 PM",
-    "name": "IVE – WORLD TOUR [SHOW WHAT I AM] IN LOS ANGELES",
-    "link": "https://thekiaforum.com/event/ive/"
-  },
-  {
     "key": "kia forum|08/06/2026|rüfüs du sol",
     "venue": "Kia Forum",
     "day": "Thursday",
@@ -1078,15 +1069,6 @@
     "time": "7:00 PM",
     "name": "NIALL HORAN – Dinner Party Live On Tour",
     "link": "https://thekiaforum.com/event/niall-horan/"
-  },
-  {
-    "key": "dignity health sports park|08/01/2026|la galaxy vs fc dallas",
-    "venue": "Dignity Health Sports Park",
-    "day": "Saturday",
-    "date": "08/01/2026",
-    "time": "TBA",
-    "name": "LA Galaxy vs FC Dallas",
-    "link": "https://www.dignityhealthsportspark.com/events/detail/la-galaxy-vs-fc-dallas"
   },
   {
     "key": "dignity health sports park|08/19/2026|la galaxy vs san jose earthquakes",
@@ -1501,6 +1483,15 @@
     "time": "7:30 PM",
     "name": "2026 LE SSERAFIM TOUR 'PUREFLOW' IN LOS ANGELES",
     "link": "https://www.cryptoarena.com/events/detail/lesserafim26"
+  },
+  {
+    "key": "crypto.com arena|09/19/2026|ufc 331",
+    "venue": "Crypto.com Arena",
+    "day": "Saturday",
+    "date": "09/19/2026",
+    "time": "2:00 PM",
+    "name": "UFC 331",
+    "link": "https://www.cryptoarena.com/events/detail/ufc331"
   },
   {
     "key": "crypto.com arena|09/20/2026|los angeles sparks vs portland fire",
@@ -2097,10 +2088,10 @@
     "link": "https://www.lacoliseum.com/events/maryland-vs-usc-2026/"
   },
   {
-    "key": "la convention center|08/01/2026|collect-a-con los angeles",
+    "key": "la convention center|08/02/2026|collect-a-con los angeles",
     "venue": "LA Convention Center",
-    "day": "Saturday",
-    "date": "08/01/2026",
+    "day": "Sunday",
+    "date": "08/02/2026",
     "time": "TBA",
     "name": "Collect-A-Con Los Angeles",
     "link": "https://www.laconventioncenter.com/events/detail/collect-a-con-los-angeles-august-2026"
@@ -2493,15 +2484,6 @@
     "link": "https://www.laconventioncenter.com/events/detail/socal-cup-volleyball-showcase-2027"
   },
   {
-    "key": "dodger stadium|08/01/2026|vs. boston red sox",
-    "venue": "Dodger Stadium",
-    "day": "Saturday",
-    "date": "08/01/2026",
-    "time": "6:10 PM",
-    "name": "vs. Boston Red Sox",
-    "link": "https://www.mlb.com/gameday/823920"
-  },
-  {
     "key": "dodger stadium|08/02/2026|vs. boston red sox",
     "venue": "Dodger Stadium",
     "day": "Sunday",
@@ -2734,15 +2716,6 @@
     "time": "7:10 PM",
     "name": "vs. San Diego Padres",
     "link": "https://www.mlb.com/gameday/823895"
-  },
-  {
-    "key": "hollywood bowl|08/01/2026|tchaikovsky spectacular with fireworks",
-    "venue": "Hollywood Bowl",
-    "day": "Saturday",
-    "date": "08/01/2026",
-    "time": "8:00 PM",
-    "name": "Tchaikovsky Spectacular with Fireworks",
-    "link": "https://www.hollywoodbowl.com/events/performances/4313/2026-08-01/tchaikovsky-spectacular-with-fireworks"
   },
   {
     "key": "hollywood bowl|08/02/2026|st. vincent with the hollywood bowl orchestra – anoushka shankar, kcrw festival",

@@ -3718,5 +3718,55 @@
     "name": "Tchaikovsky Spectacular with Fireworks",
     "link": "https://www.hollywoodbowl.com/events/performances/4312/2026-07-31/tchaikovsky-spectacular-with-fireworks",
     "archived_on": "2026-08-01"
+  },
+  {
+    "key": "kia forum|08/01/2026|ive – world tour [show what i am] in los angeles",
+    "venue": "Kia Forum",
+    "day": "Saturday",
+    "date": "08/01/2026",
+    "time": "7:00 PM",
+    "name": "IVE – WORLD TOUR [SHOW WHAT I AM] IN LOS ANGELES",
+    "link": "https://thekiaforum.com/event/ive/",
+    "archived_on": "2026-08-02"
+  },
+  {
+    "key": "dignity health sports park|08/01/2026|la galaxy vs fc dallas",
+    "venue": "Dignity Health Sports Park",
+    "day": "Saturday",
+    "date": "08/01/2026",
+    "time": "TBA",
+    "name": "LA Galaxy vs FC Dallas",
+    "link": "https://www.dignityhealthsportspark.com/events/detail/la-galaxy-vs-fc-dallas",
+    "archived_on": "2026-08-02"
+  },
+  {
+    "key": "la convention center|08/01/2026|collect-a-con los angeles",
+    "venue": "LA Convention Center",
+    "day": "Saturday",
+    "date": "08/01/2026",
+    "time": "TBA",
+    "name": "Collect-A-Con Los Angeles",
+    "link": "https://www.laconventioncenter.com/events/detail/collect-a-con-los-angeles-august-2026",
+    "archived_on": "2026-08-02"
+  },
+  {
+    "key": "dodger stadium|08/01/2026|vs. boston red sox",
+    "venue": "Dodger Stadium",
+    "day": "Saturday",
+    "date": "08/01/2026",
+    "time": "6:10 PM",
+    "name": "vs. Boston Red Sox",
+    "link": "https://www.mlb.com/gameday/823920",
+    "archived_on": "2026-08-02"
+  },
+  {
+    "key": "hollywood bowl|08/01/2026|tchaikovsky spectacular with fireworks",
+    "venue": "Hollywood Bowl",
+    "day": "Saturday",
+    "date": "08/01/2026",
+    "time": "8:00 PM",
+    "name": "Tchaikovsky Spectacular with Fireworks",
+    "link": "https://www.hollywoodbowl.com/events/performances/4313/2026-08-01/tchaikovsky-spectacular-with-fireworks",
+    "archived_on": "2026-08-02"
   }
 ]
