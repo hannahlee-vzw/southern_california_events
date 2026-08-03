@@ -3768,5 +3768,45 @@
     "name": "Tchaikovsky Spectacular with Fireworks",
     "link": "https://www.hollywoodbowl.com/events/performances/4313/2026-08-01/tchaikovsky-spectacular-with-fireworks",
     "archived_on": "2026-08-02"
+  },
+  {
+    "key": "rose bowl stadium|08/02/2026|dena community backpack giveaway",
+    "venue": "Rose Bowl Stadium",
+    "day": "Sunday",
+    "date": "08/02/2026",
+    "time": "10:00 AM",
+    "name": "Dena Community Backpack Giveaway",
+    "link": "https://www.rosebowlstadium.com/events/details/663/dena-community-backpack-giveaway",
+    "archived_on": "2026-08-03"
+  },
+  {
+    "key": "la convention center|08/02/2026|collect-a-con los angeles",
+    "venue": "LA Convention Center",
+    "day": "Sunday",
+    "date": "08/02/2026",
+    "time": "TBA",
+    "name": "Collect-A-Con Los Angeles",
+    "link": "https://www.laconventioncenter.com/events/detail/collect-a-con-los-angeles-august-2026",
+    "archived_on": "2026-08-03"
+  },
+  {
+    "key": "dodger stadium|08/02/2026|vs. boston red sox",
+    "venue": "Dodger Stadium",
+    "day": "Sunday",
+    "date": "08/02/2026",
+    "time": "4:20 PM",
+    "name": "vs. Boston Red Sox",
+    "link": "https://www.mlb.com/gameday/823919",
+    "archived_on": "2026-08-03"
+  },
+  {
+    "key": "hollywood bowl|08/02/2026|st. vincent with the hollywood bowl orchestra – anoushka shankar, kcrw festival",
+    "venue": "Hollywood Bowl",
+    "day": "Sunday",
+    "date": "08/02/2026",
+    "time": "7:00 PM",
+    "name": "St. Vincent with the Hollywood Bowl Orchestra – Anoushka Shankar, KCRW Festival",
+    "link": "https://www.hollywoodbowl.com/events/performances/4314/2026-08-02/st-vincent-with-the-hollywood-bowl-orchestra",
+    "archived_on": "2026-08-03"
   }
 ]
