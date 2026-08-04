@@ -1143,6 +1143,15 @@
     "link": "https://www.dignityhealthsportspark.com/events/detail/la-galaxy-vs-austin-fc"
   },
   {
+    "key": "dignity health sports park|11/01/2026|angel city fc vs boston legacy fc",
+    "venue": "Dignity Health Sports Park",
+    "day": "Sunday",
+    "date": "11/01/2026",
+    "time": "TBA",
+    "name": "Angel City FC vs Boston Legacy FC",
+    "link": "https://www.dignityhealthsportspark.com/events/detail/angel-city-fc-vs-boston-legacy-fc"
+  },
+  {
     "key": "rose bowl stadium|08/08/2026|head in the clouds",
     "venue": "Rose Bowl Stadium",
     "day": "Saturday",
@@ -2079,10 +2088,10 @@
     "link": "https://www.lacoliseum.com/events/maryland-vs-usc-2026/"
   },
   {
-    "key": "la convention center|08/03/2026|nalc 74th biennial convention",
+    "key": "la convention center|08/04/2026|nalc 74th biennial convention",
     "venue": "LA Convention Center",
-    "day": "Monday",
-    "date": "08/03/2026",
+    "day": "Tuesday",
+    "date": "08/04/2026",
     "time": "TBA",
     "name": "NALC 74th Biennial Convention",
     "link": "https://www.laconventioncenter.com/events/detail/nalc-74th-biennial-convention"
@@ -2718,21 +2727,21 @@
     "link": "https://www.hollywoodbowl.com/events/performances/4316/2026-08-06/brahms-bizet"
   },
   {
-    "key": "hollywood bowl|08/07/2026|counting crows",
+    "key": "hollywood bowl|08/07/2026|counting crows – jimmy and immy",
     "venue": "Hollywood Bowl",
     "day": "Friday",
     "date": "08/07/2026",
     "time": "8:00 PM",
-    "name": "Counting Crows",
+    "name": "Counting Crows – Jimmy and Immy",
     "link": "https://www.hollywoodbowl.com/events/performances/4317/2026-08-07/counting-crows"
   },
   {
-    "key": "hollywood bowl|08/08/2026|counting crows",
+    "key": "hollywood bowl|08/08/2026|counting crows – jimmy and immy",
     "venue": "Hollywood Bowl",
     "day": "Saturday",
     "date": "08/08/2026",
     "time": "8:00 PM",
-    "name": "Counting Crows",
+    "name": "Counting Crows – Jimmy and Immy",
     "link": "https://www.hollywoodbowl.com/events/performances/4349/2026-08-08/counting-crows"
   },
   {
@@ -3240,12 +3249,12 @@
     "link": "https://www.hollywoodbowl.com/events/performances/4264/2026-10-31/my-chemical-romance"
   },
   {
-    "key": "hollywood bowl|11/07/2026|jimmy eat worldthe format",
+    "key": "hollywood bowl|11/07/2026|jimmy eat worldthe format – the linda lindas",
     "venue": "Hollywood Bowl",
     "day": "Saturday",
     "date": "11/07/2026",
     "time": "7:00 PM",
-    "name": "Jimmy Eat WorldThe Format",
+    "name": "Jimmy Eat WorldThe Format – The Linda Lindas",
     "link": "https://www.hollywoodbowl.com/events/performances/4898/2026-11-07/jimmy-eat-world-the-format"
   }
 ]
