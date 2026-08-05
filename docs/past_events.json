@@ -3818,5 +3818,25 @@
     "name": "NALC 74th Biennial Convention",
     "link": "https://www.laconventioncenter.com/events/detail/nalc-74th-biennial-convention",
     "archived_on": "2026-08-04"
+  },
+  {
+    "key": "la convention center|08/04/2026|nalc 74th biennial convention",
+    "venue": "LA Convention Center",
+    "day": "Tuesday",
+    "date": "08/04/2026",
+    "time": "TBA",
+    "name": "NALC 74th Biennial Convention",
+    "link": "https://www.laconventioncenter.com/events/detail/nalc-74th-biennial-convention",
+    "archived_on": "2026-08-05"
+  },
+  {
+    "key": "hollywood bowl|08/04/2026|mendelssohn & haydn",
+    "venue": "Hollywood Bowl",
+    "day": "Tuesday",
+    "date": "08/04/2026",
+    "time": "8:00 PM",
+    "name": "Mendelssohn & Haydn",
+    "link": "https://www.hollywoodbowl.com/events/performances/4315/2026-08-04/mendelssohn-haydn",
+    "archived_on": "2026-08-05"
   }
 ]

@@ -2088,10 +2088,10 @@
     "link": "https://www.lacoliseum.com/events/maryland-vs-usc-2026/"
   },
   {
-    "key": "la convention center|08/04/2026|nalc 74th biennial convention",
+    "key": "la convention center|08/05/2026|nalc 74th biennial convention",
     "venue": "LA Convention Center",
-    "day": "Tuesday",
-    "date": "08/04/2026",
+    "day": "Wednesday",
+    "date": "08/05/2026",
     "time": "TBA",
     "name": "NALC 74th Biennial Convention",
     "link": "https://www.laconventioncenter.com/events/detail/nalc-74th-biennial-convention"
@@ -2700,22 +2700,13 @@
     "link": "https://www.mlb.com/gameday/823895"
   },
   {
-    "key": "hollywood bowl|08/04/2026|mendelssohn & haydn",
-    "venue": "Hollywood Bowl",
-    "day": "Tuesday",
-    "date": "08/04/2026",
-    "time": "8:00 PM",
-    "name": "Mendelssohn & Haydn",
-    "link": "https://www.hollywoodbowl.com/events/performances/4315/2026-08-04/mendelssohn-haydn"
-  },
-  {
-    "key": "hollywood bowl|08/05/2026|zz top – with special guest cheap trick",
+    "key": "hollywood bowl|08/05/2026|(canceled) zz top – with special guest cheap trick",
     "venue": "Hollywood Bowl",
     "day": "Wednesday",
     "date": "08/05/2026",
     "time": "8:00 PM",
-    "name": "ZZ Top – with Special Guest Cheap Trick",
-    "link": "https://www.hollywoodbowl.com/events/performances/4354/2026-08-05/zz-top"
+    "name": "(CANCELED) ZZ Top – with Special Guest Cheap Trick",
+    "link": "https://www.hollywoodbowl.com/events/performances/4354/2026-08-05/canceled-zz-top"
   },
   {
     "key": "hollywood bowl|08/06/2026|brahms & bizet",
