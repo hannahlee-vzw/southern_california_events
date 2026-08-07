@@ -3838,5 +3838,45 @@
     "name": "Mendelssohn & Haydn",
     "link": "https://www.hollywoodbowl.com/events/performances/4315/2026-08-04/mendelssohn-haydn",
     "archived_on": "2026-08-05"
+  },
+  {
+    "key": "kia forum|08/06/2026|rüfüs du sol",
+    "venue": "Kia Forum",
+    "day": "Thursday",
+    "date": "08/06/2026",
+    "time": "7:00 PM",
+    "name": "RÜFÜS DU SOL",
+    "link": "https://thekiaforum.com/event/rufus-du-sol/",
+    "archived_on": "2026-08-07"
+  },
+  {
+    "key": "la convention center|08/05/2026|nalc 74th biennial convention",
+    "venue": "LA Convention Center",
+    "day": "Wednesday",
+    "date": "08/05/2026",
+    "time": "TBA",
+    "name": "NALC 74th Biennial Convention",
+    "link": "https://www.laconventioncenter.com/events/detail/nalc-74th-biennial-convention",
+    "archived_on": "2026-08-07"
+  },
+  {
+    "key": "hollywood bowl|08/05/2026|(canceled) zz top – with special guest cheap trick",
+    "venue": "Hollywood Bowl",
+    "day": "Wednesday",
+    "date": "08/05/2026",
+    "time": "8:00 PM",
+    "name": "(CANCELED) ZZ Top – with Special Guest Cheap Trick",
+    "link": "https://www.hollywoodbowl.com/events/performances/4354/2026-08-05/canceled-zz-top",
+    "archived_on": "2026-08-07"
+  },
+  {
+    "key": "hollywood bowl|08/06/2026|brahms & bizet",
+    "venue": "Hollywood Bowl",
+    "day": "Thursday",
+    "date": "08/06/2026",
+    "time": "8:00 PM",
+    "name": "Brahms & Bizet",
+    "link": "https://www.hollywoodbowl.com/events/performances/4316/2026-08-06/brahms-bizet",
+    "archived_on": "2026-08-07"
   }
 ]

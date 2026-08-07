@@ -675,15 +675,6 @@
     "link": "https://www.intuitdome.com/events/event-schedule/3149?utm_source=IDwebsite&utm_medium=eventschedule&utm_campaign=IDevents26&utm_content=three_days_grace_261122"
   },
   {
-    "key": "kia forum|08/06/2026|rüfüs du sol",
-    "venue": "Kia Forum",
-    "day": "Thursday",
-    "date": "08/06/2026",
-    "time": "7:00 PM",
-    "name": "RÜFÜS DU SOL",
-    "link": "https://thekiaforum.com/event/rufus-du-sol/"
-  },
-  {
     "key": "kia forum|08/07/2026|rüfüs du sol",
     "venue": "Kia Forum",
     "day": "Friday",
@@ -1051,6 +1042,15 @@
     "time": "7:00 PM",
     "name": "GRACIE ABRAMS – The Look at My Life Tour",
     "link": "https://thekiaforum.com/event/gracie-abrams-3/"
+  },
+  {
+    "key": "kia forum|12/22/2026|pentatonix – christmas in the city tour",
+    "venue": "Kia Forum",
+    "day": "Tuesday",
+    "date": "12/22/2026",
+    "time": "7:00 PM",
+    "name": "PENTATONIX – Christmas in the City Tour",
+    "link": "https://thekiaforum.com/event/pentatonix/"
   },
   {
     "key": "kia forum|01/23/2027|joyce manor",
@@ -1899,6 +1899,15 @@
     "link": "https://www.cryptoarena.com/events/detail/kingscanadiens022427"
   },
   {
+    "key": "crypto.com arena|02/26/2027|credit one pbr los angeles presented by ariat",
+    "venue": "Crypto.com Arena",
+    "day": "Friday",
+    "date": "02/26/2027",
+    "time": "TBA",
+    "name": "Credit One PBR Los Angeles presented by Ariat",
+    "link": "https://www.cryptoarena.com/events/detail/pbr27"
+  },
+  {
     "key": "crypto.com arena|03/01/2027|anaheim ducks vs los angeles kings",
     "venue": "Crypto.com Arena",
     "day": "Monday",
@@ -2088,10 +2097,10 @@
     "link": "https://www.lacoliseum.com/events/maryland-vs-usc-2026/"
   },
   {
-    "key": "la convention center|08/05/2026|nalc 74th biennial convention",
+    "key": "la convention center|08/07/2026|nalc 74th biennial convention",
     "venue": "LA Convention Center",
-    "day": "Wednesday",
-    "date": "08/05/2026",
+    "day": "Friday",
+    "date": "08/07/2026",
     "time": "TBA",
     "name": "NALC 74th Biennial Convention",
     "link": "https://www.laconventioncenter.com/events/detail/nalc-74th-biennial-convention"
@@ -2149,6 +2158,15 @@
     "time": "TBA",
     "name": "Los Angeles Lowrider Magazine Super Show",
     "link": "https://www.laconventioncenter.com/events/detail/los-angeles-lowrider-magazine-super-show"
+  },
+  {
+    "key": "la convention center|09/09/2026|alibaba.com cocreate 2026",
+    "venue": "LA Convention Center",
+    "day": "Wednesday",
+    "date": "09/09/2026",
+    "time": "TBA",
+    "name": "Alibaba.com CoCreate 2026",
+    "link": "https://www.laconventioncenter.com/events/detail/alibabacom-cocreate-2026"
   },
   {
     "key": "la convention center|09/16/2026|asla 2026 conference on landscape architecture",
@@ -2439,6 +2457,15 @@
     "link": "https://www.laconventioncenter.com/events/detail/aats-annual-mtg-2027"
   },
   {
+    "key": "la convention center|05/15/2027|los angeles career forum 2027",
+    "venue": "LA Convention Center",
+    "day": "Saturday",
+    "date": "05/15/2027",
+    "time": "TBA",
+    "name": "Los Angeles Career Forum 2027",
+    "link": "https://www.laconventioncenter.com/events/detail/los-angeles-career-forum-2027"
+  },
+  {
     "key": "la convention center|05/21/2027|acog annual clinical and scientific meeting",
     "venue": "LA Convention Center",
     "day": "Friday",
@@ -2700,24 +2727,6 @@
     "link": "https://www.mlb.com/gameday/823895"
   },
   {
-    "key": "hollywood bowl|08/05/2026|(canceled) zz top – with special guest cheap trick",
-    "venue": "Hollywood Bowl",
-    "day": "Wednesday",
-    "date": "08/05/2026",
-    "time": "8:00 PM",
-    "name": "(CANCELED) ZZ Top – with Special Guest Cheap Trick",
-    "link": "https://www.hollywoodbowl.com/events/performances/4354/2026-08-05/canceled-zz-top"
-  },
-  {
-    "key": "hollywood bowl|08/06/2026|brahms & bizet",
-    "venue": "Hollywood Bowl",
-    "day": "Thursday",
-    "date": "08/06/2026",
-    "time": "8:00 PM",
-    "name": "Brahms & Bizet",
-    "link": "https://www.hollywoodbowl.com/events/performances/4316/2026-08-06/brahms-bizet"
-  },
-  {
     "key": "hollywood bowl|08/07/2026|counting crows – jimmy and immy",
     "venue": "Hollywood Bowl",
     "day": "Friday",
@@ -2862,13 +2871,13 @@
     "link": "https://www.hollywoodbowl.com/events/performances/4361/2026-08-23/a-concert-for-venezuela"
   },
   {
-    "key": "hollywood bowl|08/25/2026|beethoven’s fifth",
+    "key": "hollywood bowl|08/25/2026|beethoven’s fifth with anna handler",
     "venue": "Hollywood Bowl",
     "day": "Tuesday",
     "date": "08/25/2026",
     "time": "8:00 PM",
-    "name": "Beethoven’s Fifth",
-    "link": "https://www.hollywoodbowl.com/events/performances/4330/2026-08-25/beethovens-fifth"
+    "name": "Beethoven’s Fifth with Anna Handler",
+    "link": "https://www.hollywoodbowl.com/events/performances/4330/2026-08-25/beethovens-fifth-with-anna-handler"
   },
   {
     "key": "hollywood bowl|08/27/2026|rachmaninoff & adams",
@@ -3006,12 +3015,12 @@
     "link": "https://www.hollywoodbowl.com/events/performances/4340/2026-09-12/fireworks-finale-onerepublic"
   },
   {
-    "key": "hollywood bowl|09/13/2026|lucy dacus with the hollywood bowl orchestra – cat power, kcrw festival",
+    "key": "hollywood bowl|09/13/2026|lucy dacus with the hollywood bowl orchestra – cat power performing, the greatest, kcrw festival",
     "venue": "Hollywood Bowl",
     "day": "Sunday",
     "date": "09/13/2026",
     "time": "7:00 PM",
-    "name": "Lucy Dacus with the Hollywood Bowl Orchestra – Cat Power, KCRW Festival",
+    "name": "Lucy Dacus with the Hollywood Bowl Orchestra – Cat Power performing, The Greatest, KCRW Festival",
     "link": "https://www.hollywoodbowl.com/events/performances/4341/2026-09-13/lucy-dacus-with-the-hollywood-bowl-orchestra"
   },
   {
@@ -3033,12 +3042,12 @@
     "link": "https://www.hollywoodbowl.com/events/performances/4357/2026-09-16/andrea-bocelli"
   },
   {
-    "key": "hollywood bowl|09/18/2026|orville peck – lucius",
+    "key": "hollywood bowl|09/18/2026|orville peck – lucius, deloyd elze",
     "venue": "Hollywood Bowl",
     "day": "Friday",
     "date": "09/18/2026",
     "time": "8:00 PM",
-    "name": "Orville Peck – Lucius",
+    "name": "Orville Peck – Lucius, Deloyd Elze",
     "link": "https://www.hollywoodbowl.com/events/performances/4355/2026-09-18/orville-peck"
   },
   {
@@ -3091,7 +3100,7 @@
     "venue": "Hollywood Bowl",
     "day": "Saturday",
     "date": "09/26/2026",
-    "time": "8:00 PM",
+    "time": "7:30 PM",
     "name": "Rodgers & Hammerstein’s The Sound of Music Sing-A-Long",
     "link": "https://www.hollywoodbowl.com/events/performances/4342/2026-09-26/rodgers-hammersteins-the-sound-of-music-sing-a-long"
   },
