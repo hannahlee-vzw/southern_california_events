@@ -3878,5 +3878,55 @@
     "name": "Brahms & Bizet",
     "link": "https://www.hollywoodbowl.com/events/performances/4316/2026-08-06/brahms-bizet",
     "archived_on": "2026-08-07"
+  },
+  {
+    "key": "intuit dome|08/07/2026|grupo frontera",
+    "venue": "Intuit Dome",
+    "day": "Friday",
+    "date": "08/07/2026",
+    "time": "8:00 PM",
+    "name": "Grupo Frontera",
+    "link": "https://www.intuitdome.com/events/event-schedule/3520?utm_source=IDwebsite&utm_medium=eventschedule&utm_campaign=IDevents26&utm_content=grupo_frontera_260807",
+    "archived_on": "2026-08-08"
+  },
+  {
+    "key": "kia forum|08/07/2026|rüfüs du sol",
+    "venue": "Kia Forum",
+    "day": "Friday",
+    "date": "08/07/2026",
+    "time": "7:00 PM",
+    "name": "RÜFÜS DU SOL",
+    "link": "https://thekiaforum.com/event/rufus-du-sol-3/",
+    "archived_on": "2026-08-08"
+  },
+  {
+    "key": "crypto.com arena|08/07/2026|megan moroney – the cloud 9 tour with jp saxe and solon holt",
+    "venue": "Crypto.com Arena",
+    "day": "Friday",
+    "date": "08/07/2026",
+    "time": "TBA",
+    "name": "Megan Moroney – The Cloud 9 Tour with JP Saxe and Solon Holt",
+    "link": "https://www.cryptoarena.com/events/detail/megan-moroney-26",
+    "archived_on": "2026-08-08"
+  },
+  {
+    "key": "la convention center|08/07/2026|nalc 74th biennial convention",
+    "venue": "LA Convention Center",
+    "day": "Friday",
+    "date": "08/07/2026",
+    "time": "TBA",
+    "name": "NALC 74th Biennial Convention",
+    "link": "https://www.laconventioncenter.com/events/detail/nalc-74th-biennial-convention",
+    "archived_on": "2026-08-08"
+  },
+  {
+    "key": "hollywood bowl|08/07/2026|counting crows – jimmy and immy",
+    "venue": "Hollywood Bowl",
+    "day": "Friday",
+    "date": "08/07/2026",
+    "time": "8:00 PM",
+    "name": "Counting Crows – Jimmy and Immy",
+    "link": "https://www.hollywoodbowl.com/events/performances/4317/2026-08-07/counting-crows",
+    "archived_on": "2026-08-08"
   }
 ]

@@ -468,15 +468,6 @@
     "link": "https://www.intuitdome.com/events/event-schedule/3967?utm_source=IDwebsite&utm_medium=eventschedule&utm_campaign=IDevents26&utm_content=morat_270226"
   },
   {
-    "key": "intuit dome|08/07/2026|grupo frontera",
-    "venue": "Intuit Dome",
-    "day": "Friday",
-    "date": "08/07/2026",
-    "time": "8:00 PM",
-    "name": "Grupo Frontera",
-    "link": "https://www.intuitdome.com/events/event-schedule/3520?utm_source=IDwebsite&utm_medium=eventschedule&utm_campaign=IDevents26&utm_content=grupo_frontera_260807"
-  },
-  {
     "key": "intuit dome|08/09/2026|lionel richie and earth, wind & fire",
     "venue": "Intuit Dome",
     "day": "Sunday",
@@ -673,15 +664,6 @@
     "time": "7:00 PM",
     "name": "Three Days Grace",
     "link": "https://www.intuitdome.com/events/event-schedule/3149?utm_source=IDwebsite&utm_medium=eventschedule&utm_campaign=IDevents26&utm_content=three_days_grace_261122"
-  },
-  {
-    "key": "kia forum|08/07/2026|rüfüs du sol",
-    "venue": "Kia Forum",
-    "day": "Friday",
-    "date": "08/07/2026",
-    "time": "7:00 PM",
-    "name": "RÜFÜS DU SOL",
-    "link": "https://thekiaforum.com/event/rufus-du-sol-3/"
   },
   {
     "key": "kia forum|08/11/2026|rüfüs du sol",
@@ -1224,6 +1206,15 @@
     "link": "https://www.rosebowlstadium.com/events/details/595/purdue-vs-ucla"
   },
   {
+    "key": "rose bowl stadium|09/27/2026|2026 bimbo global race",
+    "venue": "Rose Bowl Stadium",
+    "day": "Sunday",
+    "date": "09/27/2026",
+    "time": "8:30 AM",
+    "name": "2026 Bimbo Global Race",
+    "link": "https://www.rosebowlstadium.com/events/details/669/2026-bimbo-global-race"
+  },
+  {
     "key": "rose bowl stadium|10/03/2026|2026 los angeles heart and stroke walk",
     "venue": "Rose Bowl Stadium",
     "day": "Saturday",
@@ -1386,11 +1377,11 @@
     "link": "https://www.rosebowlstadium.com/events/details/626/rose-bowl-half-marathon-and-5k"
   },
   {
-    "key": "crypto.com arena|08/07/2026|megan moroney – the cloud 9 tour with jp saxe and solon holt",
+    "key": "crypto.com arena|08/08/2026|megan moroney – the cloud 9 tour with jp saxe and solon holt",
     "venue": "Crypto.com Arena",
-    "day": "Friday",
-    "date": "08/07/2026",
-    "time": "TBA",
+    "day": "Saturday",
+    "date": "08/08/2026",
+    "time": "7:00 PM",
     "name": "Megan Moroney – The Cloud 9 Tour with JP Saxe and Solon Holt",
     "link": "https://www.cryptoarena.com/events/detail/megan-moroney-26"
   },
@@ -2097,15 +2088,6 @@
     "link": "https://www.lacoliseum.com/events/maryland-vs-usc-2026/"
   },
   {
-    "key": "la convention center|08/07/2026|nalc 74th biennial convention",
-    "venue": "LA Convention Center",
-    "day": "Friday",
-    "date": "08/07/2026",
-    "time": "TBA",
-    "name": "NALC 74th Biennial Convention",
-    "link": "https://www.laconventioncenter.com/events/detail/nalc-74th-biennial-convention"
-  },
-  {
     "key": "la convention center|08/08/2026|el sembrador ministries - metanoia los angeles",
     "venue": "LA Convention Center",
     "day": "Saturday",
@@ -2725,15 +2707,6 @@
     "time": "7:10 PM",
     "name": "vs. San Diego Padres",
     "link": "https://www.mlb.com/gameday/823895"
-  },
-  {
-    "key": "hollywood bowl|08/07/2026|counting crows – jimmy and immy",
-    "venue": "Hollywood Bowl",
-    "day": "Friday",
-    "date": "08/07/2026",
-    "time": "8:00 PM",
-    "name": "Counting Crows – Jimmy and Immy",
-    "link": "https://www.hollywoodbowl.com/events/performances/4317/2026-08-07/counting-crows"
   },
   {
     "key": "hollywood bowl|08/08/2026|counting crows – jimmy and immy",
