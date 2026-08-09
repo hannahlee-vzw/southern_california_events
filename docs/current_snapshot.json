@@ -1,14 +1,5 @@
 [
   {
-    "key": "sofi stadium|08/08/2026|ed sheeran – with myles smith, sigrid, aaron rowe",
-    "venue": "SoFi Stadium",
-    "day": "Saturday",
-    "date": "08/08/2026",
-    "time": "5:30 PM",
-    "name": "Ed Sheeran – With Myles Smith, Sigrid, Aaron Rowe",
-    "link": "https://www.sofistadium.com/events/detail/ed-sheeran-august-8-2026"
-  },
-  {
     "key": "sofi stadium|08/14/2026|karol g - viajando por el mundo tropitour",
     "venue": "SoFi Stadium",
     "day": "Friday",
@@ -1134,15 +1125,6 @@
     "link": "https://www.dignityhealthsportspark.com/events/detail/angel-city-fc-vs-boston-legacy-fc"
   },
   {
-    "key": "rose bowl stadium|08/08/2026|head in the clouds",
-    "venue": "Rose Bowl Stadium",
-    "day": "Saturday",
-    "date": "08/08/2026",
-    "time": "1:00 PM",
-    "name": "Head in the Clouds",
-    "link": "https://www.rosebowlstadium.com/events/details/642/head-in-the-clouds"
-  },
-  {
     "key": "rose bowl stadium|08/09/2026|rose bowl flea market",
     "venue": "Rose Bowl Stadium",
     "day": "Sunday",
@@ -1375,15 +1357,6 @@
     "time": "TBD",
     "name": "Rose Bowl Half Marathon & 5K",
     "link": "https://www.rosebowlstadium.com/events/details/626/rose-bowl-half-marathon-and-5k"
-  },
-  {
-    "key": "crypto.com arena|08/08/2026|megan moroney – the cloud 9 tour with jp saxe and solon holt",
-    "venue": "Crypto.com Arena",
-    "day": "Saturday",
-    "date": "08/08/2026",
-    "time": "7:00 PM",
-    "name": "Megan Moroney – The Cloud 9 Tour with JP Saxe and Solon Holt",
-    "link": "https://www.cryptoarena.com/events/detail/megan-moroney-26"
   },
   {
     "key": "crypto.com arena|08/09/2026|los angeles sparks vs golden state valkyries",
@@ -2088,10 +2061,10 @@
     "link": "https://www.lacoliseum.com/events/maryland-vs-usc-2026/"
   },
   {
-    "key": "la convention center|08/08/2026|el sembrador ministries - metanoia los angeles",
+    "key": "la convention center|08/09/2026|el sembrador ministries - metanoia los angeles",
     "venue": "LA Convention Center",
-    "day": "Saturday",
-    "date": "08/08/2026",
+    "day": "Sunday",
+    "date": "08/09/2026",
     "time": "TBA",
     "name": "El Sembrador Ministries - Metanoia Los Angeles",
     "link": "https://www.laconventioncenter.com/events/detail/el-sembrador-ministries-metanoia-los-angeles"
@@ -2707,15 +2680,6 @@
     "time": "7:10 PM",
     "name": "vs. San Diego Padres",
     "link": "https://www.mlb.com/gameday/823895"
-  },
-  {
-    "key": "hollywood bowl|08/08/2026|counting crows – jimmy and immy",
-    "venue": "Hollywood Bowl",
-    "day": "Saturday",
-    "date": "08/08/2026",
-    "time": "8:00 PM",
-    "name": "Counting Crows – Jimmy and Immy",
-    "link": "https://www.hollywoodbowl.com/events/performances/4349/2026-08-08/counting-crows"
   },
   {
     "key": "hollywood bowl|08/09/2026|how to train your dragonin concert",
