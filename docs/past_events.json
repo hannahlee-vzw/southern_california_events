@@ -3978,5 +3978,55 @@
     "name": "Counting Crows – Jimmy and Immy",
     "link": "https://www.hollywoodbowl.com/events/performances/4349/2026-08-08/counting-crows",
     "archived_on": "2026-08-09"
+  },
+  {
+    "key": "intuit dome|08/09/2026|lionel richie and earth, wind & fire",
+    "venue": "Intuit Dome",
+    "day": "Sunday",
+    "date": "08/09/2026",
+    "time": "7:30 PM",
+    "name": "Lionel Richie and Earth, Wind & Fire",
+    "link": "https://www.intuitdome.com/events/event-schedule/3449?utm_source=IDwebsite&utm_medium=eventschedule&utm_campaign=IDevents26&utm_content=lionel_richie_earth_wind_fire_260809",
+    "archived_on": "2026-08-10"
+  },
+  {
+    "key": "rose bowl stadium|08/09/2026|rose bowl flea market",
+    "venue": "Rose Bowl Stadium",
+    "day": "Sunday",
+    "date": "08/09/2026",
+    "time": "5:00 AM",
+    "name": "ROSE BOWL FLEA MARKET",
+    "link": "https://www.rosebowlstadium.com/events/details/603/rose-bowl-flea-market",
+    "archived_on": "2026-08-10"
+  },
+  {
+    "key": "crypto.com arena|08/09/2026|los angeles sparks vs golden state valkyries",
+    "venue": "Crypto.com Arena",
+    "day": "Sunday",
+    "date": "08/09/2026",
+    "time": "4:00 PM",
+    "name": "Los Angeles Sparks vs Golden State Valkyries",
+    "link": "https://www.cryptoarena.com/events/detail/sparksvalkyries080926",
+    "archived_on": "2026-08-10"
+  },
+  {
+    "key": "la convention center|08/09/2026|el sembrador ministries - metanoia los angeles",
+    "venue": "LA Convention Center",
+    "day": "Sunday",
+    "date": "08/09/2026",
+    "time": "TBA",
+    "name": "El Sembrador Ministries - Metanoia Los Angeles",
+    "link": "https://www.laconventioncenter.com/events/detail/el-sembrador-ministries-metanoia-los-angeles",
+    "archived_on": "2026-08-10"
+  },
+  {
+    "key": "hollywood bowl|08/09/2026|how to train your dragonin concert",
+    "venue": "Hollywood Bowl",
+    "day": "Sunday",
+    "date": "08/09/2026",
+    "time": "7:30 PM",
+    "name": "How to Train Your Dragonin Concert",
+    "link": "https://www.hollywoodbowl.com/events/performances/4319/2026-08-09/how-to-train-your-dragon-in-concert",
+    "archived_on": "2026-08-10"
   }
 ]
