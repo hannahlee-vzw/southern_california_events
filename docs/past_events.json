@@ -4028,5 +4028,35 @@
     "name": "How to Train Your Dragonin Concert",
     "link": "https://www.hollywoodbowl.com/events/performances/4319/2026-08-09/how-to-train-your-dragon-in-concert",
     "archived_on": "2026-08-10"
+  },
+  {
+    "key": "crypto.com arena|08/10/2026|benson boone – special guest ashe - wanted man tour 2026",
+    "venue": "Crypto.com Arena",
+    "day": "Monday",
+    "date": "08/10/2026",
+    "time": "TBA",
+    "name": "Benson Boone – Special Guest Ashe - Wanted Man Tour 2026",
+    "link": "https://www.cryptoarena.com/events/detail/bensonboone26",
+    "archived_on": "2026-08-11"
+  },
+  {
+    "key": "dodger stadium|08/10/2026|vs. kansas city royals",
+    "venue": "Dodger Stadium",
+    "day": "Monday",
+    "date": "08/10/2026",
+    "time": "7:10 PM",
+    "name": "vs. Kansas City Royals",
+    "link": "https://www.mlb.com/gameday/823918",
+    "archived_on": "2026-08-11"
+  },
+  {
+    "key": "hollywood bowl|08/10/2026|john mellencamp",
+    "venue": "Hollywood Bowl",
+    "day": "Monday",
+    "date": "08/10/2026",
+    "time": "8:00 PM",
+    "name": "John Mellencamp",
+    "link": "https://www.hollywoodbowl.com/events/performances/4277/2026-08-10/john-mellencamp",
+    "archived_on": "2026-08-11"
   }
 ]

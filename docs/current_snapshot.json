@@ -99,6 +99,15 @@
     "link": "https://www.sofistadium.com/events/detail/bts-september-6-2026"
   },
   {
+    "key": "sofi stadium|09/12/2026|sip & stroll at sofi stadium – curated selection of wines, delicious bites & behind-the-scenes tour!",
+    "venue": "SoFi Stadium",
+    "day": "Saturday",
+    "date": "09/12/2026",
+    "time": "6:00 PM",
+    "name": "Sip & Stroll at SoFi Stadium – Curated selection of wines, delicious bites & behind-the-scenes tour!",
+    "link": "https://www.sofistadium.com/events/detail/sofi-tour-sip-wine-stroll-september-12"
+  },
+  {
     "key": "sofi stadium|09/13/2026|chargers vs. cardinals – week 1",
     "venue": "SoFi Stadium",
     "day": "Sunday",
@@ -1341,11 +1350,11 @@
     "link": "https://www.rosebowlstadium.com/events/details/626/rose-bowl-half-marathon-and-5k"
   },
   {
-    "key": "crypto.com arena|08/10/2026|benson boone – special guest ashe - wanted man tour 2026",
+    "key": "crypto.com arena|08/11/2026|benson boone – special guest ashe - wanted man tour 2026",
     "venue": "Crypto.com Arena",
-    "day": "Monday",
-    "date": "08/10/2026",
-    "time": "TBA",
+    "day": "Tuesday",
+    "date": "08/11/2026",
+    "time": "8:00 PM",
     "name": "Benson Boone – Special Guest Ashe - Wanted Man Tour 2026",
     "link": "https://www.cryptoarena.com/events/detail/bensonboone26"
   },
@@ -2430,15 +2439,6 @@
     "link": "https://www.laconventioncenter.com/events/detail/socal-cup-volleyball-showcase-2027"
   },
   {
-    "key": "dodger stadium|08/10/2026|vs. kansas city royals",
-    "venue": "Dodger Stadium",
-    "day": "Monday",
-    "date": "08/10/2026",
-    "time": "7:10 PM",
-    "name": "vs. Kansas City Royals",
-    "link": "https://www.mlb.com/gameday/823918"
-  },
-  {
     "key": "dodger stadium|08/11/2026|vs. kansas city royals",
     "venue": "Dodger Stadium",
     "day": "Tuesday",
@@ -2653,15 +2653,6 @@
     "time": "7:10 PM",
     "name": "vs. San Diego Padres",
     "link": "https://www.mlb.com/gameday/823895"
-  },
-  {
-    "key": "hollywood bowl|08/10/2026|john mellencamp",
-    "venue": "Hollywood Bowl",
-    "day": "Monday",
-    "date": "08/10/2026",
-    "time": "8:00 PM",
-    "name": "John Mellencamp",
-    "link": "https://www.hollywoodbowl.com/events/performances/4277/2026-08-10/john-mellencamp"
   },
   {
     "key": "hollywood bowl|08/11/2026|mozart under the stars",
