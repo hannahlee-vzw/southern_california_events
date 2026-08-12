@@ -4058,5 +4058,45 @@
     "name": "John Mellencamp",
     "link": "https://www.hollywoodbowl.com/events/performances/4277/2026-08-10/john-mellencamp",
     "archived_on": "2026-08-11"
+  },
+  {
+    "key": "kia forum|08/11/2026|rüfüs du sol",
+    "venue": "Kia Forum",
+    "day": "Tuesday",
+    "date": "08/11/2026",
+    "time": "7:00 PM",
+    "name": "RÜFÜS DU SOL",
+    "link": "https://thekiaforum.com/event/rufus-du-sol-2/",
+    "archived_on": "2026-08-12"
+  },
+  {
+    "key": "crypto.com arena|08/11/2026|benson boone – special guest ashe - wanted man tour 2026",
+    "venue": "Crypto.com Arena",
+    "day": "Tuesday",
+    "date": "08/11/2026",
+    "time": "8:00 PM",
+    "name": "Benson Boone – Special Guest Ashe - Wanted Man Tour 2026",
+    "link": "https://www.cryptoarena.com/events/detail/bensonboone26",
+    "archived_on": "2026-08-12"
+  },
+  {
+    "key": "dodger stadium|08/11/2026|vs. kansas city royals",
+    "venue": "Dodger Stadium",
+    "day": "Tuesday",
+    "date": "08/11/2026",
+    "time": "7:10 PM",
+    "name": "vs. Kansas City Royals",
+    "link": "https://www.mlb.com/gameday/823917",
+    "archived_on": "2026-08-12"
+  },
+  {
+    "key": "hollywood bowl|08/11/2026|mozart under the stars",
+    "venue": "Hollywood Bowl",
+    "day": "Tuesday",
+    "date": "08/11/2026",
+    "time": "8:00 PM",
+    "name": "Mozart Under the Stars",
+    "link": "https://www.hollywoodbowl.com/events/performances/4320/2026-08-11/mozart-under-the-stars",
+    "archived_on": "2026-08-12"
   }
 ]

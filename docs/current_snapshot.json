@@ -657,15 +657,6 @@
     "link": "https://www.intuitdome.com/events/event-schedule/3149?utm_source=IDwebsite&utm_medium=eventschedule&utm_campaign=IDevents26&utm_content=three_days_grace_261122"
   },
   {
-    "key": "kia forum|08/11/2026|rüfüs du sol",
-    "venue": "Kia Forum",
-    "day": "Tuesday",
-    "date": "08/11/2026",
-    "time": "7:00 PM",
-    "name": "RÜFÜS DU SOL",
-    "link": "https://thekiaforum.com/event/rufus-du-sol-2/"
-  },
-  {
     "key": "kia forum|08/12/2026|rüfüs du sol",
     "venue": "Kia Forum",
     "day": "Wednesday",
@@ -1350,15 +1341,6 @@
     "link": "https://www.rosebowlstadium.com/events/details/626/rose-bowl-half-marathon-and-5k"
   },
   {
-    "key": "crypto.com arena|08/11/2026|benson boone – special guest ashe - wanted man tour 2026",
-    "venue": "Crypto.com Arena",
-    "day": "Tuesday",
-    "date": "08/11/2026",
-    "time": "8:00 PM",
-    "name": "Benson Boone – Special Guest Ashe - Wanted Man Tour 2026",
-    "link": "https://www.cryptoarena.com/events/detail/bensonboone26"
-  },
-  {
     "key": "crypto.com arena|08/14/2026|kcon la 2026 m countdown",
     "venue": "Crypto.com Arena",
     "day": "Friday",
@@ -1557,6 +1539,15 @@
     "link": "https://www.cryptoarena.com/events/detail/kaceymusgraves26"
   },
   {
+    "key": "crypto.com arena|10/21/2026|golden state warriors vs los angeles lakers",
+    "venue": "Crypto.com Arena",
+    "day": "Wednesday",
+    "date": "10/21/2026",
+    "time": "7:00 PM",
+    "name": "Golden State Warriors vs Los Angeles Lakers",
+    "link": "https://www.cryptoarena.com/events/detail/lakerswarriors102126"
+  },
+  {
     "key": "crypto.com arena|10/24/2026|weezer: the gathering – with special guests the shins & silversun pickups",
     "venue": "Crypto.com Arena",
     "day": "Saturday",
@@ -1717,6 +1708,15 @@
     "time": "TBA",
     "name": "Disney on Ice Presents Jump In!",
     "link": "https://www.cryptoarena.com/events/detail/disneyonice26"
+  },
+  {
+    "key": "crypto.com arena|12/25/2026|philadelphia 76ers vs los angeles lakers",
+    "venue": "Crypto.com Arena",
+    "day": "Friday",
+    "date": "12/25/2026",
+    "time": "2:00 PM",
+    "name": "Philadelphia 76ers vs Los Angeles Lakers",
+    "link": "https://www.cryptoarena.com/events/detail/lakers76ers122526"
   },
   {
     "key": "crypto.com arena|12/26/2026|utah mammoth vs los angeles kings",
@@ -2439,15 +2439,6 @@
     "link": "https://www.laconventioncenter.com/events/detail/socal-cup-volleyball-showcase-2027"
   },
   {
-    "key": "dodger stadium|08/11/2026|vs. kansas city royals",
-    "venue": "Dodger Stadium",
-    "day": "Tuesday",
-    "date": "08/11/2026",
-    "time": "7:10 PM",
-    "name": "vs. Kansas City Royals",
-    "link": "https://www.mlb.com/gameday/823917"
-  },
-  {
     "key": "dodger stadium|08/12/2026|vs. kansas city royals",
     "venue": "Dodger Stadium",
     "day": "Wednesday",
@@ -2605,7 +2596,7 @@
     "venue": "Dodger Stadium",
     "day": "Friday",
     "date": "09/18/2026",
-    "time": "7:10 PM",
+    "time": "7:15 PM",
     "name": "vs. San Francisco Giants",
     "link": "https://www.mlb.com/gameday/823898"
   },
@@ -2653,15 +2644,6 @@
     "time": "7:10 PM",
     "name": "vs. San Diego Padres",
     "link": "https://www.mlb.com/gameday/823895"
-  },
-  {
-    "key": "hollywood bowl|08/11/2026|mozart under the stars",
-    "venue": "Hollywood Bowl",
-    "day": "Tuesday",
-    "date": "08/11/2026",
-    "time": "8:00 PM",
-    "name": "Mozart Under the Stars",
-    "link": "https://www.hollywoodbowl.com/events/performances/4320/2026-08-11/mozart-under-the-stars"
   },
   {
     "key": "hollywood bowl|08/13/2026|santana – the doobie brothers",
@@ -3148,5 +3130,14 @@
     "time": "7:00 PM",
     "name": "Jimmy Eat WorldThe Format – The Linda Lindas",
     "link": "https://www.hollywoodbowl.com/events/performances/4898/2026-11-07/jimmy-eat-world-the-format"
+  },
+  {
+    "key": "hollywood bowl|11/21/2026|steve lacy",
+    "venue": "Hollywood Bowl",
+    "day": "Saturday",
+    "date": "11/21/2026",
+    "time": "8:00 PM",
+    "name": "Steve Lacy",
+    "link": "https://www.hollywoodbowl.com/events/performances/4900/2026-11-21/steve-lacy"
   }
 ]
