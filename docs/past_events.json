@@ -4098,5 +4098,25 @@
     "name": "Mozart Under the Stars",
     "link": "https://www.hollywoodbowl.com/events/performances/4320/2026-08-11/mozart-under-the-stars",
     "archived_on": "2026-08-12"
+  },
+  {
+    "key": "kia forum|08/12/2026|rüfüs du sol",
+    "venue": "Kia Forum",
+    "day": "Wednesday",
+    "date": "08/12/2026",
+    "time": "7:00 PM",
+    "name": "RÜFÜS DU SOL",
+    "link": "https://thekiaforum.com/event/rufus-du-sol-4/",
+    "archived_on": "2026-08-13"
+  },
+  {
+    "key": "dodger stadium|08/12/2026|vs. kansas city royals",
+    "venue": "Dodger Stadium",
+    "day": "Wednesday",
+    "date": "08/12/2026",
+    "time": "7:10 PM",
+    "name": "vs. Kansas City Royals",
+    "link": "https://www.mlb.com/gameday/823916",
+    "archived_on": "2026-08-13"
   }
 ]
