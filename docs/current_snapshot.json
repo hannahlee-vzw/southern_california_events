@@ -351,6 +351,24 @@
     "link": "https://www.sofistadium.com/events/detail/super-bowl-lxi"
   },
   {
+    "key": "intuit dome|01/09/2026|boston celtics vs la clippers",
+    "venue": "Intuit Dome",
+    "day": "Friday",
+    "date": "01/09/2026",
+    "time": "7:30 PM",
+    "name": "Boston Celtics vs LA Clippers",
+    "link": "https://intuitdome.com/events/event-schedule/4283?type=games&utm_source=IDwebsite&utm_medium=eventdetail&utm_campaign=SGT_2627&utm_content=SGT2627_EST_270109"
+  },
+  {
+    "key": "intuit dome|01/11/2026|los angeles lakers vs la clippers",
+    "venue": "Intuit Dome",
+    "day": "Sunday",
+    "date": "01/11/2026",
+    "time": "7:00 PM",
+    "name": "Los Angeles Lakers vs LA Clippers",
+    "link": "https://intuitdome.com/events/event-schedule/4284?type=games&utm_source=IDwebsite&utm_medium=eventdetail&utm_campaign=SGT_2627&utm_content=SGT2627_EST_270111"
+  },
+  {
     "key": "intuit dome|01/12/2026|olivia rodrigo",
     "venue": "Intuit Dome",
     "day": "Monday",
@@ -367,6 +385,15 @@
     "time": "7:00 PM",
     "name": "Olivia Rodrigo",
     "link": "https://www.intuitdome.com/events/event-schedule/3889?utm_source=IDwebsite&utm_medium=eventschedule&utm_campaign=IDevents26&utm_content=olivia_rodrigo_270113"
+  },
+  {
+    "key": "intuit dome|01/15/2026|orlando magic vs la clippers",
+    "venue": "Intuit Dome",
+    "day": "Thursday",
+    "date": "01/15/2026",
+    "time": "7:30 PM",
+    "name": "Orlando Magic vs LA Clippers",
+    "link": "https://intuitdome.com/events/event-schedule/4285?type=games&utm_source=IDwebsite&utm_medium=eventdetail&utm_campaign=SGT_2627&utm_content=SGT2627_EST_270115"
   },
   {
     "key": "intuit dome|01/16/2026|olivia rodrigo",
@@ -387,6 +414,15 @@
     "link": "https://www.intuitdome.com/events/event-schedule/3891?utm_source=IDwebsite&utm_medium=eventschedule&utm_campaign=IDevents26&utm_content=olivia_rodrigo_270117"
   },
   {
+    "key": "intuit dome|01/18/2026|phoenix suns vs la clippers",
+    "venue": "Intuit Dome",
+    "day": "Sunday",
+    "date": "01/18/2026",
+    "time": "7:30 PM",
+    "name": "Phoenix Suns vs LA Clippers",
+    "link": "https://intuitdome.com/events/event-schedule/4286?type=games&utm_source=IDwebsite&utm_medium=eventdetail&utm_campaign=SGT_2627&utm_content=SGT2627_EST_270118"
+  },
+  {
     "key": "intuit dome|01/20/2026|olivia rodrigo",
     "venue": "Intuit Dome",
     "day": "Tuesday",
@@ -403,6 +439,15 @@
     "time": "7:00 PM",
     "name": "Olivia Rodrigo",
     "link": "https://www.intuitdome.com/events/event-schedule/3914?utm_source=IDwebsite&utm_medium=eventschedule&utm_campaign=IDevents26&utm_content=olivia_rodrigo_270121"
+  },
+  {
+    "key": "intuit dome|01/22/2026|washington wizards vs la clippers",
+    "venue": "Intuit Dome",
+    "day": "Thursday",
+    "date": "01/22/2026",
+    "time": "7:30 PM",
+    "name": "Washington Wizards vs LA Clippers",
+    "link": "https://intuitdome.com/events/event-schedule/4287?type=games&utm_source=IDwebsite&utm_medium=eventdetail&utm_campaign=SGT_2627&utm_content=SGT2627_EST_270122"
   },
   {
     "key": "intuit dome|01/24/2026|olivia rodrigo",
@@ -441,6 +486,33 @@
     "link": "https://www.intuitdome.com/events/event-schedule/3918?utm_source=IDwebsite&utm_medium=eventschedule&utm_campaign=IDevents26&utm_content=olivia_rodrigo_270129"
   },
   {
+    "key": "intuit dome|02/02/2026|san antonio spurs vs la clippers",
+    "venue": "Intuit Dome",
+    "day": "Monday",
+    "date": "02/02/2026",
+    "time": "7:30 PM",
+    "name": "San Antonio Spurs vs LA Clippers",
+    "link": "https://intuitdome.com/events/event-schedule/4289?type=games&utm_source=IDwebsite&utm_medium=eventdetail&utm_campaign=SGT_2627&utm_content=SGT2627_EST_270202"
+  },
+  {
+    "key": "intuit dome|02/03/2026|golden state warriors vs la clippers",
+    "venue": "Intuit Dome",
+    "day": "Tuesday",
+    "date": "02/03/2026",
+    "time": "7:30 PM",
+    "name": "Golden State Warriors vs LA Clippers",
+    "link": "https://intuitdome.com/events/event-schedule/4271?type=games&utm_source=IDwebsite&utm_medium=eventdetail&utm_campaign=SGT_2627&utm_content=SGT2627_EST_270203"
+  },
+  {
+    "key": "intuit dome|02/09/2026|detroit pistons vs la clippers",
+    "venue": "Intuit Dome",
+    "day": "Monday",
+    "date": "02/09/2026",
+    "time": "7:30 PM",
+    "name": "Detroit Pistons vs LA Clippers",
+    "link": "https://intuitdome.com/events/event-schedule/4290?type=games&utm_source=IDwebsite&utm_medium=eventdetail&utm_campaign=SGT_2627&utm_content=SGT2627_EST_270209"
+  },
+  {
     "key": "intuit dome|02/12/2026|don omar",
     "venue": "Intuit Dome",
     "day": "Thursday",
@@ -459,6 +531,33 @@
     "link": "https://www.intuitdome.com/events/event-schedule/4191?utm_source=IDwebsite&utm_medium=eventschedule&utm_campaign=IDevents26&utm_content=los_tucanes_270213"
   },
   {
+    "key": "intuit dome|02/16/2026|houston rockets vs la clippers",
+    "venue": "Intuit Dome",
+    "day": "Monday",
+    "date": "02/16/2026",
+    "time": "8:00 PM",
+    "name": "Houston Rockets vs LA Clippers",
+    "link": "https://intuitdome.com/events/event-schedule/4291?type=games&utm_source=IDwebsite&utm_medium=eventdetail&utm_campaign=SGT_2627&utm_content=SGT2627_EST_270216"
+  },
+  {
+    "key": "intuit dome|02/17/2026|chicago bulls vs la clippers",
+    "venue": "Intuit Dome",
+    "day": "Tuesday",
+    "date": "02/17/2026",
+    "time": "7:30 PM",
+    "name": "Chicago Bulls vs LA Clippers",
+    "link": "https://intuitdome.com/events/event-schedule/4292?type=games&utm_source=IDwebsite&utm_medium=eventdetail&utm_campaign=SGT_2627&utm_content=SGT2627_EST_270217"
+  },
+  {
+    "key": "intuit dome|02/25/2026|utah jazz vs la clippers",
+    "venue": "Intuit Dome",
+    "day": "Wednesday",
+    "date": "02/25/2026",
+    "time": "7:30 PM",
+    "name": "Utah Jazz vs LA Clippers",
+    "link": "https://intuitdome.com/events/event-schedule/4276?type=games&utm_source=IDwebsite&utm_medium=eventdetail&utm_campaign=SGT_2627&utm_content=SGT2627_EST_270225"
+  },
+  {
     "key": "intuit dome|02/26/2026|morat",
     "venue": "Intuit Dome",
     "day": "Thursday",
@@ -468,13 +567,139 @@
     "link": "https://www.intuitdome.com/events/event-schedule/3967?utm_source=IDwebsite&utm_medium=eventschedule&utm_campaign=IDevents26&utm_content=morat_270226"
   },
   {
+    "key": "intuit dome|02/28/2026|portland trail blazers vs la clippers",
+    "venue": "Intuit Dome",
+    "day": "Saturday",
+    "date": "02/28/2026",
+    "time": "7:30 PM",
+    "name": "Portland Trail Blazers vs LA Clippers",
+    "link": "https://intuitdome.com/events/event-schedule/4307?type=games&utm_source=IDwebsite&utm_medium=eventdetail&utm_campaign=SGT_2627&utm_content=SGT2627_EST_270228"
+  },
+  {
+    "key": "intuit dome|03/04/2026|brooklyn nets vs la clippers",
+    "venue": "Intuit Dome",
+    "day": "Wednesday",
+    "date": "03/04/2026",
+    "time": "7:30 PM",
+    "name": "Brooklyn Nets vs LA Clippers",
+    "link": "https://intuitdome.com/events/event-schedule/4293?type=games&utm_source=IDwebsite&utm_medium=eventdetail&utm_campaign=SGT_2627&utm_content=SGT2627_EST_270304"
+  },
+  {
+    "key": "intuit dome|03/08/2026|houston rockets vs la clippers",
+    "venue": "Intuit Dome",
+    "day": "Sunday",
+    "date": "03/08/2026",
+    "time": "7:30 PM",
+    "name": "Houston Rockets vs LA Clippers",
+    "link": "https://intuitdome.com/events/event-schedule/4294?type=games&utm_source=IDwebsite&utm_medium=eventdetail&utm_campaign=SGT_2627&utm_content=SGT2627_EST_270308"
+  },
+  {
+    "key": "intuit dome|03/10/2026|new york knicks vs la clippers",
+    "venue": "Intuit Dome",
+    "day": "Tuesday",
+    "date": "03/10/2026",
+    "time": "7:30 PM",
+    "name": "New York Knicks vs LA Clippers",
+    "link": "https://intuitdome.com/events/event-schedule/4296?type=games&utm_source=IDwebsite&utm_medium=eventdetail&utm_campaign=SGT_2627&utm_content=SGT2627_EST_270310"
+  },
+  {
+    "key": "intuit dome|03/11/2026|cleveland cavaliers vs la clippers",
+    "venue": "Intuit Dome",
+    "day": "Wednesday",
+    "date": "03/11/2026",
+    "time": "7:30 PM",
+    "name": "Cleveland Cavaliers vs LA Clippers",
+    "link": "https://intuitdome.com/events/event-schedule/4297?type=games&utm_source=IDwebsite&utm_medium=eventdetail&utm_campaign=SGT_2627&utm_content=SGT2627_EST_270311"
+  },
+  {
+    "key": "intuit dome|03/16/2026|denver nuggets vs la clippers",
+    "venue": "Intuit Dome",
+    "day": "Monday",
+    "date": "03/16/2026",
+    "time": "8:00 PM",
+    "name": "Denver Nuggets vs LA Clippers",
+    "link": "https://intuitdome.com/events/event-schedule/4298?type=games&utm_source=IDwebsite&utm_medium=eventdetail&utm_campaign=SGT_2627&utm_content=SGT2627_EST_270316"
+  },
+  {
+    "key": "intuit dome|03/18/2026|memphis grizzlies vs la clippers",
+    "venue": "Intuit Dome",
+    "day": "Wednesday",
+    "date": "03/18/2026",
+    "time": "7:30 PM",
+    "name": "Memphis Grizzlies vs LA Clippers",
+    "link": "https://intuitdome.com/events/event-schedule/4299?type=games&utm_source=IDwebsite&utm_medium=eventdetail&utm_campaign=SGT_2627&utm_content=SGT2627_EST_270318"
+  },
+  {
+    "key": "intuit dome|03/20/2026|atlanta hawks vs la clippers",
+    "venue": "Intuit Dome",
+    "day": "Friday",
+    "date": "03/20/2026",
+    "time": "7:30 PM",
+    "name": "Atlanta Hawks vs LA Clippers",
+    "link": "https://intuitdome.com/events/event-schedule/4300?type=games&utm_source=IDwebsite&utm_medium=eventdetail&utm_campaign=SGT_2627&utm_content=SGT2627_EST_270320"
+  },
+  {
+    "key": "intuit dome|03/22/2026|dallas mavericks vs la clippers",
+    "venue": "Intuit Dome",
+    "day": "Sunday",
+    "date": "03/22/2026",
+    "time": "7:30 PM",
+    "name": "Dallas Mavericks vs LA Clippers",
+    "link": "https://intuitdome.com/events/event-schedule/4301?type=games&utm_source=IDwebsite&utm_medium=eventdetail&utm_campaign=SGT_2627&utm_content=SGT2627_EST_270322"
+  },
+  {
+    "key": "intuit dome|03/24/2026|milwaukee bucks vs la clippers",
+    "venue": "Intuit Dome",
+    "day": "Tuesday",
+    "date": "03/24/2026",
+    "time": "7:30 PM",
+    "name": "Milwaukee Bucks vs LA Clippers",
+    "link": "https://intuitdome.com/events/event-schedule/4302?type=games&utm_source=IDwebsite&utm_medium=eventdetail&utm_campaign=SGT_2627&utm_content=SGT2627_EST_270324"
+  },
+  {
+    "key": "intuit dome|04/02/2026|san antonio spurs vs la clippers",
+    "venue": "Intuit Dome",
+    "day": "Thursday",
+    "date": "04/02/2026",
+    "time": "7:30 PM",
+    "name": "San Antonio Spurs vs LA Clippers",
+    "link": "https://intuitdome.com/events/event-schedule/4303?type=games&utm_source=IDwebsite&utm_medium=eventdetail&utm_campaign=SGT_2627&utm_content=SGT2627_EST_270402"
+  },
+  {
+    "key": "intuit dome|04/04/2026|phoenix suns vs la clippers",
+    "venue": "Intuit Dome",
+    "day": "Saturday",
+    "date": "04/04/2026",
+    "time": "1:30 PM",
+    "name": "Phoenix Suns vs LA Clippers",
+    "link": "https://intuitdome.com/events/event-schedule/4304?type=games&utm_source=IDwebsite&utm_medium=eventdetail&utm_campaign=SGT_2627&utm_content=SGT2627_EST_270404"
+  },
+  {
+    "key": "intuit dome|04/06/2026|minnesota timberwolves vs la clippers",
+    "venue": "Intuit Dome",
+    "day": "Monday",
+    "date": "04/06/2026",
+    "time": "7:30 PM",
+    "name": "Minnesota Timberwolves vs LA Clippers",
+    "link": "https://intuitdome.com/events/event-schedule/4305?type=games&utm_source=IDwebsite&utm_medium=eventdetail&utm_campaign=SGT_2627&utm_content=SGT2627_EST_270406"
+  },
+  {
+    "key": "intuit dome|04/11/2026|sacramento kings vs la clippers",
+    "venue": "Intuit Dome",
+    "day": "Saturday",
+    "date": "04/11/2026",
+    "time": "5:30 PM",
+    "name": "Sacramento Kings vs LA Clippers",
+    "link": "https://intuitdome.com/events/event-schedule/4306?type=games&utm_source=IDwebsite&utm_medium=eventdetail&utm_campaign=SGT_2627&utm_content=SGT2627_EST_270411"
+  },
+  {
     "key": "intuit dome|08/15/2026|yeat",
     "venue": "Intuit Dome",
     "day": "Saturday",
     "date": "08/15/2026",
     "time": "7:30 PM",
     "name": "Yeat",
-    "link": "https://www.intuitdome.com/events/event-schedule/3699?utm_source=IDwebsite&utm_medium=eventschedule&utm_campaign=IDevents26&utm_content=yeat_260815"
+    "link": "https://intuitdome.com/events/yeat?utm_source=IDwebsite&utm_medium=eventschedule&utm_campaign=IDevents26&utm_content=yeat_260815"
   },
   {
     "key": "intuit dome|08/21/2026|ne-yo & akon",
@@ -585,6 +810,15 @@
     "link": "https://www.intuitdome.com/events/event-schedule/3613?utm_source=IDwebsite&utm_medium=eventschedule&utm_campaign=IDevents26&utm_content=tlc_salt-n-pepa_261010"
   },
   {
+    "key": "intuit dome|10/14/2026|denver nuggets vs la clippers",
+    "venue": "Intuit Dome",
+    "day": "Wednesday",
+    "date": "10/14/2026",
+    "time": "7:30 PM",
+    "name": "Denver Nuggets vs LA Clippers",
+    "link": "https://intuitdome.com/events/event-schedule/4308?type=games&utm_source=IDwebsite&utm_medium=eventdetail&utm_campaign=SGT_2627&utm_content=SGT2627_EST_261014"
+  },
+  {
     "key": "intuit dome|10/17/2026|young miko",
     "venue": "Intuit Dome",
     "day": "Saturday",
@@ -592,6 +826,15 @@
     "time": "8:00 PM",
     "name": "Young Miko",
     "link": "https://www.intuitdome.com/events/event-schedule/3707?utm_source=IDwebsite&utm_medium=eventschedule&utm_campaign=IDevents26&utm_content=young_miko_261017"
+  },
+  {
+    "key": "intuit dome|10/21/2026|sacramento kings vs la clippers",
+    "venue": "Intuit Dome",
+    "day": "Wednesday",
+    "date": "10/21/2026",
+    "time": "7:30 PM",
+    "name": "Sacramento Kings vs LA Clippers",
+    "link": "https://intuitdome.com/events/event-schedule/4288?type=games&utm_source=IDwebsite&utm_medium=eventdetail&utm_campaign=SGT_2627&utm_content=SGT2627_EST_261021"
   },
   {
     "key": "intuit dome|10/24/2026|pokémon night out",
@@ -610,6 +853,15 @@
     "time": "7:30 PM",
     "name": "Bryson Tiller",
     "link": "https://www.intuitdome.com/events/event-schedule/4036?utm_source=IDwebsite&utm_medium=eventschedule&utm_campaign=IDevents26&utm_content=bryson_tiller_261025"
+  },
+  {
+    "key": "intuit dome|10/28/2026|los angeles lakers vs la clippers",
+    "venue": "Intuit Dome",
+    "day": "Wednesday",
+    "date": "10/28/2026",
+    "time": "7:30 PM",
+    "name": "Los Angeles Lakers vs LA Clippers",
+    "link": "https://intuitdome.com/events/event-schedule/4295?type=games&utm_source=IDwebsite&utm_medium=eventdetail&utm_campaign=SGT_2627&utm_content=SGT2627_EST_261028"
   },
   {
     "key": "intuit dome|10/30/2026|phoebe bridgers",
@@ -639,6 +891,60 @@
     "link": "https://www.intuitdome.com/events/event-schedule/4051?utm_source=IDwebsite&utm_medium=eventschedule&utm_campaign=IDevents26&utm_content=phoebe_bridgers_261101"
   },
   {
+    "key": "intuit dome|11/02/2026|toronto raptors vs la clippers",
+    "venue": "Intuit Dome",
+    "day": "Monday",
+    "date": "11/02/2026",
+    "time": "7:00 PM",
+    "name": "Toronto Raptors vs LA Clippers",
+    "link": "https://intuitdome.com/events/event-schedule/4268?type=games&utm_source=IDwebsite&utm_medium=eventdetail&utm_campaign=SGT_2627&utm_content=SGT2627_EST_261102"
+  },
+  {
+    "key": "intuit dome|11/04/2026|miami heat vs la clippers",
+    "venue": "Intuit Dome",
+    "day": "Wednesday",
+    "date": "11/04/2026",
+    "time": "7:30 PM",
+    "name": "Miami Heat vs LA Clippers",
+    "link": "https://intuitdome.com/events/event-schedule/4269?type=games&utm_source=IDwebsite&utm_medium=eventdetail&utm_campaign=SGT_2627&utm_content=SGT2627_EST_261104"
+  },
+  {
+    "key": "intuit dome|11/08/2026|new orleans pelicans vs la clippers",
+    "venue": "Intuit Dome",
+    "day": "Sunday",
+    "date": "11/08/2026",
+    "time": "6:00 PM",
+    "name": "New Orleans Pelicans vs LA Clippers",
+    "link": "https://intuitdome.com/events/event-schedule/4270?type=games&utm_source=IDwebsite&utm_medium=eventdetail&utm_campaign=SGT_2627&utm_content=SGT2627_EST_261108"
+  },
+  {
+    "key": "intuit dome|11/13/2026|oklahoma city thunder vs la clippers",
+    "venue": "Intuit Dome",
+    "day": "Friday",
+    "date": "11/13/2026",
+    "time": "7:30 PM",
+    "name": "Oklahoma City Thunder vs LA Clippers",
+    "link": "https://intuitdome.com/events/event-schedule/4272?type=games&utm_source=IDwebsite&utm_medium=eventdetail&utm_campaign=SGT_2627&utm_content=SGT2627_EST_261113"
+  },
+  {
+    "key": "intuit dome|11/15/2026|charlotte hornets vs la clippers",
+    "venue": "Intuit Dome",
+    "day": "Sunday",
+    "date": "11/15/2026",
+    "time": "1:30 PM",
+    "name": "Charlotte Hornets vs LA Clippers",
+    "link": "https://intuitdome.com/events/event-schedule/4273?type=games&utm_source=IDwebsite&utm_medium=eventdetail&utm_campaign=SGT_2627&utm_content=SGT2627_EST_261115"
+  },
+  {
+    "key": "intuit dome|11/17/2026|utah jazz vs la clippers",
+    "venue": "Intuit Dome",
+    "day": "Tuesday",
+    "date": "11/17/2026",
+    "time": "8:00 PM",
+    "name": "Utah Jazz vs LA Clippers",
+    "link": "https://intuitdome.com/events/event-schedule/4274?type=games&utm_source=IDwebsite&utm_medium=eventdetail&utm_campaign=SGT_2627&utm_content=SGT2627_EST_261117"
+  },
+  {
     "key": "intuit dome|11/22/2026|three days grace",
     "venue": "Intuit Dome",
     "day": "Sunday",
@@ -648,13 +954,76 @@
     "link": "https://www.intuitdome.com/events/event-schedule/3149?utm_source=IDwebsite&utm_medium=eventschedule&utm_campaign=IDevents26&utm_content=three_days_grace_261122"
   },
   {
-    "key": "kia forum|08/13/2026|rüfüs du sol",
-    "venue": "Kia Forum",
-    "day": "Thursday",
-    "date": "08/13/2026",
+    "key": "intuit dome|11/27/2026|new orleans pelicans vs la clippers",
+    "venue": "Intuit Dome",
+    "day": "Friday",
+    "date": "11/27/2026",
+    "time": "6:30 PM",
+    "name": "New Orleans Pelicans vs LA Clippers",
+    "link": "https://intuitdome.com/events/event-schedule/4275?type=games&utm_source=IDwebsite&utm_medium=eventdetail&utm_campaign=SGT_2627&utm_content=SGT2627_EST_261127"
+  },
+  {
+    "key": "intuit dome|12/02/2026|minnesota timberwolves vs la clippers",
+    "venue": "Intuit Dome",
+    "day": "Wednesday",
+    "date": "12/02/2026",
+    "time": "7:30 PM",
+    "name": "Minnesota Timberwolves vs LA Clippers",
+    "link": "https://intuitdome.com/events/event-schedule/4277?type=games&utm_source=IDwebsite&utm_medium=eventdetail&utm_campaign=SGT_2627&utm_content=SGT2627_EST_261202"
+  },
+  {
+    "key": "intuit dome|12/20/2026|indiana pacers vs la clippers",
+    "venue": "Intuit Dome",
+    "day": "Sunday",
+    "date": "12/20/2026",
     "time": "7:00 PM",
-    "name": "RÜFÜS DU SOL",
-    "link": "https://thekiaforum.com/event/rufus-du-sol-5/"
+    "name": "Indiana Pacers vs LA Clippers",
+    "link": "https://intuitdome.com/events/event-schedule/4278?type=games&utm_source=IDwebsite&utm_medium=eventdetail&utm_campaign=SGT_2627&utm_content=SGT2627_EST_261220"
+  },
+  {
+    "key": "intuit dome|12/21/2026|denver nuggets vs la clippers",
+    "venue": "Intuit Dome",
+    "day": "Monday",
+    "date": "12/21/2026",
+    "time": "7:30 PM",
+    "name": "Denver Nuggets vs LA Clippers",
+    "link": "https://intuitdome.com/events/event-schedule/4279?type=games&utm_source=IDwebsite&utm_medium=eventdetail&utm_campaign=SGT_2627&utm_content=SGT2627_EST_261221"
+  },
+  {
+    "key": "intuit dome|12/23/2026|golden state warriors vs la clippers",
+    "venue": "Intuit Dome",
+    "day": "Wednesday",
+    "date": "12/23/2026",
+    "time": "7:30 PM",
+    "name": "Golden State Warriors vs LA Clippers",
+    "link": "https://intuitdome.com/events/event-schedule/4280?type=games&utm_source=IDwebsite&utm_medium=eventdetail&utm_campaign=SGT_2627&utm_content=SGT2627_EST_261223"
+  },
+  {
+    "key": "intuit dome|12/26/2026|memphis grizzlies vs la clippers",
+    "venue": "Intuit Dome",
+    "day": "Saturday",
+    "date": "12/26/2026",
+    "time": "7:30 PM",
+    "name": "Memphis Grizzlies vs LA Clippers",
+    "link": "https://intuitdome.com/events/event-schedule/4281?type=games&utm_source=IDwebsite&utm_medium=eventdetail&utm_campaign=SGT_2627&utm_content=SGT2627_EST_261226 "
+  },
+  {
+    "key": "intuit dome|12/27/2026|philadelphia 76ers vs la clippers",
+    "venue": "Intuit Dome",
+    "day": "Sunday",
+    "date": "12/27/2026",
+    "time": "6:00 PM",
+    "name": "Philadelphia 76ers vs LA Clippers",
+    "link": "https://intuitdome.com/events/event-schedule/4282?type=games&utm_source=IDwebsite&utm_medium=eventdetail&utm_campaign=SGT_2627&utm_content=SGT2627_EST_261227"
+  },
+  {
+    "key": "intuit dome|TBA|tbd vs la clippers",
+    "venue": "Intuit Dome",
+    "day": "TBA",
+    "date": "TBA",
+    "time": "TBA",
+    "name": "TBD vs LA Clippers",
+    "link": "https://intuitdome.com/events/event-schedule/4309?type=games&utm_source=IDwebsite&utm_medium=eventdetail&utm_campaign=SGT_2627&utm_content=SGT2627_EST_261207"
   },
   {
     "key": "kia forum|08/14/2026|melanie martinez – hades: the sacrifice",
@@ -1530,6 +1899,15 @@
     "link": "https://www.cryptoarena.com/events/detail/lakerswarriors102126"
   },
   {
+    "key": "crypto.com arena|10/23/2026|los angeles clippers vs los angeles lakers",
+    "venue": "Crypto.com Arena",
+    "day": "Friday",
+    "date": "10/23/2026",
+    "time": "7:00 PM",
+    "name": "Los Angeles Clippers vs Los Angeles Lakers",
+    "link": "https://www.cryptoarena.com/events/detail/lakersclippers102326"
+  },
+  {
     "key": "crypto.com arena|10/24/2026|weezer: the gathering – with special guests the shins & silversun pickups",
     "venue": "Crypto.com Arena",
     "day": "Saturday",
@@ -1537,6 +1915,15 @@
     "time": "7:00 PM",
     "name": "Weezer: The Gathering – With special guests The Shins & Silversun Pickups",
     "link": "https://www.cryptoarena.com/events/detail/weezer102426"
+  },
+  {
+    "key": "crypto.com arena|10/27/2026|portland trail blazers vs los angeles lakers",
+    "venue": "Crypto.com Arena",
+    "day": "Tuesday",
+    "date": "10/27/2026",
+    "time": "8:00 PM",
+    "name": "Portland Trail Blazers vs Los Angeles Lakers",
+    "link": "https://www.cryptoarena.com/events/detail/lakersblazers102726"
   },
   {
     "key": "crypto.com arena|10/28/2026|yg – the gentlemen's club tour with mozzy, kalan.frfr, natalie nunn, and chef boy",
@@ -1566,6 +1953,24 @@
     "link": "https://www.cryptoarena.com/events/detail/kingssabres103126"
   },
   {
+    "key": "crypto.com arena|11/01/2026|toronto raptors vs los angeles lakers",
+    "venue": "Crypto.com Arena",
+    "day": "Sunday",
+    "date": "11/01/2026",
+    "time": "6:00 PM",
+    "name": "Toronto Raptors vs Los Angeles Lakers",
+    "link": "https://www.cryptoarena.com/events/detail/lakersraptors110126"
+  },
+  {
+    "key": "crypto.com arena|11/02/2026|miami heat vs los angeles lakers",
+    "venue": "Crypto.com Arena",
+    "day": "Monday",
+    "date": "11/02/2026",
+    "time": "7:00 PM",
+    "name": "Miami Heat vs Los Angeles Lakers",
+    "link": "https://www.cryptoarena.com/events/detail/lakersheat110226"
+  },
+  {
     "key": "crypto.com arena|11/04/2026|san jose sharks vs los angeles kings",
     "venue": "Crypto.com Arena",
     "day": "Wednesday",
@@ -1582,6 +1987,15 @@
     "time": "8:00 PM",
     "name": "XG WORLD TOUR: THE CORE IN LOS ANGELES",
     "link": "https://www.cryptoarena.com/events/detail/xg-110526"
+  },
+  {
+    "key": "crypto.com arena|11/06/2026|portland trail blazers vs los angeles lakers – emirates nba cup",
+    "venue": "Crypto.com Arena",
+    "day": "Friday",
+    "date": "11/06/2026",
+    "time": "7:00 PM",
+    "name": "Portland Trail Blazers vs Los Angeles Lakers – Emirates NBA Cup",
+    "link": "https://www.cryptoarena.com/events/detail/lakersblazers110626"
   },
   {
     "key": "crypto.com arena|11/07/2026|pittsburgh penguins vs los angeles kings",
@@ -1620,6 +2034,33 @@
     "link": "https://www.cryptoarena.com/events/detail/kingsflames111426"
   },
   {
+    "key": "crypto.com arena|11/17/2026|charlotte hornets vs los angeles lakers",
+    "venue": "Crypto.com Arena",
+    "day": "Tuesday",
+    "date": "11/17/2026",
+    "time": "7:00 PM",
+    "name": "Charlotte Hornets vs Los Angeles Lakers",
+    "link": "https://www.cryptoarena.com/events/detail/lakershornets111726"
+  },
+  {
+    "key": "crypto.com arena|11/18/2026|utah jazz vs los angeles lakers",
+    "venue": "Crypto.com Arena",
+    "day": "Wednesday",
+    "date": "11/18/2026",
+    "time": "7:00 PM",
+    "name": "Utah Jazz vs Los Angeles Lakers",
+    "link": "https://www.cryptoarena.com/events/detail/lakersjazz111826"
+  },
+  {
+    "key": "crypto.com arena|11/20/2026|sacramento kings vs los angeles lakers – emirates nba cup",
+    "venue": "Crypto.com Arena",
+    "day": "Friday",
+    "date": "11/20/2026",
+    "time": "7:00 PM",
+    "name": "Sacramento Kings vs Los Angeles Lakers – Emirates NBA Cup",
+    "link": "https://www.cryptoarena.com/events/detail/lakerskings112026"
+  },
+  {
     "key": "crypto.com arena|11/21/2026|katseye – the wildworld tour",
     "venue": "Crypto.com Arena",
     "day": "Saturday",
@@ -1627,6 +2068,15 @@
     "time": "TBA",
     "name": "KATSEYE – The WILDWORLD Tour",
     "link": "https://www.cryptoarena.com/events/detail/katseye26"
+  },
+  {
+    "key": "crypto.com arena|11/23/2026|utah jazz vs los angeles lakers",
+    "venue": "Crypto.com Arena",
+    "day": "Monday",
+    "date": "11/23/2026",
+    "time": "7:00 PM",
+    "name": "Utah Jazz vs Los Angeles Lakers",
+    "link": "https://www.cryptoarena.com/events/detail/lakersjazz112326"
   },
   {
     "key": "crypto.com arena|11/28/2026|anaheim ducks vs los angeles kings",
@@ -1683,6 +2133,15 @@
     "link": "https://www.cryptoarena.com/events/detail/kingscanucks121226"
   },
   {
+    "key": "crypto.com arena|12/14/2026|new orleans pelicans vs los angeles lakers",
+    "venue": "Crypto.com Arena",
+    "day": "Monday",
+    "date": "12/14/2026",
+    "time": "7:00 PM",
+    "name": "New Orleans Pelicans vs Los Angeles Lakers",
+    "link": "https://www.cryptoarena.com/events/detail/lakerspelicans121226"
+  },
+  {
     "key": "crypto.com arena|12/17/2026|disney on ice presents jump in!",
     "venue": "Crypto.com Arena",
     "day": "Thursday",
@@ -1690,6 +2149,24 @@
     "time": "TBA",
     "name": "Disney on Ice Presents Jump In!",
     "link": "https://www.cryptoarena.com/events/detail/disneyonice26"
+  },
+  {
+    "key": "crypto.com arena|12/21/2026|indiana pacers vs los angeles lakers",
+    "venue": "Crypto.com Arena",
+    "day": "Monday",
+    "date": "12/21/2026",
+    "time": "7:00 PM",
+    "name": "Indiana Pacers vs Los Angeles Lakers",
+    "link": "https://www.cryptoarena.com/events/detail/lakerspacers122126"
+  },
+  {
+    "key": "crypto.com arena|12/23/2026|denver nuggets vs los angeles lakers",
+    "venue": "Crypto.com Arena",
+    "day": "Wednesday",
+    "date": "12/23/2026",
+    "time": "7:00 PM",
+    "name": "Denver Nuggets vs Los Angeles Lakers",
+    "link": "https://www.cryptoarena.com/events/detail/lakersnuggets122326"
   },
   {
     "key": "crypto.com arena|12/25/2026|philadelphia 76ers vs los angeles lakers",
@@ -1708,6 +2185,24 @@
     "time": "7:00 PM",
     "name": "Utah Mammoth vs Los Angeles Kings",
     "link": "https://www.cryptoarena.com/events/detail/kingsmammoth122626"
+  },
+  {
+    "key": "crypto.com arena|12/27/2026|memphis grizzlies vs los angeles lakers",
+    "venue": "Crypto.com Arena",
+    "day": "Sunday",
+    "date": "12/27/2026",
+    "time": "6:00 PM",
+    "name": "Memphis Grizzlies vs Los Angeles Lakers",
+    "link": "https://www.cryptoarena.com/events/detail/lakersgrizzlies122726"
+  },
+  {
+    "key": "crypto.com arena|12/29/2026|houston rockets vs los angeles lakers",
+    "venue": "Crypto.com Arena",
+    "day": "Tuesday",
+    "date": "12/29/2026",
+    "time": "7:30 PM",
+    "name": "Houston Rockets vs Los Angeles Lakers",
+    "link": "https://www.cryptoarena.com/events/detail/lakersrockets122926"
   },
   {
     "key": "crypto.com arena|12/30/2026|toronto maple leafs vs los angeles kings",
@@ -1746,6 +2241,24 @@
     "link": "https://www.cryptoarena.com/events/detail/kingscaps010627"
   },
   {
+    "key": "crypto.com arena|01/07/2027|boston celtics vs los angeles lakers",
+    "venue": "Crypto.com Arena",
+    "day": "Thursday",
+    "date": "01/07/2027",
+    "time": "7:00 PM",
+    "name": "Boston Celtics vs Los Angeles Lakers",
+    "link": "https://www.cryptoarena.com/events/detail/lakersceltics010727"
+  },
+  {
+    "key": "crypto.com arena|01/08/2027|detroit pistons vs los angeles lakers",
+    "venue": "Crypto.com Arena",
+    "day": "Friday",
+    "date": "01/08/2027",
+    "time": "7:00 PM",
+    "name": "Detroit Pistons vs Los Angeles Lakers",
+    "link": "https://www.cryptoarena.com/events/detail/lakerspistons010827"
+  },
+  {
     "key": "crypto.com arena|01/09/2027|dallas stars vs los angeles kings",
     "venue": "Crypto.com Arena",
     "day": "Saturday",
@@ -1773,6 +2286,24 @@
     "link": "https://www.cryptoarena.com/events/detail/kingsblues011327"
   },
   {
+    "key": "crypto.com arena|01/14/2027|orlando magic vs los angeles lakers",
+    "venue": "Crypto.com Arena",
+    "day": "Thursday",
+    "date": "01/14/2027",
+    "time": "7:00 PM",
+    "name": "Orlando Magic vs Los Angeles Lakers",
+    "link": "https://www.cryptoarena.com/events/detail/lakersmagic011427"
+  },
+  {
+    "key": "crypto.com arena|01/17/2027|milwaukee bucks vs los angeles lakers",
+    "venue": "Crypto.com Arena",
+    "day": "Sunday",
+    "date": "01/17/2027",
+    "time": "6:00 PM",
+    "name": "Milwaukee Bucks vs Los Angeles Lakers",
+    "link": "https://www.cryptoarena.com/events/detail/lakersbucks011727"
+  },
+  {
     "key": "crypto.com arena|01/19/2027|seattle kraken vs los angeles kings",
     "venue": "Crypto.com Arena",
     "day": "Tuesday",
@@ -1791,6 +2322,42 @@
     "link": "https://www.cryptoarena.com/events/detail/kingsoilers012127"
   },
   {
+    "key": "crypto.com arena|01/22/2027|sacramento kings vs los angeles lakers",
+    "venue": "Crypto.com Arena",
+    "day": "Friday",
+    "date": "01/22/2027",
+    "time": "7:00 PM",
+    "name": "Sacramento Kings vs Los Angeles Lakers",
+    "link": "https://www.cryptoarena.com/events/detail/lakerskings012227"
+  },
+  {
+    "key": "crypto.com arena|01/24/2027|washington wizards vs los angeles lakers",
+    "venue": "Crypto.com Arena",
+    "day": "Sunday",
+    "date": "01/24/2027",
+    "time": "1:00 PM",
+    "name": "Washington Wizards vs Los Angeles Lakers",
+    "link": "https://www.cryptoarena.com/events/detail/lakerswizards012427"
+  },
+  {
+    "key": "crypto.com arena|01/26/2027|oklahoma city thunder vs los angeles lakers",
+    "venue": "Crypto.com Arena",
+    "day": "Tuesday",
+    "date": "01/26/2027",
+    "time": "8:00 PM",
+    "name": "Oklahoma City Thunder vs Los Angeles Lakers",
+    "link": "https://www.cryptoarena.com/events/detail/lakersthunder012627"
+  },
+  {
+    "key": "crypto.com arena|02/10/2027|los angeles clippers vs los angeles lakers",
+    "venue": "Crypto.com Arena",
+    "day": "Wednesday",
+    "date": "02/10/2027",
+    "time": "7:00 PM",
+    "name": "Los Angeles Clippers vs Los Angeles Lakers",
+    "link": "https://www.cryptoarena.com/events/detail/lakersclippers021027"
+  },
+  {
     "key": "crypto.com arena|02/11/2027|detroit red wings vs los angeles kings",
     "venue": "Crypto.com Arena",
     "day": "Thursday",
@@ -1798,6 +2365,15 @@
     "time": "7:00 PM",
     "name": "Detroit Red Wings vs Los Angeles Kings",
     "link": "https://www.cryptoarena.com/events/detail/kingswings021127"
+  },
+  {
+    "key": "crypto.com arena|02/12/2027|denver nuggets vs los angeles lakers",
+    "venue": "Crypto.com Arena",
+    "day": "Friday",
+    "date": "02/12/2027",
+    "time": "7:30 PM",
+    "name": "Denver Nuggets vs Los Angeles Lakers",
+    "link": "https://www.cryptoarena.com/events/detail/lakersnuggets021227"
   },
   {
     "key": "crypto.com arena|02/13/2027|chicago blackhawks vs los angeles kings",
@@ -1816,6 +2392,24 @@
     "time": "7:00 PM",
     "name": "Calgary Flames vs Los Angeles Kings",
     "link": "https://www.cryptoarena.com/events/detail/kingsflames021527"
+  },
+  {
+    "key": "crypto.com arena|02/16/2027|chicago bulls vs los angeles lakers",
+    "venue": "Crypto.com Arena",
+    "day": "Tuesday",
+    "date": "02/16/2027",
+    "time": "7:00 PM",
+    "name": "Chicago Bulls vs Los Angeles Lakers",
+    "link": "https://www.cryptoarena.com/events/detail/lakersbulls021627"
+  },
+  {
+    "key": "crypto.com arena|02/18/2027|houston rockets vs los angeles lakers",
+    "venue": "Crypto.com Arena",
+    "day": "Thursday",
+    "date": "02/18/2027",
+    "time": "7:00 PM",
+    "name": "Houston Rockets vs Los Angeles Lakers",
+    "link": "https://www.cryptoarena.com/events/detail/lakersrockets021827"
   },
   {
     "key": "crypto.com arena|02/20/2027|seattle kraken vs los angeles kings",
@@ -1872,6 +2466,15 @@
     "link": "https://www.cryptoarena.com/events/detail/kingsjackets030527"
   },
   {
+    "key": "crypto.com arena|03/06/2027|oklahoma city thunder vs los angeles lakers",
+    "venue": "Crypto.com Arena",
+    "day": "Saturday",
+    "date": "03/06/2027",
+    "time": "5:30 PM",
+    "name": "Oklahoma City Thunder vs Los Angeles Lakers",
+    "link": "https://www.cryptoarena.com/events/detail/lakersthunder030627"
+  },
+  {
     "key": "crypto.com arena|03/07/2027|colorado avalanche vs los angeles kings",
     "venue": "Crypto.com Arena",
     "day": "Sunday",
@@ -1879,6 +2482,33 @@
     "time": "12:30 PM",
     "name": "Colorado Avalanche vs Los Angeles Kings",
     "link": "https://www.cryptoarena.com/events/detail/kingsavs030727"
+  },
+  {
+    "key": "crypto.com arena|03/07/2027|brooklyn nets vs los angeles lakers",
+    "venue": "Crypto.com Arena",
+    "day": "Sunday",
+    "date": "03/07/2027",
+    "time": "7:30 PM",
+    "name": "Brooklyn Nets vs Los Angeles Lakers",
+    "link": "https://www.cryptoarena.com/events/detail/lakersnets030727"
+  },
+  {
+    "key": "crypto.com arena|03/11/2027|new york knicks vs los angeles lakers",
+    "venue": "Crypto.com Arena",
+    "day": "Thursday",
+    "date": "03/11/2027",
+    "time": "7:00 PM",
+    "name": "New York Knicks vs Los Angeles Lakers",
+    "link": "https://www.cryptoarena.com/events/detail/lakersknicks031127"
+  },
+  {
+    "key": "crypto.com arena|03/12/2027|cleveland cavaliers vs los angeles lakers",
+    "venue": "Crypto.com Arena",
+    "day": "Friday",
+    "date": "03/12/2027",
+    "time": "7:00 PM",
+    "name": "Cleveland Cavaliers vs Los Angeles Lakers",
+    "link": "https://www.cryptoarena.com/events/detail/lakerscavs031227"
   },
   {
     "key": "crypto.com arena|03/13/2027|dallas stars vs los angeles kings",
@@ -1890,6 +2520,15 @@
     "link": "https://www.cryptoarena.com/events/detail/kingsstars031327"
   },
   {
+    "key": "crypto.com arena|03/14/2027|golden state warriors vs los angeles lakers",
+    "venue": "Crypto.com Arena",
+    "day": "Sunday",
+    "date": "03/14/2027",
+    "time": "7:00 PM",
+    "name": "Golden State Warriors vs Los Angeles Lakers",
+    "link": "https://www.cryptoarena.com/events/detail/lakerswarriors031427"
+  },
+  {
     "key": "crypto.com arena|03/16/2027|winnipeg jets vs los angeles kings",
     "venue": "Crypto.com Arena",
     "day": "Tuesday",
@@ -1899,6 +2538,15 @@
     "link": "https://www.cryptoarena.com/events/detail/kingsjets031627"
   },
   {
+    "key": "crypto.com arena|03/17/2027|phoenix suns vs los angeles lakers",
+    "venue": "Crypto.com Arena",
+    "day": "Wednesday",
+    "date": "03/17/2027",
+    "time": "7:00 PM",
+    "name": "Phoenix Suns vs Los Angeles Lakers",
+    "link": "https://www.cryptoarena.com/events/detail/lakerssuns031727"
+  },
+  {
     "key": "crypto.com arena|03/18/2027|carolina hurricanes vs los angeles kings",
     "venue": "Crypto.com Arena",
     "day": "Thursday",
@@ -1906,6 +2554,24 @@
     "time": "7:00 PM",
     "name": "Carolina Hurricanes vs Los Angeles Kings",
     "link": "https://www.cryptoarena.com/events/detail/kingscanes031827"
+  },
+  {
+    "key": "crypto.com arena|03/19/2027|atlanta hawks vs los angeles lakers",
+    "venue": "Crypto.com Arena",
+    "day": "Friday",
+    "date": "03/19/2027",
+    "time": "7:00 PM",
+    "name": "Atlanta Hawks vs Los Angeles Lakers",
+    "link": "https://www.cryptoarena.com/events/detail/lakershawks031927"
+  },
+  {
+    "key": "crypto.com arena|03/21/2027|dallas mavericks vs los angeles lakers",
+    "venue": "Crypto.com Arena",
+    "day": "Sunday",
+    "date": "03/21/2027",
+    "time": "7:00 PM",
+    "name": "Dallas Mavericks vs Los Angeles Lakers",
+    "link": "https://www.cryptoarena.com/events/detail/lakersmavs032127"
   },
   {
     "key": "crypto.com arena|03/29/2027|vancouver canucks vs los angeles kings",
@@ -1935,6 +2601,33 @@
     "link": "https://www.cryptoarena.com/events/detail/kingsblues040327"
   },
   {
+    "key": "crypto.com arena|04/04/2027|san antonio spurs vs los angeles lakers",
+    "venue": "Crypto.com Arena",
+    "day": "Sunday",
+    "date": "04/04/2027",
+    "time": "7:00 PM",
+    "name": "San Antonio Spurs vs Los Angeles Lakers",
+    "link": "https://www.cryptoarena.com/events/detail/lakersspurs040427"
+  },
+  {
+    "key": "crypto.com arena|04/06/2027|dallas mavericks vs los angeles lakers",
+    "venue": "Crypto.com Arena",
+    "day": "Tuesday",
+    "date": "04/06/2027",
+    "time": "7:00 PM",
+    "name": "Dallas Mavericks vs Los Angeles Lakers",
+    "link": "https://www.cryptoarena.com/events/detail/lakersmavs040627"
+  },
+  {
+    "key": "crypto.com arena|04/07/2027|minnesota timberwolves vs los angeles lakers",
+    "venue": "Crypto.com Arena",
+    "day": "Wednesday",
+    "date": "04/07/2027",
+    "time": "7:00 PM",
+    "name": "Minnesota Timberwolves vs Los Angeles Lakers",
+    "link": "https://www.cryptoarena.com/events/detail/lakerswolves040727"
+  },
+  {
     "key": "crypto.com arena|04/08/2027|vegas golden knights vs los angeles kings",
     "venue": "Crypto.com Arena",
     "day": "Thursday",
@@ -1942,6 +2635,24 @@
     "time": "7:00 PM",
     "name": "Vegas Golden Knights vs Los Angeles Kings",
     "link": "https://www.cryptoarena.com/events/detail/kingsblues040827"
+  },
+  {
+    "key": "crypto.com arena|04/09/2027|minnesota timberwolves vs los angeles lakers",
+    "venue": "Crypto.com Arena",
+    "day": "Friday",
+    "date": "04/09/2027",
+    "time": "7:00 PM",
+    "name": "Minnesota Timberwolves vs Los Angeles Lakers",
+    "link": "https://www.cryptoarena.com/events/detail/lakerswolves040927"
+  },
+  {
+    "key": "crypto.com arena|04/11/2027|phoenix suns vs los angeles lakers",
+    "venue": "Crypto.com Arena",
+    "day": "Sunday",
+    "date": "04/11/2027",
+    "time": "5:30 PM",
+    "name": "Phoenix Suns vs Los Angeles Lakers",
+    "link": "https://www.cryptoarena.com/events/detail/lakerssuns041127"
   },
   {
     "key": "crypto.com arena|TBA|j. cole – the fall-off world tour",
@@ -2032,6 +2743,15 @@
     "time": "TBA",
     "name": "Maryland vs USC",
     "link": "https://www.lacoliseum.com/events/maryland-vs-usc-2026/"
+  },
+  {
+    "key": "l.a. memorial coliseum|12/12/2026|john summit – ctrl escape tour",
+    "venue": "L.A. Memorial Coliseum",
+    "day": "Saturday",
+    "date": "12/12/2026",
+    "time": "TBA",
+    "name": "JOHN SUMMIT – CTRL ESCAPE TOUR",
+    "link": "https://www.lacoliseum.com/events/john-summit-ctrl-escape-tour/"
   },
   {
     "key": "la convention center|08/14/2026|kcon la 2026",
@@ -2421,15 +3141,6 @@
     "link": "https://www.laconventioncenter.com/events/detail/socal-cup-volleyball-showcase-2027"
   },
   {
-    "key": "dodger stadium|08/13/2026|vs. milwaukee brewers",
-    "venue": "Dodger Stadium",
-    "day": "Thursday",
-    "date": "08/13/2026",
-    "time": "7:10 PM",
-    "name": "vs. Milwaukee Brewers",
-    "link": "https://www.mlb.com/gameday/823915"
-  },
-  {
     "key": "dodger stadium|08/14/2026|vs. milwaukee brewers",
     "venue": "Dodger Stadium",
     "day": "Friday",
@@ -2617,15 +3328,6 @@
     "time": "7:10 PM",
     "name": "vs. San Diego Padres",
     "link": "https://www.mlb.com/gameday/823895"
-  },
-  {
-    "key": "hollywood bowl|08/13/2026|santana – the doobie brothers",
-    "venue": "Hollywood Bowl",
-    "day": "Thursday",
-    "date": "08/13/2026",
-    "time": "7:00 PM",
-    "name": "Santana – The Doobie Brothers",
-    "link": "https://www.hollywoodbowl.com/events/performances/4364/2026-08-13/santana"
   },
   {
     "key": "hollywood bowl|08/14/2026|al green – the womack sisters",
