@@ -4148,5 +4148,65 @@
     "name": "Santana – The Doobie Brothers",
     "link": "https://www.hollywoodbowl.com/events/performances/4364/2026-08-13/santana",
     "archived_on": "2026-08-14"
+  },
+  {
+    "key": "sofi stadium|08/14/2026|karol g - viajando por el mundo tropitour",
+    "venue": "SoFi Stadium",
+    "day": "Friday",
+    "date": "08/14/2026",
+    "time": "7:00 PM",
+    "name": "KAROL G - VIAJANDO POR EL MUNDO TROPITOUR",
+    "link": "https://www.sofistadium.com/events/detail/karol-g-august-14",
+    "archived_on": "2026-08-15"
+  },
+  {
+    "key": "kia forum|08/14/2026|melanie martinez – hades: the sacrifice",
+    "venue": "Kia Forum",
+    "day": "Friday",
+    "date": "08/14/2026",
+    "time": "7:00 PM",
+    "name": "MELANIE MARTINEZ – HADES: THE SACRIFICE",
+    "link": "https://thekiaforum.com/event/melanie-martinez/",
+    "archived_on": "2026-08-15"
+  },
+  {
+    "key": "crypto.com arena|08/14/2026|kcon la 2026 m countdown",
+    "venue": "Crypto.com Arena",
+    "day": "Friday",
+    "date": "08/14/2026",
+    "time": "TBA",
+    "name": "KCON LA 2026 M Countdown",
+    "link": "https://www.cryptoarena.com/events/detail/kcon26",
+    "archived_on": "2026-08-15"
+  },
+  {
+    "key": "la convention center|08/14/2026|kcon la 2026",
+    "venue": "LA Convention Center",
+    "day": "Friday",
+    "date": "08/14/2026",
+    "time": "TBA",
+    "name": "KCON LA 2026",
+    "link": "https://www.laconventioncenter.com/events/detail/kcon-la-2026",
+    "archived_on": "2026-08-15"
+  },
+  {
+    "key": "dodger stadium|08/14/2026|vs. milwaukee brewers",
+    "venue": "Dodger Stadium",
+    "day": "Friday",
+    "date": "08/14/2026",
+    "time": "7:10 PM",
+    "name": "vs. Milwaukee Brewers",
+    "link": "https://www.mlb.com/gameday/823913",
+    "archived_on": "2026-08-15"
+  },
+  {
+    "key": "hollywood bowl|08/14/2026|al green – the womack sisters",
+    "venue": "Hollywood Bowl",
+    "day": "Friday",
+    "date": "08/14/2026",
+    "time": "8:00 PM",
+    "name": "Al Green – The Womack Sisters",
+    "link": "https://www.hollywoodbowl.com/events/performances/4321/2026-08-14/al-green",
+    "archived_on": "2026-08-15"
   }
 ]
