@@ -4208,5 +4208,85 @@
     "name": "Al Green – The Womack Sisters",
     "link": "https://www.hollywoodbowl.com/events/performances/4321/2026-08-14/al-green",
     "archived_on": "2026-08-15"
+  },
+  {
+    "key": "sofi stadium|08/15/2026|karol g - viajando por el mundo tropitour",
+    "venue": "SoFi Stadium",
+    "day": "Saturday",
+    "date": "08/15/2026",
+    "time": "7:00 PM",
+    "name": "KAROL G - VIAJANDO POR EL MUNDO TROPITOUR",
+    "link": "https://www.sofistadium.com/events/detail/karol-g-august-15",
+    "archived_on": "2026-08-16"
+  },
+  {
+    "key": "intuit dome|08/15/2026|yeat",
+    "venue": "Intuit Dome",
+    "day": "Saturday",
+    "date": "08/15/2026",
+    "time": "7:30 PM",
+    "name": "Yeat",
+    "link": "https://intuitdome.com/events/yeat?utm_source=IDwebsite&utm_medium=eventschedule&utm_campaign=IDevents26&utm_content=yeat_260815",
+    "archived_on": "2026-08-16"
+  },
+  {
+    "key": "rose bowl stadium|08/15/2026|noah kahan - the great divide tour",
+    "venue": "Rose Bowl Stadium",
+    "day": "Saturday",
+    "date": "08/15/2026",
+    "time": "6:30 PM",
+    "name": "NOAH KAHAN - THE GREAT DIVIDE TOUR",
+    "link": "https://www.rosebowlstadium.com/events/details/633/noah-kahan-the-great-divide-tour",
+    "archived_on": "2026-08-16"
+  },
+  {
+    "key": "crypto.com arena|08/15/2026|kcon la 2026 m countdown",
+    "venue": "Crypto.com Arena",
+    "day": "Saturday",
+    "date": "08/15/2026",
+    "time": "TBA",
+    "name": "KCON LA 2026 M Countdown",
+    "link": "https://www.cryptoarena.com/events/detail/kcon26",
+    "archived_on": "2026-08-16"
+  },
+  {
+    "key": "la convention center|08/15/2026|apwu biennial convention 2026",
+    "venue": "LA Convention Center",
+    "day": "Saturday",
+    "date": "08/15/2026",
+    "time": "TBA",
+    "name": "APWU Biennial Convention 2026",
+    "link": "https://www.laconventioncenter.com/events/detail/apwu-biennial-convention-2026",
+    "archived_on": "2026-08-16"
+  },
+  {
+    "key": "la convention center|08/15/2026|kcon la 2026",
+    "venue": "LA Convention Center",
+    "day": "Saturday",
+    "date": "08/15/2026",
+    "time": "TBA",
+    "name": "KCON LA 2026",
+    "link": "https://www.laconventioncenter.com/events/detail/kcon-la-2026",
+    "archived_on": "2026-08-16"
+  },
+  {
+    "key": "dodger stadium|08/15/2026|vs. milwaukee brewers",
+    "venue": "Dodger Stadium",
+    "day": "Saturday",
+    "date": "08/15/2026",
+    "time": "4:15 PM",
+    "name": "vs. Milwaukee Brewers",
+    "link": "https://www.mlb.com/gameday/823914",
+    "archived_on": "2026-08-16"
+  },
+  {
+    "key": "hollywood bowl|08/15/2026|top gun: maverickin concert",
+    "venue": "Hollywood Bowl",
+    "day": "Saturday",
+    "date": "08/15/2026",
+    "time": "8:00 PM",
+    "name": "Top Gun: Maverickin Concert",
+    "link": "https://www.hollywoodbowl.com/events/performances/4353/2026-08-15/top-gun-maverick-in-concert",
+    "archived_on": "2026-08-16"
   }
 ]

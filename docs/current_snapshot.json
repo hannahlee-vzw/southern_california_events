@@ -1,14 +1,5 @@
 [
   {
-    "key": "sofi stadium|08/15/2026|karol g - viajando por el mundo tropitour",
-    "venue": "SoFi Stadium",
-    "day": "Saturday",
-    "date": "08/15/2026",
-    "time": "7:00 PM",
-    "name": "KAROL G - VIAJANDO POR EL MUNDO TROPITOUR",
-    "link": "https://www.sofistadium.com/events/detail/karol-g-august-15"
-  },
-  {
     "key": "sofi stadium|08/16/2026|karol g - viajando por el mundo tropitour",
     "venue": "SoFi Stadium",
     "day": "Sunday",
@@ -682,15 +673,6 @@
     "time": "5:30 PM",
     "name": "Sacramento Kings vs LA Clippers",
     "link": "https://intuitdome.com/events/event-schedule/4306?type=games&utm_source=IDwebsite&utm_medium=eventdetail&utm_campaign=SGT_2627&utm_content=SGT2627_EST_270411"
-  },
-  {
-    "key": "intuit dome|08/15/2026|yeat",
-    "venue": "Intuit Dome",
-    "day": "Saturday",
-    "date": "08/15/2026",
-    "time": "7:30 PM",
-    "name": "Yeat",
-    "link": "https://intuitdome.com/events/yeat?utm_source=IDwebsite&utm_medium=eventschedule&utm_campaign=IDevents26&utm_content=yeat_260815"
   },
   {
     "key": "intuit dome|08/21/2026|ne-yo & akon",
@@ -1458,15 +1440,6 @@
     "link": "https://www.dignityhealthsportspark.com/events/detail/angel-city-fc-vs-boston-legacy-fc"
   },
   {
-    "key": "rose bowl stadium|08/15/2026|noah kahan - the great divide tour",
-    "venue": "Rose Bowl Stadium",
-    "day": "Saturday",
-    "date": "08/15/2026",
-    "time": "6:30 PM",
-    "name": "NOAH KAHAN - THE GREAT DIVIDE TOUR",
-    "link": "https://www.rosebowlstadium.com/events/details/633/noah-kahan-the-great-divide-tour"
-  },
-  {
     "key": "rose bowl stadium|08/22/2026|just like heaven",
     "venue": "Rose Bowl Stadium",
     "day": "Saturday",
@@ -1683,11 +1656,11 @@
     "link": "https://www.rosebowlstadium.com/events/details/626/rose-bowl-half-marathon-and-5k"
   },
   {
-    "key": "crypto.com arena|08/15/2026|kcon la 2026 m countdown",
+    "key": "crypto.com arena|08/16/2026|kcon la 2026 m countdown",
     "venue": "Crypto.com Arena",
-    "day": "Saturday",
-    "date": "08/15/2026",
-    "time": "TBA",
+    "day": "Sunday",
+    "date": "08/16/2026",
+    "time": "8:00 PM",
     "name": "KCON LA 2026 M Countdown",
     "link": "https://www.cryptoarena.com/events/detail/kcon26"
   },
@@ -2745,19 +2718,19 @@
     "link": "https://www.lacoliseum.com/events/john-summit-ctrl-escape-tour/"
   },
   {
-    "key": "la convention center|08/15/2026|apwu biennial convention 2026",
+    "key": "la convention center|08/16/2026|apwu biennial convention 2026",
     "venue": "LA Convention Center",
-    "day": "Saturday",
-    "date": "08/15/2026",
+    "day": "Sunday",
+    "date": "08/16/2026",
     "time": "TBA",
     "name": "APWU Biennial Convention 2026",
     "link": "https://www.laconventioncenter.com/events/detail/apwu-biennial-convention-2026"
   },
   {
-    "key": "la convention center|08/15/2026|kcon la 2026",
+    "key": "la convention center|08/16/2026|kcon la 2026",
     "venue": "LA Convention Center",
-    "day": "Saturday",
-    "date": "08/15/2026",
+    "day": "Sunday",
+    "date": "08/16/2026",
     "time": "TBA",
     "name": "KCON LA 2026",
     "link": "https://www.laconventioncenter.com/events/detail/kcon-la-2026"
@@ -3132,15 +3105,6 @@
     "link": "https://www.laconventioncenter.com/events/detail/socal-cup-volleyball-showcase-2027"
   },
   {
-    "key": "dodger stadium|08/15/2026|vs. milwaukee brewers",
-    "venue": "Dodger Stadium",
-    "day": "Saturday",
-    "date": "08/15/2026",
-    "time": "4:15 PM",
-    "name": "vs. Milwaukee Brewers",
-    "link": "https://www.mlb.com/gameday/823914"
-  },
-  {
     "key": "dodger stadium|08/16/2026|vs. milwaukee brewers",
     "venue": "Dodger Stadium",
     "day": "Sunday",
@@ -3310,15 +3274,6 @@
     "time": "7:10 PM",
     "name": "vs. San Diego Padres",
     "link": "https://www.mlb.com/gameday/823895"
-  },
-  {
-    "key": "hollywood bowl|08/15/2026|top gun: maverickin concert",
-    "venue": "Hollywood Bowl",
-    "day": "Saturday",
-    "date": "08/15/2026",
-    "time": "8:00 PM",
-    "name": "Top Gun: Maverickin Concert",
-    "link": "https://www.hollywoodbowl.com/events/performances/4353/2026-08-15/top-gun-maverick-in-concert"
   },
   {
     "key": "hollywood bowl|08/16/2026|yoasobi",
