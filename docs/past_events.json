@@ -4288,5 +4288,65 @@
     "name": "Top Gun: Maverickin Concert",
     "link": "https://www.hollywoodbowl.com/events/performances/4353/2026-08-15/top-gun-maverick-in-concert",
     "archived_on": "2026-08-16"
+  },
+  {
+    "key": "sofi stadium|08/16/2026|karol g - viajando por el mundo tropitour",
+    "venue": "SoFi Stadium",
+    "day": "Sunday",
+    "date": "08/16/2026",
+    "time": "7:00 PM",
+    "name": "KAROL G - VIAJANDO POR EL MUNDO TROPITOUR",
+    "link": "https://www.sofistadium.com/events/detail/karol-g-august-16",
+    "archived_on": "2026-08-17"
+  },
+  {
+    "key": "crypto.com arena|08/16/2026|kcon la 2026 m countdown",
+    "venue": "Crypto.com Arena",
+    "day": "Sunday",
+    "date": "08/16/2026",
+    "time": "8:00 PM",
+    "name": "KCON LA 2026 M Countdown",
+    "link": "https://www.cryptoarena.com/events/detail/kcon26",
+    "archived_on": "2026-08-17"
+  },
+  {
+    "key": "la convention center|08/16/2026|apwu biennial convention 2026",
+    "venue": "LA Convention Center",
+    "day": "Sunday",
+    "date": "08/16/2026",
+    "time": "TBA",
+    "name": "APWU Biennial Convention 2026",
+    "link": "https://www.laconventioncenter.com/events/detail/apwu-biennial-convention-2026",
+    "archived_on": "2026-08-17"
+  },
+  {
+    "key": "la convention center|08/16/2026|kcon la 2026",
+    "venue": "LA Convention Center",
+    "day": "Sunday",
+    "date": "08/16/2026",
+    "time": "TBA",
+    "name": "KCON LA 2026",
+    "link": "https://www.laconventioncenter.com/events/detail/kcon-la-2026",
+    "archived_on": "2026-08-17"
+  },
+  {
+    "key": "dodger stadium|08/16/2026|vs. milwaukee brewers",
+    "venue": "Dodger Stadium",
+    "day": "Sunday",
+    "date": "08/16/2026",
+    "time": "1:10 PM",
+    "name": "vs. Milwaukee Brewers",
+    "link": "https://www.mlb.com/gameday/823912",
+    "archived_on": "2026-08-17"
+  },
+  {
+    "key": "hollywood bowl|08/16/2026|yoasobi",
+    "venue": "Hollywood Bowl",
+    "day": "Sunday",
+    "date": "08/16/2026",
+    "time": "8:00 PM",
+    "name": "YOASOBI",
+    "link": "https://www.hollywoodbowl.com/events/performances/4844/2026-08-16/yoasobi",
+    "archived_on": "2026-08-17"
   }
 ]
