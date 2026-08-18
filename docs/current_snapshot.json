@@ -112,7 +112,7 @@
     "venue": "SoFi Stadium",
     "day": "Friday",
     "date": "09/25/2026",
-    "time": "7:00 PM",
+    "time": "7:30 PM",
     "name": "The R&B Tour - Starring Usher Raymond & Chris Brown",
     "link": "https://www.sofistadium.com/events/detail/chris-brown-usher-september-25"
   },
@@ -121,7 +121,7 @@
     "venue": "SoFi Stadium",
     "day": "Saturday",
     "date": "09/26/2026",
-    "time": "7:00 PM",
+    "time": "7:30 PM",
     "name": "The R&B Tour - Starring Usher Raymond & Chris Brown",
     "link": "https://www.sofistadium.com/events/detail/chris-brown-usher-september-26"
   },
@@ -238,7 +238,7 @@
     "venue": "SoFi Stadium",
     "day": "Sunday",
     "date": "11/15/2026",
-    "time": "7:00 PM",
+    "time": "7:30 PM",
     "name": "The R&B Tour - Starring Usher Raymond & Chris Brown",
     "link": "https://www.sofistadium.com/events/detail/chris-brown-usher-november-15"
   },
@@ -247,7 +247,7 @@
     "venue": "SoFi Stadium",
     "day": "Monday",
     "date": "11/16/2026",
-    "time": "7:00 PM",
+    "time": "7:30 PM",
     "name": "The R&B Tour - Starring Usher Raymond & Chris Brown",
     "link": "https://www.sofistadium.com/events/detail/chris-brown-usher-november-16"
   },
@@ -2610,6 +2610,15 @@
     "link": "https://www.cryptoarena.com/events/detail/lakerssuns041127"
   },
   {
+    "key": "crypto.com arena|04/17/2027|yuri & lucero – entre amigas tour",
+    "venue": "Crypto.com Arena",
+    "day": "Saturday",
+    "date": "04/17/2027",
+    "time": "8:00 PM",
+    "name": "Yuri & Lucero – Entre Amigas Tour",
+    "link": "https://www.cryptoarena.com/events/detail/yurilucero041727"
+  },
+  {
     "key": "crypto.com arena|TBA|j. cole – the fall-off world tour",
     "venue": "Crypto.com Arena",
     "day": "TBA",
@@ -2709,10 +2718,10 @@
     "link": "https://www.lacoliseum.com/events/john-summit-ctrl-escape-tour/"
   },
   {
-    "key": "la convention center|08/17/2026|apwu biennial convention 2026",
+    "key": "la convention center|08/18/2026|apwu biennial convention 2026",
     "venue": "LA Convention Center",
-    "day": "Monday",
-    "date": "08/17/2026",
+    "day": "Tuesday",
+    "date": "08/18/2026",
     "time": "TBA",
     "name": "APWU Biennial Convention 2026",
     "link": "https://www.laconventioncenter.com/events/detail/apwu-biennial-convention-2026"
@@ -3247,15 +3256,6 @@
     "time": "7:10 PM",
     "name": "vs. San Diego Padres",
     "link": "https://www.mlb.com/gameday/823895"
-  },
-  {
-    "key": "hollywood bowl|08/17/2026|the black crowes & tedeschi trucks band – whiskey myers",
-    "venue": "Hollywood Bowl",
-    "day": "Monday",
-    "date": "08/17/2026",
-    "time": "6:00 PM",
-    "name": "The Black Crowes & Tedeschi Trucks Band – Whiskey Myers",
-    "link": "https://www.hollywoodbowl.com/events/performances/4352/2026-08-17/the-black-crowes-tedeschi-trucks-band"
   },
   {
     "key": "hollywood bowl|08/18/2026|gershwin, bernstein & more",

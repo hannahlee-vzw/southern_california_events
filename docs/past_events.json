@@ -4348,5 +4348,25 @@
     "name": "YOASOBI",
     "link": "https://www.hollywoodbowl.com/events/performances/4844/2026-08-16/yoasobi",
     "archived_on": "2026-08-17"
+  },
+  {
+    "key": "la convention center|08/17/2026|apwu biennial convention 2026",
+    "venue": "LA Convention Center",
+    "day": "Monday",
+    "date": "08/17/2026",
+    "time": "TBA",
+    "name": "APWU Biennial Convention 2026",
+    "link": "https://www.laconventioncenter.com/events/detail/apwu-biennial-convention-2026",
+    "archived_on": "2026-08-18"
+  },
+  {
+    "key": "hollywood bowl|08/17/2026|the black crowes & tedeschi trucks band – whiskey myers",
+    "venue": "Hollywood Bowl",
+    "day": "Monday",
+    "date": "08/17/2026",
+    "time": "6:00 PM",
+    "name": "The Black Crowes & Tedeschi Trucks Band – Whiskey Myers",
+    "link": "https://www.hollywoodbowl.com/events/performances/4352/2026-08-17/the-black-crowes-tedeschi-trucks-band",
+    "archived_on": "2026-08-18"
   }
 ]
