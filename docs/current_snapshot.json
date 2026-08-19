@@ -1449,6 +1449,15 @@
     "link": "https://www.rosebowlstadium.com/events/details/640/just-like-heaven"
   },
   {
+    "key": "rose bowl stadium|08/26/2026|rose bowl stadium blood drive",
+    "venue": "Rose Bowl Stadium",
+    "day": "Wednesday",
+    "date": "08/26/2026",
+    "time": "10:00 AM",
+    "name": "Rose Bowl Stadium Blood Drive",
+    "link": "https://www.rosebowlstadium.com/events/details/670/rose-bowl-stadium-blood-drive"
+  },
+  {
     "key": "rose bowl stadium|09/05/2026|guns n’ roses",
     "venue": "Rose Bowl Stadium",
     "day": "Saturday",
@@ -2615,7 +2624,7 @@
     "day": "Saturday",
     "date": "04/17/2027",
     "time": "8:00 PM",
-    "name": "Yuri & Lucero – Entre Amigas Tour",
+    "name": "Yuri & Lucero – ENTRE AMIGAS TOUR",
     "link": "https://www.cryptoarena.com/events/detail/yurilucero041727"
   },
   {
@@ -2718,10 +2727,10 @@
     "link": "https://www.lacoliseum.com/events/john-summit-ctrl-escape-tour/"
   },
   {
-    "key": "la convention center|08/18/2026|apwu biennial convention 2026",
+    "key": "la convention center|08/19/2026|apwu biennial convention 2026",
     "venue": "LA Convention Center",
-    "day": "Tuesday",
-    "date": "08/18/2026",
+    "day": "Wednesday",
+    "date": "08/19/2026",
     "time": "TBA",
     "name": "APWU Biennial Convention 2026",
     "link": "https://www.laconventioncenter.com/events/detail/apwu-biennial-convention-2026"
@@ -3258,15 +3267,6 @@
     "link": "https://www.mlb.com/gameday/823895"
   },
   {
-    "key": "hollywood bowl|08/18/2026|gershwin, bernstein & more",
-    "venue": "Hollywood Bowl",
-    "day": "Tuesday",
-    "date": "08/18/2026",
-    "time": "8:00 PM",
-    "name": "Gershwin, Bernstein & More",
-    "link": "https://www.hollywoodbowl.com/events/performances/4323/2026-08-18/gershwin-bernstein-more"
-  },
-  {
     "key": "hollywood bowl|08/19/2026|herbie hancock celebrates miles davis",
     "venue": "Hollywood Bowl",
     "day": "Wednesday",
@@ -3699,12 +3699,12 @@
     "link": "https://www.hollywoodbowl.com/events/performances/4898/2026-11-07/jimmy-eat-world-the-format"
   },
   {
-    "key": "hollywood bowl|11/18/2026|jonas brothers – all time low",
+    "key": "hollywood bowl|11/18/2026|jonas brothers – all time low, magnus ferrell",
     "venue": "Hollywood Bowl",
     "day": "Wednesday",
     "date": "11/18/2026",
     "time": "7:30 PM",
-    "name": "Jonas Brothers – All Time Low",
+    "name": "Jonas Brothers – All Time Low, Magnus Ferrell",
     "link": "https://www.hollywoodbowl.com/events/performances/4902/2026-11-18/jonas-brothers"
   },
   {

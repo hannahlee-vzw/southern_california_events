@@ -4368,5 +4368,25 @@
     "name": "The Black Crowes & Tedeschi Trucks Band – Whiskey Myers",
     "link": "https://www.hollywoodbowl.com/events/performances/4352/2026-08-17/the-black-crowes-tedeschi-trucks-band",
     "archived_on": "2026-08-18"
+  },
+  {
+    "key": "la convention center|08/18/2026|apwu biennial convention 2026",
+    "venue": "LA Convention Center",
+    "day": "Tuesday",
+    "date": "08/18/2026",
+    "time": "TBA",
+    "name": "APWU Biennial Convention 2026",
+    "link": "https://www.laconventioncenter.com/events/detail/apwu-biennial-convention-2026",
+    "archived_on": "2026-08-19"
+  },
+  {
+    "key": "hollywood bowl|08/18/2026|gershwin, bernstein & more",
+    "venue": "Hollywood Bowl",
+    "day": "Tuesday",
+    "date": "08/18/2026",
+    "time": "8:00 PM",
+    "name": "Gershwin, Bernstein & More",
+    "link": "https://www.hollywoodbowl.com/events/performances/4323/2026-08-18/gershwin-bernstein-more",
+    "archived_on": "2026-08-19"
   }
 ]
