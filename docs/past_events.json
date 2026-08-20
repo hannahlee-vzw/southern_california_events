@@ -4388,5 +4388,35 @@
     "name": "Gershwin, Bernstein & More",
     "link": "https://www.hollywoodbowl.com/events/performances/4323/2026-08-18/gershwin-bernstein-more",
     "archived_on": "2026-08-19"
+  },
+  {
+    "key": "dignity health sports park|08/19/2026|la galaxy vs san jose earthquakes",
+    "venue": "Dignity Health Sports Park",
+    "day": "Wednesday",
+    "date": "08/19/2026",
+    "time": "TBA",
+    "name": "LA Galaxy vs San Jose Earthquakes",
+    "link": "https://www.dignityhealthsportspark.com/events/detail/la-galaxy-vs-san-jose-earthquakes",
+    "archived_on": "2026-08-20"
+  },
+  {
+    "key": "la convention center|08/19/2026|apwu biennial convention 2026",
+    "venue": "LA Convention Center",
+    "day": "Wednesday",
+    "date": "08/19/2026",
+    "time": "TBA",
+    "name": "APWU Biennial Convention 2026",
+    "link": "https://www.laconventioncenter.com/events/detail/apwu-biennial-convention-2026",
+    "archived_on": "2026-08-20"
+  },
+  {
+    "key": "hollywood bowl|08/19/2026|herbie hancock celebrates miles davis",
+    "venue": "Hollywood Bowl",
+    "day": "Wednesday",
+    "date": "08/19/2026",
+    "time": "8:00 PM",
+    "name": "Herbie Hancock Celebrates Miles Davis",
+    "link": "https://www.hollywoodbowl.com/events/performances/4324/2026-08-19/herbie-hancock-celebrates-miles-davis",
+    "archived_on": "2026-08-20"
   }
 ]
