@@ -654,7 +654,7 @@
     "venue": "SoFi Stadium",
     "day": "Saturday",
     "date": "03/21/2026",
-    "time": "7 PM",
+    "time": "7:00PM",
     "name": "Gabriel \"Fluffy\" Iglesias & Jo Koy",
     "link": "https://www.sofistadium.com/events/detail/gabriel-fluffy-iglesias-jo-koy",
     "archived_on": "2026-05-26"
@@ -854,7 +854,7 @@
     "venue": "SoFi Stadium",
     "day": "Saturday",
     "date": "03/07/2026",
-    "time": "6 PM",
+    "time": "6:00PM",
     "name": "Sip & Stroll at SoFi Stadium",
     "link": "https://www.sofistadium.com/events/detail/sofi-tour-sip-wine-stroll-march-29",
     "archived_on": "2026-05-26"
@@ -1224,7 +1224,7 @@
     "venue": "SoFi Stadium",
     "day": "Saturday",
     "date": "02/21/2026",
-    "time": "8 PM",
+    "time": "8:00PM",
     "name": "Los Bukis",
     "link": "https://www.sofistadium.com/events/detail/los-bukis-february-21-2026",
     "archived_on": "2026-05-26"
@@ -1264,7 +1264,7 @@
     "venue": "SoFi Stadium",
     "day": "Friday",
     "date": "02/20/2026",
-    "time": "8 PM",
+    "time": "8:00PM",
     "name": "Los Bukis",
     "link": "https://www.sofistadium.com/events/detail/los-bukis-2026",
     "archived_on": "2026-05-26"
