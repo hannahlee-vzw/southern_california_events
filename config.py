@@ -59,4 +59,9 @@ VENUES: list[VenueConfig] = [
         url="https://www.hollywoodbowl.com/events/performances?Venue=Hollywood+Bowl&Season=upcoming",
         scraper_module="scrapers.hollywood_bowl",
     ),
+    VenueConfig(
+        name="Hollywood Palladium",
+        url="https://www.hollywoodpalladium.com/shows",
+        scraper_module="scrapers.hollywood_palladium",
+    ),
 ]
