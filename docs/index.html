@@ -13,6 +13,10 @@
     th[aria-sort] { cursor: pointer; user-select: none; }
     th[aria-sort="ascending"]::after  { content: " ▲"; }
     th[aria-sort="descending"]::after { content: " ▼"; }
+    .venue-toggle-btn { background-color: #fff; border: 1px solid #adb5bd; color: #6c757d; }
+    .venue-toggle-btn:hover { background-color: #fff; border-color: #adb5bd; color: #6c757d; }
+    .venue-toggle-btn.active { background-color: #fff; border-color: #0d6efd; color: #0d6efd; }
+    .venue-toggle-btn.active:hover { background-color: #fff; border-color: #0d6efd; color: #0d6efd; }
   </style>
 </head>
 <body>
@@ -36,50 +40,54 @@
 
   <div class="d-flex gap-3 align-items-start">
     <div class="nav flex-column nav-pills border-end pe-3" id="venueTabs" role="tablist" aria-orientation="vertical">
-      <button class="nav-link active d-flex justify-content-between align-items-center" id="tab-sofi-stadium" data-bs-toggle="pill" data-bs-target="#pane-sofi-stadium" type="button" role="tab" aria-controls="pane-sofi-stadium" aria-selected="true">SoFi Stadium <span class="badge bg-secondary ms-2">36</span></button>
+      <button class="nav-link active d-flex justify-content-between align-items-center" id="tab-sofi-stadium" data-bs-toggle="pill" data-bs-target="#pane-sofi-stadium" type="button" role="tab" aria-controls="pane-sofi-stadium" aria-selected="true">SoFi Stadium <span class="badge bg-secondary ms-2">35</span></button>
 <button class="nav-link d-flex justify-content-between align-items-center" id="tab-intuit-dome" data-bs-toggle="pill" data-bs-target="#pane-intuit-dome" type="button" role="tab" aria-controls="pane-intuit-dome" aria-selected="false">Intuit Dome <span class="badge bg-secondary ms-2">74</span></button>
 <button class="nav-link d-flex justify-content-between align-items-center" id="tab-kia-forum" data-bs-toggle="pill" data-bs-target="#pane-kia-forum" type="button" role="tab" aria-controls="pane-kia-forum" aria-selected="false">Kia Forum <span class="badge bg-secondary ms-2">39</span></button>
 <button class="nav-link d-flex justify-content-between align-items-center" id="tab-dignity-health-sports-park" data-bs-toggle="pill" data-bs-target="#pane-dignity-health-sports-park" type="button" role="tab" aria-controls="pane-dignity-health-sports-park" aria-selected="false">Dignity Health Sports Park <span class="badge bg-secondary ms-2">9</span></button>
-<button class="nav-link d-flex justify-content-between align-items-center" id="tab-rose-bowl-stadium" data-bs-toggle="pill" data-bs-target="#pane-rose-bowl-stadium" type="button" role="tab" aria-controls="pane-rose-bowl-stadium" aria-selected="false">Rose Bowl Stadium <span class="badge bg-secondary ms-2">25</span></button>
+<button class="nav-link d-flex justify-content-between align-items-center" id="tab-rose-bowl-stadium" data-bs-toggle="pill" data-bs-target="#pane-rose-bowl-stadium" type="button" role="tab" aria-controls="pane-rose-bowl-stadium" aria-selected="false">Rose Bowl Stadium <span class="badge bg-secondary ms-2">26</span></button>
 <button class="nav-link d-flex justify-content-between align-items-center" id="tab-cryptocom-arena" data-bs-toggle="pill" data-bs-target="#pane-cryptocom-arena" type="button" role="tab" aria-controls="pane-cryptocom-arena" aria-selected="false">Crypto.com Arena <span class="badge bg-secondary ms-2">108</span></button>
 <button class="nav-link d-flex justify-content-between align-items-center" id="tab-la-memorial-coliseum" data-bs-toggle="pill" data-bs-target="#pane-la-memorial-coliseum" type="button" role="tab" aria-controls="pane-la-memorial-coliseum" aria-selected="false">L.A. Memorial Coliseum <span class="badge bg-secondary ms-2">9</span></button>
 <button class="nav-link d-flex justify-content-between align-items-center" id="tab-la-convention-center" data-bs-toggle="pill" data-bs-target="#pane-la-convention-center" type="button" role="tab" aria-controls="pane-la-convention-center" aria-selected="false">LA Convention Center <span class="badge bg-secondary ms-2">41</span></button>
 <button class="nav-link d-flex justify-content-between align-items-center" id="tab-dodger-stadium" data-bs-toggle="pill" data-bs-target="#pane-dodger-stadium" type="button" role="tab" aria-controls="pane-dodger-stadium" aria-selected="false">Dodger Stadium <span class="badge bg-secondary ms-2">18</span></button>
 <button class="nav-link d-flex justify-content-between align-items-center" id="tab-hollywood-bowl" data-bs-toggle="pill" data-bs-target="#pane-hollywood-bowl" type="button" role="tab" aria-controls="pane-hollywood-bowl" aria-selected="false">Hollywood Bowl <span class="badge bg-secondary ms-2">48</span></button>
       <hr class="my-2">
-      <button class="nav-link d-flex justify-content-between align-items-center" id="tab-past-events" data-bs-toggle="pill" data-bs-target="#pane-past-events" type="button" role="tab" aria-controls="pane-past-events" aria-selected="false">Past Events <span class="badge bg-secondary ms-2">446</span></button>
+      <button class="nav-link d-flex justify-content-between align-items-center" id="tab-past-events" data-bs-toggle="pill" data-bs-target="#pane-past-events" type="button" role="tab" aria-controls="pane-past-events" aria-selected="false">All Past Events <span class="badge bg-secondary ms-2">446</span></button>
     </div>
     <div class="tab-content flex-grow-1" id="venueTabContent">
       
         <div class="tab-pane fade show active" id="pane-sofi-stadium" role="tabpanel" aria-labelledby="tab-sofi-stadium">
-          <div class="d-flex justify-content-between align-items-center mb-1">
-            <span class="text-muted small">36 event(s)</span>
+          <div class="d-flex justify-content-between align-items-center mb-2">
+            <div class="btn-group btn-group-sm" role="group" aria-label="Toggle current or past events">
+              <button type="button" class="btn venue-toggle-btn active" data-vid="sofi-stadium" data-view="current">Current Events</button>
+              <button type="button" class="btn venue-toggle-btn" data-vid="sofi-stadium" data-view="past">Past Events</button>
+            </div>
             <a href="https://www.sofistadium.com/events" target="_blank" rel="noopener" class="btn btn-sm btn-outline-secondary">
               View venue site &rarr;
             </a>
           </div>
-          <div class="table-responsive">
-            <table class="table table-striped table-hover table-sm sortable" id="tbl-sofi-stadium" style="table-layout:fixed;width:100%">
-              <colgroup>
-                <col style="width:80px">
+          <div class="venue-view-current" id="current-sofi-stadium">
+            <div class="text-muted small mb-1">35 event(s)</div>
+            <div class="table-responsive">
+              <table class="table table-striped table-hover table-sm sortable" id="tbl-sofi-stadium" style="table-layout:fixed;width:100%">
+                <colgroup>
+                <col style="width:120px">
                 <col style="width:110px">
                 <col style="width:90px">
                 <col>
               </colgroup>
-              <thead class="table-dark">
-                <tr>
-                  <th>Day</th><th>Date</th><th>Time</th><th>Event Name</th>
-                </tr>
-              </thead>
-              <tbody>
-                <tr><td>Saturday</td><td>08/22/2026</td><td>1:00 PM</td><td><a href="https://www.sofistadium.com/events/detail/rams-saints-preseason-2026" target="_blank" rel="noopener">Rams vs. Saints – Preseason</a></td></tr>
+                <thead class="table-dark">
+                  <tr>
+                    <th>Day</th><th>Date</th><th>Time</th><th>Event Name</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr><td>Saturday</td><td>08/22/2026</td><td>1:00 PM</td><td><a href="https://www.sofistadium.com/events/detail/rams-saints-preseason-2026" target="_blank" rel="noopener">Rams vs. Saints – Preseason</a></td></tr>
 <tr><td>Sunday</td><td>08/23/2026</td><td>3:30 PM</td><td><a href="https://www.sofistadium.com/events/detail/fantasy-draft-2026" target="_blank" rel="noopener">NFL Fantasy Draft Party – Draft Your Fantasy Team at SoFi Stadium!</a></td></tr>
 <tr><td>Thursday</td><td>08/27/2026</td><td>7:00 PM</td><td><a href="https://www.sofistadium.com/events/detail/chargers-rams-preseason-2026" target="_blank" rel="noopener">Chargers vs Rams – Preseason</a></td></tr>
 <tr><td>Tuesday</td><td>09/01/2026</td><td>8:00 PM</td><td><a href="https://www.sofistadium.com/events/detail/bts-september-1-2026" target="_blank" rel="noopener">BTS – BTS WORLD TOUR ‘ARIRANG’ IN LOS ANGELES</a></td></tr>
 <tr><td>Wednesday</td><td>09/02/2026</td><td>8:00 PM</td><td><a href="https://www.sofistadium.com/events/detail/bts-september-2-2026" target="_blank" rel="noopener">BTS – BTS WORLD TOUR ‘ARIRANG’ IN LOS ANGELES</a></td></tr>
 <tr><td>Saturday</td><td>09/05/2026</td><td>8:00 PM</td><td><a href="https://www.sofistadium.com/events/detail/bts-september-5-2026" target="_blank" rel="noopener">BTS – BTS WORLD TOUR ‘ARIRANG’ IN LOS ANGELES</a></td></tr>
 <tr><td>Sunday</td><td>09/06/2026</td><td>8:00 PM</td><td><a href="https://www.sofistadium.com/events/detail/bts-september-6-2026" target="_blank" rel="noopener">BTS – BTS WORLD TOUR ‘ARIRANG’ IN LOS ANGELES</a></td></tr>
-<tr><td>Saturday</td><td>09/12/2026</td><td>6:00 PM</td><td><a href="https://www.sofistadium.com/events/detail/sofi-tour-sip-wine-stroll-september-12" target="_blank" rel="noopener">Sip &amp; Stroll at SoFi Stadium – Curated selection of wines, delicious bites &amp; behind-the-scenes tour!</a></td></tr>
 <tr><td>Sunday</td><td>09/13/2026</td><td>1:25 PM</td><td><a href="https://www.sofistadium.com/events/detail/chargers-cardinals-2026" target="_blank" rel="noopener">Chargers vs. Cardinals – Week 1</a></td></tr>
 <tr><td>Sunday</td><td>09/20/2026</td><td>1:05 PM</td><td><a href="https://www.sofistadium.com/events/detail/chargers-raiders-2026" target="_blank" rel="noopener">Chargers vs. Raiders – Week 2</a></td></tr>
 <tr><td>Monday</td><td>09/21/2026</td><td>5:15 PM</td><td><a href="https://www.sofistadium.com/events/detail/rams-giants-2026" target="_blank" rel="noopener">Rams vs. Giants – Week 2</a></td></tr>
@@ -108,33 +116,75 @@
 <tr><td>TBA</td><td>TBA</td><td>TBA</td><td><a href="https://www.sofistadium.com/events/detail/chargers-chiefs-2026" target="_blank" rel="noopener">Chargers vs. Chiefs – Week 17</a></td></tr>
 <tr><td>TBA</td><td>TBA</td><td>TBA</td><td><a href="https://www.sofistadium.com/events/detail/rams-seahawks-2027" target="_blank" rel="noopener">Rams vs. Seahawks – Week 18</a></td></tr>
 <tr><td>Sunday</td><td>02/14/2027</td><td>TBA</td><td><a href="https://www.sofistadium.com/events/detail/super-bowl-lxi" target="_blank" rel="noopener">Super Bowl LXI</a></td></tr>
-              </tbody>
-            </table>
+                </tbody>
+              </table>
+            </div>
           </div>
-        </div>
-
-        <div class="tab-pane fade" id="pane-intuit-dome" role="tabpanel" aria-labelledby="tab-intuit-dome">
-          <div class="d-flex justify-content-between align-items-center mb-1">
-            <span class="text-muted small">74 event(s)</span>
-            <a href="https://www.intuitdome.com/events/event-schedule" target="_blank" rel="noopener" class="btn btn-sm btn-outline-secondary">
-              View venue site &rarr;
-            </a>
-          </div>
-          <div class="table-responsive">
-            <table class="table table-striped table-hover table-sm sortable" id="tbl-intuit-dome" style="table-layout:fixed;width:100%">
-              <colgroup>
-                <col style="width:80px">
+          <div class="venue-view-past" id="past-sofi-stadium" hidden>
+            <div class="text-muted small mb-1">16 archived event(s)</div>
+            <div class="table-responsive">
+              <table class="table table-striped table-hover table-sm sortable" id="tbl-past-sofi-stadium" style="table-layout:fixed;width:100%">
+                <colgroup>
+                <col style="width:120px">
                 <col style="width:110px">
                 <col style="width:90px">
                 <col>
               </colgroup>
-              <thead class="table-dark">
-                <tr>
-                  <th>Day</th><th>Date</th><th>Time</th><th>Event Name</th>
-                </tr>
-              </thead>
-              <tbody>
-                <tr><td>Friday</td><td>01/09/2026</td><td>7:30 PM</td><td><a href="https://intuitdome.com/events/event-schedule/4283?type=games&amp;utm_source=IDwebsite&amp;utm_medium=eventdetail&amp;utm_campaign=SGT_2627&amp;utm_content=SGT2627_EST_270109" target="_blank" rel="noopener">Boston Celtics vs LA Clippers</a></td></tr>
+                <thead class="table-dark">
+                  <tr>
+                    <th>Day</th><th>Date</th><th>Time</th><th>Event Name</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr><td>Thursday</td><td>08/20/2026</td><td>7:00 PM</td><td><a href="https://www.sofistadium.com/events/detail/chargers-49ers-preseason-2026" target="_blank" rel="noopener">Chargers vs 49ers – Preseason</a></td></tr>
+<tr><td>Sunday</td><td>08/16/2026</td><td>7:00 PM</td><td><a href="https://www.sofistadium.com/events/detail/karol-g-august-16" target="_blank" rel="noopener">KAROL G - VIAJANDO POR EL MUNDO TROPITOUR</a></td></tr>
+<tr><td>Saturday</td><td>08/15/2026</td><td>7:00 PM</td><td><a href="https://www.sofistadium.com/events/detail/karol-g-august-15" target="_blank" rel="noopener">KAROL G - VIAJANDO POR EL MUNDO TROPITOUR</a></td></tr>
+<tr><td>Friday</td><td>08/14/2026</td><td>7:00 PM</td><td><a href="https://www.sofistadium.com/events/detail/karol-g-august-14" target="_blank" rel="noopener">KAROL G - VIAJANDO POR EL MUNDO TROPITOUR</a></td></tr>
+<tr><td>Saturday</td><td>08/08/2026</td><td>5:30 PM</td><td><a href="https://www.sofistadium.com/events/detail/ed-sheeran-august-8-2026" target="_blank" rel="noopener">Ed Sheeran – With Myles Smith, Sigrid, Aaron Rowe</a></td></tr>
+<tr><td>Friday</td><td>07/10/2026</td><td>12:00 PM</td><td><a href="https://www.sofistadium.com/events/detail/fifa-world-cup-quarterfinal-july10" target="_blank" rel="noopener">Quarterfinals: TBD vs. TBD – FIFA World Cup 26™</a></td></tr>
+<tr><td>Thursday</td><td>07/02/2026</td><td>12:00 PM</td><td><a href="https://www.sofistadium.com/events/detail/fifa-world-cup-roundof32-july2" target="_blank" rel="noopener">Round of 32: TBD vs. TBD – FIFA World Cup 26™</a></td></tr>
+<tr><td>Sunday</td><td>06/28/2026</td><td>12:00 PM</td><td><a href="https://www.sofistadium.com/events/detail/fifa-world-cup-roundof32-june28" target="_blank" rel="noopener">Round of 32: South Africa vs. Canada – FIFA World Cup 26™</a></td></tr>
+<tr><td>Thursday</td><td>06/25/2026</td><td>7:00 PM</td><td><a href="https://www.sofistadium.com/events/detail/fifa-world-cup-turkiye-vs-usa" target="_blank" rel="noopener">Türkiye vs. USA – FIFA World Cup 26™</a></td></tr>
+<tr><td>Sunday</td><td>06/21/2026</td><td>12:00 PM</td><td><a href="https://www.sofistadium.com/events/detail/fifa-world-cup-belgium-iran" target="_blank" rel="noopener">Belgium vs. IR Iran – FIFA World Cup 26™</a></td></tr>
+<tr><td>Monday</td><td>06/15/2026</td><td>6:00 PM</td><td><a href="https://www.sofistadium.com/events/detail/fifa-world-cup-iran-new-zealand" target="_blank" rel="noopener">IR Iran vs. New Zealand – FIFA World Cup 26™</a></td></tr>
+<tr><td>Friday</td><td>06/12/2026</td><td>6:00 PM</td><td><a href="https://www.sofistadium.com/events/detail/fifa-world-cup-usa-paraguay" target="_blank" rel="noopener">USA vs. Paraguay – FIFA World Cup 26™</a></td></tr>
+<tr><td>Saturday</td><td>03/21/2026</td><td>7 PM</td><td><a href="https://www.sofistadium.com/events/detail/gabriel-fluffy-iglesias-jo-koy" target="_blank" rel="noopener">Gabriel &quot;Fluffy&quot; Iglesias &amp; Jo Koy</a></td></tr>
+<tr><td>Saturday</td><td>03/07/2026</td><td>6 PM</td><td><a href="https://www.sofistadium.com/events/detail/sofi-tour-sip-wine-stroll-march-29" target="_blank" rel="noopener">Sip &amp; Stroll at SoFi Stadium</a></td></tr>
+<tr><td>Saturday</td><td>02/21/2026</td><td>8 PM</td><td><a href="https://www.sofistadium.com/events/detail/los-bukis-february-21-2026" target="_blank" rel="noopener">Los Bukis</a></td></tr>
+<tr><td>Friday</td><td>02/20/2026</td><td>8 PM</td><td><a href="https://www.sofistadium.com/events/detail/los-bukis-2026" target="_blank" rel="noopener">Los Bukis</a></td></tr>
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+
+        <div class="tab-pane fade" id="pane-intuit-dome" role="tabpanel" aria-labelledby="tab-intuit-dome">
+          <div class="d-flex justify-content-between align-items-center mb-2">
+            <div class="btn-group btn-group-sm" role="group" aria-label="Toggle current or past events">
+              <button type="button" class="btn venue-toggle-btn active" data-vid="intuit-dome" data-view="current">Current Events</button>
+              <button type="button" class="btn venue-toggle-btn" data-vid="intuit-dome" data-view="past">Past Events</button>
+            </div>
+            <a href="https://www.intuitdome.com/events/event-schedule" target="_blank" rel="noopener" class="btn btn-sm btn-outline-secondary">
+              View venue site &rarr;
+            </a>
+          </div>
+          <div class="venue-view-current" id="current-intuit-dome">
+            <div class="text-muted small mb-1">74 event(s)</div>
+            <div class="table-responsive">
+              <table class="table table-striped table-hover table-sm sortable" id="tbl-intuit-dome" style="table-layout:fixed;width:100%">
+                <colgroup>
+                <col style="width:120px">
+                <col style="width:110px">
+                <col style="width:90px">
+                <col>
+              </colgroup>
+                <thead class="table-dark">
+                  <tr>
+                    <th>Day</th><th>Date</th><th>Time</th><th>Event Name</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr><td>Friday</td><td>01/09/2026</td><td>7:30 PM</td><td><a href="https://intuitdome.com/events/event-schedule/4283?type=games&amp;utm_source=IDwebsite&amp;utm_medium=eventdetail&amp;utm_campaign=SGT_2627&amp;utm_content=SGT2627_EST_270109" target="_blank" rel="noopener">Boston Celtics vs LA Clippers</a></td></tr>
 <tr><td>Sunday</td><td>01/11/2026</td><td>7:00 PM</td><td><a href="https://intuitdome.com/events/event-schedule/4284?type=games&amp;utm_source=IDwebsite&amp;utm_medium=eventdetail&amp;utm_campaign=SGT_2627&amp;utm_content=SGT2627_EST_270111" target="_blank" rel="noopener">Los Angeles Lakers vs LA Clippers</a></td></tr>
 <tr><td>Monday</td><td>01/12/2026</td><td>7:00 PM</td><td><a href="https://www.intuitdome.com/events/event-schedule/3888?utm_source=IDwebsite&amp;utm_medium=eventschedule&amp;utm_campaign=IDevents26&amp;utm_content=olivia_rodrigo_270112" target="_blank" rel="noopener">Olivia Rodrigo</a></td></tr>
 <tr><td>Tuesday</td><td>01/13/2026</td><td>7:00 PM</td><td><a href="https://www.intuitdome.com/events/event-schedule/3889?utm_source=IDwebsite&amp;utm_medium=eventschedule&amp;utm_campaign=IDevents26&amp;utm_content=olivia_rodrigo_270113" target="_blank" rel="noopener">Olivia Rodrigo</a></td></tr>
@@ -208,33 +258,113 @@
 <tr><td>Saturday</td><td>12/26/2026</td><td>7:30 PM</td><td><a href="https://intuitdome.com/events/event-schedule/4281?type=games&amp;utm_source=IDwebsite&amp;utm_medium=eventdetail&amp;utm_campaign=SGT_2627&amp;utm_content=SGT2627_EST_261226 " target="_blank" rel="noopener">Memphis Grizzlies vs LA Clippers</a></td></tr>
 <tr><td>Sunday</td><td>12/27/2026</td><td>6:00 PM</td><td><a href="https://intuitdome.com/events/event-schedule/4282?type=games&amp;utm_source=IDwebsite&amp;utm_medium=eventdetail&amp;utm_campaign=SGT_2627&amp;utm_content=SGT2627_EST_261227" target="_blank" rel="noopener">Philadelphia 76ers vs LA Clippers</a></td></tr>
 <tr><td>TBA</td><td>TBA</td><td>TBA</td><td><a href="https://intuitdome.com/events/event-schedule/4309?type=games&amp;utm_source=IDwebsite&amp;utm_medium=eventdetail&amp;utm_campaign=SGT_2627&amp;utm_content=SGT2627_EST_261207" target="_blank" rel="noopener">TBD vs LA Clippers</a></td></tr>
-              </tbody>
-            </table>
+                </tbody>
+              </table>
+            </div>
           </div>
-        </div>
-
-        <div class="tab-pane fade" id="pane-kia-forum" role="tabpanel" aria-labelledby="tab-kia-forum">
-          <div class="d-flex justify-content-between align-items-center mb-1">
-            <span class="text-muted small">39 event(s)</span>
-            <a href="https://www.thekiaforum.com/events" target="_blank" rel="noopener" class="btn btn-sm btn-outline-secondary">
-              View venue site &rarr;
-            </a>
-          </div>
-          <div class="table-responsive">
-            <table class="table table-striped table-hover table-sm sortable" id="tbl-kia-forum" style="table-layout:fixed;width:100%">
-              <colgroup>
-                <col style="width:80px">
+          <div class="venue-view-past" id="past-intuit-dome" hidden>
+            <div class="text-muted small mb-1">54 archived event(s)</div>
+            <div class="table-responsive">
+              <table class="table table-striped table-hover table-sm sortable" id="tbl-past-intuit-dome" style="table-layout:fixed;width:100%">
+                <colgroup>
+                <col style="width:120px">
                 <col style="width:110px">
                 <col style="width:90px">
                 <col>
               </colgroup>
-              <thead class="table-dark">
-                <tr>
-                  <th>Day</th><th>Date</th><th>Time</th><th>Event Name</th>
-                </tr>
-              </thead>
-              <tbody>
-                <tr><td>Friday</td><td>08/21/2026</td><td>7:00 PM</td><td><a href="https://thekiaforum.com/event/omar-courtz/" target="_blank" rel="noopener">OMAR COURTZ – POR SI MAÑANA NO ESTOY USA TOUR</a></td></tr>
+                <thead class="table-dark">
+                  <tr>
+                    <th>Day</th><th>Date</th><th>Time</th><th>Event Name</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr><td>Saturday</td><td>08/15/2026</td><td>7:30 PM</td><td><a href="https://intuitdome.com/events/yeat?utm_source=IDwebsite&amp;utm_medium=eventschedule&amp;utm_campaign=IDevents26&amp;utm_content=yeat_260815" target="_blank" rel="noopener">Yeat</a></td></tr>
+<tr><td>Sunday</td><td>08/09/2026</td><td>7:30 PM</td><td><a href="https://www.intuitdome.com/events/event-schedule/3449?utm_source=IDwebsite&amp;utm_medium=eventschedule&amp;utm_campaign=IDevents26&amp;utm_content=lionel_richie_earth_wind_fire_260809" target="_blank" rel="noopener">Lionel Richie and Earth, Wind &amp; Fire</a></td></tr>
+<tr><td>Friday</td><td>08/07/2026</td><td>8:00 PM</td><td><a href="https://www.intuitdome.com/events/event-schedule/3520?utm_source=IDwebsite&amp;utm_medium=eventschedule&amp;utm_campaign=IDevents26&amp;utm_content=grupo_frontera_260807" target="_blank" rel="noopener">Grupo Frontera</a></td></tr>
+<tr><td>Monday</td><td>07/27/2026</td><td>4:30 PM</td><td><a href="https://www.intuitdome.com/events/event-schedule/3937?utm_source=IDwebsite&amp;utm_medium=eventschedule&amp;utm_campaign=IDevents26&amp;utm_content=wwe_monday_night_raw_260727" target="_blank" rel="noopener">WWE Monday Night RAW</a></td></tr>
+<tr><td>Friday</td><td>07/17/2026</td><td>7:00 PM</td><td><a href="https://intuitdome.com/events/forrest-frank?utm_source=IDwebsite&amp;utm_medium=eventschedule&amp;utm_campaign=IDevents26&amp;utm_content=forrest_frank_260717" target="_blank" rel="noopener">Forrest Frank</a></td></tr>
+<tr><td>Sunday</td><td>07/12/2026</td><td>7:30 PM</td><td><a href="https://www.intuitdome.com/events/event-schedule/3513?utm_source=IDwebsite&amp;utm_medium=eventschedule&amp;utm_campaign=IDevents26&amp;utm_content=joji_260712" target="_blank" rel="noopener">JOJI: SOLARIS</a></td></tr>
+<tr><td>Saturday</td><td>07/11/2026</td><td>7:30 PM</td><td><a href="https://www.intuitdome.com/events/event-schedule/3506?utm_source=IDwebsite&amp;utm_medium=eventschedule&amp;utm_campaign=IDevents26&amp;utm_content=joji_260711" target="_blank" rel="noopener">JOJI: SOLARIS</a></td></tr>
+<tr><td>Saturday</td><td>06/20/2026</td><td>12:30 PM</td><td><a href="https://www.intuitdome.com/events/event-schedule/3898?utm_source=IDwebsite&amp;utm_medium=eventschedule&amp;utm_campaign=IDevents26&amp;utm_content=big3_260620" target="_blank" rel="noopener">BIG3</a></td></tr>
+<tr><td>Sunday</td><td>06/14/2026</td><td>7:30 PM</td><td><a href="https://www.intuitdome.com/events/event-schedule/3672?utm_source=IDwebsite&amp;utm_medium=eventschedule&amp;utm_campaign=IDevents26&amp;utm_content=shakira_260614" target="_blank" rel="noopener">SHAKIRA: Las Mujeres Ya No Lloran World Tour 2026</a></td></tr>
+<tr><td>Saturday</td><td>06/13/2026</td><td>7:30 PM</td><td><a href="https://www.intuitdome.com/events/event-schedule/3671?utm_source=IDwebsite&amp;utm_medium=eventschedule&amp;utm_campaign=IDevents26&amp;utm_content=shakira_260613" target="_blank" rel="noopener">SHAKIRA: Las Mujeres Ya No Lloran World Tour 2026</a></td></tr>
+<tr><td>Sunday</td><td>05/10/2026</td><td>5:00 PM</td><td><a href="https://www.intuitdome.com/events/event-schedule/3431?utm_source=IDwebsite&amp;utm_medium=eventschedule&amp;utm_campaign=IDevents26&amp;utm_content=nate_bargatze_260510" target="_blank" rel="noopener">Netflix is a Joke Presents: Nate Bargatze</a></td></tr>
+<tr><td>Saturday</td><td>05/09/2026</td><td>7:00 PM</td><td><a href="https://www.intuitdome.com/events/event-schedule/3430?utm_source=IDwebsite&amp;utm_medium=eventschedule&amp;utm_campaign=IDevents26&amp;utm_content=nate_bargatze_260509" target="_blank" rel="noopener">Netflix is a Joke Presents: Nate Bargatze</a></td></tr>
+<tr><td>Thursday</td><td>05/07/2026</td><td>7:00 PM</td><td><a href="https://www.intuitdome.com/events/event-schedule/3435?utm_source=IDwebsite&amp;utm_medium=eventschedule&amp;utm_campaign=IDevents26&amp;utm_content=kill_tony_260507" target="_blank" rel="noopener">Netflix is a Joke Presents: Kill Tony</a></td></tr>
+<tr><td>Tuesday</td><td>05/05/2026</td><td>7:30 PM</td><td><a href="https://www.intuitdome.com/events/event-schedule/3382?utm_source=IDwebsite&amp;utm_medium=eventschedule&amp;utm_campaign=IDevents26&amp;utm_content=katt_williams_260505" target="_blank" rel="noopener">Netflix is a Joke Presents: Katt Williams</a></td></tr>
+<tr><td>Sunday</td><td>04/12/2026</td><td>5:30 PM</td><td><a href="https://intuitdome.com/events/event-schedule/2695?type=games&amp;utm_source=eventschedule&amp;utm_medium=IDwebsite&amp;utm_campaign=SGT_2526&amp;utm_content=SGT_2526_260412" target="_blank" rel="noopener">Golden State Warriors vs LA Clippers</a></td></tr>
+<tr><td>Saturday</td><td>04/11/2026</td><td>8:00 PM</td><td><a href="https://www.intuitdome.com/events/event-schedule/3131?utm_source=IDwebsite&amp;utm_medium=eventschedule&amp;utm_campaign=IDevents26&amp;utm_content=wethemones_260411" target="_blank" rel="noopener">We Them One&#x27;s Comedy Tour</a></td></tr>
+<tr><td>Wednesday</td><td>04/08/2026</td><td>7:00 PM</td><td><a href="https://intuitdome.com/events/event-schedule/2694?type=games&amp;utm_source=eventschedule&amp;utm_medium=IDwebsite&amp;utm_campaign=SGT_2526&amp;utm_content=SGT_2526_260408" target="_blank" rel="noopener">Oklahoma City Thunder vs LA Clippers</a></td></tr>
+<tr><td>Tuesday</td><td>04/07/2026</td><td>7:30 PM</td><td><a href="https://intuitdome.com/events/event-schedule/2672?type=games&amp;utm_source=eventschedule&amp;utm_medium=IDwebsite&amp;utm_campaign=SGT_2526&amp;utm_content=SGT_2526_260407" target="_blank" rel="noopener">Dallas Mavericks vs LA Clippers</a></td></tr>
+<tr><td>Saturday</td><td>04/04/2026</td><td>7:30 PM</td><td><a href="https://www.intuitdome.com/events/event-schedule/3066?utm_source=IDwebsite&amp;utm_medium=eventschedule&amp;utm_campaign=IDevents26&amp;utm_content=lany_260404" target="_blank" rel="noopener">LANY</a></td></tr>
+<tr><td>Thursday</td><td>04/02/2026</td><td>7:30 PM</td><td><a href="https://intuitdome.com/events/event-schedule/2671?type=games&amp;utm_source=eventschedule&amp;utm_medium=IDwebsite&amp;utm_campaign=SGT_2526&amp;utm_content=SGT_2526_260402" target="_blank" rel="noopener">San Antonio Spurs vs LA Clippers</a></td></tr>
+<tr><td>Tuesday</td><td>03/31/2026</td><td>8:00 PM</td><td><a href="https://intuitdome.com/events/event-schedule/2693?type=games&amp;utm_source=eventschedule&amp;utm_medium=IDwebsite&amp;utm_campaign=SGT_2526&amp;utm_content=SGT_2526_260331" target="_blank" rel="noopener">Portland Trail Blazers vs LA Clippers</a></td></tr>
+<tr><td>Wednesday</td><td>03/25/2026</td><td>7:30 PM</td><td><a href="https://intuitdome.com/events/event-schedule/2670?type=games&amp;utm_source=eventschedule&amp;utm_medium=IDwebsite&amp;utm_campaign=SGT_2526&amp;utm_content=SGT_2526_260325" target="_blank" rel="noopener">Toronto Raptors vs LA Clippers</a></td></tr>
+<tr><td>Monday</td><td>03/23/2026</td><td>7:30 PM</td><td><a href="https://intuitdome.com/events/event-schedule/2668?type=games&amp;utm_source=eventschedule&amp;utm_medium=IDwebsite&amp;utm_campaign=SGT_2526&amp;utm_content=SGT_2526_260323" target="_blank" rel="noopener">Milwaukee Bucks vs LA Clippers</a></td></tr>
+<tr><td>Friday</td><td>03/20/2026</td><td>8:00 PM</td><td><a href="https://www.intuitdome.com/events/event-schedule/3401?utm_source=IDwebsite&amp;utm_medium=eventschedule&amp;utm_campaign=IDevents26&amp;utm_content=peso_pluma_260320" target="_blank" rel="noopener">Peso Pluma</a></td></tr>
+<tr><td>Monday</td><td>03/16/2026</td><td>7:30 PM</td><td><a href="https://intuitdome.com/events/event-schedule/2692?type=games&amp;utm_source=eventschedule&amp;utm_medium=IDwebsite&amp;utm_campaign=SGT_2526&amp;utm_content=SGT_2526_260316" target="_blank" rel="noopener">San Antonio Spurs vs LA Clippers</a></td></tr>
+<tr><td>Saturday</td><td>03/14/2026</td><td>7:30 PM</td><td><a href="https://intuitdome.com/events/event-schedule/2691?type=games&amp;utm_source=eventschedule&amp;utm_medium=IDwebsite&amp;utm_campaign=SGT_2526&amp;utm_content=SGT_2526_260314" target="_blank" rel="noopener">Sacramento Kings vs LA Clippers</a></td></tr>
+<tr><td>Friday</td><td>03/13/2026</td><td>7:30 PM</td><td><a href="https://intuitdome.com/events/event-schedule/2666?type=games&amp;utm_source=eventschedule&amp;utm_medium=IDwebsite&amp;utm_campaign=SGT_2526&amp;utm_content=SGT_2526_260313" target="_blank" rel="noopener">Chicago Bulls vs LA Clippers</a></td></tr>
+<tr><td>Wednesday</td><td>03/11/2026</td><td>7:30 PM</td><td><a href="https://intuitdome.com/events/event-schedule/2690?type=games&amp;utm_source=eventschedule&amp;utm_medium=IDwebsite&amp;utm_campaign=SGT_2526&amp;utm_content=SGT_2526_260311" target="_blank" rel="noopener">Minnesota Timberwolves vs LA Clippers</a></td></tr>
+<tr><td>Monday</td><td>03/09/2026</td><td>7:00 PM</td><td><a href="https://intuitdome.com/events/event-schedule/2665?type=games&amp;utm_source=eventschedule&amp;utm_medium=IDwebsite&amp;utm_campaign=SGT_2526&amp;utm_content=SGT_2526_260309" target="_blank" rel="noopener">New York Knicks vs LA Clippers</a></td></tr>
+<tr><td>Wednesday</td><td>03/04/2026</td><td>7:30 PM</td><td><a href="https://intuitdome.com/events/event-schedule/2664?type=games&amp;utm_source=eventschedule&amp;utm_medium=IDwebsite&amp;utm_campaign=SGT_2526&amp;utm_content=SGT_2526_260304" target="_blank" rel="noopener">Indiana Pacers vs LA Clippers</a></td></tr>
+<tr><td>Sunday</td><td>03/01/2026</td><td>6:00 PM</td><td><a href="https://intuitdome.com/events/event-schedule/2689?type=games&amp;utm_source=eventschedule&amp;utm_medium=IDwebsite&amp;utm_campaign=SGT_2526&amp;utm_content=SGT_2526_260301" target="_blank" rel="noopener">New Orleans Pelicans vs LA Clippers</a></td></tr>
+<tr><td>Saturday</td><td>02/28/2026</td><td>8:00 PM</td><td><a href="https://www.intuitdome.com/events/event-schedule/2819?utm_source=eventschedule&amp;utm_medium=IDwebsite&amp;utm_campaign=IDevents25&amp;utm_content=ricardo_arjona_260228" target="_blank" rel="noopener">Ricardo Arjona</a></td></tr>
+<tr><td>Thursday</td><td>02/26/2026</td><td>7:00 PM</td><td><a href="https://intuitdome.com/events/event-schedule/2663?type=games&amp;utm_source=eventschedule&amp;utm_medium=IDwebsite&amp;utm_campaign=SGT_2526&amp;utm_content=SGT_2526_260226" target="_blank" rel="noopener">Minnesota Timberwolves vs LA Clippers</a></td></tr>
+<tr><td>Thursday</td><td>02/26/2026</td><td>8:00 PM</td><td><a href="https://www.intuitdome.com/events/event-schedule/3967?utm_source=IDwebsite&amp;utm_medium=eventschedule&amp;utm_campaign=IDevents26&amp;utm_content=morat_270226" target="_blank" rel="noopener">MORAT</a></td></tr>
+<tr><td>Monday</td><td>02/23/2026</td><td>8:00 PM</td><td><a href="https://www.intuitdome.com/events/event-schedule/2964?utm_source=eventschedule&amp;utm_medium=IDwebsite&amp;utm_campaign=IDevents25&amp;utm_content=ghost_260223" target="_blank" rel="noopener">GHOST: Skeletour World Tour 2026</a></td></tr>
+<tr><td>Sunday</td><td>02/22/2026</td><td>6:00 PM</td><td><a href="https://intuitdome.com/events/event-schedule/2688?type=games&amp;utm_source=eventschedule&amp;utm_medium=IDwebsite&amp;utm_campaign=SGT_2526&amp;utm_content=SGT_2526_260222" target="_blank" rel="noopener">Orlando Magic vs LA Clippers</a></td></tr>
+<tr><td>Saturday</td><td>02/21/2026</td><td>8:00 PM</td><td><a href="https://www.intuitdome.com/events/event-schedule/2912?utm_source=eventschedule&amp;utm_medium=IDwebsite&amp;utm_campaign=IDevents25&amp;utm_content=los_tigres_del_norte_260221" target="_blank" rel="noopener">Los Tigres del Norte</a></td></tr>
+<tr><td>Friday</td><td>02/20/2026</td><td>7:00 PM</td><td><a href="https://www.intuitdome.com/events/event-schedule/2904" target="_blank" rel="noopener">Harlem Globetrotters</a></td></tr>
+<tr><td>Thursday</td><td>02/19/2026</td><td>7:30 PM</td><td><a href="https://intuitdome.com/events/event-schedule/2687?type=games&amp;utm_source=eventschedule&amp;utm_medium=IDwebsite&amp;utm_campaign=SGT_2526&amp;utm_content=SGT_2526_260219" target="_blank" rel="noopener">Denver Nuggets vs LA Clippers</a></td></tr>
+<tr><td>Sunday</td><td>02/15/2026</td><td>2:00 PM</td><td><a href="https://www.intuitdome.com/events/event-schedule/3002?utm_source=IDwebsite&amp;utm_medium=eventschedule&amp;utm_campaign=All_Star26&amp;utm_content=all_star_game_260215" target="_blank" rel="noopener">75th NBA All-Star Game</a></td></tr>
+<tr><td>Saturday</td><td>02/14/2026</td><td>2:00 PM</td><td><a href="https://www.intuitdome.com/events/event-schedule/3003?utm_source=IDwebsite&amp;utm_medium=eventschedule&amp;utm_campaign=All_Star26&amp;utm_content=all_star_saturday_260214" target="_blank" rel="noopener">All-Star Saturday</a></td></tr>
+<tr><td>Friday</td><td>02/13/2026</td><td>6:00 PM</td><td><a href="https://www.intuitdome.com/events/event-schedule/3004?utm_source=IDwebsite&amp;utm_medium=eventschedule&amp;utm_campaign=All_Star26&amp;utm_content=castrol_rising_stars_260213" target="_blank" rel="noopener">Castrol Rising Stars</a></td></tr>
+<tr><td>Wednesday</td><td>02/04/2026</td><td>7:30 PM</td><td><a href="https://intuitdome.com/events/event-schedule/2662?type=games&amp;utm_source=eventschedule&amp;utm_medium=IDwebsite&amp;utm_campaign=SGT_2526&amp;utm_content=SGT_2526_260204" target="_blank" rel="noopener">Cleveland Cavaliers vs LA Clippers</a></td></tr>
+<tr><td>Monday</td><td>02/02/2026</td><td>7:00 PM</td><td><a href="https://intuitdome.com/events/event-schedule/2686?type=games&amp;utm_source=eventschedule&amp;utm_medium=IDwebsite&amp;utm_campaign=SGT_2526&amp;utm_content=SGT_2526_260202" target="_blank" rel="noopener">Philadelphia 76ers vs LA Clippers</a></td></tr>
+<tr><td>Thursday</td><td>01/29/2026</td><td>7:00 PM</td><td><a href="https://www.intuitdome.com/events/event-schedule/3918?utm_source=IDwebsite&amp;utm_medium=eventschedule&amp;utm_campaign=IDevents26&amp;utm_content=olivia_rodrigo_270129" target="_blank" rel="noopener">Olivia Rodrigo</a></td></tr>
+<tr><td>Wednesday</td><td>01/28/2026</td><td>7:00 PM</td><td><a href="https://www.intuitdome.com/events/event-schedule/3917?utm_source=IDwebsite&amp;utm_medium=eventschedule&amp;utm_campaign=IDevents26&amp;utm_content=olivia_rodrigo_270128" target="_blank" rel="noopener">Olivia Rodrigo</a></td></tr>
+<tr><td>Sunday</td><td>01/25/2026</td><td>7:00 PM</td><td><a href="https://www.intuitdome.com/events/event-schedule/3916?utm_source=IDwebsite&amp;utm_medium=eventschedule&amp;utm_campaign=IDevents26&amp;utm_content=olivia_rodrigo_270125" target="_blank" rel="noopener">Olivia Rodrigo</a></td></tr>
+<tr><td>Saturday</td><td>01/24/2026</td><td>7:00 PM</td><td><a href="https://www.intuitdome.com/events/event-schedule/3915?utm_source=IDwebsite&amp;utm_medium=eventschedule&amp;utm_campaign=IDevents26&amp;utm_content=olivia_rodrigo_270124" target="_blank" rel="noopener">Olivia Rodrigo</a></td></tr>
+<tr><td>Wednesday</td><td>01/21/2026</td><td>7:00 PM</td><td><a href="https://www.intuitdome.com/events/event-schedule/3914?utm_source=IDwebsite&amp;utm_medium=eventschedule&amp;utm_campaign=IDevents26&amp;utm_content=olivia_rodrigo_270121" target="_blank" rel="noopener">Olivia Rodrigo</a></td></tr>
+<tr><td>Tuesday</td><td>01/20/2026</td><td>7:00 PM</td><td><a href="https://www.intuitdome.com/events/event-schedule/3913?utm_source=IDwebsite&amp;utm_medium=eventschedule&amp;utm_campaign=IDevents26&amp;utm_content=olivia_rodrigo_270120" target="_blank" rel="noopener">Olivia Rodrigo</a></td></tr>
+<tr><td>Saturday</td><td>01/17/2026</td><td>7:00 PM</td><td><a href="https://www.intuitdome.com/events/event-schedule/3891?utm_source=IDwebsite&amp;utm_medium=eventschedule&amp;utm_campaign=IDevents26&amp;utm_content=olivia_rodrigo_270117" target="_blank" rel="noopener">Olivia Rodrigo</a></td></tr>
+<tr><td>Friday</td><td>01/16/2026</td><td>7:00 PM</td><td><a href="https://www.intuitdome.com/events/event-schedule/3890?utm_source=IDwebsite&amp;utm_medium=eventschedule&amp;utm_campaign=IDevents26&amp;utm_content=olivia_rodrigo_270116" target="_blank" rel="noopener">Olivia Rodrigo</a></td></tr>
+<tr><td>Tuesday</td><td>01/13/2026</td><td>7:00 PM</td><td><a href="https://www.intuitdome.com/events/event-schedule/3889?utm_source=IDwebsite&amp;utm_medium=eventschedule&amp;utm_campaign=IDevents26&amp;utm_content=olivia_rodrigo_270113" target="_blank" rel="noopener">Olivia Rodrigo</a></td></tr>
+<tr><td>Monday</td><td>01/12/2026</td><td>7:00 PM</td><td><a href="https://www.intuitdome.com/events/event-schedule/3888?utm_source=IDwebsite&amp;utm_medium=eventschedule&amp;utm_campaign=IDevents26&amp;utm_content=olivia_rodrigo_270112" target="_blank" rel="noopener">Olivia Rodrigo</a></td></tr>
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+
+        <div class="tab-pane fade" id="pane-kia-forum" role="tabpanel" aria-labelledby="tab-kia-forum">
+          <div class="d-flex justify-content-between align-items-center mb-2">
+            <div class="btn-group btn-group-sm" role="group" aria-label="Toggle current or past events">
+              <button type="button" class="btn venue-toggle-btn active" data-vid="kia-forum" data-view="current">Current Events</button>
+              <button type="button" class="btn venue-toggle-btn" data-vid="kia-forum" data-view="past">Past Events</button>
+            </div>
+            <a href="https://www.thekiaforum.com/events" target="_blank" rel="noopener" class="btn btn-sm btn-outline-secondary">
+              View venue site &rarr;
+            </a>
+          </div>
+          <div class="venue-view-current" id="current-kia-forum">
+            <div class="text-muted small mb-1">39 event(s)</div>
+            <div class="table-responsive">
+              <table class="table table-striped table-hover table-sm sortable" id="tbl-kia-forum" style="table-layout:fixed;width:100%">
+                <colgroup>
+                <col style="width:120px">
+                <col style="width:110px">
+                <col style="width:90px">
+                <col>
+              </colgroup>
+                <thead class="table-dark">
+                  <tr>
+                    <th>Day</th><th>Date</th><th>Time</th><th>Event Name</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr><td>Friday</td><td>08/21/2026</td><td>7:00 PM</td><td><a href="https://thekiaforum.com/event/omar-courtz/" target="_blank" rel="noopener">OMAR COURTZ – POR SI MAÑANA NO ESTOY USA TOUR</a></td></tr>
 <tr><td>Sunday</td><td>09/06/2026</td><td>7:00 PM</td><td><a href="https://thekiaforum.com/event/chicago-styx/" target="_blank" rel="noopener">CHICAGO &amp; STYX – The Windy Cities Tour - All The Hits... Your Kind of Tour</a></td></tr>
 <tr><td>Friday</td><td>09/11/2026</td><td>7:00 PM</td><td><a href="https://thekiaforum.com/event/johnny-blue-skies-the-dark-clouds/" target="_blank" rel="noopener">JOHNNY BLUE SKIES &amp; THE DARK CLOUDS – Mutiny for the Masses 2026 Tour</a></td></tr>
 <tr><td>Saturday</td><td>09/12/2026</td><td>7:00 PM</td><td><a href="https://thekiaforum.com/event/soda-stereo/" target="_blank" rel="noopener">SODA STEREO – ECOS TOUR</a></td></tr>
@@ -273,33 +403,113 @@
 <tr><td>Tuesday</td><td>12/22/2026</td><td>7:00 PM</td><td><a href="https://thekiaforum.com/event/pentatonix/" target="_blank" rel="noopener">PENTATONIX – Christmas in the City Tour</a></td></tr>
 <tr><td>Saturday</td><td>01/23/2027</td><td>7:00 PM</td><td><a href="https://thekiaforum.com/event/joyce-manor/" target="_blank" rel="noopener">JOYCE MANOR</a></td></tr>
 <tr><td>Saturday</td><td>05/22/2027</td><td>7:00 PM</td><td><a href="https://thekiaforum.com/event/niall-horan/" target="_blank" rel="noopener">NIALL HORAN – Dinner Party Live On Tour</a></td></tr>
-              </tbody>
-            </table>
+                </tbody>
+              </table>
+            </div>
           </div>
-        </div>
-
-        <div class="tab-pane fade" id="pane-dignity-health-sports-park" role="tabpanel" aria-labelledby="tab-dignity-health-sports-park">
-          <div class="d-flex justify-content-between align-items-center mb-1">
-            <span class="text-muted small">9 event(s)</span>
-            <a href="https://www.dignityhealthsportspark.com/events" target="_blank" rel="noopener" class="btn btn-sm btn-outline-secondary">
-              View venue site &rarr;
-            </a>
-          </div>
-          <div class="table-responsive">
-            <table class="table table-striped table-hover table-sm sortable" id="tbl-dignity-health-sports-park" style="table-layout:fixed;width:100%">
-              <colgroup>
-                <col style="width:80px">
+          <div class="venue-view-past" id="past-kia-forum" hidden>
+            <div class="text-muted small mb-1">54 archived event(s)</div>
+            <div class="table-responsive">
+              <table class="table table-striped table-hover table-sm sortable" id="tbl-past-kia-forum" style="table-layout:fixed;width:100%">
+                <colgroup>
+                <col style="width:120px">
                 <col style="width:110px">
                 <col style="width:90px">
                 <col>
               </colgroup>
-              <thead class="table-dark">
-                <tr>
-                  <th>Day</th><th>Date</th><th>Time</th><th>Event Name</th>
-                </tr>
-              </thead>
-              <tbody>
-                <tr><td>Wednesday</td><td>08/26/2026</td><td>TBA</td><td><a href="https://www.dignityhealthsportspark.com/events/detail/leagues-cup-club-america-vs-columbus-crew" target="_blank" rel="noopener">Leagues Cup: Club América vs Columbus Crew</a></td></tr>
+                <thead class="table-dark">
+                  <tr>
+                    <th>Day</th><th>Date</th><th>Time</th><th>Event Name</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr><td>Friday</td><td>08/14/2026</td><td>7:00 PM</td><td><a href="https://thekiaforum.com/event/melanie-martinez/" target="_blank" rel="noopener">MELANIE MARTINEZ – HADES: THE SACRIFICE</a></td></tr>
+<tr><td>Thursday</td><td>08/13/2026</td><td>7:00 PM</td><td><a href="https://thekiaforum.com/event/rufus-du-sol-5/" target="_blank" rel="noopener">RÜFÜS DU SOL</a></td></tr>
+<tr><td>Wednesday</td><td>08/12/2026</td><td>7:00 PM</td><td><a href="https://thekiaforum.com/event/rufus-du-sol-4/" target="_blank" rel="noopener">RÜFÜS DU SOL</a></td></tr>
+<tr><td>Tuesday</td><td>08/11/2026</td><td>7:00 PM</td><td><a href="https://thekiaforum.com/event/rufus-du-sol-2/" target="_blank" rel="noopener">RÜFÜS DU SOL</a></td></tr>
+<tr><td>Friday</td><td>08/07/2026</td><td>7:00 PM</td><td><a href="https://thekiaforum.com/event/rufus-du-sol-3/" target="_blank" rel="noopener">RÜFÜS DU SOL</a></td></tr>
+<tr><td>Thursday</td><td>08/06/2026</td><td>7:00 PM</td><td><a href="https://thekiaforum.com/event/rufus-du-sol/" target="_blank" rel="noopener">RÜFÜS DU SOL</a></td></tr>
+<tr><td>Saturday</td><td>08/01/2026</td><td>7:00 PM</td><td><a href="https://thekiaforum.com/event/ive/" target="_blank" rel="noopener">IVE – WORLD TOUR [SHOW WHAT I AM] IN LOS ANGELES</a></td></tr>
+<tr><td>Friday</td><td>07/31/2026</td><td>7:00 PM</td><td><a href="https://thekiaforum.com/event/motionless-in-white/" target="_blank" rel="noopener">MOTIONLESS IN WHITE – The Sweat and Blood Tour</a></td></tr>
+<tr><td>Saturday</td><td>07/18/2026</td><td>7:00 PM</td><td><a href="https://thekiaforum.com/event/evanescence/" target="_blank" rel="noopener">EVANESCENCE</a></td></tr>
+<tr><td>Friday</td><td>07/17/2026</td><td>7:00 PM</td><td><a href="https://thekiaforum.com/event/young-the-giant/" target="_blank" rel="noopener">YOUNG THE GIANT – Victory Garden Tour</a></td></tr>
+<tr><td>Saturday</td><td>07/11/2026</td><td>7:00 PM</td><td><a href="https://thekiaforum.com/event/5-seconds-of-summer/" target="_blank" rel="noopener">5 SECONDS OF SUMMER – EVERYONE’S A STAR! World Tour</a></td></tr>
+<tr><td>Thursday</td><td>07/09/2026</td><td>7:00 PM</td><td><a href="https://thekiaforum.com/event/hilary-duff-2/" target="_blank" rel="noopener">HILARY DUFF – the lucky me tour</a></td></tr>
+<tr><td>Wednesday</td><td>07/08/2026</td><td>7:00 PM</td><td><a href="https://thekiaforum.com/event/hilary-duff/" target="_blank" rel="noopener">HILARY DUFF – the lucky me tour</a></td></tr>
+<tr><td>Wednesday</td><td>07/01/2026</td><td>7:00 PM</td><td><a href="https://thekiaforum.com/event/rosalia-2/" target="_blank" rel="noopener">ROSALÍA – LUX TOUR 2026</a></td></tr>
+<tr><td>Monday</td><td>06/29/2026</td><td>7:00 PM</td><td><a href="https://thekiaforum.com/event/rosalia/" target="_blank" rel="noopener">ROSALÍA – LUX TOUR 2026</a></td></tr>
+<tr><td>Saturday</td><td>06/27/2026</td><td>7:00 PM</td><td><a href="https://thekiaforum.com/event/aap-rocky/" target="_blank" rel="noopener">A$AP ROCKY – Don&#x27;t Be Dumb World Tour</a></td></tr>
+<tr><td>Friday</td><td>06/26/2026</td><td>7:00 PM</td><td><a href="https://thekiaforum.com/event/palomazo-norteno/" target="_blank" rel="noopener">PALOMAZO NORTEÑO – CLASE MAESTRA TOUR</a></td></tr>
+<tr><td>Wednesday</td><td>06/24/2026</td><td>7:00 PM</td><td><a href="https://thekiaforum.com/event/madison-beer/" target="_blank" rel="noopener">MADISON BEER – the locket tour</a></td></tr>
+<tr><td>Saturday</td><td>06/20/2026</td><td>7:00 PM</td><td><a href="https://thekiaforum.com/event/ariana-grande-3/" target="_blank" rel="noopener">ARIANA GRANDE – The Eternal Sunshine Tour</a></td></tr>
+<tr><td>Friday</td><td>06/19/2026</td><td>7:00 PM</td><td><a href="https://thekiaforum.com/event/ariana-grande/" target="_blank" rel="noopener">ARIANA GRANDE – The Eternal Sunshine Tour</a></td></tr>
+<tr><td>Wednesday</td><td>06/17/2026</td><td>7:00 PM</td><td><a href="https://thekiaforum.com/event/ariana-grande-2/" target="_blank" rel="noopener">ARIANA GRANDE – The Eternal Sunshine Tour</a></td></tr>
+<tr><td>Saturday</td><td>06/13/2026</td><td>7:00 PM</td><td><a href="https://thekiaforum.com/event/rush-4/" target="_blank" rel="noopener">RUSH – Fifty Something</a></td></tr>
+<tr><td>Thursday</td><td>06/11/2026</td><td>7:00 PM</td><td><a href="https://thekiaforum.com/event/rush-3/" target="_blank" rel="noopener">RUSH – Fifty Something</a></td></tr>
+<tr><td>Tuesday</td><td>06/09/2026</td><td>7:00 PM</td><td><a href="https://thekiaforum.com/event/rush-2/" target="_blank" rel="noopener">RUSH – Fifty Something</a></td></tr>
+<tr><td>Sunday</td><td>06/07/2026</td><td>7:00 PM</td><td><a href="https://thekiaforum.com/event/rush/" target="_blank" rel="noopener">RUSH – Fifty Something</a></td></tr>
+<tr><td>Wednesday</td><td>05/20/2026</td><td>TBA</td><td><a href="https://thekiaforum.com/event/florence-the-machine/" target="_blank" rel="noopener">FLORENCE + THE MACHINE</a></td></tr>
+<tr><td>Tuesday</td><td>05/19/2026</td><td>TBA</td><td><a href="https://thekiaforum.com/event/florence-the-machine-2/" target="_blank" rel="noopener">FLORENCE + THE MACHINE</a></td></tr>
+<tr><td>Saturday</td><td>05/16/2026</td><td>TBA</td><td><a href="https://thekiaforum.com/event/demi-lovato/" target="_blank" rel="noopener">DEMI LOVATO</a></td></tr>
+<tr><td>Friday</td><td>05/15/2026</td><td>TBA</td><td><a href="https://thekiaforum.com/event/lorde-3/" target="_blank" rel="noopener">LORDE</a></td></tr>
+<tr><td>Thursday</td><td>05/14/2026</td><td>TBA</td><td><a href="https://thekiaforum.com/event/lorde-2/" target="_blank" rel="noopener">LORDE</a></td></tr>
+<tr><td>Wednesday</td><td>04/29/2026</td><td>TBA</td><td><a href="https://thekiaforum.com/event/charlie-puth/" target="_blank" rel="noopener">CHARLIE PUTH</a></td></tr>
+<tr><td>Friday</td><td>04/24/2026</td><td>TBA</td><td><a href="https://thekiaforum.com/event/third-day/" target="_blank" rel="noopener">THIRD DAY</a></td></tr>
+<tr><td>Tuesday</td><td>04/21/2026</td><td>TBA</td><td><a href="https://thekiaforum.com/event/electric-callboy/" target="_blank" rel="noopener">ELECTRIC CALLBOY</a></td></tr>
+<tr><td>Friday</td><td>04/10/2026</td><td>TBA</td><td><a href="https://thekiaforum.com/event/reik/" target="_blank" rel="noopener">REIK</a></td></tr>
+<tr><td>Tuesday</td><td>03/31/2026</td><td>TBA</td><td><a href="https://thekiaforum.com/event/jackson-wang/" target="_blank" rel="noopener">JACKSON WANG</a></td></tr>
+<tr><td>Thursday</td><td>03/26/2026</td><td>TBA</td><td><a href="https://thekiaforum.com/event/bad-omens/" target="_blank" rel="noopener">BAD OMENS</a></td></tr>
+<tr><td>Sunday</td><td>03/22/2026</td><td>TBA</td><td><a href="https://thekiaforum.com/event/b2k-bow-wow/" target="_blank" rel="noopener">B2K &amp; BOW WOW</a></td></tr>
+<tr><td>Friday</td><td>03/20/2026</td><td>TBA</td><td><a href="https://thekiaforum.com/event/conan-gray/" target="_blank" rel="noopener">CONAN GRAY</a></td></tr>
+<tr><td>Friday</td><td>03/13/2026</td><td>TBA</td><td><a href="https://thekiaforum.com/event/miguel/" target="_blank" rel="noopener">MIGUEL</a></td></tr>
+<tr><td>Saturday</td><td>03/07/2026</td><td>TBA</td><td><a href="https://thekiaforum.com/event/excision/" target="_blank" rel="noopener">EXCISION</a></td></tr>
+<tr><td>Friday</td><td>03/06/2026</td><td>TBA</td><td><a href="https://thekiaforum.com/event/excision-2/" target="_blank" rel="noopener">EXCISION</a></td></tr>
+<tr><td>Friday</td><td>02/27/2026</td><td>TBA</td><td><a href="https://thekiaforum.com/event/brandi-carlile/" target="_blank" rel="noopener">BRANDI CARLILE</a></td></tr>
+<tr><td>Monday</td><td>02/23/2026</td><td>TBA</td><td><a href="https://thekiaforum.com/event/lady-gaga-8/" target="_blank" rel="noopener">LADY GAGA</a></td></tr>
+<tr><td>Sunday</td><td>02/22/2026</td><td>TBA</td><td><a href="https://thekiaforum.com/event/lady-gaga-7/" target="_blank" rel="noopener">LADY GAGA</a></td></tr>
+<tr><td>Friday</td><td>02/20/2026</td><td>TBA</td><td><a href="https://thekiaforum.com/event/sabaton/" target="_blank" rel="noopener">SABATON</a></td></tr>
+<tr><td>Thursday</td><td>02/19/2026</td><td>TBA</td><td><a href="https://thekiaforum.com/event/lady-gaga-5/" target="_blank" rel="noopener">LADY GAGA</a></td></tr>
+<tr><td>Wednesday</td><td>02/18/2026</td><td>TBA</td><td><a href="https://thekiaforum.com/event/lady-gaga-6/" target="_blank" rel="noopener">LADY GAGA</a></td></tr>
+<tr><td>Monday</td><td>02/16/2026</td><td>TBA</td><td><a href="https://thekiaforum.com/event/cardi-b-2/" target="_blank" rel="noopener">CARDI B</a></td></tr>
+<tr><td>Sunday</td><td>02/15/2026</td><td>TBA</td><td><a href="https://thekiaforum.com/event/cardi-b/" target="_blank" rel="noopener">CARDI B</a></td></tr>
+<tr><td>Saturday</td><td>02/14/2026</td><td>TBA</td><td><a href="https://thekiaforum.com/event/dj-cassidys-pass-the-mic-live/" target="_blank" rel="noopener">DJ CASSIDY&#x27;S PASS THE MIC LIVE!</a></td></tr>
+<tr><td>Friday</td><td>02/13/2026</td><td>TBA</td><td><a href="https://thekiaforum.com/event/hbcu-classic-presented-by-att/" target="_blank" rel="noopener">HBCU CLASSIC PRESENTED BY AT&amp;T</a></td></tr>
+<tr><td>Friday</td><td>02/13/2026</td><td>TBA</td><td><a href="https://thekiaforum.com/event/ruffles-celebrity-game/" target="_blank" rel="noopener">RUFFLES CELEBRITY GAME</a></td></tr>
+<tr><td>Thursday</td><td>02/12/2026</td><td>TBA</td><td><a href="https://thekiaforum.com/event/nba-all-star-pitch-competition/" target="_blank" rel="noopener">NBA ALL-STAR PITCH COMPETITION</a></td></tr>
+<tr><td>Saturday</td><td>01/31/2026</td><td>TBA</td><td><a href="https://thekiaforum.com/event/new-edition/" target="_blank" rel="noopener">NEW EDITION</a></td></tr>
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+
+        <div class="tab-pane fade" id="pane-dignity-health-sports-park" role="tabpanel" aria-labelledby="tab-dignity-health-sports-park">
+          <div class="d-flex justify-content-between align-items-center mb-2">
+            <div class="btn-group btn-group-sm" role="group" aria-label="Toggle current or past events">
+              <button type="button" class="btn venue-toggle-btn active" data-vid="dignity-health-sports-park" data-view="current">Current Events</button>
+              <button type="button" class="btn venue-toggle-btn" data-vid="dignity-health-sports-park" data-view="past">Past Events</button>
+            </div>
+            <a href="https://www.dignityhealthsportspark.com/events" target="_blank" rel="noopener" class="btn btn-sm btn-outline-secondary">
+              View venue site &rarr;
+            </a>
+          </div>
+          <div class="venue-view-current" id="current-dignity-health-sports-park">
+            <div class="text-muted small mb-1">9 event(s)</div>
+            <div class="table-responsive">
+              <table class="table table-striped table-hover table-sm sortable" id="tbl-dignity-health-sports-park" style="table-layout:fixed;width:100%">
+                <colgroup>
+                <col style="width:120px">
+                <col style="width:110px">
+                <col style="width:90px">
+                <col>
+              </colgroup>
+                <thead class="table-dark">
+                  <tr>
+                    <th>Day</th><th>Date</th><th>Time</th><th>Event Name</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr><td>Wednesday</td><td>08/26/2026</td><td>TBA</td><td><a href="https://www.dignityhealthsportspark.com/events/detail/leagues-cup-club-america-vs-columbus-crew" target="_blank" rel="noopener">Leagues Cup: Club América vs Columbus Crew</a></td></tr>
 <tr><td>Saturday</td><td>09/05/2026</td><td>TBA</td><td><a href="https://www.dignityhealthsportspark.com/events/detail/la-galaxy-vs-new-england-revolution" target="_blank" rel="noopener">LA Galaxy vs New England Revolution</a></td></tr>
 <tr><td>Saturday</td><td>09/12/2026</td><td>TBA</td><td><a href="https://www.dignityhealthsportspark.com/events/detail/la-galaxy-vs-seattle-sounders" target="_blank" rel="noopener">LA Galaxy vs Seattle Sounders</a></td></tr>
 <tr><td>Saturday</td><td>09/19/2026</td><td>TBA</td><td><a href="https://www.dignityhealthsportspark.com/events/detail/supermotocross" target="_blank" rel="noopener">SuperMotocross Playoff Round 2</a></td></tr>
@@ -308,37 +518,77 @@
 <tr><td>Saturday</td><td>10/17/2026</td><td>TBA</td><td><a href="https://www.dignityhealthsportspark.com/events/detail/la-galaxy-vs-san-diego-fc" target="_blank" rel="noopener">LA Galaxy vs San Diego FC</a></td></tr>
 <tr><td>Saturday</td><td>10/31/2026</td><td>TBA</td><td><a href="https://www.dignityhealthsportspark.com/events/detail/la-galaxy-vs-austin-fc" target="_blank" rel="noopener">LA Galaxy vs Austin FC</a></td></tr>
 <tr><td>Sunday</td><td>11/01/2026</td><td>TBA</td><td><a href="https://www.dignityhealthsportspark.com/events/detail/angel-city-fc-vs-boston-legacy-fc" target="_blank" rel="noopener">Angel City FC vs Boston Legacy FC</a></td></tr>
-              </tbody>
-            </table>
+                </tbody>
+              </table>
+            </div>
           </div>
-        </div>
-
-        <div class="tab-pane fade" id="pane-rose-bowl-stadium" role="tabpanel" aria-labelledby="tab-rose-bowl-stadium">
-          <div class="d-flex justify-content-between align-items-center mb-1">
-            <span class="text-muted small">25 event(s)</span>
-            <a href="https://www.rosebowlstadium.com/events/calendar/list" target="_blank" rel="noopener" class="btn btn-sm btn-outline-secondary">
-              View venue site &rarr;
-            </a>
-          </div>
-          <div class="table-responsive">
-            <table class="table table-striped table-hover table-sm sortable" id="tbl-rose-bowl-stadium" style="table-layout:fixed;width:100%">
-              <colgroup>
-                <col style="width:80px">
+          <div class="venue-view-past" id="past-dignity-health-sports-park" hidden>
+            <div class="text-muted small mb-1">13 archived event(s)</div>
+            <div class="table-responsive">
+              <table class="table table-striped table-hover table-sm sortable" id="tbl-past-dignity-health-sports-park" style="table-layout:fixed;width:100%">
+                <colgroup>
+                <col style="width:120px">
                 <col style="width:110px">
                 <col style="width:90px">
                 <col>
               </colgroup>
-              <thead class="table-dark">
-                <tr>
-                  <th>Day</th><th>Date</th><th>Time</th><th>Event Name</th>
-                </tr>
-              </thead>
-              <tbody>
-                <tr><td>Saturday</td><td>08/22/2026</td><td>12:00 PM</td><td><a href="https://www.rosebowlstadium.com/events/details/640/just-like-heaven" target="_blank" rel="noopener">Just Like Heaven</a></td></tr>
+                <thead class="table-dark">
+                  <tr>
+                    <th>Day</th><th>Date</th><th>Time</th><th>Event Name</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr><td>Wednesday</td><td>08/19/2026</td><td>TBA</td><td><a href="https://www.dignityhealthsportspark.com/events/detail/la-galaxy-vs-san-jose-earthquakes" target="_blank" rel="noopener">LA Galaxy vs San Jose Earthquakes</a></td></tr>
+<tr><td>Saturday</td><td>08/01/2026</td><td>TBA</td><td><a href="https://www.dignityhealthsportspark.com/events/detail/la-galaxy-vs-fc-dallas" target="_blank" rel="noopener">LA Galaxy vs FC Dallas</a></td></tr>
+<tr><td>Saturday</td><td>07/25/2026</td><td>TBA</td><td><a href="https://www.dignityhealthsportspark.com/events/detail/campeon-de-campeones-2026" target="_blank" rel="noopener">Campeón de Campeones 2026</a></td></tr>
+<tr><td>Wednesday</td><td>07/22/2026</td><td>TBA</td><td><a href="https://www.dignityhealthsportspark.com/events/detail/la-galaxy-vs-st-louis-city-sc" target="_blank" rel="noopener">LA Galaxy vs St. Louis CITY SC</a></td></tr>
+<tr><td>Saturday</td><td>07/18/2026</td><td>TBA</td><td><a href="https://www.dignityhealthsportspark.com/events/detail/matchroom-boxing-presents-diego-pacheco-vs-immanuwel-aleem" target="_blank" rel="noopener">Diego Pacheco vs Immanuwel Aleem</a></td></tr>
+<tr><td>Friday</td><td>07/17/2026</td><td>TBA</td><td><a href="https://www.dignityhealthsportspark.com/events/detail/la-galaxy-vs-lafc" target="_blank" rel="noopener">LA Galaxy vs LAFC</a></td></tr>
+<tr><td>Saturday</td><td>07/11/2026</td><td>TBA</td><td><a href="https://www.dignityhealthsportspark.com/events/detail/la-galaxy-vs-club-america-1" target="_blank" rel="noopener">LA Galaxy vs Club América</a></td></tr>
+<tr><td>Sunday</td><td>04/26/2026</td><td>4:00 PM</td><td><a href="https://www.dignityhealthsportspark.com/events/detail/la-galaxy-vs-real-salt-lake" target="_blank" rel="noopener">LA Galaxy vs Real Salt Lake</a></td></tr>
+<tr><td>Saturday</td><td>04/04/2026</td><td>7:30 PM</td><td><a href="https://www.dignityhealthsportspark.com/events/detail/la-galaxy-vs-minnesota-united-fc" target="_blank" rel="noopener">LA Galaxy vs Minnesota United FC</a></td></tr>
+<tr><td>Saturday</td><td>03/14/2026</td><td>6:30 PM</td><td><a href="https://www.dignityhealthsportspark.com/events/detail/la-galaxy-vs-sporting-kc" target="_blank" rel="noopener">LA Galaxy vs Sporting KC</a></td></tr>
+<tr><td>Saturday</td><td>02/28/2026</td><td>7:30 PM</td><td><a href="https://www.dignityhealthsportspark.com/events/detail/la-galaxy-vs-charlotte-fc-1" target="_blank" rel="noopener">LA Galaxy vs Charlotte FC</a></td></tr>
+<tr><td>Wednesday</td><td>02/25/2026</td><td>8:00 PM</td><td><a href="https://www.dignityhealthsportspark.com/events/detail/la-galaxy-vs-sporting-san-miguelito" target="_blank" rel="noopener">LA Galaxy vs Sporting San Miguelito</a></td></tr>
+<tr><td>Sunday</td><td>02/22/2026</td><td>4:00 PM</td><td><a href="https://www.dignityhealthsportspark.com/events/detail/la-galaxy-vs-new-york-city-fc" target="_blank" rel="noopener">LA Galaxy vs New York City FC</a></td></tr>
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+
+        <div class="tab-pane fade" id="pane-rose-bowl-stadium" role="tabpanel" aria-labelledby="tab-rose-bowl-stadium">
+          <div class="d-flex justify-content-between align-items-center mb-2">
+            <div class="btn-group btn-group-sm" role="group" aria-label="Toggle current or past events">
+              <button type="button" class="btn venue-toggle-btn active" data-vid="rose-bowl-stadium" data-view="current">Current Events</button>
+              <button type="button" class="btn venue-toggle-btn" data-vid="rose-bowl-stadium" data-view="past">Past Events</button>
+            </div>
+            <a href="https://www.rosebowlstadium.com/events/calendar/list" target="_blank" rel="noopener" class="btn btn-sm btn-outline-secondary">
+              View venue site &rarr;
+            </a>
+          </div>
+          <div class="venue-view-current" id="current-rose-bowl-stadium">
+            <div class="text-muted small mb-1">26 event(s)</div>
+            <div class="table-responsive">
+              <table class="table table-striped table-hover table-sm sortable" id="tbl-rose-bowl-stadium" style="table-layout:fixed;width:100%">
+                <colgroup>
+                <col style="width:120px">
+                <col style="width:110px">
+                <col style="width:90px">
+                <col>
+              </colgroup>
+                <thead class="table-dark">
+                  <tr>
+                    <th>Day</th><th>Date</th><th>Time</th><th>Event Name</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr><td>Saturday</td><td>08/22/2026</td><td>12:00 PM</td><td><a href="https://www.rosebowlstadium.com/events/details/640/just-like-heaven" target="_blank" rel="noopener">Just Like Heaven</a></td></tr>
 <tr><td>Wednesday</td><td>08/26/2026</td><td>10:00 AM</td><td><a href="https://www.rosebowlstadium.com/events/details/670/rose-bowl-stadium-blood-drive" target="_blank" rel="noopener">Rose Bowl Stadium Blood Drive</a></td></tr>
 <tr><td>Saturday</td><td>09/05/2026</td><td>6:25 PM</td><td><a href="https://www.rosebowlstadium.com/events/details/579/guns-n&#x27;-roses" target="_blank" rel="noopener">GUNS N’ ROSES</a></td></tr>
 <tr><td>Saturday</td><td>09/12/2026</td><td>4:15 PM</td><td><a href="https://www.rosebowlstadium.com/events/details/594/san-diego-state-vs-ucla" target="_blank" rel="noopener">SAN DIEGO STATE VS UCLA</a></td></tr>
 <tr><td>Sunday</td><td>09/13/2026</td><td>5:00 AM</td><td><a href="https://www.rosebowlstadium.com/events/details/604/rose-bowl-flea-market" target="_blank" rel="noopener">ROSE BOWL FLEA MARKET</a></td></tr>
+<tr><td>Thursday</td><td>09/17/2026</td><td>12:00 PM</td><td><a href="https://www.rosebowlstadium.com/events/details/671/rose-bowl-quarterbacks-club" target="_blank" rel="noopener">Rose Bowl Quarterbacks Club</a></td></tr>
 <tr><td>Saturday</td><td>09/19/2026</td><td>8:00 PM</td><td><a href="https://www.rosebowlstadium.com/events/details/595/purdue-vs-ucla" target="_blank" rel="noopener">PURDUE VS UCLA</a></td></tr>
 <tr><td>Sunday</td><td>09/27/2026</td><td>8:30 AM</td><td><a href="https://www.rosebowlstadium.com/events/details/669/2026-bimbo-global-race" target="_blank" rel="noopener">2026 Bimbo Global Race</a></td></tr>
 <tr><td>Saturday</td><td>10/03/2026</td><td>8:45 AM</td><td><a href="https://www.rosebowlstadium.com/events/details/665/2026-los-angeles-heart-and-stroke-walk" target="_blank" rel="noopener">2026 Los Angeles Heart and Stroke Walk</a></td></tr>
@@ -359,33 +609,89 @@
 <tr><td>Saturday</td><td>01/02/2027</td><td>TBA</td><td><a href="https://www.rosebowlstadium.com/events/details/487/holiday-tours" target="_blank" rel="noopener">HOLIDAY TOURS</a></td></tr>
 <tr><td>Saturday</td><td>01/02/2027</td><td>10:00 PM</td><td><a href="https://www.rosebowlstadium.com/events/details/668/holiday-huddle" target="_blank" rel="noopener">HOLIDAY HUDDLE</a></td></tr>
 <tr><td>Sunday</td><td>01/17/2027</td><td>TBD</td><td><a href="https://www.rosebowlstadium.com/events/details/626/rose-bowl-half-marathon-and-5k" target="_blank" rel="noopener">Rose Bowl Half Marathon &amp; 5K</a></td></tr>
-              </tbody>
-            </table>
+                </tbody>
+              </table>
+            </div>
           </div>
-        </div>
-
-        <div class="tab-pane fade" id="pane-cryptocom-arena" role="tabpanel" aria-labelledby="tab-cryptocom-arena">
-          <div class="d-flex justify-content-between align-items-center mb-1">
-            <span class="text-muted small">108 event(s)</span>
-            <a href="https://www.cryptoarena.com/events" target="_blank" rel="noopener" class="btn btn-sm btn-outline-secondary">
-              View venue site &rarr;
-            </a>
-          </div>
-          <div class="table-responsive">
-            <table class="table table-striped table-hover table-sm sortable" id="tbl-cryptocom-arena" style="table-layout:fixed;width:100%">
-              <colgroup>
-                <col style="width:80px">
+          <div class="venue-view-past" id="past-rose-bowl-stadium" hidden>
+            <div class="text-muted small mb-1">30 archived event(s)</div>
+            <div class="table-responsive">
+              <table class="table table-striped table-hover table-sm sortable" id="tbl-past-rose-bowl-stadium" style="table-layout:fixed;width:100%">
+                <colgroup>
+                <col style="width:120px">
                 <col style="width:110px">
                 <col style="width:90px">
                 <col>
               </colgroup>
-              <thead class="table-dark">
-                <tr>
-                  <th>Day</th><th>Date</th><th>Time</th><th>Event Name</th>
-                </tr>
-              </thead>
-              <tbody>
-                <tr><td>Saturday</td><td>08/22/2026</td><td>6:00 PM</td><td><a href="https://www.cryptoarena.com/events/detail/sparkssun082226" target="_blank" rel="noopener">Los Angeles Sparks vs Connecticut Sun</a></td></tr>
+                <thead class="table-dark">
+                  <tr>
+                    <th>Day</th><th>Date</th><th>Time</th><th>Event Name</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr><td>Saturday</td><td>08/15/2026</td><td>6:30 PM</td><td><a href="https://www.rosebowlstadium.com/events/details/633/noah-kahan-the-great-divide-tour" target="_blank" rel="noopener">NOAH KAHAN - THE GREAT DIVIDE TOUR</a></td></tr>
+<tr><td>Sunday</td><td>08/09/2026</td><td>5:00 AM</td><td><a href="https://www.rosebowlstadium.com/events/details/603/rose-bowl-flea-market" target="_blank" rel="noopener">ROSE BOWL FLEA MARKET</a></td></tr>
+<tr><td>Saturday</td><td>08/08/2026</td><td>1:00 PM</td><td><a href="https://www.rosebowlstadium.com/events/details/642/head-in-the-clouds" target="_blank" rel="noopener">Head in the Clouds</a></td></tr>
+<tr><td>Sunday</td><td>08/02/2026</td><td>10:00 AM</td><td><a href="https://www.rosebowlstadium.com/events/details/663/dena-community-backpack-giveaway" target="_blank" rel="noopener">Dena Community Backpack Giveaway</a></td></tr>
+<tr><td>Sunday</td><td>07/12/2026</td><td>5:00 AM</td><td><a href="https://www.rosebowlstadium.com/events/details/602/rose-bowl-flea-market" target="_blank" rel="noopener">ROSE BOWL FLEA MARKET</a></td></tr>
+<tr><td>Saturday</td><td>07/11/2026</td><td>5:15 PM</td><td><a href="https://www.rosebowlstadium.com/events/details/644/drum-corps-at-the-rose-bowl" target="_blank" rel="noopener">DRUM CORPS AT THE ROSE BOWL</a></td></tr>
+<tr><td>Sunday</td><td>07/05/2026</td><td>1:00 PM</td><td><a href="https://www.rosebowlstadium.com/events/details/639/foodieland" target="_blank" rel="noopener">Foodieland</a></td></tr>
+<tr><td>Saturday</td><td>07/04/2026</td><td>1:00 PM</td><td><a href="https://www.rosebowlstadium.com/events/details/638/foodieland" target="_blank" rel="noopener">Foodieland</a></td></tr>
+<tr><td>Friday</td><td>07/03/2026</td><td>3:00 PM</td><td><a href="https://www.rosebowlstadium.com/events/details/637/foodieland" target="_blank" rel="noopener">Foodieland</a></td></tr>
+<tr><td>Sunday</td><td>06/28/2026</td><td>10:00 AM</td><td><a href="https://www.rosebowlstadium.com/events/details/650/demo-days" target="_blank" rel="noopener">Demo Days</a></td></tr>
+<tr><td>Saturday</td><td>06/27/2026</td><td>10:00 AM</td><td><a href="https://www.rosebowlstadium.com/events/details/649/demo-days" target="_blank" rel="noopener">Demo Days</a></td></tr>
+<tr><td>Friday</td><td>06/26/2026</td><td>5:00 PM</td><td><a href="https://www.rosebowlstadium.com/events/details/661/pasadena-elite-youth-football-camp" target="_blank" rel="noopener">Pasadena Elite Youth Football Camp</a></td></tr>
+<tr><td>Sunday</td><td>06/14/2026</td><td>5:00 AM</td><td><a href="https://www.rosebowlstadium.com/events/details/601/rose-bowl-flea-market" target="_blank" rel="noopener">ROSE BOWL FLEA MARKET</a></td></tr>
+<tr><td>Saturday</td><td>05/30/2026</td><td>7:00 PM</td><td><a href="https://www.rosebowlstadium.com/events/details/635/mexico-vs-australia" target="_blank" rel="noopener">Mexico vs Australia</a></td></tr>
+<tr><td>Friday</td><td>05/29/2026</td><td>6:00 PM</td><td><a href="https://www.rosebowlstadium.com/events/details/646/vip-fan-day-mextour-live" target="_blank" rel="noopener">VIP Fan Day MexTour Live</a></td></tr>
+<tr><td>Saturday</td><td>05/16/2026</td><td>TBA</td><td><a href="https://www.rosebowlstadium.com/events/details/578/zipangu" target="_blank" rel="noopener">Zipangu</a></td></tr>
+<tr><td>Sunday</td><td>05/10/2026</td><td>5:00 AM</td><td><a href="https://www.rosebowlstadium.com/events/details/600/rose-bowl-flea-market" target="_blank" rel="noopener">ROSE BOWL FLEA MARKET</a></td></tr>
+<tr><td>Sunday</td><td>04/19/2026</td><td>3:00 PM</td><td><a href="https://www.rosebowlstadium.com/events/details/624/masters-of-taste" target="_blank" rel="noopener">Masters of Taste</a></td></tr>
+<tr><td>Sunday</td><td>04/12/2026</td><td>5:00 AM</td><td><a href="https://www.rosebowlstadium.com/events/details/599/rose-bowl-flea-market" target="_blank" rel="noopener">ROSE BOWL FLEA MARKET</a></td></tr>
+<tr><td>Sunday</td><td>03/29/2026</td><td>9:00 AM</td><td><a href="https://www.rosebowlstadium.com/events/details/589/walk-ms:-greater-los-angeles" target="_blank" rel="noopener">Walk MS: Greater Los Angeles</a></td></tr>
+<tr><td>Saturday</td><td>03/21/2026</td><td>8:00 AM</td><td><a href="https://www.rosebowlstadium.com/events/details/625/breakthrough-t1d-walk-los-angeles" target="_blank" rel="noopener">Breakthrough T1D, Walk Los Angeles</a></td></tr>
+<tr><td>Sunday</td><td>03/08/2026</td><td>5:00 AM</td><td><a href="https://www.rosebowlstadium.com/events/details/598/rose-bowl-flea-market" target="_blank" rel="noopener">ROSE BOWL FLEA MARKET</a></td></tr>
+<tr><td>Sunday</td><td>03/01/2026</td><td>8:00 AM</td><td><a href="https://www.rosebowlstadium.com/events/details/623/the-michael-j.-fox-foundation&#x27;s-los-angeles-runwalk" target="_blank" rel="noopener">The Michael J. Fox Foundation’s Los Angeles Run/Walk</a></td></tr>
+<tr><td>Sunday</td><td>02/22/2026</td><td>6:00 PM</td><td><a href="https://www.rosebowlstadium.com/events/details/585/mega-night-at-pokemon-go-tour:-kalos-los-angeles" target="_blank" rel="noopener">Mega Night at Pokémon GO Tour: Kalos – Los Angeles</a></td></tr>
+<tr><td>Sunday</td><td>02/22/2026</td><td>9:00 AM</td><td><a href="https://www.rosebowlstadium.com/events/details/588/pokemon-go-tour:-kalos-los-angeles" target="_blank" rel="noopener">Pokémon GO Tour: Kalos – Los Angeles</a></td></tr>
+<tr><td>Saturday</td><td>02/21/2026</td><td>6:00 PM</td><td><a href="https://www.rosebowlstadium.com/events/details/584/mega-night-at-pokemon-go-tour:-kalos-los-angeles" target="_blank" rel="noopener">Mega Night at Pokémon GO Tour: Kalos – Los Angeles</a></td></tr>
+<tr><td>Saturday</td><td>02/21/2026</td><td>9:00 AM</td><td><a href="https://www.rosebowlstadium.com/events/details/587/pokemon-go-tour:-kalos-los-angeles" target="_blank" rel="noopener">Pokémon GO Tour: Kalos – Los Angeles</a></td></tr>
+<tr><td>Friday</td><td>02/20/2026</td><td>6:00 PM</td><td><a href="https://www.rosebowlstadium.com/events/details/583/mega-night-at-pokemon-go-tour:-kalos-los-angeles" target="_blank" rel="noopener">Mega Night at Pokémon GO Tour: Kalos – Los Angeles</a></td></tr>
+<tr><td>Friday</td><td>02/20/2026</td><td>9:00 AM</td><td><a href="https://www.rosebowlstadium.com/events/details/586/pokemon-go-tour:-kalos-los-angeles" target="_blank" rel="noopener">Pokémon GO Tour: Kalos – Los Angeles</a></td></tr>
+<tr><td>Sunday</td><td>02/08/2026</td><td>5:00 AM</td><td><a href="https://www.rosebowlstadium.com/events/details/597/rose-bowl-flea-market" target="_blank" rel="noopener">ROSE BOWL FLEA MARKET</a></td></tr>
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+
+        <div class="tab-pane fade" id="pane-cryptocom-arena" role="tabpanel" aria-labelledby="tab-cryptocom-arena">
+          <div class="d-flex justify-content-between align-items-center mb-2">
+            <div class="btn-group btn-group-sm" role="group" aria-label="Toggle current or past events">
+              <button type="button" class="btn venue-toggle-btn active" data-vid="cryptocom-arena" data-view="current">Current Events</button>
+              <button type="button" class="btn venue-toggle-btn" data-vid="cryptocom-arena" data-view="past">Past Events</button>
+            </div>
+            <a href="https://www.cryptoarena.com/events" target="_blank" rel="noopener" class="btn btn-sm btn-outline-secondary">
+              View venue site &rarr;
+            </a>
+          </div>
+          <div class="venue-view-current" id="current-cryptocom-arena">
+            <div class="text-muted small mb-1">108 event(s)</div>
+            <div class="table-responsive">
+              <table class="table table-striped table-hover table-sm sortable" id="tbl-cryptocom-arena" style="table-layout:fixed;width:100%">
+                <colgroup>
+                <col style="width:120px">
+                <col style="width:110px">
+                <col style="width:90px">
+                <col>
+              </colgroup>
+                <thead class="table-dark">
+                  <tr>
+                    <th>Day</th><th>Date</th><th>Time</th><th>Event Name</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr><td>Saturday</td><td>08/22/2026</td><td>6:00 PM</td><td><a href="https://www.cryptoarena.com/events/detail/sparkssun082226" target="_blank" rel="noopener">Los Angeles Sparks vs Connecticut Sun</a></td></tr>
 <tr><td>Monday</td><td>08/24/2026</td><td>7:00 PM</td><td><a href="https://www.cryptoarena.com/events/detail/sparksdream082426" target="_blank" rel="noopener">Los Angeles Sparks vs Atlanta Dream</a></td></tr>
 <tr><td>Tuesday</td><td>08/25/2026</td><td>7:30 PM</td><td><a href="https://www.cryptoarena.com/events/detail/mamamoo082526" target="_blank" rel="noopener">MAMAMOO – 2026 USA TOUR</a></td></tr>
 <tr><td>Friday</td><td>08/28/2026</td><td>7:00 PM</td><td><a href="https://www.cryptoarena.com/events/detail/sparksmystics082826" target="_blank" rel="noopener">Los Angeles Sparks vs Washington Mystics</a></td></tr>
@@ -493,33 +799,139 @@
 <tr><td>Saturday</td><td>04/17/2027</td><td>8:00 PM</td><td><a href="https://www.cryptoarena.com/events/detail/yurilucero041727" target="_blank" rel="noopener">Yuri &amp; Lucero – ENTRE AMIGAS TOUR</a></td></tr>
 <tr><td>TBA</td><td>TBA</td><td>TBA</td><td><a href="https://www.cryptoarena.com/events/detail/jcole090126" target="_blank" rel="noopener">J. Cole – The Fall-Off World Tour</a></td></tr>
 <tr><td>TBA</td><td>TBA</td><td>TBA</td><td><a href="https://www.cryptoarena.com/events/detail/ncaawestregional2027" target="_blank" rel="noopener">NCAA West Regional</a></td></tr>
-              </tbody>
-            </table>
+                </tbody>
+              </table>
+            </div>
           </div>
-        </div>
-
-        <div class="tab-pane fade" id="pane-la-memorial-coliseum" role="tabpanel" aria-labelledby="tab-la-memorial-coliseum">
-          <div class="d-flex justify-content-between align-items-center mb-1">
-            <span class="text-muted small">9 event(s)</span>
-            <a href="https://www.lacoliseum.com/events" target="_blank" rel="noopener" class="btn btn-sm btn-outline-secondary">
-              View venue site &rarr;
-            </a>
-          </div>
-          <div class="table-responsive">
-            <table class="table table-striped table-hover table-sm sortable" id="tbl-la-memorial-coliseum" style="table-layout:fixed;width:100%">
-              <colgroup>
-                <col style="width:80px">
+          <div class="venue-view-past" id="past-cryptocom-arena" hidden>
+            <div class="text-muted small mb-1">80 archived event(s)</div>
+            <div class="table-responsive">
+              <table class="table table-striped table-hover table-sm sortable" id="tbl-past-cryptocom-arena" style="table-layout:fixed;width:100%">
+                <colgroup>
+                <col style="width:120px">
                 <col style="width:110px">
                 <col style="width:90px">
                 <col>
               </colgroup>
-              <thead class="table-dark">
-                <tr>
-                  <th>Day</th><th>Date</th><th>Time</th><th>Event Name</th>
-                </tr>
-              </thead>
-              <tbody>
-                <tr><td>Saturday</td><td>08/29/2026</td><td>TBA</td><td><a href="https://www.lacoliseum.com/events/sanjosestate-vs-usc-2026/" target="_blank" rel="noopener">San Jose State vs USC</a></td></tr>
+                <thead class="table-dark">
+                  <tr>
+                    <th>Day</th><th>Date</th><th>Time</th><th>Event Name</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr><td>Thursday</td><td>08/20/2026</td><td>7:00 PM</td><td><a href="https://www.cryptoarena.com/events/detail/sparksdream082026" target="_blank" rel="noopener">Los Angeles Sparks vs Atlanta Dream</a></td></tr>
+<tr><td>Sunday</td><td>08/16/2026</td><td>8:00 PM</td><td><a href="https://www.cryptoarena.com/events/detail/kcon26" target="_blank" rel="noopener">KCON LA 2026 M Countdown</a></td></tr>
+<tr><td>Saturday</td><td>08/15/2026</td><td>TBA</td><td><a href="https://www.cryptoarena.com/events/detail/kcon26" target="_blank" rel="noopener">KCON LA 2026 M Countdown</a></td></tr>
+<tr><td>Friday</td><td>08/14/2026</td><td>TBA</td><td><a href="https://www.cryptoarena.com/events/detail/kcon26" target="_blank" rel="noopener">KCON LA 2026 M Countdown</a></td></tr>
+<tr><td>Tuesday</td><td>08/11/2026</td><td>8:00 PM</td><td><a href="https://www.cryptoarena.com/events/detail/bensonboone26" target="_blank" rel="noopener">Benson Boone – Special Guest Ashe - Wanted Man Tour 2026</a></td></tr>
+<tr><td>Monday</td><td>08/10/2026</td><td>TBA</td><td><a href="https://www.cryptoarena.com/events/detail/bensonboone26" target="_blank" rel="noopener">Benson Boone – Special Guest Ashe - Wanted Man Tour 2026</a></td></tr>
+<tr><td>Sunday</td><td>08/09/2026</td><td>4:00 PM</td><td><a href="https://www.cryptoarena.com/events/detail/sparksvalkyries080926" target="_blank" rel="noopener">Los Angeles Sparks vs Golden State Valkyries</a></td></tr>
+<tr><td>Saturday</td><td>08/08/2026</td><td>7:00 PM</td><td><a href="https://www.cryptoarena.com/events/detail/megan-moroney-26" target="_blank" rel="noopener">Megan Moroney – The Cloud 9 Tour with JP Saxe and Solon Holt</a></td></tr>
+<tr><td>Friday</td><td>08/07/2026</td><td>TBA</td><td><a href="https://www.cryptoarena.com/events/detail/megan-moroney-26" target="_blank" rel="noopener">Megan Moroney – The Cloud 9 Tour with JP Saxe and Solon Holt</a></td></tr>
+<tr><td>Tuesday</td><td>07/28/2026</td><td>7:00 PM</td><td><a href="https://www.cryptoarena.com/events/detail/sparksliberty072826" target="_blank" rel="noopener">Los Angeles Sparks vs New York Liberty</a></td></tr>
+<tr><td>Wednesday</td><td>07/22/2026</td><td>12:00 PM</td><td><a href="https://www.cryptoarena.com/events/detail/sparksmercury072226" target="_blank" rel="noopener">Los Angeles Sparks vs Phoenix Mercury</a></td></tr>
+<tr><td>Sunday</td><td>07/19/2026</td><td>12:00 PM</td><td><a href="https://www.cryptoarena.com/events/detail/monsterjam26" target="_blank" rel="noopener">Monster Jam</a></td></tr>
+<tr><td>Saturday</td><td>07/18/2026</td><td>TBA</td><td><a href="https://www.cryptoarena.com/events/detail/monsterjam26" target="_blank" rel="noopener">Monster Jam</a></td></tr>
+<tr><td>Friday</td><td>07/17/2026</td><td>TBA</td><td><a href="https://www.cryptoarena.com/events/detail/monsterjam26" target="_blank" rel="noopener">Monster Jam</a></td></tr>
+<tr><td>Wednesday</td><td>07/15/2026</td><td>8:00 PM</td><td><a href="https://www.cryptoarena.com/events/detail/oliviadean26" target="_blank" rel="noopener">Olivia Dean – The Art of Loving - Live 2026 with Special Guest Baby Rose</a></td></tr>
+<tr><td>Tuesday</td><td>07/14/2026</td><td>TBA</td><td><a href="https://www.cryptoarena.com/events/detail/oliviadean26" target="_blank" rel="noopener">Olivia Dean – The Art of Loving - Live 2026 with Special Guest Baby Rose</a></td></tr>
+<tr><td>Friday</td><td>07/10/2026</td><td>7:00 PM</td><td><a href="https://www.cryptoarena.com/events/detail/sparkssky071026" target="_blank" rel="noopener">Los Angeles Sparks vs Chicago Sky</a></td></tr>
+<tr><td>Wednesday</td><td>07/08/2026</td><td>7:00 PM</td><td><a href="https://www.cryptoarena.com/events/detail/sparksfever070826" target="_blank" rel="noopener">Los Angeles Sparks vs Indiana Fever</a></td></tr>
+<tr><td>Monday</td><td>07/06/2026</td><td>7:00 PM</td><td><a href="https://www.cryptoarena.com/events/detail/sparksstorm070626" target="_blank" rel="noopener">Los Angeles Sparks vs Seattle Storm</a></td></tr>
+<tr><td>Saturday</td><td>07/04/2026</td><td>8:30 PM</td><td><a href="https://www.cryptoarena.com/events/detail/animeexpo2026masquerade" target="_blank" rel="noopener">Anime Expo 2026 Masquerade</a></td></tr>
+<tr><td>Thursday</td><td>07/02/2026</td><td>8:00 PM</td><td><a href="https://www.cryptoarena.com/events/detail/j-pop-sound-capsule-2026" target="_blank" rel="noopener">J-POP SOUND CAPSULE 2026 – ALI | Roselia | SPYAIR | Yoko Kanno | Yoko Takahashi</a></td></tr>
+<tr><td>Monday</td><td>06/29/2026</td><td>7:30 PM</td><td><a href="https://www.cryptoarena.com/events/detail/dontoliver062926" target="_blank" rel="noopener">Don Toliver – Octane Tour with SahBabii, SoFaygo, and Chase B</a></td></tr>
+<tr><td>Sunday</td><td>06/28/2026</td><td>TBA</td><td><a href="https://www.cryptoarena.com/events/detail/dontoliver062926" target="_blank" rel="noopener">Don Toliver – Octane Tour with SahBabii, SoFaygo, and Chase B</a></td></tr>
+<tr><td>Friday</td><td>06/26/2026</td><td>6:30 PM</td><td><a href="https://www.cryptoarena.com/events/detail/kidkudi062626" target="_blank" rel="noopener">Kid Cudi Presents: The Rebel Ragers Tour 2026 – With Big Boi, Dot Da Genius, and Chip Tha Ripper</a></td></tr>
+<tr><td>Thursday</td><td>06/25/2026</td><td>7:30 PM</td><td><a href="https://www.cryptoarena.com/events/detail/summerwalker062526" target="_blank" rel="noopener">Summer Walker – Still Finally Over It Tour</a></td></tr>
+<tr><td>Sunday</td><td>06/21/2026</td><td>5:00 PM</td><td><a href="https://www.cryptoarena.com/events/detail/sparksliberty062126" target="_blank" rel="noopener">Los Angeles Sparks vs New York Liberty</a></td></tr>
+<tr><td>Thursday</td><td>06/18/2026</td><td>8:00 PM</td><td><a href="https://www.cryptoarena.com/events/detail/diljitdosanjh061826" target="_blank" rel="noopener">Diljit Dosanjh – Aura North American Tour 2026</a></td></tr>
+<tr><td>Wednesday</td><td>06/17/2026</td><td>7:00 PM</td><td><a href="https://www.cryptoarena.com/events/detail/sparkslynx061726" target="_blank" rel="noopener">Los Angeles Sparks vs Minnesota Lynx – Commissioner&#x27;s Cup</a></td></tr>
+<tr><td>Sunday</td><td>06/14/2026</td><td>8:00 PM</td><td><a href="https://www.cryptoarena.com/events/detail/arianagrande26" target="_blank" rel="noopener">Ariana Grande – The Eternal Sunshine Tour</a></td></tr>
+<tr><td>Saturday</td><td>06/13/2026</td><td>TBA</td><td><a href="https://www.cryptoarena.com/events/detail/arianagrande26" target="_blank" rel="noopener">Ariana Grande – The Eternal Sunshine Tour</a></td></tr>
+<tr><td>Thursday</td><td>06/11/2026</td><td>7:00 PM</td><td><a href="https://www.cryptoarena.com/events/detail/louistomlinson061126" target="_blank" rel="noopener">Louis Tomlinson – How Did We Get Here? World Tour 2026 with Guests The Aces and The Royston Club</a></td></tr>
+<tr><td>Wednesday</td><td>06/10/2026</td><td>6:00 PM</td><td><a href="https://www.cryptoarena.com/events/detail/fifaconcert26" target="_blank" rel="noopener">FIFA Countdown Concert – Davido, Major Lazer, Ava Max, and Bia</a></td></tr>
+<tr><td>Sunday</td><td>06/07/2026</td><td>4:00 PM</td><td><a href="https://www.cryptoarena.com/events/detail/sparksfire060726" target="_blank" rel="noopener">Los Angeles Sparks vs Portland Fire – Commissioner&#x27;s Cup</a></td></tr>
+<tr><td>Saturday</td><td>06/06/2026</td><td>7:30 PM</td><td><a href="https://www.cryptoarena.com/events/detail/alexwarren060626" target="_blank" rel="noopener">Alex Warren: Finding Family on the Road – With special guests Nat &amp; Alex Wolff</a></td></tr>
+<tr><td>Friday</td><td>06/05/2026</td><td>7:00 PM</td><td><a href="https://www.cryptoarena.com/events/detail/sparkswings060526" target="_blank" rel="noopener">Los Angeles Sparks vs Dallas Wings – Commissioner&#x27;s Cup</a></td></tr>
+<tr><td>Tuesday</td><td>06/02/2026</td><td>7:00 PM</td><td><a href="https://www.cryptoarena.com/events/detail/sparksaces060226" target="_blank" rel="noopener">Los Angeles Sparks vs Las Vegas Aces – Commissioner&#x27;s Cup</a></td></tr>
+<tr><td>Thursday</td><td>05/21/2026</td><td>8:00PM</td><td><a href="https://www.cryptoarena.com/events/detail/romeosantosprinceroyce052126" target="_blank" rel="noopener">Romeo Santos &amp; Prince Royce</a></td></tr>
+<tr><td>Sunday</td><td>05/17/2026</td><td>4:00PM</td><td><a href="https://www.cryptoarena.com/events/detail/sparkstempo051726" target="_blank" rel="noopener">Los Angeles Sparks vs Toronto Tempo</a></td></tr>
+<tr><td>Friday</td><td>05/15/2026</td><td>7:00PM</td><td><a href="https://www.cryptoarena.com/events/detail/sparkstempo051526" target="_blank" rel="noopener">Los Angeles Sparks vs Toronto Tempo</a></td></tr>
+<tr><td>Wednesday</td><td>05/13/2026</td><td>7:00PM</td><td><a href="https://www.cryptoarena.com/events/detail/sparksfever051326" target="_blank" rel="noopener">Los Angeles Sparks vs Indiana Fever</a></td></tr>
+<tr><td>Sunday</td><td>05/10/2026</td><td>3:00PM</td><td><a href="https://www.cryptoarena.com/events/detail/sparksaces051026" target="_blank" rel="noopener">Los Angeles Sparks vs Las Vegas Aces</a></td></tr>
+<tr><td>Sunday</td><td>04/12/2026</td><td>5:30PM</td><td><a href="https://www.cryptoarena.com/events/detail/lakersjazz041226" target="_blank" rel="noopener">Utah Jazz vs Los Angeles Lakers</a></td></tr>
+<tr><td>Saturday</td><td>04/11/2026</td><td>1:00PM</td><td><a href="https://www.cryptoarena.com/events/detail/kingsoilers041126" target="_blank" rel="noopener">Edmonton Oilers vs Los Angeles Kings</a></td></tr>
+<tr><td>Friday</td><td>04/10/2026</td><td>7:30PM</td><td><a href="https://www.cryptoarena.com/events/detail/lakerssuns041026" target="_blank" rel="noopener">Phoenix Suns vs Los Angeles Lakers</a></td></tr>
+<tr><td>Thursday</td><td>04/09/2026</td><td>7:30PM</td><td><a href="https://www.cryptoarena.com/events/detail/kingscanucks040926" target="_blank" rel="noopener">Vancouver Canucks vs Los Angeles Kings</a></td></tr>
+<tr><td>Tuesday</td><td>04/07/2026</td><td>7:30PM</td><td><a href="https://www.cryptoarena.com/events/detail/lakersthunder040726" target="_blank" rel="noopener">Oklahoma City Thunder vs Los Angeles Lakers</a></td></tr>
+<tr><td>Monday</td><td>04/06/2026</td><td>7:30PM</td><td><a href="https://www.cryptoarena.com/events/detail/kingspreds040626" target="_blank" rel="noopener">Nashville Predators vs Los Angeles Kings</a></td></tr>
+<tr><td>Saturday</td><td>04/04/2026</td><td>4:00PM</td><td><a href="https://www.cryptoarena.com/events/detail/kingsleafs040426" target="_blank" rel="noopener">Toronto Maple Leafs vs Los Angeles Kings</a></td></tr>
+<tr><td>Thursday</td><td>04/02/2026</td><td>7:30PM</td><td><a href="https://www.cryptoarena.com/events/detail/kingspreds040226" target="_blank" rel="noopener">Nashville Predators vs Los Angeles Kings</a></td></tr>
+<tr><td>Wednesday</td><td>04/01/2026</td><td>6:00PM</td><td><a href="https://www.cryptoarena.com/events/detail/kingsblues040126" target="_blank" rel="noopener">St Louis Blues vs Los Angeles Kings</a></td></tr>
+<tr><td>Tuesday</td><td>03/31/2026</td><td>7:30PM</td><td><a href="https://www.cryptoarena.com/events/detail/lakerscavs033126" target="_blank" rel="noopener">Cleveland Cavaliers vs Los Angeles Lakers</a></td></tr>
+<tr><td>Monday</td><td>03/30/2026</td><td>7:00PM</td><td><a href="https://www.cryptoarena.com/events/detail/lakerswizards033026" target="_blank" rel="noopener">Washington Wizards vs Los Angeles Lakers</a></td></tr>
+<tr><td>Saturday</td><td>03/28/2026</td><td>6:00PM</td><td><a href="https://www.cryptoarena.com/events/detail/kingsmammoth032826" target="_blank" rel="noopener">Utah Mammoth vs Los Angeles Kings</a></td></tr>
+<tr><td>Friday</td><td>03/27/2026</td><td>7:30PM</td><td><a href="https://www.cryptoarena.com/events/detail/lakersnets032726" target="_blank" rel="noopener">Brooklyn Nets vs Los Angeles Lakers</a></td></tr>
+<tr><td>Saturday</td><td>03/21/2026</td><td>1:00PM</td><td><a href="https://www.cryptoarena.com/events/detail/kingssabres032126" target="_blank" rel="noopener">Buffalo Sabres vs Los Angeles Kings</a></td></tr>
+<tr><td>Thursday</td><td>03/19/2026</td><td>7:30PM</td><td><a href="https://www.cryptoarena.com/events/detail/kingsflyers031926" target="_blank" rel="noopener">Philadelphia Flyers vs Los Angeles Kings</a></td></tr>
+<tr><td>Sunday</td><td>03/15/2026</td><td>4:00PM</td><td><a href="https://www.cryptoarena.com/events/detail/aew031526" target="_blank" rel="noopener">AEW presents REVOLUTION</a></td></tr>
+<tr><td>Saturday</td><td>03/14/2026</td><td>5:30PM</td><td><a href="https://www.cryptoarena.com/events/detail/lakersnuggets031426" target="_blank" rel="noopener">Denver Nuggets vs Los Angeles Lakers</a></td></tr>
+<tr><td>Thursday</td><td>03/12/2026</td><td>7:30PM</td><td><a href="https://www.cryptoarena.com/events/detail/lakersbulls031226" target="_blank" rel="noopener">Chicago Bulls vs Los Angeles Lakers</a></td></tr>
+<tr><td>Tuesday</td><td>03/10/2026</td><td>8:00PM</td><td><a href="https://www.cryptoarena.com/events/detail/lakerswolves031026" target="_blank" rel="noopener">Minnesota Timberwolves vs Los Angeles Lakers</a></td></tr>
+<tr><td>Sunday</td><td>03/08/2026</td><td>12:30PM</td><td><a href="https://www.cryptoarena.com/events/detail/lakersknicks030826" target="_blank" rel="noopener">New York Knicks vs Los Angeles Lakers</a></td></tr>
+<tr><td>Saturday</td><td>03/07/2026</td><td>4:00PM</td><td><a href="https://www.cryptoarena.com/events/detail/kingscanadiens030726" target="_blank" rel="noopener">Montreal Canadiens vs Los Angeles Kings</a></td></tr>
+<tr><td>Friday</td><td>03/06/2026</td><td>7:30PM</td><td><a href="https://www.cryptoarena.com/events/detail/lakerspacer030626" target="_blank" rel="noopener">Indiana Pacers vs Los Angeles Lakers</a></td></tr>
+<tr><td>Thursday</td><td>03/05/2026</td><td>6:30PM</td><td><a href="https://www.cryptoarena.com/events/detail/kingsislanders030526" target="_blank" rel="noopener">New York Islanders vs Los Angeles Kings</a></td></tr>
+<tr><td>Tuesday</td><td>03/03/2026</td><td>7:30PM</td><td><a href="https://www.cryptoarena.com/events/detail/lakerspelicans030326" target="_blank" rel="noopener">New Orleans Pelicans vs Los Angeles Lakers</a></td></tr>
+<tr><td>Monday</td><td>03/02/2026</td><td>7:30PM</td><td><a href="https://www.cryptoarena.com/events/detail/kingsavs030226" target="_blank" rel="noopener">Colorado Avalanche vs Los Angeles Kings</a></td></tr>
+<tr><td>Sunday</td><td>03/01/2026</td><td>6:30PM</td><td><a href="https://www.cryptoarena.com/events/detail/lakerskings030126" target="_blank" rel="noopener">Sacramento Kings vs Los Angeles Lakers</a></td></tr>
+<tr><td>Saturday</td><td>02/28/2026</td><td>4:00PM</td><td><a href="https://www.cryptoarena.com/events/detail/kingsflames022826" target="_blank" rel="noopener">Calgary Flames vs Los Angeles Kings</a></td></tr>
+<tr><td>Thursday</td><td>02/26/2026</td><td>7:30PM</td><td><a href="https://www.cryptoarena.com/events/detail/kingsoilers022626" target="_blank" rel="noopener">Edmonton Oilers vs Los Angeles Kings</a></td></tr>
+<tr><td>Wednesday</td><td>02/25/2026</td><td>7:00PM</td><td><a href="https://www.cryptoarena.com/events/detail/kingsknights022526" target="_blank" rel="noopener">Vegas Golden Knights vs Los Angeles Kings</a></td></tr>
+<tr><td>Tuesday</td><td>02/24/2026</td><td>7:30PM</td><td><a href="https://www.cryptoarena.com/events/detail/lakersmagic022426" target="_blank" rel="noopener">Orlando Magic vs Los Angeles Lakers</a></td></tr>
+<tr><td>Sunday</td><td>02/22/2026</td><td>3:30PM</td><td><a href="https://www.cryptoarena.com/events/detail/lakersceltics022226" target="_blank" rel="noopener">Boston Celtics vs Los Angeles Lakers</a></td></tr>
+<tr><td>Friday</td><td>02/20/2026</td><td>7:00PM</td><td><a href="https://www.cryptoarena.com/events/detail/lakersclippers022026" target="_blank" rel="noopener">Los Angeles Clippers vs Los Angeles Lakers</a></td></tr>
+<tr><td>Friday</td><td>02/13/2026</td><td>TBA</td><td><a href="https://www.cryptoarena.com/events/detail/bandams021326" target="_blank" rel="noopener">Banda MS de Sergio Lizarraga</a></td></tr>
+<tr><td>Thursday</td><td>02/12/2026</td><td>7:00PM</td><td><a href="https://www.cryptoarena.com/events/detail/lakersmavs021226" target="_blank" rel="noopener">Dallas Mavericks vs Los Angeles Lakers</a></td></tr>
+<tr><td>Tuesday</td><td>02/10/2026</td><td>7:30PM</td><td><a href="https://www.cryptoarena.com/events/detail/lakersspurs021026" target="_blank" rel="noopener">San Antonio Spurs vs Los Angeles Lakers</a></td></tr>
+<tr><td>Monday</td><td>02/09/2026</td><td>7:00PM</td><td><a href="https://www.cryptoarena.com/events/detail/lakersthuner020926" target="_blank" rel="noopener">Oklahoma City Thunder vs Los Angeles Lakers</a></td></tr>
+<tr><td>Saturday</td><td>02/07/2026</td><td>5:30PM</td><td><a href="https://www.cryptoarena.com/events/detail/lakerswarriors020726" target="_blank" rel="noopener">Golden State Warriors vs Los Angeles Lakers</a></td></tr>
+<tr><td>Thursday</td><td>02/05/2026</td><td>7:00PM</td><td><a href="https://www.cryptoarena.com/events/detail/lakers76ers020526" target="_blank" rel="noopener">Philadelphia 76ers vs Los Angeles Lakers</a></td></tr>
+<tr><td>Wednesday</td><td>02/04/2026</td><td>7:00PM</td><td><a href="https://www.cryptoarena.com/events/detail/kingskraken020426" target="_blank" rel="noopener">Seattle Kraken vs Los Angeles Kings</a></td></tr>
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+
+        <div class="tab-pane fade" id="pane-la-memorial-coliseum" role="tabpanel" aria-labelledby="tab-la-memorial-coliseum">
+          <div class="d-flex justify-content-between align-items-center mb-2">
+            <div class="btn-group btn-group-sm" role="group" aria-label="Toggle current or past events">
+              <button type="button" class="btn venue-toggle-btn active" data-vid="la-memorial-coliseum" data-view="current">Current Events</button>
+              <button type="button" class="btn venue-toggle-btn" data-vid="la-memorial-coliseum" data-view="past">Past Events</button>
+            </div>
+            <a href="https://www.lacoliseum.com/events" target="_blank" rel="noopener" class="btn btn-sm btn-outline-secondary">
+              View venue site &rarr;
+            </a>
+          </div>
+          <div class="venue-view-current" id="current-la-memorial-coliseum">
+            <div class="text-muted small mb-1">9 event(s)</div>
+            <div class="table-responsive">
+              <table class="table table-striped table-hover table-sm sortable" id="tbl-la-memorial-coliseum" style="table-layout:fixed;width:100%">
+                <colgroup>
+                <col style="width:120px">
+                <col style="width:110px">
+                <col style="width:90px">
+                <col>
+              </colgroup>
+                <thead class="table-dark">
+                  <tr>
+                    <th>Day</th><th>Date</th><th>Time</th><th>Event Name</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr><td>Saturday</td><td>08/29/2026</td><td>TBA</td><td><a href="https://www.lacoliseum.com/events/sanjosestate-vs-usc-2026/" target="_blank" rel="noopener">San Jose State vs USC</a></td></tr>
 <tr><td>Friday</td><td>09/04/2026</td><td>TBA</td><td><a href="https://www.lacoliseum.com/events/fresno-state-vs-usc-2026/" target="_blank" rel="noopener">Fresno State vs USC</a></td></tr>
 <tr><td>Saturday</td><td>09/12/2026</td><td>TBA</td><td><a href="https://www.lacoliseum.com/events/louisiana-vs-usc-2026/" target="_blank" rel="noopener">Louisiana vs USC</a></td></tr>
 <tr><td>Saturday</td><td>09/26/2026</td><td>TBA</td><td><a href="https://www.lacoliseum.com/events/oregon-vs-usc-2026/" target="_blank" rel="noopener">Oregon vs USC</a></td></tr>
@@ -528,33 +940,65 @@
 <tr><td>Saturday</td><td>10/31/2026</td><td>TBA</td><td><a href="https://www.lacoliseum.com/events/ohio-state-vs-usc-2026/" target="_blank" rel="noopener">Ohio State vs USC</a></td></tr>
 <tr><td>Saturday</td><td>11/21/2026</td><td>TBA</td><td><a href="https://www.lacoliseum.com/events/maryland-vs-usc-2026/" target="_blank" rel="noopener">Maryland vs USC</a></td></tr>
 <tr><td>Saturday</td><td>12/12/2026</td><td>TBA</td><td><a href="https://www.lacoliseum.com/events/john-summit-ctrl-escape-tour/" target="_blank" rel="noopener">JOHN SUMMIT – CTRL ESCAPE TOUR</a></td></tr>
-              </tbody>
-            </table>
+                </tbody>
+              </table>
+            </div>
           </div>
-        </div>
-
-        <div class="tab-pane fade" id="pane-la-convention-center" role="tabpanel" aria-labelledby="tab-la-convention-center">
-          <div class="d-flex justify-content-between align-items-center mb-1">
-            <span class="text-muted small">41 event(s)</span>
-            <a href="https://www.laconventioncenter.com/events" target="_blank" rel="noopener" class="btn btn-sm btn-outline-secondary">
-              View venue site &rarr;
-            </a>
-          </div>
-          <div class="table-responsive">
-            <table class="table table-striped table-hover table-sm sortable" id="tbl-la-convention-center" style="table-layout:fixed;width:100%">
-              <colgroup>
-                <col style="width:80px">
+          <div class="venue-view-past" id="past-la-memorial-coliseum" hidden>
+            <div class="text-muted small mb-1">6 archived event(s)</div>
+            <div class="table-responsive">
+              <table class="table table-striped table-hover table-sm sortable" id="tbl-past-la-memorial-coliseum" style="table-layout:fixed;width:100%">
+                <colgroup>
+                <col style="width:120px">
                 <col style="width:110px">
                 <col style="width:90px">
                 <col>
               </colgroup>
-              <thead class="table-dark">
-                <tr>
-                  <th>Day</th><th>Date</th><th>Time</th><th>Event Name</th>
-                </tr>
-              </thead>
-              <tbody>
-                <tr><td>Friday</td><td>08/21/2026</td><td>TBA</td><td><a href="https://www.laconventioncenter.com/events/detail/coffee-fest-2026" target="_blank" rel="noopener">Coffee Fest 2026</a></td></tr>
+                <thead class="table-dark">
+                  <tr>
+                    <th>Day</th><th>Date</th><th>Time</th><th>Event Name</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr><td>Saturday</td><td>07/04/2026</td><td>TBA</td><td><a href="https://www.lacoliseum.com/events/america250-july-4-concert/" target="_blank" rel="noopener">America250 July 4th Benefit Show</a></td></tr>
+<tr><td>Thursday</td><td>06/11/2026</td><td>TBA</td><td><a href="https://www.lacoliseum.com/events/fifa-fan-festival-los-angeles/" target="_blank" rel="noopener">FIFA Fan Festival™ Los Angeles</a></td></tr>
+<tr><td>Thursday</td><td>04/02/2026</td><td>TBA</td><td><a href="https://www.lacoliseum.com/events/march-for-babies-2026/" target="_blank" rel="noopener">March for Babies</a></td></tr>
+<tr><td>Wednesday</td><td>04/01/2026</td><td>TBA</td><td><a href="https://www.lacoliseum.com/events/hopefest-la-2026/" target="_blank" rel="noopener">Hope Fest LA</a></td></tr>
+<tr><td>Monday</td><td>02/02/2026</td><td>TBA</td><td><a href="https://www.lacoliseum.com/events/lafc-vs-intermiami-2026/" target="_blank" rel="noopener">LAFC vs Inter Miami CF</a></td></tr>
+<tr><td>Monday</td><td>02/02/2026</td><td>TBA</td><td><a href="https://www.lacoliseum.com/events/night-of-hope/" target="_blank" rel="noopener">Night of Hope</a></td></tr>
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+
+        <div class="tab-pane fade" id="pane-la-convention-center" role="tabpanel" aria-labelledby="tab-la-convention-center">
+          <div class="d-flex justify-content-between align-items-center mb-2">
+            <div class="btn-group btn-group-sm" role="group" aria-label="Toggle current or past events">
+              <button type="button" class="btn venue-toggle-btn active" data-vid="la-convention-center" data-view="current">Current Events</button>
+              <button type="button" class="btn venue-toggle-btn" data-vid="la-convention-center" data-view="past">Past Events</button>
+            </div>
+            <a href="https://www.laconventioncenter.com/events" target="_blank" rel="noopener" class="btn btn-sm btn-outline-secondary">
+              View venue site &rarr;
+            </a>
+          </div>
+          <div class="venue-view-current" id="current-la-convention-center">
+            <div class="text-muted small mb-1">41 event(s)</div>
+            <div class="table-responsive">
+              <table class="table table-striped table-hover table-sm sortable" id="tbl-la-convention-center" style="table-layout:fixed;width:100%">
+                <colgroup>
+                <col style="width:120px">
+                <col style="width:110px">
+                <col style="width:90px">
+                <col>
+              </colgroup>
+                <thead class="table-dark">
+                  <tr>
+                    <th>Day</th><th>Date</th><th>Time</th><th>Event Name</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr><td>Friday</td><td>08/21/2026</td><td>TBA</td><td><a href="https://www.laconventioncenter.com/events/detail/coffee-fest-2026" target="_blank" rel="noopener">Coffee Fest 2026</a></td></tr>
 <tr><td>Saturday</td><td>08/22/2026</td><td>TBA</td><td><a href="https://www.laconventioncenter.com/events/detail/smith-chason-college-los-angeles-campus-graduation-2026" target="_blank" rel="noopener">Smith Chason College Los Angeles Campus Graduation 2026</a></td></tr>
 <tr><td>Saturday</td><td>09/05/2026</td><td>TBA</td><td><a href="https://www.laconventioncenter.com/events/detail/los-angeles-lowrider-magazine-super-show" target="_blank" rel="noopener">Los Angeles Lowrider Magazine Super Show</a></td></tr>
 <tr><td>Wednesday</td><td>09/09/2026</td><td>TBA</td><td><a href="https://www.laconventioncenter.com/events/detail/alibabacom-cocreate-2026" target="_blank" rel="noopener">Alibaba.com CoCreate 2026</a></td></tr>
@@ -595,33 +1039,133 @@
 <tr><td>Tuesday</td><td>06/01/2027</td><td>TBA</td><td><a href="https://www.laconventioncenter.com/events/detail/nafsa-association-of-international-educators-annual-conference" target="_blank" rel="noopener">NAFSA: Association of International Educators Annual Conference 2027</a></td></tr>
 <tr><td>Monday</td><td>06/14/2027</td><td>TBA</td><td><a href="https://www.laconventioncenter.com/events/detail/association-for-professionals-in-infection-control-and-epidemiology-apic27" target="_blank" rel="noopener">APIC27</a></td></tr>
 <tr><td>Saturday</td><td>06/19/2027</td><td>TBA</td><td><a href="https://www.laconventioncenter.com/events/detail/socal-cup-volleyball-showcase-2027" target="_blank" rel="noopener">The SoCal Cup: The Showcase 2027</a></td></tr>
-              </tbody>
-            </table>
+                </tbody>
+              </table>
+            </div>
           </div>
-        </div>
-
-        <div class="tab-pane fade" id="pane-dodger-stadium" role="tabpanel" aria-labelledby="tab-dodger-stadium">
-          <div class="d-flex justify-content-between align-items-center mb-1">
-            <span class="text-muted small">18 event(s)</span>
-            <a href="https://www.mlb.com/dodgers/schedule" target="_blank" rel="noopener" class="btn btn-sm btn-outline-secondary">
-              View venue site &rarr;
-            </a>
-          </div>
-          <div class="table-responsive">
-            <table class="table table-striped table-hover table-sm sortable" id="tbl-dodger-stadium" style="table-layout:fixed;width:100%">
-              <colgroup>
-                <col style="width:80px">
+          <div class="venue-view-past" id="past-la-convention-center" hidden>
+            <div class="text-muted small mb-1">74 archived event(s)</div>
+            <div class="table-responsive">
+              <table class="table table-striped table-hover table-sm sortable" id="tbl-past-la-convention-center" style="table-layout:fixed;width:100%">
+                <colgroup>
+                <col style="width:120px">
                 <col style="width:110px">
                 <col style="width:90px">
                 <col>
               </colgroup>
-              <thead class="table-dark">
-                <tr>
-                  <th>Day</th><th>Date</th><th>Time</th><th>Event Name</th>
-                </tr>
-              </thead>
-              <tbody>
-                <tr><td>Friday</td><td>08/21/2026</td><td>7:10 PM</td><td><a href="https://www.mlb.com/gameday/823911" target="_blank" rel="noopener">vs. Pittsburgh Pirates</a></td></tr>
+                <thead class="table-dark">
+                  <tr>
+                    <th>Day</th><th>Date</th><th>Time</th><th>Event Name</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr><td>Thursday</td><td>08/20/2026</td><td>TBA</td><td><a href="https://www.laconventioncenter.com/events/detail/apwu-biennial-convention-2026" target="_blank" rel="noopener">APWU Biennial Convention 2026</a></td></tr>
+<tr><td>Wednesday</td><td>08/19/2026</td><td>TBA</td><td><a href="https://www.laconventioncenter.com/events/detail/apwu-biennial-convention-2026" target="_blank" rel="noopener">APWU Biennial Convention 2026</a></td></tr>
+<tr><td>Tuesday</td><td>08/18/2026</td><td>TBA</td><td><a href="https://www.laconventioncenter.com/events/detail/apwu-biennial-convention-2026" target="_blank" rel="noopener">APWU Biennial Convention 2026</a></td></tr>
+<tr><td>Monday</td><td>08/17/2026</td><td>TBA</td><td><a href="https://www.laconventioncenter.com/events/detail/apwu-biennial-convention-2026" target="_blank" rel="noopener">APWU Biennial Convention 2026</a></td></tr>
+<tr><td>Sunday</td><td>08/16/2026</td><td>TBA</td><td><a href="https://www.laconventioncenter.com/events/detail/apwu-biennial-convention-2026" target="_blank" rel="noopener">APWU Biennial Convention 2026</a></td></tr>
+<tr><td>Sunday</td><td>08/16/2026</td><td>TBA</td><td><a href="https://www.laconventioncenter.com/events/detail/kcon-la-2026" target="_blank" rel="noopener">KCON LA 2026</a></td></tr>
+<tr><td>Saturday</td><td>08/15/2026</td><td>TBA</td><td><a href="https://www.laconventioncenter.com/events/detail/apwu-biennial-convention-2026" target="_blank" rel="noopener">APWU Biennial Convention 2026</a></td></tr>
+<tr><td>Saturday</td><td>08/15/2026</td><td>TBA</td><td><a href="https://www.laconventioncenter.com/events/detail/kcon-la-2026" target="_blank" rel="noopener">KCON LA 2026</a></td></tr>
+<tr><td>Friday</td><td>08/14/2026</td><td>TBA</td><td><a href="https://www.laconventioncenter.com/events/detail/kcon-la-2026" target="_blank" rel="noopener">KCON LA 2026</a></td></tr>
+<tr><td>Sunday</td><td>08/09/2026</td><td>TBA</td><td><a href="https://www.laconventioncenter.com/events/detail/el-sembrador-ministries-metanoia-los-angeles" target="_blank" rel="noopener">El Sembrador Ministries - Metanoia Los Angeles</a></td></tr>
+<tr><td>Saturday</td><td>08/08/2026</td><td>TBA</td><td><a href="https://www.laconventioncenter.com/events/detail/el-sembrador-ministries-metanoia-los-angeles" target="_blank" rel="noopener">El Sembrador Ministries - Metanoia Los Angeles</a></td></tr>
+<tr><td>Friday</td><td>08/07/2026</td><td>TBA</td><td><a href="https://www.laconventioncenter.com/events/detail/nalc-74th-biennial-convention" target="_blank" rel="noopener">NALC 74th Biennial Convention</a></td></tr>
+<tr><td>Wednesday</td><td>08/05/2026</td><td>TBA</td><td><a href="https://www.laconventioncenter.com/events/detail/nalc-74th-biennial-convention" target="_blank" rel="noopener">NALC 74th Biennial Convention</a></td></tr>
+<tr><td>Tuesday</td><td>08/04/2026</td><td>TBA</td><td><a href="https://www.laconventioncenter.com/events/detail/nalc-74th-biennial-convention" target="_blank" rel="noopener">NALC 74th Biennial Convention</a></td></tr>
+<tr><td>Monday</td><td>08/03/2026</td><td>TBA</td><td><a href="https://www.laconventioncenter.com/events/detail/nalc-74th-biennial-convention" target="_blank" rel="noopener">NALC 74th Biennial Convention</a></td></tr>
+<tr><td>Sunday</td><td>08/02/2026</td><td>TBA</td><td><a href="https://www.laconventioncenter.com/events/detail/collect-a-con-los-angeles-august-2026" target="_blank" rel="noopener">Collect-A-Con Los Angeles</a></td></tr>
+<tr><td>Saturday</td><td>08/01/2026</td><td>TBA</td><td><a href="https://www.laconventioncenter.com/events/detail/collect-a-con-los-angeles-august-2026" target="_blank" rel="noopener">Collect-A-Con Los Angeles</a></td></tr>
+<tr><td>Thursday</td><td>07/23/2026</td><td>TBA</td><td><a href="https://www.laconventioncenter.com/events/detail/siggraph-2026" target="_blank" rel="noopener">SIGGRAPH 2026</a></td></tr>
+<tr><td>Wednesday</td><td>07/22/2026</td><td>TBA</td><td><a href="https://www.laconventioncenter.com/events/detail/siggraph-2026" target="_blank" rel="noopener">SIGGRAPH 2026</a></td></tr>
+<tr><td>Tuesday</td><td>07/21/2026</td><td>TBA</td><td><a href="https://www.laconventioncenter.com/events/detail/siggraph-2026" target="_blank" rel="noopener">SIGGRAPH 2026</a></td></tr>
+<tr><td>Monday</td><td>07/20/2026</td><td>TBA</td><td><a href="https://www.laconventioncenter.com/events/detail/siggraph-2026" target="_blank" rel="noopener">SIGGRAPH 2026</a></td></tr>
+<tr><td>Sunday</td><td>07/19/2026</td><td>TBA</td><td><a href="https://www.laconventioncenter.com/events/detail/siggraph-2026" target="_blank" rel="noopener">SIGGRAPH 2026</a></td></tr>
+<tr><td>Sunday</td><td>07/12/2026</td><td>TBA</td><td><a href="https://www.laconventioncenter.com/events/detail/gothic-market-los-angeles-2026" target="_blank" rel="noopener">Gothic Market Los Angeles 2026</a></td></tr>
+<tr><td>Sunday</td><td>07/12/2026</td><td>TBA</td><td><a href="https://www.laconventioncenter.com/events/detail/los-angeles-summer-international-open-ibjjf-jiu-jitsu-championship" target="_blank" rel="noopener">Los Angeles Summer International Open IBJJF Jiu-Jitsu Championship</a></td></tr>
+<tr><td>Saturday</td><td>07/11/2026</td><td>TBA</td><td><a href="https://www.laconventioncenter.com/events/detail/gothic-market-los-angeles-2026" target="_blank" rel="noopener">Gothic Market Los Angeles 2026</a></td></tr>
+<tr><td>Saturday</td><td>07/11/2026</td><td>TBA</td><td><a href="https://www.laconventioncenter.com/events/detail/spocom-los-angeles-2026" target="_blank" rel="noopener">SPOCOM Los Angeles 2026</a></td></tr>
+<tr><td>Saturday</td><td>07/11/2026</td><td>TBA</td><td><a href="https://www.laconventioncenter.com/events/detail/los-angeles-summer-international-open-ibjjf-jiu-jitsu-championship" target="_blank" rel="noopener">Los Angeles Summer International Open IBJJF Jiu-Jitsu Championship</a></td></tr>
+<tr><td>Sunday</td><td>07/05/2026</td><td>TBA</td><td><a href="https://www.laconventioncenter.com/events/detail/anime-expo-2026" target="_blank" rel="noopener">Anime Expo 2026</a></td></tr>
+<tr><td>Saturday</td><td>07/04/2026</td><td>TBA</td><td><a href="https://www.laconventioncenter.com/events/detail/anime-expo-2026" target="_blank" rel="noopener">Anime Expo 2026</a></td></tr>
+<tr><td>Friday</td><td>07/03/2026</td><td>TBA</td><td><a href="https://www.laconventioncenter.com/events/detail/anime-expo-2026" target="_blank" rel="noopener">Anime Expo 2026</a></td></tr>
+<tr><td>Thursday</td><td>07/02/2026</td><td>TBA</td><td><a href="https://www.laconventioncenter.com/events/detail/anime-expo-2026" target="_blank" rel="noopener">Anime Expo 2026</a></td></tr>
+<tr><td>Friday</td><td>06/26/2026</td><td>TBA</td><td><a href="https://www.laconventioncenter.com/events/detail/prestige-career-college-hrtp-graduation-ceremony-2026" target="_blank" rel="noopener">Prestige Career College HRTP Graduation Ceremony 2026</a></td></tr>
+<tr><td>Sunday</td><td>06/21/2026</td><td>TBA</td><td><a href="https://www.laconventioncenter.com/events/detail/socal-cup-the-showcase-1" target="_blank" rel="noopener">SoCal Cup: The Showcase</a></td></tr>
+<tr><td>Saturday</td><td>06/20/2026</td><td>TBA</td><td><a href="https://www.laconventioncenter.com/events/detail/socal-cup-the-showcase-1" target="_blank" rel="noopener">SoCal Cup: The Showcase</a></td></tr>
+<tr><td>Friday</td><td>06/19/2026</td><td>TBA</td><td><a href="https://www.laconventioncenter.com/events/detail/socal-cup-the-showcase-1" target="_blank" rel="noopener">SoCal Cup: The Showcase</a></td></tr>
+<tr><td>Sunday</td><td>06/14/2026</td><td>TBA</td><td><a href="https://www.laconventioncenter.com/events/detail/la-card-show" target="_blank" rel="noopener">LA Card Show</a></td></tr>
+<tr><td>Sunday</td><td>06/14/2026</td><td>TBA</td><td><a href="https://www.laconventioncenter.com/events/detail/fitted-cod-los-angeles" target="_blank" rel="noopener">FITTED x COD - LOS ANGELES</a></td></tr>
+<tr><td>Sunday</td><td>06/14/2026</td><td>TBA</td><td><a href="https://www.laconventioncenter.com/events/detail/horrorcon-los-angeles-2026" target="_blank" rel="noopener">HorrorCon Los Angeles</a></td></tr>
+<tr><td>Sunday</td><td>06/14/2026</td><td>TBA</td><td><a href="https://www.laconventioncenter.com/events/detail/coretcg-one-piece-regionals" target="_blank" rel="noopener">CoreTCG x One Piece Regionals</a></td></tr>
+<tr><td>Saturday</td><td>06/13/2026</td><td>TBA</td><td><a href="https://www.laconventioncenter.com/events/detail/la-card-show" target="_blank" rel="noopener">LA Card Show</a></td></tr>
+<tr><td>Saturday</td><td>06/13/2026</td><td>TBA</td><td><a href="https://www.laconventioncenter.com/events/detail/horrorcon-los-angeles-2026" target="_blank" rel="noopener">HorrorCon Los Angeles</a></td></tr>
+<tr><td>Saturday</td><td>06/13/2026</td><td>TBA</td><td><a href="https://www.laconventioncenter.com/events/detail/coretcg-one-piece-regionals" target="_blank" rel="noopener">CoreTCG x One Piece Regionals</a></td></tr>
+<tr><td>Saturday</td><td>06/13/2026</td><td>TBA</td><td><a href="https://www.laconventioncenter.com/events/detail/tonights-conversation-live-uncut-los-angeles" target="_blank" rel="noopener">Tonight&#x27;s Conversation: LIVE &amp; UNCUT Los Angeles</a></td></tr>
+<tr><td>Wednesday</td><td>06/10/2026</td><td>TBA</td><td><a href="https://www.laconventioncenter.com/events/detail/aws-summit-los-angeles-2026" target="_blank" rel="noopener">AWS Summit Los Angeles 2026</a></td></tr>
+<tr><td>Tuesday</td><td>06/02/2026</td><td>TBA</td><td><a href="https://www.laconventioncenter.com/events/detail/society-of-nuclear-medicine-and-molecular-imaging-annual-meeting-2026" target="_blank" rel="noopener">Society of Nuclear Medicine and Molecular Imaging Annual Meeting 2026</a></td></tr>
+<tr><td>Monday</td><td>06/01/2026</td><td>TBA</td><td><a href="https://www.laconventioncenter.com/events/detail/society-of-nuclear-medicine-and-molecular-imaging-annual-meeting-2026" target="_blank" rel="noopener">Society of Nuclear Medicine and Molecular Imaging Annual Meeting 2026</a></td></tr>
+<tr><td>Saturday</td><td>05/30/2026</td><td>TBA</td><td><a href="https://www.laconventioncenter.com/events/detail/society-of-nuclear-medicine-and-molecular-imaging-annual-meeting-2026" target="_blank" rel="noopener">Society of Nuclear Medicine and Molecular Imaging Annual Meeting 2026</a></td></tr>
+<tr><td>Monday</td><td>05/18/2026</td><td>TBA</td><td><a href="https://www.laconventioncenter.com/events/detail/atd-2026-association-for-talent-development-conference" target="_blank" rel="noopener">ATD 26 | Association for Talent Development Conference &amp; Expo</a></td></tr>
+<tr><td>Friday</td><td>05/08/2026</td><td>TBA</td><td><a href="https://www.laconventioncenter.com/events/detail/los-angeles-pokemon-regional-championships" target="_blank" rel="noopener">Los Angeles Pokémon Regional Championships</a></td></tr>
+<tr><td>Sunday</td><td>05/03/2026</td><td>TBA</td><td><a href="https://www.laconventioncenter.com/events/detail/98th-annual-aaae-conference-exposition" target="_blank" rel="noopener">98th Annual AAAE Conference &amp; Exposition</a></td></tr>
+<tr><td>Sunday</td><td>05/03/2026</td><td>TBA</td><td><a href="https://www.laconventioncenter.com/events/detail/society-for-information-display-week-2026" target="_blank" rel="noopener">Display Week 2026</a></td></tr>
+<tr><td>Monday</td><td>04/27/2026</td><td>TBA</td><td><a href="https://www.laconventioncenter.com/events/detail/helmsbriscoe-2026-annual-business-conference-abc" target="_blank" rel="noopener">HelmsBriscoe - 2026 Annual Business Conference (ABC)</a></td></tr>
+<tr><td>Wednesday</td><td>04/22/2026</td><td>TBA</td><td><a href="https://www.laconventioncenter.com/events/detail/the-nama-show-2026" target="_blank" rel="noopener">The NAMA Show 2026</a></td></tr>
+<tr><td>Thursday</td><td>04/16/2026</td><td>TBA</td><td><a href="https://www.laconventioncenter.com/events/detail/sbmt-world-congress-2026" target="_blank" rel="noopener">SBMT World Congress 2026</a></td></tr>
+<tr><td>Wednesday</td><td>04/15/2026</td><td>TBA</td><td><a href="https://www.laconventioncenter.com/events/detail/aoa-of-california-trade-show-2026" target="_blank" rel="noopener">AOA of California Trade Show</a></td></tr>
+<tr><td>Saturday</td><td>04/11/2026</td><td>TBA</td><td><a href="https://www.laconventioncenter.com/events/detail/los-angeles-career-forum-2026" target="_blank" rel="noopener">Los Angeles Career Forum 2026</a></td></tr>
+<tr><td>Wednesday</td><td>04/08/2026</td><td>TBA</td><td><a href="https://www.laconventioncenter.com/events/detail/2026-aera-annual-meeting" target="_blank" rel="noopener">2026 AERA Annual Meeting</a></td></tr>
+<tr><td>Saturday</td><td>03/28/2026</td><td>TBA</td><td><a href="https://www.laconventioncenter.com/events/detail/victory-gymnastics-xcel-state-championship" target="_blank" rel="noopener">Victory Gymnastics - XCEL State Championship</a></td></tr>
+<tr><td>Friday</td><td>03/27/2026</td><td>TBA</td><td><a href="https://www.laconventioncenter.com/events/detail/american-pharmacists-association" target="_blank" rel="noopener">American Pharmacists Association (APhA) Annual Meeting &amp; Exposition 2026</a></td></tr>
+<tr><td>Wednesday</td><td>03/25/2026</td><td>TBA</td><td><a href="https://www.laconventioncenter.com/events/detail/hr-star-conference-2026" target="_blank" rel="noopener">HR Star Conference 2026</a></td></tr>
+<tr><td>Sunday</td><td>03/08/2026</td><td>TBA</td><td><a href="https://www.laconventioncenter.com/events/detail/california-bridal-wedding-expo-14" target="_blank" rel="noopener">California Bridal &amp; Wedding Expo</a></td></tr>
+<tr><td>Saturday</td><td>03/07/2026</td><td>TBA</td><td><a href="https://www.laconventioncenter.com/events/detail/black-men-in-white-coats-2026" target="_blank" rel="noopener">Black Men in White Coats Youth Summit 2026</a></td></tr>
+<tr><td>Friday</td><td>03/06/2026</td><td>TBA</td><td><a href="https://www.laconventioncenter.com/events/detail/victory-gymnastics-victory-classic" target="_blank" rel="noopener">Victory Gymnastics - Victory Classic</a></td></tr>
+<tr><td>Wednesday</td><td>03/04/2026</td><td>TBA</td><td><a href="https://www.laconventioncenter.com/events/detail/makeup-in-los-angeles-2026" target="_blank" rel="noopener">MakeUp + Luxe Pack in Los Angeles 2026</a></td></tr>
+<tr><td>Tuesday</td><td>03/03/2026</td><td>TBA</td><td><a href="https://www.laconventioncenter.com/events/detail/catersource-the-special-event-expo" target="_blank" rel="noopener">Catersource &amp; The Special Event Expo</a></td></tr>
+<tr><td>Saturday</td><td>02/28/2026</td><td>TBA</td><td><a href="https://www.laconventioncenter.com/events/detail/el-sembrador-ministries-metanoia-de-mujeres-2" target="_blank" rel="noopener">El Sembrador Ministries - Metanoia de Mujeres</a></td></tr>
+<tr><td>Saturday</td><td>02/28/2026</td><td>TBA</td><td><a href="https://www.laconventioncenter.com/events/detail/spotlight-card-show" target="_blank" rel="noopener">Spotlight Card Show</a></td></tr>
+<tr><td>Saturday</td><td>02/28/2026</td><td>TBA</td><td><a href="https://www.laconventioncenter.com/events/detail/import-expo-x-cali-creaming" target="_blank" rel="noopener">Import Expo x Cali Creaming</a></td></tr>
+<tr><td>Sunday</td><td>02/22/2026</td><td>TBA</td><td><a href="https://www.laconventioncenter.com/events/detail/vive-2026" target="_blank" rel="noopener">ViVE 2026</a></td></tr>
+<tr><td>Thursday</td><td>02/12/2026</td><td>TBA</td><td><a href="https://www.laconventioncenter.com/events/detail/nba-crossover-ultimate-fan-experience" target="_blank" rel="noopener">NBA Crossover: The Ultimate Fan Experience</a></td></tr>
+<tr><td>Saturday</td><td>01/31/2026</td><td>TBA</td><td><a href="https://www.laconventioncenter.com/events/detail/ibjjf-jiu-jitsu-championship" target="_blank" rel="noopener">IBJJF Jiu Jitsu Championship</a></td></tr>
+<tr><td>Saturday</td><td>01/31/2026</td><td>TBA</td><td><a href="https://www.laconventioncenter.com/events/detail/grand-archive-phantom-monarch-regional-championships" target="_blank" rel="noopener">Grand Archive Phantom Monarch Regional Championships</a></td></tr>
+<tr><td>Wednesday</td><td>01/07/2026</td><td>TBA</td><td><a href="https://www.laconventioncenter.com/events/detail/modern-language-association-annual-convention-2027" target="_blank" rel="noopener">Modern Language Association Annual Convention 2027</a></td></tr>
+<tr><td>Tuesday</td><td>01/06/2026</td><td>TBA</td><td><a href="https://www.laconventioncenter.com/events/detail/la-art-show-2027" target="_blank" rel="noopener">LA Art Show 2027</a></td></tr>
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+
+        <div class="tab-pane fade" id="pane-dodger-stadium" role="tabpanel" aria-labelledby="tab-dodger-stadium">
+          <div class="d-flex justify-content-between align-items-center mb-2">
+            <div class="btn-group btn-group-sm" role="group" aria-label="Toggle current or past events">
+              <button type="button" class="btn venue-toggle-btn active" data-vid="dodger-stadium" data-view="current">Current Events</button>
+              <button type="button" class="btn venue-toggle-btn" data-vid="dodger-stadium" data-view="past">Past Events</button>
+            </div>
+            <a href="https://www.mlb.com/dodgers/schedule" target="_blank" rel="noopener" class="btn btn-sm btn-outline-secondary">
+              View venue site &rarr;
+            </a>
+          </div>
+          <div class="venue-view-current" id="current-dodger-stadium">
+            <div class="text-muted small mb-1">18 event(s)</div>
+            <div class="table-responsive">
+              <table class="table table-striped table-hover table-sm sortable" id="tbl-dodger-stadium" style="table-layout:fixed;width:100%">
+                <colgroup>
+                <col style="width:120px">
+                <col style="width:110px">
+                <col style="width:90px">
+                <col>
+              </colgroup>
+                <thead class="table-dark">
+                  <tr>
+                    <th>Day</th><th>Date</th><th>Time</th><th>Event Name</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr><td>Friday</td><td>08/21/2026</td><td>7:10 PM</td><td><a href="https://www.mlb.com/gameday/823911" target="_blank" rel="noopener">vs. Pittsburgh Pirates</a></td></tr>
 <tr><td>Saturday</td><td>08/22/2026</td><td>4:15 PM</td><td><a href="https://www.mlb.com/gameday/823910" target="_blank" rel="noopener">vs. Pittsburgh Pirates</a></td></tr>
 <tr><td>Sunday</td><td>08/23/2026</td><td>1:10 PM</td><td><a href="https://www.mlb.com/gameday/823909" target="_blank" rel="noopener">vs. Pittsburgh Pirates</a></td></tr>
 <tr><td>Tuesday</td><td>09/01/2026</td><td>7:10 PM</td><td><a href="https://www.mlb.com/gameday/823908" target="_blank" rel="noopener">vs. St. Louis Cardinals</a></td></tr>
@@ -639,33 +1183,122 @@
 <tr><td>Tuesday</td><td>09/22/2026</td><td>7:10 PM</td><td><a href="https://www.mlb.com/gameday/823897" target="_blank" rel="noopener">vs. San Diego Padres</a></td></tr>
 <tr><td>Wednesday</td><td>09/23/2026</td><td>7:10 PM</td><td><a href="https://www.mlb.com/gameday/823894" target="_blank" rel="noopener">vs. San Diego Padres</a></td></tr>
 <tr><td>Thursday</td><td>09/24/2026</td><td>7:10 PM</td><td><a href="https://www.mlb.com/gameday/823895" target="_blank" rel="noopener">vs. San Diego Padres</a></td></tr>
-              </tbody>
-            </table>
+                </tbody>
+              </table>
+            </div>
           </div>
-        </div>
-
-        <div class="tab-pane fade" id="pane-hollywood-bowl" role="tabpanel" aria-labelledby="tab-hollywood-bowl">
-          <div class="d-flex justify-content-between align-items-center mb-1">
-            <span class="text-muted small">48 event(s)</span>
-            <a href="https://www.hollywoodbowl.com/events/performances?Venue=Hollywood+Bowl&amp;Season=upcoming" target="_blank" rel="noopener" class="btn btn-sm btn-outline-secondary">
-              View venue site &rarr;
-            </a>
-          </div>
-          <div class="table-responsive">
-            <table class="table table-striped table-hover table-sm sortable" id="tbl-hollywood-bowl" style="table-layout:fixed;width:100%">
-              <colgroup>
-                <col style="width:80px">
+          <div class="venue-view-past" id="past-dodger-stadium" hidden>
+            <div class="text-muted small mb-1">63 archived event(s)</div>
+            <div class="table-responsive">
+              <table class="table table-striped table-hover table-sm sortable" id="tbl-past-dodger-stadium" style="table-layout:fixed;width:100%">
+                <colgroup>
+                <col style="width:120px">
                 <col style="width:110px">
                 <col style="width:90px">
                 <col>
               </colgroup>
-              <thead class="table-dark">
-                <tr>
-                  <th>Day</th><th>Date</th><th>Time</th><th>Event Name</th>
-                </tr>
-              </thead>
-              <tbody>
-                <tr><td>Friday</td><td>08/21/2026</td><td>8:00 PM</td><td><a href="https://www.hollywoodbowl.com/events/performances/4326/2026-08-21/celebrating-gustavo-at-the-bowl-gustavos-fiesta" target="_blank" rel="noopener">Celebrating Gustavo at the Bowl: Gustavo’s Fiesta</a></td></tr>
+                <thead class="table-dark">
+                  <tr>
+                    <th>Day</th><th>Date</th><th>Time</th><th>Event Name</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr><td>Sunday</td><td>08/16/2026</td><td>1:10 PM</td><td><a href="https://www.mlb.com/gameday/823912" target="_blank" rel="noopener">vs. Milwaukee Brewers</a></td></tr>
+<tr><td>Saturday</td><td>08/15/2026</td><td>4:15 PM</td><td><a href="https://www.mlb.com/gameday/823914" target="_blank" rel="noopener">vs. Milwaukee Brewers</a></td></tr>
+<tr><td>Friday</td><td>08/14/2026</td><td>7:10 PM</td><td><a href="https://www.mlb.com/gameday/823913" target="_blank" rel="noopener">vs. Milwaukee Brewers</a></td></tr>
+<tr><td>Thursday</td><td>08/13/2026</td><td>7:10 PM</td><td><a href="https://www.mlb.com/gameday/823915" target="_blank" rel="noopener">vs. Milwaukee Brewers</a></td></tr>
+<tr><td>Wednesday</td><td>08/12/2026</td><td>7:10 PM</td><td><a href="https://www.mlb.com/gameday/823916" target="_blank" rel="noopener">vs. Kansas City Royals</a></td></tr>
+<tr><td>Tuesday</td><td>08/11/2026</td><td>7:10 PM</td><td><a href="https://www.mlb.com/gameday/823917" target="_blank" rel="noopener">vs. Kansas City Royals</a></td></tr>
+<tr><td>Monday</td><td>08/10/2026</td><td>7:10 PM</td><td><a href="https://www.mlb.com/gameday/823918" target="_blank" rel="noopener">vs. Kansas City Royals</a></td></tr>
+<tr><td>Sunday</td><td>08/02/2026</td><td>4:20 PM</td><td><a href="https://www.mlb.com/gameday/823919" target="_blank" rel="noopener">vs. Boston Red Sox</a></td></tr>
+<tr><td>Saturday</td><td>08/01/2026</td><td>6:10 PM</td><td><a href="https://www.mlb.com/gameday/823920" target="_blank" rel="noopener">vs. Boston Red Sox</a></td></tr>
+<tr><td>Friday</td><td>07/31/2026</td><td>7:10 PM</td><td><a href="https://www.mlb.com/gameday/823922" target="_blank" rel="noopener">vs. Boston Red Sox</a></td></tr>
+<tr><td>Thursday</td><td>07/30/2026</td><td>7:10 PM</td><td><a href="https://www.mlb.com/gameday/823921" target="_blank" rel="noopener">vs. Seattle Mariners</a></td></tr>
+<tr><td>Wednesday</td><td>07/29/2026</td><td>7:10 PM</td><td><a href="https://www.mlb.com/gameday/823924" target="_blank" rel="noopener">vs. Seattle Mariners</a></td></tr>
+<tr><td>Tuesday</td><td>07/28/2026</td><td>7:10 PM</td><td><a href="https://www.mlb.com/gameday/823923" target="_blank" rel="noopener">vs. Seattle Mariners</a></td></tr>
+<tr><td>Sunday</td><td>07/12/2026</td><td>1:10 PM</td><td><a href="https://www.mlb.com/gameday/823925" target="_blank" rel="noopener">vs. Arizona Diamondbacks</a></td></tr>
+<tr><td>Saturday</td><td>07/11/2026</td><td>6:10 PM</td><td><a href="https://www.mlb.com/gameday/823926" target="_blank" rel="noopener">vs. Arizona Diamondbacks</a></td></tr>
+<tr><td>Friday</td><td>07/10/2026</td><td>7:10 PM</td><td><a href="https://www.mlb.com/gameday/823927" target="_blank" rel="noopener">vs. Arizona Diamondbacks</a></td></tr>
+<tr><td>Wednesday</td><td>07/08/2026</td><td>7:10 PM</td><td><a href="https://www.mlb.com/gameday/823928" target="_blank" rel="noopener">vs. Colorado Rockies</a></td></tr>
+<tr><td>Tuesday</td><td>07/07/2026</td><td>7:10 PM</td><td><a href="https://www.mlb.com/gameday/823929" target="_blank" rel="noopener">vs. Colorado Rockies</a></td></tr>
+<tr><td>Monday</td><td>07/06/2026</td><td>7:10 PM</td><td><a href="https://www.mlb.com/gameday/823930" target="_blank" rel="noopener">vs. Colorado Rockies</a></td></tr>
+<tr><td>Sunday</td><td>07/05/2026</td><td>4:20 PM</td><td><a href="https://www.mlb.com/gameday/823931" target="_blank" rel="noopener">vs. San Diego Padres</a></td></tr>
+<tr><td>Saturday</td><td>07/04/2026</td><td>7:10 PM</td><td><a href="https://www.mlb.com/gameday/823932" target="_blank" rel="noopener">vs. San Diego Padres</a></td></tr>
+<tr><td>Friday</td><td>07/03/2026</td><td>7:10 PM</td><td><a href="https://www.mlb.com/gameday/823933" target="_blank" rel="noopener">vs. San Diego Padres</a></td></tr>
+<tr><td>Thursday</td><td>07/02/2026</td><td>7:10 PM</td><td><a href="https://www.mlb.com/gameday/823935" target="_blank" rel="noopener">vs. San Diego Padres</a></td></tr>
+<tr><td>Sunday</td><td>06/21/2026</td><td>1:10 PM</td><td><a href="https://www.mlb.com/gameday/823934" target="_blank" rel="noopener">vs. Baltimore Orioles</a></td></tr>
+<tr><td>Saturday</td><td>06/20/2026</td><td>7:10 PM</td><td><a href="https://www.mlb.com/gameday/823937" target="_blank" rel="noopener">vs. Baltimore Orioles</a></td></tr>
+<tr><td>Friday</td><td>06/19/2026</td><td>7:10 PM</td><td><a href="https://www.mlb.com/gameday/823936" target="_blank" rel="noopener">vs. Baltimore Orioles</a></td></tr>
+<tr><td>Wednesday</td><td>06/17/2026</td><td>12:10 PM</td><td><a href="https://www.mlb.com/gameday/823940" target="_blank" rel="noopener">vs. Tampa Bay Rays</a></td></tr>
+<tr><td>Tuesday</td><td>06/16/2026</td><td>7:10 PM</td><td><a href="https://www.mlb.com/gameday/823939" target="_blank" rel="noopener">vs. Tampa Bay Rays</a></td></tr>
+<tr><td>Monday</td><td>06/15/2026</td><td>7:10 PM</td><td><a href="https://www.mlb.com/gameday/823938" target="_blank" rel="noopener">vs. Tampa Bay Rays</a></td></tr>
+<tr><td>Sunday</td><td>06/07/2026</td><td>1:10 PM</td><td><a href="https://www.mlb.com/gameday/823941" target="_blank" rel="noopener">vs. Los Angeles Angels</a></td></tr>
+<tr><td>Saturday</td><td>06/06/2026</td><td>7:10 PM</td><td><a href="https://www.mlb.com/gameday/823942" target="_blank" rel="noopener">vs. Los Angeles Angels</a></td></tr>
+<tr><td>Friday</td><td>06/05/2026</td><td>7:10 PM</td><td><a href="https://www.mlb.com/gameday/823943" target="_blank" rel="noopener">vs. Los Angeles Angels</a></td></tr>
+<tr><td>Sunday</td><td>05/31/2026</td><td>1:10 PM</td><td><a href="https://www.mlb.com/gameday/823944" target="_blank" rel="noopener">vs. Philadelphia Phillies</a></td></tr>
+<tr><td>Saturday</td><td>05/30/2026</td><td>7:10 PM</td><td><a href="https://www.mlb.com/gameday/823945" target="_blank" rel="noopener">vs. Philadelphia Phillies</a></td></tr>
+<tr><td>Friday</td><td>05/29/2026</td><td>7:15 PM</td><td><a href="https://www.mlb.com/gameday/823946" target="_blank" rel="noopener">vs. Philadelphia Phillies</a></td></tr>
+<tr><td>Wednesday</td><td>05/27/2026</td><td>7:10 PM</td><td><a href="https://www.mlb.com/gameday/823947" target="_blank" rel="noopener">vs. Colorado Rockies</a></td></tr>
+<tr><td>Tuesday</td><td>05/26/2026</td><td>7:10 PM</td><td><a href="https://www.mlb.com/gameday/823949" target="_blank" rel="noopener">vs. Colorado Rockies</a></td></tr>
+<tr><td>Monday</td><td>05/25/2026</td><td>6:10 PM</td><td><a href="https://www.mlb.com/gameday/823948" target="_blank" rel="noopener">vs. Colorado Rockies</a></td></tr>
+<tr><td>Thursday</td><td>05/14/2026</td><td>7:10 PM</td><td><a href="https://www.mlb.com/gameday/823950" target="_blank" rel="noopener">vs. San Francisco Giants</a></td></tr>
+<tr><td>Wednesday</td><td>05/13/2026</td><td>7:10 PM</td><td><a href="https://www.mlb.com/gameday/823952" target="_blank" rel="noopener">vs. San Francisco Giants</a></td></tr>
+<tr><td>Tuesday</td><td>05/12/2026</td><td>7:10 PM</td><td><a href="https://www.mlb.com/gameday/823951" target="_blank" rel="noopener">vs. San Francisco Giants</a></td></tr>
+<tr><td>Monday</td><td>05/11/2026</td><td>7:10 PM</td><td><a href="https://www.mlb.com/gameday/823953" target="_blank" rel="noopener">vs. San Francisco Giants</a></td></tr>
+<tr><td>Sunday</td><td>05/10/2026</td><td>1:10 PM</td><td><a href="https://www.mlb.com/gameday/823954" target="_blank" rel="noopener">vs. Atlanta Braves</a></td></tr>
+<tr><td>Saturday</td><td>05/09/2026</td><td>6:10 PM</td><td><a href="https://www.mlb.com/gameday/823955" target="_blank" rel="noopener">vs. Atlanta Braves</a></td></tr>
+<tr><td>Friday</td><td>05/08/2026</td><td>7:10 PM</td><td><a href="https://www.mlb.com/gameday/823957" target="_blank" rel="noopener">vs. Atlanta Braves</a></td></tr>
+<tr><td>Wednesday</td><td>04/29/2026</td><td>12:10 PM</td><td><a href="https://www.mlb.com/gameday/823958" target="_blank" rel="noopener">vs. Miami Marlins</a></td></tr>
+<tr><td>Tuesday</td><td>04/28/2026</td><td>7:10 PM</td><td><a href="https://www.mlb.com/gameday/823956" target="_blank" rel="noopener">vs. Miami Marlins</a></td></tr>
+<tr><td>Monday</td><td>04/27/2026</td><td>7:10 PM</td><td><a href="https://www.mlb.com/gameday/823961" target="_blank" rel="noopener">vs. Miami Marlins</a></td></tr>
+<tr><td>Sunday</td><td>04/26/2026</td><td>1:10 PM</td><td><a href="https://www.mlb.com/gameday/823959" target="_blank" rel="noopener">vs. Chicago Cubs</a></td></tr>
+<tr><td>Saturday</td><td>04/25/2026</td><td>4:15 PM</td><td><a href="https://www.mlb.com/gameday/823960" target="_blank" rel="noopener">vs. Chicago Cubs</a></td></tr>
+<tr><td>Friday</td><td>04/24/2026</td><td>7:15 PM</td><td><a href="https://www.mlb.com/gameday/823962" target="_blank" rel="noopener">vs. Chicago Cubs</a></td></tr>
+<tr><td>Wednesday</td><td>04/15/2026</td><td>7:10 PM</td><td><a href="https://www.mlb.com/gameday/823963" target="_blank" rel="noopener">vs. New York Mets</a></td></tr>
+<tr><td>Tuesday</td><td>04/14/2026</td><td>7:10 PM</td><td><a href="https://www.mlb.com/gameday/823965" target="_blank" rel="noopener">vs. New York Mets</a></td></tr>
+<tr><td>Monday</td><td>04/13/2026</td><td>7:10 PM</td><td><a href="https://www.mlb.com/gameday/823964" target="_blank" rel="noopener">vs. New York Mets</a></td></tr>
+<tr><td>Sunday</td><td>04/12/2026</td><td>1:10 PM</td><td><a href="https://www.mlb.com/gameday/823966" target="_blank" rel="noopener">vs. Texas Rangers</a></td></tr>
+<tr><td>Saturday</td><td>04/11/2026</td><td>6:10 PM</td><td><a href="https://www.mlb.com/gameday/823967" target="_blank" rel="noopener">vs. Texas Rangers</a></td></tr>
+<tr><td>Friday</td><td>04/10/2026</td><td>7:10 PM</td><td><a href="https://www.mlb.com/gameday/823968" target="_blank" rel="noopener">vs. Texas Rangers</a></td></tr>
+<tr><td>Wednesday</td><td>04/01/2026</td><td>5:20 PM</td><td><a href="https://www.mlb.com/gameday/823970" target="_blank" rel="noopener">vs. Cleveland Guardians</a></td></tr>
+<tr><td>Tuesday</td><td>03/31/2026</td><td>7:10 PM</td><td><a href="https://www.mlb.com/gameday/823969" target="_blank" rel="noopener">vs. Cleveland Guardians</a></td></tr>
+<tr><td>Monday</td><td>03/30/2026</td><td>7:10 PM</td><td><a href="https://www.mlb.com/gameday/823972" target="_blank" rel="noopener">vs. Cleveland Guardians</a></td></tr>
+<tr><td>Saturday</td><td>03/28/2026</td><td>6:10 PM</td><td><a href="https://www.mlb.com/gameday/823973" target="_blank" rel="noopener">vs. Arizona Diamondbacks</a></td></tr>
+<tr><td>Friday</td><td>03/27/2026</td><td>7:10 PM</td><td><a href="https://www.mlb.com/gameday/823971" target="_blank" rel="noopener">vs. Arizona Diamondbacks</a></td></tr>
+<tr><td>Thursday</td><td>03/26/2026</td><td>5:30 PM</td><td><a href="https://www.mlb.com/gameday/823974" target="_blank" rel="noopener">vs. Arizona Diamondbacks</a></td></tr>
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+
+        <div class="tab-pane fade" id="pane-hollywood-bowl" role="tabpanel" aria-labelledby="tab-hollywood-bowl">
+          <div class="d-flex justify-content-between align-items-center mb-2">
+            <div class="btn-group btn-group-sm" role="group" aria-label="Toggle current or past events">
+              <button type="button" class="btn venue-toggle-btn active" data-vid="hollywood-bowl" data-view="current">Current Events</button>
+              <button type="button" class="btn venue-toggle-btn" data-vid="hollywood-bowl" data-view="past">Past Events</button>
+            </div>
+            <a href="https://www.hollywoodbowl.com/events/performances?Venue=Hollywood+Bowl&amp;Season=upcoming" target="_blank" rel="noopener" class="btn btn-sm btn-outline-secondary">
+              View venue site &rarr;
+            </a>
+          </div>
+          <div class="venue-view-current" id="current-hollywood-bowl">
+            <div class="text-muted small mb-1">48 event(s)</div>
+            <div class="table-responsive">
+              <table class="table table-striped table-hover table-sm sortable" id="tbl-hollywood-bowl" style="table-layout:fixed;width:100%">
+                <colgroup>
+                <col style="width:120px">
+                <col style="width:110px">
+                <col style="width:90px">
+                <col>
+              </colgroup>
+                <thead class="table-dark">
+                  <tr>
+                    <th>Day</th><th>Date</th><th>Time</th><th>Event Name</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr><td>Friday</td><td>08/21/2026</td><td>8:00 PM</td><td><a href="https://www.hollywoodbowl.com/events/performances/4326/2026-08-21/celebrating-gustavo-at-the-bowl-gustavos-fiesta" target="_blank" rel="noopener">Celebrating Gustavo at the Bowl: Gustavo’s Fiesta</a></td></tr>
 <tr><td>Saturday</td><td>08/22/2026</td><td>8:00 PM</td><td><a href="https://www.hollywoodbowl.com/events/performances/4287/2026-08-22/celebrating-gustavo-at-the-bowl-foo-fighters-with-the-la-phil-and-yola" target="_blank" rel="noopener">Celebrating Gustavo at the Bowl: Foo Fighters with the LA Phil and YOLA</a></td></tr>
 <tr><td>Sunday</td><td>08/23/2026</td><td>7:00 PM</td><td><a href="https://www.hollywoodbowl.com/events/performances/4361/2026-08-23/a-concert-for-venezuela" target="_blank" rel="noopener">A Concert for Venezuela – A Benefit to Support Earthquake Relief</a></td></tr>
 <tr><td>Tuesday</td><td>08/25/2026</td><td>8:00 PM</td><td><a href="https://www.hollywoodbowl.com/events/performances/4330/2026-08-25/beethovens-fifth-with-anna-handler" target="_blank" rel="noopener">Beethoven’s Fifth with Anna Handler</a></td></tr>
@@ -713,8 +1346,85 @@
 <tr><td>Saturday</td><td>11/07/2026</td><td>7:00 PM</td><td><a href="https://www.hollywoodbowl.com/events/performances/4898/2026-11-07/jimmy-eat-world-the-format" target="_blank" rel="noopener">Jimmy Eat WorldThe Format – The Linda Lindas</a></td></tr>
 <tr><td>Wednesday</td><td>11/18/2026</td><td>7:30 PM</td><td><a href="https://www.hollywoodbowl.com/events/performances/4902/2026-11-18/jonas-brothers" target="_blank" rel="noopener">Jonas Brothers – All Time Low, Magnus Ferrell</a></td></tr>
 <tr><td>Saturday</td><td>11/21/2026</td><td>8:00 PM</td><td><a href="https://www.hollywoodbowl.com/events/performances/4900/2026-11-21/steve-lacy" target="_blank" rel="noopener">Steve Lacy</a></td></tr>
-              </tbody>
-            </table>
+                </tbody>
+              </table>
+            </div>
+          </div>
+          <div class="venue-view-past" id="past-hollywood-bowl" hidden>
+            <div class="text-muted small mb-1">56 archived event(s)</div>
+            <div class="table-responsive">
+              <table class="table table-striped table-hover table-sm sortable" id="tbl-past-hollywood-bowl" style="table-layout:fixed;width:100%">
+                <colgroup>
+                <col style="width:120px">
+                <col style="width:110px">
+                <col style="width:90px">
+                <col>
+              </colgroup>
+                <thead class="table-dark">
+                  <tr>
+                    <th>Day</th><th>Date</th><th>Time</th><th>Event Name</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr><td>Thursday</td><td>08/20/2026</td><td>8:00 PM</td><td><a href="https://www.hollywoodbowl.com/events/performances/4325/2026-08-20/celebrating-gustavo-at-the-bowl-beethoven-9" target="_blank" rel="noopener">Celebrating Gustavo at the Bowl: Beethoven 9</a></td></tr>
+<tr><td>Wednesday</td><td>08/19/2026</td><td>8:00 PM</td><td><a href="https://www.hollywoodbowl.com/events/performances/4324/2026-08-19/herbie-hancock-celebrates-miles-davis" target="_blank" rel="noopener">Herbie Hancock Celebrates Miles Davis</a></td></tr>
+<tr><td>Tuesday</td><td>08/18/2026</td><td>8:00 PM</td><td><a href="https://www.hollywoodbowl.com/events/performances/4323/2026-08-18/gershwin-bernstein-more" target="_blank" rel="noopener">Gershwin, Bernstein &amp; More</a></td></tr>
+<tr><td>Monday</td><td>08/17/2026</td><td>6:00 PM</td><td><a href="https://www.hollywoodbowl.com/events/performances/4352/2026-08-17/the-black-crowes-tedeschi-trucks-band" target="_blank" rel="noopener">The Black Crowes &amp; Tedeschi Trucks Band – Whiskey Myers</a></td></tr>
+<tr><td>Sunday</td><td>08/16/2026</td><td>8:00 PM</td><td><a href="https://www.hollywoodbowl.com/events/performances/4844/2026-08-16/yoasobi" target="_blank" rel="noopener">YOASOBI</a></td></tr>
+<tr><td>Saturday</td><td>08/15/2026</td><td>8:00 PM</td><td><a href="https://www.hollywoodbowl.com/events/performances/4353/2026-08-15/top-gun-maverick-in-concert" target="_blank" rel="noopener">Top Gun: Maverickin Concert</a></td></tr>
+<tr><td>Friday</td><td>08/14/2026</td><td>8:00 PM</td><td><a href="https://www.hollywoodbowl.com/events/performances/4321/2026-08-14/al-green" target="_blank" rel="noopener">Al Green – The Womack Sisters</a></td></tr>
+<tr><td>Thursday</td><td>08/13/2026</td><td>7:00 PM</td><td><a href="https://www.hollywoodbowl.com/events/performances/4364/2026-08-13/santana" target="_blank" rel="noopener">Santana – The Doobie Brothers</a></td></tr>
+<tr><td>Tuesday</td><td>08/11/2026</td><td>8:00 PM</td><td><a href="https://www.hollywoodbowl.com/events/performances/4320/2026-08-11/mozart-under-the-stars" target="_blank" rel="noopener">Mozart Under the Stars</a></td></tr>
+<tr><td>Monday</td><td>08/10/2026</td><td>8:00 PM</td><td><a href="https://www.hollywoodbowl.com/events/performances/4277/2026-08-10/john-mellencamp" target="_blank" rel="noopener">John Mellencamp</a></td></tr>
+<tr><td>Sunday</td><td>08/09/2026</td><td>7:30 PM</td><td><a href="https://www.hollywoodbowl.com/events/performances/4319/2026-08-09/how-to-train-your-dragon-in-concert" target="_blank" rel="noopener">How to Train Your Dragonin Concert</a></td></tr>
+<tr><td>Saturday</td><td>08/08/2026</td><td>8:00 PM</td><td><a href="https://www.hollywoodbowl.com/events/performances/4349/2026-08-08/counting-crows" target="_blank" rel="noopener">Counting Crows – Jimmy and Immy</a></td></tr>
+<tr><td>Friday</td><td>08/07/2026</td><td>8:00 PM</td><td><a href="https://www.hollywoodbowl.com/events/performances/4317/2026-08-07/counting-crows" target="_blank" rel="noopener">Counting Crows – Jimmy and Immy</a></td></tr>
+<tr><td>Thursday</td><td>08/06/2026</td><td>8:00 PM</td><td><a href="https://www.hollywoodbowl.com/events/performances/4316/2026-08-06/brahms-bizet" target="_blank" rel="noopener">Brahms &amp; Bizet</a></td></tr>
+<tr><td>Wednesday</td><td>08/05/2026</td><td>8:00 PM</td><td><a href="https://www.hollywoodbowl.com/events/performances/4354/2026-08-05/canceled-zz-top" target="_blank" rel="noopener">(CANCELED) ZZ Top – with Special Guest Cheap Trick</a></td></tr>
+<tr><td>Tuesday</td><td>08/04/2026</td><td>8:00 PM</td><td><a href="https://www.hollywoodbowl.com/events/performances/4315/2026-08-04/mendelssohn-haydn" target="_blank" rel="noopener">Mendelssohn &amp; Haydn</a></td></tr>
+<tr><td>Sunday</td><td>08/02/2026</td><td>7:00 PM</td><td><a href="https://www.hollywoodbowl.com/events/performances/4314/2026-08-02/st-vincent-with-the-hollywood-bowl-orchestra" target="_blank" rel="noopener">St. Vincent with the Hollywood Bowl Orchestra – Anoushka Shankar, KCRW Festival</a></td></tr>
+<tr><td>Saturday</td><td>08/01/2026</td><td>8:00 PM</td><td><a href="https://www.hollywoodbowl.com/events/performances/4313/2026-08-01/tchaikovsky-spectacular-with-fireworks" target="_blank" rel="noopener">Tchaikovsky Spectacular with Fireworks</a></td></tr>
+<tr><td>Friday</td><td>07/31/2026</td><td>8:00 PM</td><td><a href="https://www.hollywoodbowl.com/events/performances/4312/2026-07-31/tchaikovsky-spectacular-with-fireworks" target="_blank" rel="noopener">Tchaikovsky Spectacular with Fireworks</a></td></tr>
+<tr><td>Thursday</td><td>07/30/2026</td><td>8:00 PM</td><td><a href="https://www.hollywoodbowl.com/events/performances/4311/2026-07-30/pictures-at-an-exhibition" target="_blank" rel="noopener">Pictures at an Exhibition</a></td></tr>
+<tr><td>Wednesday</td><td>07/29/2026</td><td>8:00 PM</td><td><a href="https://www.hollywoodbowl.com/events/performances/4310/2026-07-29/tower-of-power-and-preservation-hall-jazz-band" target="_blank" rel="noopener">Tower of Power and Preservation Hall Jazz Band</a></td></tr>
+<tr><td>Tuesday</td><td>07/28/2026</td><td>8:00 PM</td><td><a href="https://www.hollywoodbowl.com/events/performances/4309/2026-07-28/rhapsody-in-blue-shostakovich" target="_blank" rel="noopener">Rhapsody in Blue&amp; Shostakovich</a></td></tr>
+<tr><td>Sunday</td><td>07/26/2026</td><td>7:00 PM</td><td><a href="https://www.hollywoodbowl.com/events/performances/4308/2026-07-26/boris-brejcha-with-the-hollywood-bowl-orchestra" target="_blank" rel="noopener">Boris Brejcha with the Hollywood Bowl Orchestra – Frieder &amp; Jakob, KCRW Festival</a></td></tr>
+<tr><td>Saturday</td><td>07/25/2026</td><td>8:00 PM</td><td><a href="https://www.hollywoodbowl.com/events/performances/4260/2026-07-25/smokey-robinson-gladys-knight-just-the-two-of-us" target="_blank" rel="noopener">Smokey Robinson &amp; Gladys Knight: Just the Two of Us</a></td></tr>
+<tr><td>Friday</td><td>07/24/2026</td><td>8:00 PM</td><td><a href="https://www.hollywoodbowl.com/events/performances/4259/2026-07-24/smokey-robinson-gladys-knight-just-the-two-of-us" target="_blank" rel="noopener">Smokey Robinson &amp; Gladys Knight: Just the Two of Us</a></td></tr>
+<tr><td>Thursday</td><td>07/23/2026</td><td>8:00 PM</td><td><a href="https://www.hollywoodbowl.com/events/performances/4305/2026-07-23/joe-hisaishi-film-music-concert" target="_blank" rel="noopener">Joe Hisaishi Film Music Concert – Featuring Studio Ghibli &amp; More</a></td></tr>
+<tr><td>Wednesday</td><td>07/22/2026</td><td>8:00 PM</td><td><a href="https://www.hollywoodbowl.com/events/performances/4304/2026-07-22/joe-hisaishi-film-music-concert" target="_blank" rel="noopener">Joe Hisaishi Film Music Concert – Featuring Studio Ghibli &amp; More</a></td></tr>
+<tr><td>Tuesday</td><td>07/21/2026</td><td>8:00 PM</td><td><a href="https://www.hollywoodbowl.com/events/performances/4303/2026-07-21/joe-hisaishi-film-music-concert" target="_blank" rel="noopener">Joe Hisaishi Film Music Concert – Featuring Studio Ghibli &amp; More</a></td></tr>
+<tr><td>Sunday</td><td>07/19/2026</td><td>7:00 PM</td><td><a href="https://www.hollywoodbowl.com/events/performances/4302/2026-07-19/bob-moses-and-cannons-afterglow-tour" target="_blank" rel="noopener">Bob Moses and Cannons: Afterglow Tour – Oxis, KCRW Festival</a></td></tr>
+<tr><td>Saturday</td><td>07/18/2026</td><td>8:00 PM</td><td><a href="https://www.hollywoodbowl.com/events/performances/4301/2026-07-18/blues-traveler-gin-blossoms" target="_blank" rel="noopener">Blues Traveler • Gin Blossoms – Spin Doctors</a></td></tr>
+<tr><td>Friday</td><td>07/17/2026</td><td>8:00 PM</td><td><a href="https://www.hollywoodbowl.com/events/performances/4300/2026-07-17/let-the-sunshine-in-the-music-of-69" target="_blank" rel="noopener">Let the Sunshine In: The Music of ’69</a></td></tr>
+<tr><td>Thursday</td><td>07/16/2026</td><td>8:00 PM</td><td><a href="https://www.hollywoodbowl.com/events/performances/4299/2026-07-16/mozart-brahms" target="_blank" rel="noopener">Mozart &amp; Brahms</a></td></tr>
+<tr><td>Wednesday</td><td>07/15/2026</td><td>8:00 PM</td><td><a href="https://www.hollywoodbowl.com/events/performances/4298/2026-07-15/salsa-spectacular-nathy-peluso-grupo-niche" target="_blank" rel="noopener">Salsa Spectacular: Nathy Peluso &amp; Grupo Niche – El Marchante with Willy Calderon</a></td></tr>
+<tr><td>Tuesday</td><td>07/14/2026</td><td>8:00 PM</td><td><a href="https://www.hollywoodbowl.com/events/performances/4297/2026-07-14/tchaikovsky-beethoven" target="_blank" rel="noopener">Tchaikovsky &amp; Beethoven</a></td></tr>
+<tr><td>Sunday</td><td>07/12/2026</td><td>7:00 PM</td><td><a href="https://www.hollywoodbowl.com/events/performances/4534/2026-07-12/music-from-the-films-of-wes-anderson" target="_blank" rel="noopener">Music from the Films of Wes Anderson – KCRW Festival</a></td></tr>
+<tr><td>Saturday</td><td>07/11/2026</td><td>8:00 PM</td><td><a href="https://www.hollywoodbowl.com/events/performances/4289/2026-07-11/music-from-the-films-of-wes-anderson" target="_blank" rel="noopener">Music from the Films of Wes Anderson</a></td></tr>
+<tr><td>Friday</td><td>07/10/2026</td><td>8:00 PM</td><td><a href="https://www.hollywoodbowl.com/events/performances/4288/2026-07-10/music-from-the-films-of-wes-anderson" target="_blank" rel="noopener">Music from the Films of Wes Anderson</a></td></tr>
+<tr><td>Thursday</td><td>07/09/2026</td><td>8:00 PM</td><td><a href="https://www.hollywoodbowl.com/events/performances/4296/2026-07-09/the-classical-world-cup" target="_blank" rel="noopener">The Classical World Cup</a></td></tr>
+<tr><td>Wednesday</td><td>07/08/2026</td><td>8:00 PM</td><td><a href="https://www.hollywoodbowl.com/events/performances/4295/2026-07-08/wilkins-conducts-bernstein-ellington" target="_blank" rel="noopener">Wilkins Conducts Bernstein &amp; Ellington</a></td></tr>
+<tr><td>Sunday</td><td>07/05/2026</td><td>7:30 PM</td><td><a href="https://www.hollywoodbowl.com/events/performances/4294/2026-07-05/herb-alpert-the-tijuana-brass-other-delights" target="_blank" rel="noopener">Herb Alpert &amp; The Tijuana Brass &amp; Other Delights</a></td></tr>
+<tr><td>Saturday</td><td>07/04/2026</td><td>7:30 PM</td><td><a href="https://www.hollywoodbowl.com/events/performances/4251/2026-07-04/july-fourth-fireworks-spectacular-with-the-beach-boys" target="_blank" rel="noopener">July Fourth Fireworks Spectacular with The Beach Boys – with Special Guest John Stamos</a></td></tr>
+<tr><td>Friday</td><td>07/03/2026</td><td>7:30 PM</td><td><a href="https://www.hollywoodbowl.com/events/performances/4250/2026-07-03/july-fourth-fireworks-spectacular-with-the-beach-boys" target="_blank" rel="noopener">July Fourth Fireworks Spectacular with The Beach Boys – with Special Guest John Stamos</a></td></tr>
+<tr><td>Thursday</td><td>07/02/2026</td><td>7:30 PM</td><td><a href="https://www.hollywoodbowl.com/events/performances/4249/2026-07-02/july-fourth-fireworks-spectacular-with-the-beach-boys" target="_blank" rel="noopener">July Fourth Fireworks Spectacular with The Beach Boys – with Special Guest John Stamos</a></td></tr>
+<tr><td>Saturday</td><td>06/27/2026</td><td>7:30 PM</td><td><a href="https://www.hollywoodbowl.com/events/performances/4248/2026-06-27/a-roots-picnic-experience" target="_blank" rel="noopener">A Roots Picnic Experience – A Great Night in Hip-Hop</a></td></tr>
+<tr><td>Thursday</td><td>06/25/2026</td><td>8:00 PM</td><td><a href="https://www.hollywoodbowl.com/events/performances/4839/2026-06-25/the-tabernacle-choir-at-temple-square-songs-of-hope-benefit-concert" target="_blank" rel="noopener">The Tabernacle Choir at Temple Square: Songs of Hope Benefit Concert</a></td></tr>
+<tr><td>Wednesday</td><td>06/24/2026</td><td>8:00 PM</td><td><a href="https://www.hollywoodbowl.com/events/performances/4838/2026-06-24/the-tabernacle-choir-at-temple-square-songs-of-hope-benefit-concert" target="_blank" rel="noopener">The Tabernacle Choir at Temple Square: Songs of Hope Benefit Concert</a></td></tr>
+<tr><td>Sunday</td><td>06/21/2026</td><td>7:00 PM</td><td><a href="https://www.hollywoodbowl.com/events/performances/4293/2026-06-21/reggae-night-xxiv" target="_blank" rel="noopener">Reggae Night XXIV – Ziggy Marley, Burning Spear, Zuri Marley, KCRW Festival</a></td></tr>
+<tr><td>Saturday</td><td>06/20/2026</td><td>8:00 PM</td><td><a href="https://www.hollywoodbowl.com/events/performances/4247/2026-06-20/opening-night-at-the-bowl-the-best-of-broadway" target="_blank" rel="noopener">Opening Night at the Bowl: The Best of Broadway</a></td></tr>
+<tr><td>Friday</td><td>06/19/2026</td><td>7:00 PM</td><td><a href="https://www.hollywoodbowl.com/events/performances/4292/2026-06-19/chance-the-rapper" target="_blank" rel="noopener">Chance the Rapper – A Juneteenth Celebration, D-Nice, Vic Mensa, DC6 Singers Collective</a></td></tr>
+<tr><td>Sunday</td><td>06/14/2026</td><td>6:00 PM</td><td><a href="https://www.hollywoodbowl.com/events/performances/4291/2026-06-14/blue-note-jazz-festival" target="_blank" rel="noopener">Blue Note Jazz Festival – Day Two: Sunday</a></td></tr>
+<tr><td>Saturday</td><td>06/13/2026</td><td>6:00 PM</td><td><a href="https://www.hollywoodbowl.com/events/performances/4273/2026-06-13/blue-note-jazz-festival" target="_blank" rel="noopener">Blue Note Jazz Festival – Day One: Saturday</a></td></tr>
+<tr><td>Wednesday</td><td>06/10/2026</td><td>7:30 PM</td><td><a href="https://www.hollywoodbowl.com/events/performances/4258/2026-06-10/rod-stewart" target="_blank" rel="noopener">Rod Stewart – Richard Marx</a></td></tr>
+<tr><td>Sunday</td><td>06/07/2026</td><td>8:00 PM</td><td><a href="https://www.hollywoodbowl.com/events/performances/4359/2026-06-07/paul-simon" target="_blank" rel="noopener">Paul Simon</a></td></tr>
+<tr><td>Saturday</td><td>06/06/2026</td><td>6:00 PM</td><td><a href="https://www.hollywoodbowl.com/events/performances/4274/2026-06-06/37th-mariachi-usa-with-fireworks" target="_blank" rel="noopener">37th Mariachi USA with Fireworks</a></td></tr>
+<tr><td>Thursday</td><td>06/04/2026</td><td>7:30 PM</td><td><a href="https://www.hollywoodbowl.com/events/performances/4283/2026-06-04/the-human-league" target="_blank" rel="noopener">The Human League – Soft Cell, Alison Moyet</a></td></tr>
+<tr><td>Saturday</td><td>05/30/2026</td><td>8:00 PM</td><td><a href="https://www.hollywoodbowl.com/events/performances/4278/2026-05-30/pitbull" target="_blank" rel="noopener">Pitbull – Lil Jon</a></td></tr>
+                </tbody>
+              </table>
+            </div>
           </div>
         </div>
       
@@ -1200,7 +1910,7 @@
   </div>
 
   <footer class="mt-4 pt-3 border-top text-muted small">
-    Last updated: Friday, August 21, 2026 at 03:39 PM
+    Last updated: Friday, August 21, 2026 at 07:35 PM
   </footer>
 </div>
 
@@ -1209,6 +1919,17 @@
 <script>
   document.querySelectorAll('table.sortable').forEach(function(table) {
     try { new Tablesort(table); } catch(e) {}
+  });
+  document.querySelectorAll('.venue-toggle-btn').forEach(function(btn) {
+    btn.addEventListener('click', function() {
+      var vid = btn.getAttribute('data-vid');
+      var view = btn.getAttribute('data-view');
+      var pane = document.getElementById('pane-' + vid);
+      pane.querySelectorAll('.venue-toggle-btn').forEach(function(b) { b.classList.remove('active'); });
+      btn.classList.add('active');
+      document.getElementById('current-' + vid).hidden = (view !== 'current');
+      document.getElementById('past-' + vid).hidden = (view !== 'past');
+    });
   });
   function applyPastVenueFilter() {
     var selected = document.getElementById('past-venue-filter').value;

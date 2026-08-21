@@ -63,15 +63,6 @@
     "link": "https://www.sofistadium.com/events/detail/bts-september-6-2026"
   },
   {
-    "key": "sofi stadium|09/12/2026|sip & stroll at sofi stadium – curated selection of wines, delicious bites & behind-the-scenes tour!",
-    "venue": "SoFi Stadium",
-    "day": "Saturday",
-    "date": "09/12/2026",
-    "time": "6:00 PM",
-    "name": "Sip & Stroll at SoFi Stadium – Curated selection of wines, delicious bites & behind-the-scenes tour!",
-    "link": "https://www.sofistadium.com/events/detail/sofi-tour-sip-wine-stroll-september-12"
-  },
-  {
     "key": "sofi stadium|09/13/2026|chargers vs. cardinals – week 1",
     "venue": "SoFi Stadium",
     "day": "Sunday",
@@ -1465,6 +1456,15 @@
     "time": "5:00 AM",
     "name": "ROSE BOWL FLEA MARKET",
     "link": "https://www.rosebowlstadium.com/events/details/604/rose-bowl-flea-market"
+  },
+  {
+    "key": "rose bowl stadium|09/17/2026|rose bowl quarterbacks club",
+    "venue": "Rose Bowl Stadium",
+    "day": "Thursday",
+    "date": "09/17/2026",
+    "time": "12:00 PM",
+    "name": "Rose Bowl Quarterbacks Club",
+    "link": "https://www.rosebowlstadium.com/events/details/671/rose-bowl-quarterbacks-club"
   },
   {
     "key": "rose bowl stadium|09/19/2026|purdue vs ucla",
