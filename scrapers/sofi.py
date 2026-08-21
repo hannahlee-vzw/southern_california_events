@@ -28,6 +28,7 @@ from ._util import absolute_url, dedup
 EXCLUDE_KEYWORDS = [
     "book your flight",
     "stadium tour",
+    "sip & stroll",
 ]
 
 
