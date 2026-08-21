@@ -2619,6 +2619,87 @@
     "link": "https://www.cryptoarena.com/events/detail/ncaawestregional2027"
   },
   {
+    "key": "l.a. memorial coliseum|08/29/2026|san jose state vs usc",
+    "venue": "L.A. Memorial Coliseum",
+    "day": "Saturday",
+    "date": "08/29/2026",
+    "time": "TBA",
+    "name": "San Jose State vs USC",
+    "link": "https://www.lacoliseum.com/events/sanjosestate-vs-usc-2026/"
+  },
+  {
+    "key": "l.a. memorial coliseum|09/04/2026|fresno state vs usc",
+    "venue": "L.A. Memorial Coliseum",
+    "day": "Friday",
+    "date": "09/04/2026",
+    "time": "TBA",
+    "name": "Fresno State vs USC",
+    "link": "https://www.lacoliseum.com/events/fresno-state-vs-usc-2026/"
+  },
+  {
+    "key": "l.a. memorial coliseum|09/12/2026|louisiana vs usc",
+    "venue": "L.A. Memorial Coliseum",
+    "day": "Saturday",
+    "date": "09/12/2026",
+    "time": "TBA",
+    "name": "Louisiana vs USC",
+    "link": "https://www.lacoliseum.com/events/louisiana-vs-usc-2026/"
+  },
+  {
+    "key": "l.a. memorial coliseum|09/26/2026|oregon vs usc",
+    "venue": "L.A. Memorial Coliseum",
+    "day": "Saturday",
+    "date": "09/26/2026",
+    "time": "TBA",
+    "name": "Oregon vs USC",
+    "link": "https://www.lacoliseum.com/events/oregon-vs-usc-2026/"
+  },
+  {
+    "key": "l.a. memorial coliseum|10/03/2026|washington vs usc",
+    "venue": "L.A. Memorial Coliseum",
+    "day": "Saturday",
+    "date": "10/03/2026",
+    "time": "TBA",
+    "name": "Washington vs USC",
+    "link": "https://www.lacoliseum.com/events/washington-vs-usc-2026/"
+  },
+  {
+    "key": "l.a. memorial coliseum|10/06/2026|mextour: mexico vs. chile",
+    "venue": "L.A. Memorial Coliseum",
+    "day": "Tuesday",
+    "date": "10/06/2026",
+    "time": "TBA",
+    "name": "MEXTOUR: Mexico vs. Chile",
+    "link": "https://www.lacoliseum.com/events/mextour-mexico-vs-chile/"
+  },
+  {
+    "key": "l.a. memorial coliseum|10/31/2026|ohio state vs usc",
+    "venue": "L.A. Memorial Coliseum",
+    "day": "Saturday",
+    "date": "10/31/2026",
+    "time": "TBA",
+    "name": "Ohio State vs USC",
+    "link": "https://www.lacoliseum.com/events/ohio-state-vs-usc-2026/"
+  },
+  {
+    "key": "l.a. memorial coliseum|11/21/2026|maryland vs usc",
+    "venue": "L.A. Memorial Coliseum",
+    "day": "Saturday",
+    "date": "11/21/2026",
+    "time": "TBA",
+    "name": "Maryland vs USC",
+    "link": "https://www.lacoliseum.com/events/maryland-vs-usc-2026/"
+  },
+  {
+    "key": "l.a. memorial coliseum|12/12/2026|john summit – ctrl escape tour",
+    "venue": "L.A. Memorial Coliseum",
+    "day": "Saturday",
+    "date": "12/12/2026",
+    "time": "TBA",
+    "name": "JOHN SUMMIT – CTRL ESCAPE TOUR",
+    "link": "https://www.lacoliseum.com/events/john-summit-ctrl-escape-tour/"
+  },
+  {
     "key": "la convention center|08/21/2026|coffee fest 2026",
     "venue": "LA Convention Center",
     "day": "Friday",
