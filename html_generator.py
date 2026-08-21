@@ -15,6 +15,17 @@ def generate(results: list[VenueResult], past_events: list[dict] | None = None) 
     print(f"Generated docs/index.html  ({len(results)} venue tabs)")
 
 
+def _parse_event_date(date_str: str) -> datetime:
+    try:
+        return datetime.strptime(date_str.strip(), "%m/%d/%Y")
+    except (ValueError, AttributeError):
+        return datetime.min
+
+
+def _sort_past_events_descending(events: list[dict]) -> list[dict]:
+    return sorted(events, key=lambda ev: _parse_event_date(ev.get("date", "")), reverse=True)
+
+
 def _venue_id(name: str) -> str:
     return name.lower().replace(" ", "-").replace(".", "").replace(",", "").replace("'", "")
 
@@ -61,41 +72,85 @@ def _tab_nav(results: list[VenueResult]) -> str:
     return "\n".join(items)
 
 
-def _tab_panes(results: list[VenueResult]) -> str:
+def _tab_panes(results: list[VenueResult], past_events: list[dict]) -> str:
+    colgroup = """<colgroup>
+                <col style="width:120px">
+                <col style="width:110px">
+                <col style="width:90px">
+                <col>
+              </colgroup>"""
     panes = []
     for i, vr in enumerate(results):
         active = ' show active' if i == 0 else ''
         vid = _venue_id(vr.venue_name)
         venue_url = _venue_url(vr.venue_name)
         rows = _event_rows(vr.events)
+        venue_past_events = _sort_past_events_descending(
+            [ev for ev in past_events if ev["venue"] == vr.venue_name]
+        )
+        past_rows = _past_event_rows_for_venue(venue_past_events)
         panes.append(f"""
         <div class="tab-pane fade{active}" id="pane-{vid}" role="tabpanel" aria-labelledby="tab-{vid}">
-          <div class="d-flex justify-content-between align-items-center mb-1">
-            <span class="text-muted small">{len(vr.events)} event(s)</span>
+          <div class="d-flex justify-content-between align-items-center mb-2">
+            <div class="btn-group btn-group-sm" role="group" aria-label="Toggle current or past events">
+              <button type="button" class="btn venue-toggle-btn active" data-vid="{vid}" data-view="current">Current Events</button>
+              <button type="button" class="btn venue-toggle-btn" data-vid="{vid}" data-view="past">Past Events</button>
+            </div>
             <a href="{html.escape(venue_url)}" target="_blank" rel="noopener" class="btn btn-sm btn-outline-secondary">
               View venue site &rarr;
             </a>
           </div>
-          <div class="table-responsive">
-            <table class="table table-striped table-hover table-sm sortable" id="tbl-{vid}" style="table-layout:fixed;width:100%">
-              <colgroup>
-                <col style="width:120px">
-                <col style="width:110px">
-                <col style="width:90px">
-                <col>
-              </colgroup>
-              <thead class="table-dark">
-                <tr>
-                  <th>Day</th><th>Date</th><th>Time</th><th>Event Name</th>
-                </tr>
-              </thead>
-              <tbody>
-                {rows}
-              </tbody>
-            </table>
+          <div class="venue-view-current" id="current-{vid}">
+            <div class="text-muted small mb-1">{len(vr.events)} event(s)</div>
+            <div class="table-responsive">
+              <table class="table table-striped table-hover table-sm sortable" id="tbl-{vid}" style="table-layout:fixed;width:100%">
+                {colgroup}
+                <thead class="table-dark">
+                  <tr>
+                    <th>Day</th><th>Date</th><th>Time</th><th>Event Name</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  {rows}
+                </tbody>
+              </table>
+            </div>
+          </div>
+          <div class="venue-view-past" id="past-{vid}" hidden>
+            <div class="text-muted small mb-1">{len(venue_past_events)} archived event(s)</div>
+            <div class="table-responsive">
+              <table class="table table-striped table-hover table-sm sortable" id="tbl-past-{vid}" style="table-layout:fixed;width:100%">
+                {colgroup}
+                <thead class="table-dark">
+                  <tr>
+                    <th>Day</th><th>Date</th><th>Time</th><th>Event Name</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  {past_rows}
+                </tbody>
+              </table>
+            </div>
           </div>
         </div>""")
     return "\n".join(panes)
+
+
+def _past_event_rows_for_venue(venue_past_events: list[dict]) -> str:
+    if not venue_past_events:
+        return '<tr><td colspan="4" class="text-center text-muted fst-italic">No archived events yet</td></tr>'
+    rows = []
+    for ev in venue_past_events:
+        name_cell = f'<a href="{html.escape(ev["link"])}" target="_blank" rel="noopener">{html.escape(ev["name"])}</a>'
+        rows.append(
+            f"<tr>"
+            f"<td>{html.escape(ev['day'])}</td>"
+            f"<td>{html.escape(ev['date'])}</td>"
+            f"<td>{html.escape(ev['time'])}</td>"
+            f"<td>{name_cell}</td>"
+            f"</tr>"
+        )
+    return "\n".join(rows)
 
 
 def _past_event_rows(past_events: list[dict]) -> str:
@@ -120,9 +175,9 @@ def _build_html(results: list[VenueResult], past_events: list[dict] = []) -> str
     timestamp = datetime.now().strftime("%A, %B %d, %Y at %I:%M %p")
     total = sum(len(vr.events) for vr in results)
     tab_nav = _tab_nav(results)
-    tab_panes = _tab_panes(results)
+    tab_panes = _tab_panes(results, past_events)
 
-    past_rows = _past_event_rows(past_events)
+    past_rows = _past_event_rows(_sort_past_events_descending(past_events))
     past_count = len(past_events)
 
     unique_venues = sorted({ev["venue"] for ev in past_events}) if past_events else []
@@ -136,7 +191,7 @@ def _build_html(results: list[VenueResult], past_events: list[dict] = []) -> str
         f'id="tab-past-events" data-bs-toggle="pill" '
         f'data-bs-target="#pane-past-events" type="button" role="tab" '
         f'aria-controls="pane-past-events" aria-selected="false">'
-        f'Past Events <span class="badge bg-secondary ms-2">{past_count}</span>'
+        f'All Past Events <span class="badge bg-secondary ms-2">{past_count}</span>'
         f'</button>'
     )
     past_pane = f"""
@@ -181,6 +236,10 @@ def _build_html(results: list[VenueResult], past_events: list[dict] = []) -> str
     th[aria-sort] {{ cursor: pointer; user-select: none; }}
     th[aria-sort="ascending"]::after  {{ content: " ▲"; }}
     th[aria-sort="descending"]::after {{ content: " ▼"; }}
+    .venue-toggle-btn {{ background-color: #fff; border: 1px solid #adb5bd; color: #6c757d; }}
+    .venue-toggle-btn:hover {{ background-color: #fff; border-color: #adb5bd; color: #6c757d; }}
+    .venue-toggle-btn.active {{ background-color: #fff; border-color: #0d6efd; color: #0d6efd; }}
+    .venue-toggle-btn.active:hover {{ background-color: #fff; border-color: #0d6efd; color: #0d6efd; }}
   </style>
 </head>
 <body>
@@ -224,6 +283,17 @@ def _build_html(results: list[VenueResult], past_events: list[dict] = []) -> str
 <script>
   document.querySelectorAll('table.sortable').forEach(function(table) {{
     try {{ new Tablesort(table); }} catch(e) {{}}
+  }});
+  document.querySelectorAll('.venue-toggle-btn').forEach(function(btn) {{
+    btn.addEventListener('click', function() {{
+      var vid = btn.getAttribute('data-vid');
+      var view = btn.getAttribute('data-view');
+      var pane = document.getElementById('pane-' + vid);
+      pane.querySelectorAll('.venue-toggle-btn').forEach(function(b) {{ b.classList.remove('active'); }});
+      btn.classList.add('active');
+      document.getElementById('current-' + vid).hidden = (view !== 'current');
+      document.getElementById('past-' + vid).hidden = (view !== 'past');
+    }});
   }});
   function applyPastVenueFilter() {{
     var selected = document.getElementById('past-venue-filter').value;
