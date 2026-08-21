@@ -4418,5 +4418,45 @@
     "name": "Herbie Hancock Celebrates Miles Davis",
     "link": "https://www.hollywoodbowl.com/events/performances/4324/2026-08-19/herbie-hancock-celebrates-miles-davis",
     "archived_on": "2026-08-20"
+  },
+  {
+    "key": "sofi stadium|08/20/2026|chargers vs 49ers – preseason",
+    "venue": "SoFi Stadium",
+    "day": "Thursday",
+    "date": "08/20/2026",
+    "time": "7:00 PM",
+    "name": "Chargers vs 49ers – Preseason",
+    "link": "https://www.sofistadium.com/events/detail/chargers-49ers-preseason-2026",
+    "archived_on": "2026-08-21"
+  },
+  {
+    "key": "crypto.com arena|08/20/2026|los angeles sparks vs atlanta dream",
+    "venue": "Crypto.com Arena",
+    "day": "Thursday",
+    "date": "08/20/2026",
+    "time": "7:00 PM",
+    "name": "Los Angeles Sparks vs Atlanta Dream",
+    "link": "https://www.cryptoarena.com/events/detail/sparksdream082026",
+    "archived_on": "2026-08-21"
+  },
+  {
+    "key": "la convention center|08/20/2026|apwu biennial convention 2026",
+    "venue": "LA Convention Center",
+    "day": "Thursday",
+    "date": "08/20/2026",
+    "time": "TBA",
+    "name": "APWU Biennial Convention 2026",
+    "link": "https://www.laconventioncenter.com/events/detail/apwu-biennial-convention-2026",
+    "archived_on": "2026-08-21"
+  },
+  {
+    "key": "hollywood bowl|08/20/2026|celebrating gustavo at the bowl: beethoven 9",
+    "venue": "Hollywood Bowl",
+    "day": "Thursday",
+    "date": "08/20/2026",
+    "time": "8:00 PM",
+    "name": "Celebrating Gustavo at the Bowl: Beethoven 9",
+    "link": "https://www.hollywoodbowl.com/events/performances/4325/2026-08-20/celebrating-gustavo-at-the-bowl-beethoven-9",
+    "archived_on": "2026-08-21"
   }
 ]

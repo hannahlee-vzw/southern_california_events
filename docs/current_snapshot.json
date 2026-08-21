@@ -1,14 +1,5 @@
 [
   {
-    "key": "sofi stadium|08/20/2026|chargers vs 49ers – preseason",
-    "venue": "SoFi Stadium",
-    "day": "Thursday",
-    "date": "08/20/2026",
-    "time": "7:00 PM",
-    "name": "Chargers vs 49ers – Preseason",
-    "link": "https://www.sofistadium.com/events/detail/chargers-49ers-preseason-2026"
-  },
-  {
     "key": "sofi stadium|08/22/2026|rams vs. saints – preseason",
     "venue": "SoFi Stadium",
     "day": "Saturday",
@@ -1656,15 +1647,6 @@
     "link": "https://www.rosebowlstadium.com/events/details/626/rose-bowl-half-marathon-and-5k"
   },
   {
-    "key": "crypto.com arena|08/20/2026|los angeles sparks vs atlanta dream",
-    "venue": "Crypto.com Arena",
-    "day": "Thursday",
-    "date": "08/20/2026",
-    "time": "7:00 PM",
-    "name": "Los Angeles Sparks vs Atlanta Dream",
-    "link": "https://www.cryptoarena.com/events/detail/sparksdream082026"
-  },
-  {
     "key": "crypto.com arena|08/22/2026|los angeles sparks vs connecticut sun",
     "venue": "Crypto.com Arena",
     "day": "Saturday",
@@ -2718,15 +2700,6 @@
     "link": "https://www.lacoliseum.com/events/john-summit-ctrl-escape-tour/"
   },
   {
-    "key": "la convention center|08/20/2026|apwu biennial convention 2026",
-    "venue": "LA Convention Center",
-    "day": "Thursday",
-    "date": "08/20/2026",
-    "time": "TBA",
-    "name": "APWU Biennial Convention 2026",
-    "link": "https://www.laconventioncenter.com/events/detail/apwu-biennial-convention-2026"
-  },
-  {
     "key": "la convention center|08/21/2026|coffee fest 2026",
     "venue": "LA Convention Center",
     "day": "Friday",
@@ -3256,15 +3229,6 @@
     "time": "7:10 PM",
     "name": "vs. San Diego Padres",
     "link": "https://www.mlb.com/gameday/823895"
-  },
-  {
-    "key": "hollywood bowl|08/20/2026|celebrating gustavo at the bowl: beethoven 9",
-    "venue": "Hollywood Bowl",
-    "day": "Thursday",
-    "date": "08/20/2026",
-    "time": "8:00 PM",
-    "name": "Celebrating Gustavo at the Bowl: Beethoven 9",
-    "link": "https://www.hollywoodbowl.com/events/performances/4325/2026-08-20/celebrating-gustavo-at-the-bowl-beethoven-9"
   },
   {
     "key": "hollywood bowl|08/21/2026|celebrating gustavo at the bowl: gustavo’s fiesta",
