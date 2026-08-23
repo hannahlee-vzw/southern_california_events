@@ -4778,5 +4778,85 @@
     "name": "Maddix",
     "link": "https://www.ticketmaster.com/maddix-hollywood-california-08-21-2026/event/09006452F92BBD18",
     "archived_on": "2026-08-22"
+  },
+  {
+    "key": "sofi stadium|08/22/2026|rams vs. saints – preseason",
+    "venue": "SoFi Stadium",
+    "day": "Saturday",
+    "date": "08/22/2026",
+    "time": "1:00 PM",
+    "name": "Rams vs. Saints – Preseason",
+    "link": "https://www.sofistadium.com/events/detail/rams-saints-preseason-2026",
+    "archived_on": "2026-08-23"
+  },
+  {
+    "key": "rose bowl stadium|08/22/2026|just like heaven",
+    "venue": "Rose Bowl Stadium",
+    "day": "Saturday",
+    "date": "08/22/2026",
+    "time": "12:00 PM",
+    "name": "Just Like Heaven",
+    "link": "https://www.rosebowlstadium.com/events/details/640/just-like-heaven",
+    "archived_on": "2026-08-23"
+  },
+  {
+    "key": "crypto.com arena|08/22/2026|los angeles sparks vs connecticut sun",
+    "venue": "Crypto.com Arena",
+    "day": "Saturday",
+    "date": "08/22/2026",
+    "time": "6:00 PM",
+    "name": "Los Angeles Sparks vs Connecticut Sun",
+    "link": "https://www.cryptoarena.com/events/detail/sparkssun082226",
+    "archived_on": "2026-08-23"
+  },
+  {
+    "key": "la convention center|08/22/2026|coffee fest 2026",
+    "venue": "LA Convention Center",
+    "day": "Saturday",
+    "date": "08/22/2026",
+    "time": "TBA",
+    "name": "Coffee Fest 2026",
+    "link": "https://www.laconventioncenter.com/events/detail/coffee-fest-2026",
+    "archived_on": "2026-08-23"
+  },
+  {
+    "key": "la convention center|08/22/2026|smith chason college los angeles campus graduation 2026",
+    "venue": "LA Convention Center",
+    "day": "Saturday",
+    "date": "08/22/2026",
+    "time": "TBA",
+    "name": "Smith Chason College Los Angeles Campus Graduation 2026",
+    "link": "https://www.laconventioncenter.com/events/detail/smith-chason-college-los-angeles-campus-graduation-2026",
+    "archived_on": "2026-08-23"
+  },
+  {
+    "key": "dodger stadium|08/22/2026|vs. pittsburgh pirates",
+    "venue": "Dodger Stadium",
+    "day": "Saturday",
+    "date": "08/22/2026",
+    "time": "4:15 PM",
+    "name": "vs. Pittsburgh Pirates",
+    "link": "https://www.mlb.com/gameday/823910",
+    "archived_on": "2026-08-23"
+  },
+  {
+    "key": "hollywood bowl|08/22/2026|celebrating gustavo at the bowl: foo fighters with the la phil and yola",
+    "venue": "Hollywood Bowl",
+    "day": "Saturday",
+    "date": "08/22/2026",
+    "time": "8:00 PM",
+    "name": "Celebrating Gustavo at the Bowl: Foo Fighters with the LA Phil and YOLA",
+    "link": "https://www.hollywoodbowl.com/events/performances/4287/2026-08-22/celebrating-gustavo-at-the-bowl-foo-fighters-with-the-la-phil-and-yola",
+    "archived_on": "2026-08-23"
+  },
+  {
+    "key": "hollywood palladium|08/22/2026|goldfinger w/ the vandals, the suicide machines, pulley & sullvn",
+    "venue": "Hollywood Palladium",
+    "day": "Saturday",
+    "date": "08/22/2026",
+    "time": "5:30 PM",
+    "name": "Goldfinger w/ The Vandals, The Suicide Machines, Pulley & Sullvn",
+    "link": "https://www.ticketmaster.com/goldfinger-w-the-vandals-the-suicide-hollywood-california-08-22-2026/event/0900643EDCF7E666",
+    "archived_on": "2026-08-23"
   }
 ]
