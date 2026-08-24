@@ -1,14 +1,5 @@
 [
   {
-    "key": "sofi stadium|08/23/2026|nfl fantasy draft party – draft your fantasy team at sofi stadium!",
-    "venue": "SoFi Stadium",
-    "day": "Sunday",
-    "date": "08/23/2026",
-    "time": "3:30 PM",
-    "name": "NFL Fantasy Draft Party – Draft Your Fantasy Team at SoFi Stadium!",
-    "link": "https://www.sofistadium.com/events/detail/fantasy-draft-2026"
-  },
-  {
     "key": "sofi stadium|08/27/2026|chargers vs rams – preseason",
     "venue": "SoFi Stadium",
     "day": "Thursday",
@@ -1242,6 +1233,15 @@
     "link": "https://thekiaforum.com/event/the-neighbourhood-3/"
   },
   {
+    "key": "kia forum|12/10/2026|triumph – the rock & roll machine reloaded tou",
+    "venue": "Kia Forum",
+    "day": "Thursday",
+    "date": "12/10/2026",
+    "time": "7:00 PM",
+    "name": "TRIUMPH – The Rock & Roll Machine Reloaded Tou",
+    "link": "https://thekiaforum.com/event/triumph/"
+  },
+  {
     "key": "kia forum|12/14/2026|gracie abrams – the look at my life tour",
     "venue": "Kia Forum",
     "day": "Monday",
@@ -1249,6 +1249,15 @@
     "time": "7:00 PM",
     "name": "GRACIE ABRAMS – The Look at My Life Tour",
     "link": "https://thekiaforum.com/event/gracie-abrams-5/"
+  },
+  {
+    "key": "kia forum|12/16/2026|wang leehom",
+    "venue": "Kia Forum",
+    "day": "Wednesday",
+    "date": "12/16/2026",
+    "time": "7:00 PM",
+    "name": "WANG LEEHOM",
+    "link": "https://thekiaforum.com/event/wang-leehom/"
   },
   {
     "key": "kia forum|12/18/2026|gracie abrams – the look at my life tour",
@@ -1753,6 +1762,15 @@
     "time": "7:30 PM",
     "name": "Edmonton Oilers vs Los Angeles Kings",
     "link": "https://www.cryptoarena.com/events/detail/kingsoilers101326"
+  },
+  {
+    "key": "crypto.com arena|10/15/2026|taemin – 2026-27 taemin world tour [liminal]",
+    "venue": "Crypto.com Arena",
+    "day": "Thursday",
+    "date": "10/15/2026",
+    "time": "7:30 PM",
+    "name": "TAEMIN – 2026-27 TAEMIN WORLD TOUR [LiMiNaL]",
+    "link": "https://www.cryptoarena.com/events/detail/taemin101526"
   },
   {
     "key": "crypto.com arena|10/16/2026|denver nuggets vs los angeles lakers – preseason",
@@ -3006,15 +3024,6 @@
     "link": "https://www.laconventioncenter.com/events/detail/socal-cup-volleyball-showcase-2027"
   },
   {
-    "key": "dodger stadium|08/23/2026|vs. pittsburgh pirates",
-    "venue": "Dodger Stadium",
-    "day": "Sunday",
-    "date": "08/23/2026",
-    "time": "1:10 PM",
-    "name": "vs. Pittsburgh Pirates",
-    "link": "https://www.mlb.com/gameday/823909"
-  },
-  {
     "key": "dodger stadium|09/01/2026|vs. st. louis cardinals",
     "venue": "Dodger Stadium",
     "day": "Tuesday",
@@ -3148,15 +3157,6 @@
     "time": "7:10 PM",
     "name": "vs. San Diego Padres",
     "link": "https://www.mlb.com/gameday/823895"
-  },
-  {
-    "key": "hollywood bowl|08/23/2026|a concert for venezuela – a benefit to support earthquake relief",
-    "venue": "Hollywood Bowl",
-    "day": "Sunday",
-    "date": "08/23/2026",
-    "time": "7:00 PM",
-    "name": "A Concert for Venezuela – A Benefit to Support Earthquake Relief",
-    "link": "https://www.hollywoodbowl.com/events/performances/4361/2026-08-23/a-concert-for-venezuela"
   },
   {
     "key": "hollywood bowl|08/25/2026|beethoven’s fifth with anna handler",
