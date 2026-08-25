@@ -4888,5 +4888,25 @@
     "name": "A Concert for Venezuela – A Benefit to Support Earthquake Relief",
     "link": "https://www.hollywoodbowl.com/events/performances/4361/2026-08-23/a-concert-for-venezuela",
     "archived_on": "2026-08-24"
+  },
+  {
+    "key": "crypto.com arena|08/24/2026|los angeles sparks vs atlanta dream",
+    "venue": "Crypto.com Arena",
+    "day": "Monday",
+    "date": "08/24/2026",
+    "time": "7:00 PM",
+    "name": "Los Angeles Sparks vs Atlanta Dream",
+    "link": "https://www.cryptoarena.com/events/detail/sparksdream082426",
+    "archived_on": "2026-08-25"
+  },
+  {
+    "key": "hollywood palladium|08/24/2026|the breeders",
+    "venue": "Hollywood Palladium",
+    "day": "Monday",
+    "date": "08/24/2026",
+    "time": "7:00 PM",
+    "name": "The Breeders",
+    "link": "https://www.ticketmaster.com/the-breeders-hollywood-california-08-24-2026/event/09006429E509D273",
+    "archived_on": "2026-08-25"
   }
 ]

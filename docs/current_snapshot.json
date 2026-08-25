@@ -1170,6 +1170,15 @@
     "link": "https://thekiaforum.com/event/mon-laferte-2/"
   },
   {
+    "key": "kia forum|11/09/2026|jessie reyez – a little vengeance tour",
+    "venue": "Kia Forum",
+    "day": "Monday",
+    "date": "11/09/2026",
+    "time": "7:00 PM",
+    "name": "JESSIE REYEZ – A Little Vengeance Tour",
+    "link": "https://thekiaforum.com/event/jessie-reyez/"
+  },
+  {
     "key": "kia forum|11/12/2026|the smashing pumpkins – the rats in a cage tour",
     "venue": "Kia Forum",
     "day": "Thursday",
@@ -1233,12 +1242,12 @@
     "link": "https://thekiaforum.com/event/the-neighbourhood-3/"
   },
   {
-    "key": "kia forum|12/10/2026|triumph – the rock & roll machine reloaded tou",
+    "key": "kia forum|12/10/2026|triumph – the rock & roll machine reloaded tour",
     "venue": "Kia Forum",
     "day": "Thursday",
     "date": "12/10/2026",
     "time": "7:00 PM",
-    "name": "TRIUMPH – The Rock & Roll Machine Reloaded Tou",
+    "name": "TRIUMPH – The Rock & Roll Machine Reloaded Tour",
     "link": "https://thekiaforum.com/event/triumph/"
   },
   {
@@ -1521,6 +1530,15 @@
     "link": "https://www.rosebowlstadium.com/events/details/629/nevada-vs-ucla"
   },
   {
+    "key": "rose bowl stadium|11/07/2026|moby + underworld",
+    "venue": "Rose Bowl Stadium",
+    "day": "Saturday",
+    "date": "11/07/2026",
+    "time": "TBD",
+    "name": "Moby + Underworld",
+    "link": "https://www.rosebowlstadium.com/events/details/672/moby-%2B-underworld"
+  },
+  {
     "key": "rose bowl stadium|11/08/2026|rose bowl flea market",
     "venue": "Rose Bowl Stadium",
     "day": "Sunday",
@@ -1618,15 +1636,6 @@
     "time": "TBD",
     "name": "Rose Bowl Half Marathon & 5K",
     "link": "https://www.rosebowlstadium.com/events/details/626/rose-bowl-half-marathon-and-5k"
-  },
-  {
-    "key": "crypto.com arena|08/24/2026|los angeles sparks vs atlanta dream",
-    "venue": "Crypto.com Arena",
-    "day": "Monday",
-    "date": "08/24/2026",
-    "time": "7:00 PM",
-    "name": "Los Angeles Sparks vs Atlanta Dream",
-    "link": "https://www.cryptoarena.com/events/detail/sparksdream082426"
   },
   {
     "key": "crypto.com arena|08/25/2026|mamamoo – 2026 usa tour",
@@ -1764,12 +1773,12 @@
     "link": "https://www.cryptoarena.com/events/detail/kingsoilers101326"
   },
   {
-    "key": "crypto.com arena|10/15/2026|taemin – 2026-27 taemin world tour [liminal]",
+    "key": "crypto.com arena|10/15/2026|taemin – 2026-27 taemin world tour <liminal>",
     "venue": "Crypto.com Arena",
     "day": "Thursday",
     "date": "10/15/2026",
     "time": "7:30 PM",
-    "name": "TAEMIN – 2026-27 TAEMIN WORLD TOUR [LiMiNaL]",
+    "name": "TAEMIN – 2026-27 TAEMIN WORLD TOUR <LiMiNaL>",
     "link": "https://www.cryptoarena.com/events/detail/taemin101526"
   },
   {
@@ -3562,15 +3571,6 @@
     "time": "8:00 PM",
     "name": "Steve Lacy",
     "link": "https://www.hollywoodbowl.com/events/performances/4900/2026-11-21/steve-lacy"
-  },
-  {
-    "key": "hollywood palladium|08/24/2026|the breeders",
-    "venue": "Hollywood Palladium",
-    "day": "Monday",
-    "date": "08/24/2026",
-    "time": "7:00 PM",
-    "name": "The Breeders",
-    "link": "https://www.ticketmaster.com/the-breeders-hollywood-california-08-24-2026/event/09006429E509D273"
   },
   {
     "key": "hollywood palladium|08/25/2026|right after you left ft andrew santino, josh johnson & special guests",
