@@ -16,7 +16,7 @@ def update_archive(current_results: list[VenueResult], docs_dir: pathlib.Path) -
 
     for ev_dict in prev_snapshot:
         key = ev_dict["key"]
-        if key in current_keys or key in archive_keys:
+        if key in archive_keys:
             continue
         ev_date = _parse_date(ev_dict["date"])
         if ev_date and ev_date < today:
