@@ -2718,6 +2718,15 @@
     "link": "https://www.laconventioncenter.com/events/detail/got-sole-los-angeles"
   },
   {
+    "key": "la convention center|09/19/2026|yugioh! cori regional qualifier",
+    "venue": "LA Convention Center",
+    "day": "Saturday",
+    "date": "09/19/2026",
+    "time": "TBA",
+    "name": "YuGiOh! CORI Regional Qualifier",
+    "link": "https://www.laconventioncenter.com/events/detail/yugioh-cori-regional-qualifier"
+  },
+  {
     "key": "la convention center|09/20/2026|wekfest la 2026",
     "venue": "LA Convention Center",
     "day": "Sunday",
@@ -2950,6 +2959,15 @@
     "time": "TBA",
     "name": "Victory Gymnastics: Victory Classic",
     "link": "https://www.laconventioncenter.com/events/detail/victory-gymnastics-victory-classic-1"
+  },
+  {
+    "key": "la convention center|03/07/2027|ofc 2027",
+    "venue": "LA Convention Center",
+    "day": "Sunday",
+    "date": "03/07/2027",
+    "time": "TBA",
+    "name": "OFC 2027",
+    "link": "https://www.laconventioncenter.com/events/detail/ofc-2027"
   },
   {
     "key": "la convention center|04/01/2027|star wars celebration 2027",
@@ -3562,6 +3580,15 @@
     "time": "7:30 PM",
     "name": "Jonas Brothers – All Time Low, Magnus Ferrell",
     "link": "https://www.hollywoodbowl.com/events/performances/4902/2026-11-18/jonas-brothers"
+  },
+  {
+    "key": "hollywood bowl|11/19/2026|jonas brothers – all time low, magnus ferrell",
+    "venue": "Hollywood Bowl",
+    "day": "Thursday",
+    "date": "11/19/2026",
+    "time": "7:30 PM",
+    "name": "Jonas Brothers – All Time Low, Magnus Ferrell",
+    "link": "https://www.hollywoodbowl.com/events/performances/4904/2026-11-19/jonas-brothers"
   },
   {
     "key": "hollywood bowl|11/21/2026|steve lacy",
