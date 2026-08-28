@@ -5738,5 +5738,45 @@
     "name": "Right After You Left ft Andrew Santino, Josh Johnson & Special Guests",
     "link": "https://www.ticketmaster.com/right-after-you-left-ft-andrew-hollywood-california-08-25-2026/event/09006513CF99C753",
     "archived_on": "2026-08-26"
+  },
+  {
+    "key": "sofi stadium|08/27/2026|chargers vs rams – preseason",
+    "venue": "SoFi Stadium",
+    "day": "Thursday",
+    "date": "08/27/2026",
+    "time": "7:00 PM",
+    "name": "Chargers vs Rams – Preseason",
+    "link": "https://www.sofistadium.com/events/detail/chargers-rams-preseason-2026",
+    "archived_on": "2026-08-28"
+  },
+  {
+    "key": "dignity health sports park|08/26/2026|leagues cup: club américa vs columbus crew",
+    "venue": "Dignity Health Sports Park",
+    "day": "Wednesday",
+    "date": "08/26/2026",
+    "time": "TBA",
+    "name": "Leagues Cup: Club América vs Columbus Crew",
+    "link": "https://www.dignityhealthsportspark.com/events/detail/leagues-cup-club-america-vs-columbus-crew",
+    "archived_on": "2026-08-28"
+  },
+  {
+    "key": "rose bowl stadium|08/26/2026|rose bowl stadium blood drive",
+    "venue": "Rose Bowl Stadium",
+    "day": "Wednesday",
+    "date": "08/26/2026",
+    "time": "10:00 AM",
+    "name": "Rose Bowl Stadium Blood Drive",
+    "link": "https://www.rosebowlstadium.com/events/details/670/rose-bowl-stadium-blood-drive",
+    "archived_on": "2026-08-28"
+  },
+  {
+    "key": "hollywood bowl|08/27/2026|rachmaninoff & adams",
+    "venue": "Hollywood Bowl",
+    "day": "Thursday",
+    "date": "08/27/2026",
+    "time": "8:00 PM",
+    "name": "Rachmaninoff & Adams",
+    "link": "https://www.hollywoodbowl.com/events/performances/4327/2026-08-27/rachmaninoff-adams",
+    "archived_on": "2026-08-28"
   }
 ]

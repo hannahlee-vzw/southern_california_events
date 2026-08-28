@@ -1323,15 +1323,6 @@
     "link": "https://thekiaforum.com/event/niall-horan/"
   },
   {
-    "key": "dignity health sports park|08/26/2026|leagues cup: club américa vs columbus crew",
-    "venue": "Dignity Health Sports Park",
-    "day": "Wednesday",
-    "date": "08/26/2026",
-    "time": "TBA",
-    "name": "Leagues Cup: Club América vs Columbus Crew",
-    "link": "https://www.dignityhealthsportspark.com/events/detail/leagues-cup-club-america-vs-columbus-crew"
-  },
-  {
     "key": "dignity health sports park|09/05/2026|la galaxy vs new england revolution",
     "venue": "Dignity Health Sports Park",
     "day": "Saturday",
@@ -1402,15 +1393,6 @@
     "time": "TBA",
     "name": "Angel City FC vs Boston Legacy FC",
     "link": "https://www.dignityhealthsportspark.com/events/detail/angel-city-fc-vs-boston-legacy-fc"
-  },
-  {
-    "key": "rose bowl stadium|08/26/2026|rose bowl stadium blood drive",
-    "venue": "Rose Bowl Stadium",
-    "day": "Wednesday",
-    "date": "08/26/2026",
-    "time": "10:00 AM",
-    "name": "Rose Bowl Stadium Blood Drive",
-    "link": "https://www.rosebowlstadium.com/events/details/670/rose-bowl-stadium-blood-drive"
   },
   {
     "key": "rose bowl stadium|09/05/2026|guns n’ roses",
@@ -1741,7 +1723,7 @@
     "venue": "Crypto.com Arena",
     "day": "Thursday",
     "date": "10/08/2026",
-    "time": "TBA",
+    "time": "7:30 PM",
     "name": "Sacramento Kings vs Los Angeles Lakers – Preseason",
     "link": "https://www.cryptoarena.com/events/detail/lakerskings100826"
   },
@@ -1768,7 +1750,7 @@
     "venue": "Crypto.com Arena",
     "day": "Thursday",
     "date": "10/15/2026",
-    "time": "7:30 PM",
+    "time": "7:00 PM",
     "name": "TAEMIN – 2026-27 TAEMIN WORLD TOUR <LiMiNaL>",
     "link": "https://www.cryptoarena.com/events/detail/taemin101526"
   },
@@ -1777,7 +1759,7 @@
     "venue": "Crypto.com Arena",
     "day": "Friday",
     "date": "10/16/2026",
-    "time": "TBA",
+    "time": "7:30 PM",
     "name": "Denver Nuggets vs Los Angeles Lakers – Preseason",
     "link": "https://www.cryptoarena.com/events/detail/lakersnuggets101626"
   },
@@ -2029,7 +2011,7 @@
     "venue": "Crypto.com Arena",
     "day": "Wednesday",
     "date": "12/09/2026",
-    "time": "7:00 PM",
+    "time": "6:30 PM",
     "name": "San Jose Sharks vs Los Angeles Kings",
     "link": "https://www.cryptoarena.com/events/detail/kingssharks120926"
   },
@@ -2389,7 +2371,7 @@
     "venue": "Crypto.com Arena",
     "day": "Sunday",
     "date": "03/07/2027",
-    "time": "12:30 PM",
+    "time": "1:00 PM",
     "name": "Colorado Avalanche vs Los Angeles Kings",
     "link": "https://www.cryptoarena.com/events/detail/kingsavs030727"
   },
@@ -3555,6 +3537,15 @@
     "link": "https://www.hollywoodbowl.com/events/performances/4898/2026-11-07/jimmy-eat-world-the-format"
   },
   {
+    "key": "hollywood bowl|11/08/2026|ms. lauryn hill & wyclef jean",
+    "venue": "Hollywood Bowl",
+    "day": "Sunday",
+    "date": "11/08/2026",
+    "time": "7:30 PM",
+    "name": "Ms. Lauryn Hill & Wyclef Jean",
+    "link": "https://www.hollywoodbowl.com/events/performances/4899/2026-11-08/ms-lauryn-hill-wyclef-jean"
+  },
+  {
     "key": "hollywood bowl|11/18/2026|jonas brothers – all time low, magnus ferrell",
     "venue": "Hollywood Bowl",
     "day": "Wednesday",
@@ -3645,24 +3636,6 @@
     "link": "https://www.ticketmaster.com/stephen-wilson-jr-gary-the-torch-hollywood-california-09-06-2026/event/0900646DE9B21460"
   },
   {
-    "key": "hollywood palladium|09/09/2026|artdontsleep & kcrw presents cortex",
-    "venue": "Hollywood Palladium",
-    "day": "Wednesday",
-    "date": "09/09/2026",
-    "time": "7:00 PM",
-    "name": "ArtDontSleep & KCRW Presents Cortex",
-    "link": "https://www.ticketmaster.com/artdontsleep-kcrw-presents-cortex-hollywood-california-09-09-2026/event/090064E688CB3319"
-  },
-  {
-    "key": "hollywood palladium|09/10/2026|polyphia tour mmxxvi",
-    "venue": "Hollywood Palladium",
-    "day": "Thursday",
-    "date": "09/10/2026",
-    "time": "6:30 PM",
-    "name": "Polyphia Tour MMXXVI",
-    "link": "https://www.ticketmaster.com/polyphia-tour-mmxxvi-hollywood-california-09-10-2026/event/090064CAF59921C5"
-  },
-  {
     "key": "hollywood palladium|09/11/2026|san holo presents true love in a made up world",
     "venue": "Hollywood Palladium",
     "day": "Friday",
@@ -3724,6 +3697,15 @@
     "time": "7:00 PM",
     "name": "Chance The Rapper - Coloring Book 10 Year Anniversary Tour",
     "link": "https://www.ticketmaster.com/chance-the-rapper-coloring-book-10-hollywood-california-09-20-2026/event/090064D2E6C0EEDB"
+  },
+  {
+    "key": "hollywood palladium|09/23/2026|the basement series - vinyl room @ the palladium",
+    "venue": "Hollywood Palladium",
+    "day": "Wednesday",
+    "date": "09/23/2026",
+    "time": "8:00 PM",
+    "name": "The Basement Series - Vinyl Room @ the Palladium",
+    "link": "https://www.ticketmaster.com/the-basement-series-vinyl-room-the-hollywood-california-09-23-2026/event/0900651AE477BB0C"
   },
   {
     "key": "hollywood palladium|09/25/2026|overmono - pure devotion world tour",
@@ -3868,6 +3850,15 @@
     "time": "7:00 PM",
     "name": "fakemink: a Terrible Beauty. - The Tour. part 2",
     "link": "https://www.ticketmaster.com/fakemink-a-terrible-beauty-the-tour-hollywood-california-10-21-2026/event/09006513D701D1D2"
+  },
+  {
+    "key": "hollywood palladium|10/22/2026|fakemink: a terrible beauty. - the tour. part 2",
+    "venue": "Hollywood Palladium",
+    "day": "Thursday",
+    "date": "10/22/2026",
+    "time": "7:00 PM",
+    "name": "fakemink: a Terrible Beauty. - The Tour. part 2",
+    "link": "https://www.ticketmaster.com/fakemink-a-terrible-beauty-the-tour-hollywood-california-10-22-2026/event/0900651978D425F7"
   },
   {
     "key": "hollywood palladium|10/23/2026|two friends",
@@ -4048,6 +4039,15 @@
     "time": "7:00 PM",
     "name": "Earl Sweatshirt & MIKE Home on the Range Tour 2026",
     "link": "https://www.ticketmaster.com/earl-sweatshirt-mike-home-on-the-hollywood-california-12-19-2026/event/09006466BA1DF6D7"
+  },
+  {
+    "key": "hollywood palladium|02/09/2027|polyphia: be not afraid world tour",
+    "venue": "Hollywood Palladium",
+    "day": "Tuesday",
+    "date": "02/09/2027",
+    "time": "6:30 PM",
+    "name": "Polyphia: BE NOT AFRAID World Tour",
+    "link": "https://www.ticketmaster.com/polyphia-be-not-afraid-world-tour-hollywood-california-02-09-2027/event/090064CAF59921C5"
   },
   {
     "key": "hollywood palladium|04/04/2027|nothing but thieves: the stray dogs world tour",
