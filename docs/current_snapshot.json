@@ -1741,7 +1741,7 @@
     "venue": "Crypto.com Arena",
     "day": "Thursday",
     "date": "10/15/2026",
-    "time": "7:00 PM",
+    "time": "8:00 PM",
     "name": "TAEMIN – 2026-27 TAEMIN WORLD TOUR <LiMiNaL>",
     "link": "https://www.cryptoarena.com/events/detail/taemin101526"
   },
@@ -2565,15 +2565,6 @@
     "link": "https://www.cryptoarena.com/events/detail/ncaawestregional2027"
   },
   {
-    "key": "l.a. memorial coliseum|08/29/2026|san jose state vs usc",
-    "venue": "L.A. Memorial Coliseum",
-    "day": "Saturday",
-    "date": "08/29/2026",
-    "time": "TBA",
-    "name": "San Jose State vs USC",
-    "link": "https://www.lacoliseum.com/events/sanjosestate-vs-usc-2026/"
-  },
-  {
     "key": "l.a. memorial coliseum|09/04/2026|fresno state vs usc",
     "venue": "L.A. Memorial Coliseum",
     "day": "Friday",
@@ -3150,15 +3141,6 @@
     "link": "https://www.mlb.com/gameday/823895"
   },
   {
-    "key": "hollywood bowl|08/29/2026|david byrne: who is the sky?",
-    "venue": "Hollywood Bowl",
-    "day": "Saturday",
-    "date": "08/29/2026",
-    "time": "8:00 PM",
-    "name": "David Byrne: Who is the Sky?",
-    "link": "https://www.hollywoodbowl.com/events/performances/4329/2026-08-29/david-byrne-who-is-the-sky"
-  },
-  {
     "key": "hollywood bowl|08/30/2026|smooth summer jazz – the commodores • boney james, sheila e.",
     "venue": "Hollywood Bowl",
     "day": "Sunday",
@@ -3546,22 +3528,13 @@
     "link": "https://www.hollywoodbowl.com/events/performances/4900/2026-11-21/steve-lacy"
   },
   {
-    "key": "hollywood palladium|08/29/2026|courtney barnett - creature of habit tour",
-    "venue": "Hollywood Palladium",
-    "day": "Saturday",
-    "date": "08/29/2026",
-    "time": "7:00 PM",
-    "name": "Courtney Barnett - Creature of Habit Tour",
-    "link": "https://www.ticketmaster.com/courtney-barnett-creature-of-habit-tour-hollywood-california-08-29-2026/event/0900642DC297B2B9"
-  },
-  {
-    "key": "hollywood palladium|09/01/2026|morgan jay - right after you left - vinyl room @ the palladium",
+    "key": "hollywood palladium|09/01/2026|right after you left featuring iliza shlesinger & surprise guests",
     "venue": "Hollywood Palladium",
     "day": "Tuesday",
     "date": "09/01/2026",
     "time": "8:00 PM",
-    "name": "Morgan Jay - Right After You Left - Vinyl Room @ the Palladium",
-    "link": "https://www.ticketmaster.com/morgan-jay-right-after-you-left-hollywood-california-09-01-2026/event/09006513CFA1C765"
+    "name": "Right After You Left Featuring Iliza Shlesinger & Surprise Guests",
+    "link": "https://www.ticketmaster.com/right-after-you-left-featuring-iliza-hollywood-california-09-01-2026/event/09006513CFA1C765"
   },
   {
     "key": "hollywood palladium|09/02/2026|the garden",

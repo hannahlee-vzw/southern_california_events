@@ -5808,5 +5808,35 @@
     "name": "Ian Asher",
     "link": "https://www.ticketmaster.com/ian-asher-hollywood-california-08-28-2026/event/090064B4D6CF7477",
     "archived_on": "2026-08-29"
+  },
+  {
+    "key": "l.a. memorial coliseum|08/29/2026|san jose state vs usc",
+    "venue": "L.A. Memorial Coliseum",
+    "day": "Saturday",
+    "date": "08/29/2026",
+    "time": "TBA",
+    "name": "San Jose State vs USC",
+    "link": "https://www.lacoliseum.com/events/sanjosestate-vs-usc-2026/",
+    "archived_on": "2026-08-30"
+  },
+  {
+    "key": "hollywood bowl|08/29/2026|david byrne: who is the sky?",
+    "venue": "Hollywood Bowl",
+    "day": "Saturday",
+    "date": "08/29/2026",
+    "time": "8:00 PM",
+    "name": "David Byrne: Who is the Sky?",
+    "link": "https://www.hollywoodbowl.com/events/performances/4329/2026-08-29/david-byrne-who-is-the-sky",
+    "archived_on": "2026-08-30"
+  },
+  {
+    "key": "hollywood palladium|08/29/2026|courtney barnett - creature of habit tour",
+    "venue": "Hollywood Palladium",
+    "day": "Saturday",
+    "date": "08/29/2026",
+    "time": "7:00 PM",
+    "name": "Courtney Barnett - Creature of Habit Tour",
+    "link": "https://www.ticketmaster.com/courtney-barnett-creature-of-habit-tour-hollywood-california-08-29-2026/event/0900642DC297B2B9",
+    "archived_on": "2026-08-30"
   }
 ]
