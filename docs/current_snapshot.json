@@ -1368,6 +1368,15 @@
     "link": "https://www.dignityhealthsportspark.com/events/detail/la-galaxy-vs-portland-timbers"
   },
   {
+    "key": "dignity health sports park|10/16/2026|treats-n-suites halloween bash",
+    "venue": "Dignity Health Sports Park",
+    "day": "Friday",
+    "date": "10/16/2026",
+    "time": "TBA",
+    "name": "Treats-n-Suites Halloween Bash",
+    "link": "https://www.dignityhealthsportspark.com/events/detail/treats-n-suites-halloween-bash"
+  },
+  {
     "key": "dignity health sports park|10/17/2026|la galaxy vs san diego fc",
     "venue": "Dignity Health Sports Park",
     "day": "Saturday",
@@ -3141,15 +3150,6 @@
     "link": "https://www.mlb.com/gameday/823895"
   },
   {
-    "key": "hollywood bowl|08/31/2026|muse – portugal. the man, the temper trap",
-    "venue": "Hollywood Bowl",
-    "day": "Monday",
-    "date": "08/31/2026",
-    "time": "7:00 PM",
-    "name": "MUSE – Portugal. The Man, The Temper Trap",
-    "link": "https://www.hollywoodbowl.com/events/performances/4837/2026-08-31/muse"
-  },
-  {
     "key": "hollywood bowl|09/01/2026|dvořák & bruch",
     "venue": "Hollywood Bowl",
     "day": "Tuesday",
@@ -3420,6 +3420,15 @@
     "link": "https://www.hollywoodbowl.com/events/performances/4891/2026-10-15/cynthia-erivo"
   },
   {
+    "key": "hollywood bowl|10/16/2026|miley: bass persuades – model/actriz",
+    "venue": "Hollywood Bowl",
+    "day": "Friday",
+    "date": "10/16/2026",
+    "time": "7:30 PM",
+    "name": "MILEY: BASS PERSUADES – Model/Actriz",
+    "link": "https://www.hollywoodbowl.com/events/performances/4905/2026-10-16/miley-bass-persuades"
+  },
+  {
     "key": "hollywood bowl|10/17/2026|smartless live with jason bateman, sean hayes, & will arnett",
     "venue": "Hollywood Bowl",
     "day": "Saturday",
@@ -3427,6 +3436,15 @@
     "time": "7:30 PM",
     "name": "SmartLess Live with Jason Bateman, Sean Hayes, & Will Arnett",
     "link": "https://www.hollywoodbowl.com/events/performances/4841/2026-10-17/smartless-live-with-jason-bateman-sean-hayes-will-arnett"
+  },
+  {
+    "key": "hollywood bowl|10/18/2026|miley: bass persuades – model/actriz",
+    "venue": "Hollywood Bowl",
+    "day": "Sunday",
+    "date": "10/18/2026",
+    "time": "7:30 PM",
+    "name": "MILEY: BASS PERSUADES – Model/Actriz",
+    "link": "https://www.hollywoodbowl.com/events/performances/4906/2026-10-18/miley-bass-persuades"
   },
   {
     "key": "hollywood bowl|10/21/2026|my chemical romance",
@@ -3519,13 +3537,13 @@
     "link": "https://www.hollywoodbowl.com/events/performances/4900/2026-11-21/steve-lacy"
   },
   {
-    "key": "hollywood palladium|09/01/2026|right after you left featuring iliza shlesinger & surprise guests",
+    "key": "hollywood palladium|09/01/2026|bill burr, iliza shlesinger & more at right after you left",
     "venue": "Hollywood Palladium",
     "day": "Tuesday",
     "date": "09/01/2026",
     "time": "8:00 PM",
-    "name": "Right After You Left Featuring Iliza Shlesinger & Surprise Guests",
-    "link": "https://www.ticketmaster.com/right-after-you-left-featuring-iliza-hollywood-california-09-01-2026/event/09006513CFA1C765"
+    "name": "Bill Burr, Iliza Shlesinger & more at Right After You Left",
+    "link": "https://www.ticketmaster.com/bill-burr-iliza-shlesinger-more-at-hollywood-california-09-01-2026/event/09006513CFA1C765"
   },
   {
     "key": "hollywood palladium|09/02/2026|the garden",
