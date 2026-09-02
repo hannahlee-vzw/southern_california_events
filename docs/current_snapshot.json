@@ -1,14 +1,5 @@
 [
   {
-    "key": "sofi stadium|09/01/2026|bts – bts world tour ‘arirang’ in los angeles",
-    "venue": "SoFi Stadium",
-    "day": "Tuesday",
-    "date": "09/01/2026",
-    "time": "8:00 PM",
-    "name": "BTS – BTS WORLD TOUR ‘ARIRANG’ IN LOS ANGELES",
-    "link": "https://www.sofistadium.com/events/detail/bts-september-1-2026"
-  },
-  {
     "key": "sofi stadium|09/02/2026|bts – bts world tour ‘arirang’ in los angeles",
     "venue": "SoFi Stadium",
     "day": "Wednesday",
@@ -1629,6 +1620,15 @@
     "link": "https://www.rosebowlstadium.com/events/details/626/rose-bowl-half-marathon-and-5k"
   },
   {
+    "key": "crypto.com arena|09/07/2026|j. cole – the fall-off world tour",
+    "venue": "Crypto.com Arena",
+    "day": "Monday",
+    "date": "09/07/2026",
+    "time": "8:00 PM",
+    "name": "J. Cole – The Fall-Off World Tour",
+    "link": "https://www.cryptoarena.com/events/detail/jcole090126"
+  },
+  {
     "key": "crypto.com arena|09/12/2026|journey – final frontier tour",
     "venue": "Crypto.com Arena",
     "day": "Saturday",
@@ -2556,15 +2556,6 @@
     "link": "https://www.cryptoarena.com/events/detail/yurilucero041727"
   },
   {
-    "key": "crypto.com arena|TBA|j. cole – the fall-off world tour",
-    "venue": "Crypto.com Arena",
-    "day": "TBA",
-    "date": "TBA",
-    "time": "TBA",
-    "name": "J. Cole – The Fall-Off World Tour",
-    "link": "https://www.cryptoarena.com/events/detail/jcole090126"
-  },
-  {
     "key": "crypto.com arena|TBA|ncaa west regional",
     "venue": "Crypto.com Arena",
     "day": "TBA",
@@ -3015,15 +3006,6 @@
     "link": "https://www.laconventioncenter.com/events/detail/socal-cup-volleyball-showcase-2027"
   },
   {
-    "key": "dodger stadium|09/01/2026|vs. st. louis cardinals",
-    "venue": "Dodger Stadium",
-    "day": "Tuesday",
-    "date": "09/01/2026",
-    "time": "7:10 PM",
-    "name": "vs. St. Louis Cardinals",
-    "link": "https://www.mlb.com/gameday/823908"
-  },
-  {
     "key": "dodger stadium|09/02/2026|vs. st. louis cardinals",
     "venue": "Dodger Stadium",
     "day": "Wednesday",
@@ -3148,15 +3130,6 @@
     "time": "7:10 PM",
     "name": "vs. San Diego Padres",
     "link": "https://www.mlb.com/gameday/823895"
-  },
-  {
-    "key": "hollywood bowl|09/01/2026|dvořák & bruch",
-    "venue": "Hollywood Bowl",
-    "day": "Tuesday",
-    "date": "09/01/2026",
-    "time": "8:00 PM",
-    "name": "Dvořák & Bruch",
-    "link": "https://www.hollywoodbowl.com/events/performances/4331/2026-09-01/dvorak-bruch"
   },
   {
     "key": "hollywood bowl|09/03/2026|amadeusin concert",
@@ -3537,15 +3510,6 @@
     "link": "https://www.hollywoodbowl.com/events/performances/4900/2026-11-21/steve-lacy"
   },
   {
-    "key": "hollywood palladium|09/01/2026|bill burr, iliza shlesinger & more at right after you left",
-    "venue": "Hollywood Palladium",
-    "day": "Tuesday",
-    "date": "09/01/2026",
-    "time": "8:00 PM",
-    "name": "Bill Burr, Iliza Shlesinger & more at Right After You Left",
-    "link": "https://www.ticketmaster.com/bill-burr-iliza-shlesinger-more-at-hollywood-california-09-01-2026/event/09006513CFA1C765"
-  },
-  {
     "key": "hollywood palladium|09/02/2026|the garden",
     "venue": "Hollywood Palladium",
     "day": "Wednesday",
@@ -3778,6 +3742,15 @@
     "time": "7:30 PM",
     "name": "SEX PISTOLS (Steve Jones, Paul Cook, Glen Matlock) feat. Frank Carter",
     "link": "https://www.ticketmaster.com/sex-pistols-steve-jones-paul-cook-hollywood-california-10-18-2026/event/0900627AEA50512B"
+  },
+  {
+    "key": "hollywood palladium|10/19/2026|vanillamace  -'ghosted by vanilla'",
+    "venue": "Hollywood Palladium",
+    "day": "Monday",
+    "date": "10/19/2026",
+    "time": "9:00 PM",
+    "name": "Vanillamace  -'Ghosted by Vanilla'",
+    "link": "https://www.ticketmaster.com/vanillamace-ghosted-by-vanilla-hollywood-california-10-19-2026/event/09006521C63DAF94"
   },
   {
     "key": "hollywood palladium|10/20/2026|modest mouse",
