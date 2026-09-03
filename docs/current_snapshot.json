@@ -1,14 +1,5 @@
 [
   {
-    "key": "sofi stadium|09/02/2026|bts – bts world tour ‘arirang’ in los angeles",
-    "venue": "SoFi Stadium",
-    "day": "Wednesday",
-    "date": "09/02/2026",
-    "time": "8:00 PM",
-    "name": "BTS – BTS WORLD TOUR ‘ARIRANG’ IN LOS ANGELES",
-    "link": "https://www.sofistadium.com/events/detail/bts-september-2-2026"
-  },
-  {
     "key": "sofi stadium|09/05/2026|bts – bts world tour ‘arirang’ in los angeles",
     "venue": "SoFi Stadium",
     "day": "Saturday",
@@ -1303,15 +1294,6 @@
     "time": "7:00 PM",
     "name": "NIALL HORAN – Dinner Party Live On Tour",
     "link": "https://thekiaforum.com/event/niall-horan/"
-  },
-  {
-    "key": "dignity health sports park|09/02/2026|leagues cup: club américa vs. c.f. monterrey",
-    "venue": "Dignity Health Sports Park",
-    "day": "Wednesday",
-    "date": "09/02/2026",
-    "time": "TBA",
-    "name": "Leagues Cup: Club América vs. C.F. Monterrey",
-    "link": "https://www.dignityhealthsportspark.com/events/detail/leagues-cup-club-america-vs-c"
   },
   {
     "key": "dignity health sports park|09/05/2026|la galaxy vs new england revolution",
@@ -3006,15 +2988,6 @@
     "link": "https://www.laconventioncenter.com/events/detail/socal-cup-volleyball-showcase-2027"
   },
   {
-    "key": "dodger stadium|09/02/2026|vs. st. louis cardinals",
-    "venue": "Dodger Stadium",
-    "day": "Wednesday",
-    "date": "09/02/2026",
-    "time": "7:10 PM",
-    "name": "vs. St. Louis Cardinals",
-    "link": "https://www.mlb.com/gameday/823906"
-  },
-  {
     "key": "dodger stadium|09/03/2026|vs. st. louis cardinals",
     "venue": "Dodger Stadium",
     "day": "Thursday",
@@ -3508,15 +3481,6 @@
     "time": "8:00 PM",
     "name": "Steve Lacy",
     "link": "https://www.hollywoodbowl.com/events/performances/4900/2026-11-21/steve-lacy"
-  },
-  {
-    "key": "hollywood palladium|09/02/2026|the garden",
-    "venue": "Hollywood Palladium",
-    "day": "Wednesday",
-    "date": "09/02/2026",
-    "time": "7:00 PM",
-    "name": "The Garden",
-    "link": "https://www.ticketmaster.com/the-garden-hollywood-california-09-02-2026/event/090064CCAF8AD996"
   },
   {
     "key": "hollywood palladium|09/04/2026|the charlatans uk - north american tour 2026",
