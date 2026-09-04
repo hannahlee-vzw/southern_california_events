@@ -64,4 +64,9 @@ VENUES: list[VenueConfig] = [
         url="https://www.hollywoodpalladium.com/shows",
         scraper_module="scrapers.hollywood_palladium",
     ),
+    VenueConfig(
+        name="Long Beach Convention Center",
+        url="https://www.lbentertainmentcenter.com/events/",
+        scraper_module="scrapers.long_beach_cc",
+    ),
 ]
