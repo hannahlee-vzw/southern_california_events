@@ -270,15 +270,6 @@
     "link": "https://www.sofistadium.com/events/detail/super-bowl-lxi"
   },
   {
-    "key": "intuit dome|09/03/2026|j. cole",
-    "venue": "Intuit Dome",
-    "day": "Thursday",
-    "date": "09/03/2026",
-    "time": "8:00 PM",
-    "name": "J. Cole",
-    "link": "https://www.intuitdome.com/events/event-schedule/3492?utm_source=IDwebsite&utm_medium=eventschedule&utm_campaign=IDevents26&utm_content=j_cole_260903"
-  },
-  {
     "key": "intuit dome|09/04/2026|j. cole",
     "venue": "Intuit Dome",
     "day": "Friday",
@@ -2988,15 +2979,6 @@
     "link": "https://www.laconventioncenter.com/events/detail/socal-cup-volleyball-showcase-2027"
   },
   {
-    "key": "dodger stadium|09/03/2026|vs. st. louis cardinals",
-    "venue": "Dodger Stadium",
-    "day": "Thursday",
-    "date": "09/03/2026",
-    "time": "7:10 PM",
-    "name": "vs. St. Louis Cardinals",
-    "link": "https://www.mlb.com/gameday/823907"
-  },
-  {
     "key": "dodger stadium|09/04/2026|vs. washington nationals",
     "venue": "Dodger Stadium",
     "day": "Friday",
@@ -3103,15 +3085,6 @@
     "time": "7:10 PM",
     "name": "vs. San Diego Padres",
     "link": "https://www.mlb.com/gameday/823895"
-  },
-  {
-    "key": "hollywood bowl|09/03/2026|amadeusin concert",
-    "venue": "Hollywood Bowl",
-    "day": "Thursday",
-    "date": "09/03/2026",
-    "time": "8:00 PM",
-    "name": "Amadeusin Concert",
-    "link": "https://www.hollywoodbowl.com/events/performances/4332/2026-09-03/amadeus-in-concert"
   },
   {
     "key": "hollywood bowl|09/04/2026|maestro of the movies:a tribute to john williams",
@@ -3508,6 +3481,15 @@
     "time": "6:30 PM",
     "name": "Stephen Wilson Jr. - Gary The Torch Tour",
     "link": "https://www.ticketmaster.com/stephen-wilson-jr-gary-the-torch-hollywood-california-09-06-2026/event/0900646DE9B21460"
+  },
+  {
+    "key": "hollywood palladium|09/08/2026|right after you left featuring whitney cummings & surprise guests",
+    "venue": "Hollywood Palladium",
+    "day": "Tuesday",
+    "date": "09/08/2026",
+    "time": "8:00 PM",
+    "name": "Right After You Left Featuring Whitney Cummings & Surprise Guests",
+    "link": "https://www.ticketmaster.com/right-after-you-left-featuring-whitney-hollywood-california-09-08-2026/event/0900652490495CB3"
   },
   {
     "key": "hollywood palladium|09/11/2026|san holo presents true love in a made up world",

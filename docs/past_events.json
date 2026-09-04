@@ -5938,5 +5938,35 @@
     "name": "The Garden",
     "link": "https://www.ticketmaster.com/the-garden-hollywood-california-09-02-2026/event/090064CCAF8AD996",
     "archived_on": "2026-09-03"
+  },
+  {
+    "key": "intuit dome|09/03/2026|j. cole",
+    "venue": "Intuit Dome",
+    "day": "Thursday",
+    "date": "09/03/2026",
+    "time": "8:00 PM",
+    "name": "J. Cole",
+    "link": "https://www.intuitdome.com/events/event-schedule/3492?utm_source=IDwebsite&utm_medium=eventschedule&utm_campaign=IDevents26&utm_content=j_cole_260903",
+    "archived_on": "2026-09-04"
+  },
+  {
+    "key": "dodger stadium|09/03/2026|vs. st. louis cardinals",
+    "venue": "Dodger Stadium",
+    "day": "Thursday",
+    "date": "09/03/2026",
+    "time": "7:10 PM",
+    "name": "vs. St. Louis Cardinals",
+    "link": "https://www.mlb.com/gameday/823907",
+    "archived_on": "2026-09-04"
+  },
+  {
+    "key": "hollywood bowl|09/03/2026|amadeusin concert",
+    "venue": "Hollywood Bowl",
+    "day": "Thursday",
+    "date": "09/03/2026",
+    "time": "8:00 PM",
+    "name": "Amadeusin Concert",
+    "link": "https://www.hollywoodbowl.com/events/performances/4332/2026-09-03/amadeus-in-concert",
+    "archived_on": "2026-09-04"
   }
 ]
