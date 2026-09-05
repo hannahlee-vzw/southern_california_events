@@ -270,15 +270,6 @@
     "link": "https://www.sofistadium.com/events/detail/super-bowl-lxi"
   },
   {
-    "key": "intuit dome|09/04/2026|j. cole",
-    "venue": "Intuit Dome",
-    "day": "Friday",
-    "date": "09/04/2026",
-    "time": "8:00 PM",
-    "name": "J. Cole",
-    "link": "https://www.intuitdome.com/events/event-schedule/3498?utm_source=IDwebsite&utm_medium=eventschedule&utm_campaign=IDevents26&utm_content=j_cole_260903"
-  },
-  {
     "key": "intuit dome|09/18/2026|maná",
     "venue": "Intuit Dome",
     "day": "Friday",
@@ -2538,15 +2529,6 @@
     "link": "https://www.cryptoarena.com/events/detail/ncaawestregional2027"
   },
   {
-    "key": "l.a. memorial coliseum|09/04/2026|fresno state vs usc",
-    "venue": "L.A. Memorial Coliseum",
-    "day": "Friday",
-    "date": "09/04/2026",
-    "time": "TBA",
-    "name": "Fresno State vs USC",
-    "link": "https://www.lacoliseum.com/events/fresno-state-vs-usc-2026/"
-  },
-  {
     "key": "l.a. memorial coliseum|09/12/2026|louisiana vs usc",
     "venue": "L.A. Memorial Coliseum",
     "day": "Saturday",
@@ -2979,15 +2961,6 @@
     "link": "https://www.laconventioncenter.com/events/detail/socal-cup-volleyball-showcase-2027"
   },
   {
-    "key": "dodger stadium|09/04/2026|vs. washington nationals",
-    "venue": "Dodger Stadium",
-    "day": "Friday",
-    "date": "09/04/2026",
-    "time": "7:10 PM",
-    "name": "vs. Washington Nationals",
-    "link": "https://www.mlb.com/gameday/823905"
-  },
-  {
     "key": "dodger stadium|09/05/2026|vs. washington nationals",
     "venue": "Dodger Stadium",
     "day": "Saturday",
@@ -3085,15 +3058,6 @@
     "time": "7:10 PM",
     "name": "vs. San Diego Padres",
     "link": "https://www.mlb.com/gameday/823895"
-  },
-  {
-    "key": "hollywood bowl|09/04/2026|maestro of the movies:a tribute to john williams",
-    "venue": "Hollywood Bowl",
-    "day": "Friday",
-    "date": "09/04/2026",
-    "time": "8:00 PM",
-    "name": "Maestro of the Movies:A Tribute to John Williams",
-    "link": "https://www.hollywoodbowl.com/events/performances/4333/2026-09-04/maestro-of-the-movies-a-tribute-to-john-williams"
   },
   {
     "key": "hollywood bowl|09/05/2026|maestro of the movies:a tribute to john williams",
@@ -3454,15 +3418,6 @@
     "time": "8:00 PM",
     "name": "Steve Lacy",
     "link": "https://www.hollywoodbowl.com/events/performances/4900/2026-11-21/steve-lacy"
-  },
-  {
-    "key": "hollywood palladium|09/04/2026|the charlatans uk - north american tour 2026",
-    "venue": "Hollywood Palladium",
-    "day": "Friday",
-    "date": "09/04/2026",
-    "time": "6:30 PM",
-    "name": "The Charlatans UK - North American Tour 2026",
-    "link": "https://www.ticketmaster.com/the-charlatans-uk-north-american-tour-hollywood-california-09-04-2026/event/09006490B9D99051"
   },
   {
     "key": "hollywood palladium|09/05/2026|william black",

@@ -5968,5 +5968,55 @@
     "name": "Amadeusin Concert",
     "link": "https://www.hollywoodbowl.com/events/performances/4332/2026-09-03/amadeus-in-concert",
     "archived_on": "2026-09-04"
+  },
+  {
+    "key": "intuit dome|09/04/2026|j. cole",
+    "venue": "Intuit Dome",
+    "day": "Friday",
+    "date": "09/04/2026",
+    "time": "8:00 PM",
+    "name": "J. Cole",
+    "link": "https://www.intuitdome.com/events/event-schedule/3498?utm_source=IDwebsite&utm_medium=eventschedule&utm_campaign=IDevents26&utm_content=j_cole_260903",
+    "archived_on": "2026-09-05"
+  },
+  {
+    "key": "l.a. memorial coliseum|09/04/2026|fresno state vs usc",
+    "venue": "L.A. Memorial Coliseum",
+    "day": "Friday",
+    "date": "09/04/2026",
+    "time": "TBA",
+    "name": "Fresno State vs USC",
+    "link": "https://www.lacoliseum.com/events/fresno-state-vs-usc-2026/",
+    "archived_on": "2026-09-05"
+  },
+  {
+    "key": "dodger stadium|09/04/2026|vs. washington nationals",
+    "venue": "Dodger Stadium",
+    "day": "Friday",
+    "date": "09/04/2026",
+    "time": "7:10 PM",
+    "name": "vs. Washington Nationals",
+    "link": "https://www.mlb.com/gameday/823905",
+    "archived_on": "2026-09-05"
+  },
+  {
+    "key": "hollywood bowl|09/04/2026|maestro of the movies:a tribute to john williams",
+    "venue": "Hollywood Bowl",
+    "day": "Friday",
+    "date": "09/04/2026",
+    "time": "8:00 PM",
+    "name": "Maestro of the Movies:A Tribute to John Williams",
+    "link": "https://www.hollywoodbowl.com/events/performances/4333/2026-09-04/maestro-of-the-movies-a-tribute-to-john-williams",
+    "archived_on": "2026-09-05"
+  },
+  {
+    "key": "hollywood palladium|09/04/2026|the charlatans uk - north american tour 2026",
+    "venue": "Hollywood Palladium",
+    "day": "Friday",
+    "date": "09/04/2026",
+    "time": "6:30 PM",
+    "name": "The Charlatans UK - North American Tour 2026",
+    "link": "https://www.ticketmaster.com/the-charlatans-uk-north-american-tour-hollywood-california-09-04-2026/event/09006490B9D99051",
+    "archived_on": "2026-09-05"
   }
 ]
