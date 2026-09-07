@@ -1,14 +1,5 @@
 [
   {
-    "key": "sofi stadium|09/06/2026|bts – bts world tour ‘arirang’ in los angeles",
-    "venue": "SoFi Stadium",
-    "day": "Sunday",
-    "date": "09/06/2026",
-    "time": "8:00 PM",
-    "name": "BTS – BTS WORLD TOUR ‘ARIRANG’ IN LOS ANGELES",
-    "link": "https://www.sofistadium.com/events/detail/bts-september-6-2026"
-  },
-  {
     "key": "sofi stadium|09/13/2026|chargers vs. cardinals – week 1",
     "venue": "SoFi Stadium",
     "day": "Sunday",
@@ -898,15 +889,6 @@
     "time": "12:00 PM",
     "name": "Laver Cup 2027",
     "link": "https://www.intuitdome.com/events/event-schedule"
-  },
-  {
-    "key": "kia forum|09/06/2026|chicago & styx – the windy cities tour - all the hits... your kind of tour",
-    "venue": "Kia Forum",
-    "day": "Sunday",
-    "date": "09/06/2026",
-    "time": "7:00 PM",
-    "name": "CHICAGO & STYX – The Windy Cities Tour - All The Hits... Your Kind of Tour",
-    "link": "https://thekiaforum.com/event/chicago-styx/"
   },
   {
     "key": "kia forum|09/11/2026|johnny blue skies & the dark clouds – mutiny for the masses 2026 tour",
@@ -2925,15 +2907,6 @@
     "link": "https://www.laconventioncenter.com/events/detail/socal-cup-volleyball-showcase-2027"
   },
   {
-    "key": "dodger stadium|09/06/2026|vs. washington nationals",
-    "venue": "Dodger Stadium",
-    "day": "Sunday",
-    "date": "09/06/2026",
-    "time": "7:10 PM",
-    "name": "vs. Washington Nationals",
-    "link": "https://www.mlb.com/gameday/823903"
-  },
-  {
     "key": "dodger stadium|09/07/2026|vs. cincinnati reds",
     "venue": "Dodger Stadium",
     "day": "Monday",
@@ -3013,15 +2986,6 @@
     "time": "7:10 PM",
     "name": "vs. San Diego Padres",
     "link": "https://www.mlb.com/gameday/823895"
-  },
-  {
-    "key": "hollywood bowl|09/06/2026|maestro of the movies:a tribute to john williams",
-    "venue": "Hollywood Bowl",
-    "day": "Sunday",
-    "date": "09/06/2026",
-    "time": "7:30 PM",
-    "name": "Maestro of the Movies:A Tribute to John Williams",
-    "link": "https://www.hollywoodbowl.com/events/performances/4335/2026-09-06/maestro-of-the-movies-a-tribute-to-john-williams"
   },
   {
     "key": "hollywood bowl|09/08/2026|los angeles ballet at the bowl",
@@ -3364,15 +3328,6 @@
     "time": "8:00 PM",
     "name": "Steve Lacy",
     "link": "https://www.hollywoodbowl.com/events/performances/4900/2026-11-21/steve-lacy"
-  },
-  {
-    "key": "hollywood palladium|09/06/2026|stephen wilson jr. - gary the torch tour",
-    "venue": "Hollywood Palladium",
-    "day": "Sunday",
-    "date": "09/06/2026",
-    "time": "6:30 PM",
-    "name": "Stephen Wilson Jr. - Gary The Torch Tour",
-    "link": "https://www.ticketmaster.com/stephen-wilson-jr-gary-the-torch-hollywood-california-09-06-2026/event/0900646DE9B21460"
   },
   {
     "key": "hollywood palladium|09/08/2026|right after you left featuring whitney cummings & surprise guests",

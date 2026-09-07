@@ -6088,5 +6088,55 @@
     "name": "William Black",
     "link": "https://www.ticketmaster.com/william-black-hollywood-california-09-05-2026/event/090064DA849B4543",
     "archived_on": "2026-09-06"
+  },
+  {
+    "key": "sofi stadium|09/06/2026|bts – bts world tour ‘arirang’ in los angeles",
+    "venue": "SoFi Stadium",
+    "day": "Sunday",
+    "date": "09/06/2026",
+    "time": "8:00 PM",
+    "name": "BTS – BTS WORLD TOUR ‘ARIRANG’ IN LOS ANGELES",
+    "link": "https://www.sofistadium.com/events/detail/bts-september-6-2026",
+    "archived_on": "2026-09-07"
+  },
+  {
+    "key": "kia forum|09/06/2026|chicago & styx – the windy cities tour - all the hits... your kind of tour",
+    "venue": "Kia Forum",
+    "day": "Sunday",
+    "date": "09/06/2026",
+    "time": "7:00 PM",
+    "name": "CHICAGO & STYX – The Windy Cities Tour - All The Hits... Your Kind of Tour",
+    "link": "https://thekiaforum.com/event/chicago-styx/",
+    "archived_on": "2026-09-07"
+  },
+  {
+    "key": "dodger stadium|09/06/2026|vs. washington nationals",
+    "venue": "Dodger Stadium",
+    "day": "Sunday",
+    "date": "09/06/2026",
+    "time": "7:10 PM",
+    "name": "vs. Washington Nationals",
+    "link": "https://www.mlb.com/gameday/823903",
+    "archived_on": "2026-09-07"
+  },
+  {
+    "key": "hollywood bowl|09/06/2026|maestro of the movies:a tribute to john williams",
+    "venue": "Hollywood Bowl",
+    "day": "Sunday",
+    "date": "09/06/2026",
+    "time": "7:30 PM",
+    "name": "Maestro of the Movies:A Tribute to John Williams",
+    "link": "https://www.hollywoodbowl.com/events/performances/4335/2026-09-06/maestro-of-the-movies-a-tribute-to-john-williams",
+    "archived_on": "2026-09-07"
+  },
+  {
+    "key": "hollywood palladium|09/06/2026|stephen wilson jr. - gary the torch tour",
+    "venue": "Hollywood Palladium",
+    "day": "Sunday",
+    "date": "09/06/2026",
+    "time": "6:30 PM",
+    "name": "Stephen Wilson Jr. - Gary The Torch Tour",
+    "link": "https://www.ticketmaster.com/stephen-wilson-jr-gary-the-torch-hollywood-california-09-06-2026/event/0900646DE9B21460",
+    "archived_on": "2026-09-07"
   }
 ]
