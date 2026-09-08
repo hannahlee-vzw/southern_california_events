@@ -477,6 +477,15 @@
     "link": "https://intuitdome.com/events/event-schedule/4309?type=games&utm_source=IDwebsite&utm_medium=eventdetail&utm_campaign=SGT_2627&utm_content=SGT2627_EST_261207"
   },
   {
+    "key": "intuit dome|12/19/2026|stevie wonder",
+    "venue": "Intuit Dome",
+    "day": "Saturday",
+    "date": "12/19/2026",
+    "time": "8:00 PM",
+    "name": "Stevie Wonder",
+    "link": "https://www.intuitdome.com/events/event-schedule/4627?utm_source=eventschedule&utm_medium=IDwebsite&utm_campaign=IDevents25&utm_content=stevie_wonder_261219"
+  },
+  {
     "key": "intuit dome|12/20/2026|indiana pacers vs la clippers",
     "venue": "Intuit Dome",
     "day": "Sunday",
@@ -1278,6 +1287,15 @@
     "link": "https://www.dignityhealthsportspark.com/events/detail/la-galaxy-vs-colorado-rapids"
   },
   {
+    "key": "dignity health sports park|10/04/2026|la galaxy vs cruz azul",
+    "venue": "Dignity Health Sports Park",
+    "day": "Sunday",
+    "date": "10/04/2026",
+    "time": "TBA",
+    "name": "LA Galaxy vs Cruz Azul",
+    "link": "https://www.dignityhealthsportspark.com/events/detail/la-galaxy-vs-cruz-azul-1"
+  },
+  {
     "key": "dignity health sports park|10/14/2026|la galaxy vs portland timbers fc",
     "venue": "Dignity Health Sports Park",
     "day": "Wednesday",
@@ -1537,15 +1555,6 @@
     "time": "TBD",
     "name": "Rose Bowl Half Marathon & 5K",
     "link": "https://www.rosebowlstadium.com/events/details/626/rose-bowl-half-marathon-and-5k"
-  },
-  {
-    "key": "crypto.com arena|09/07/2026|j. cole – the fall-off world tour",
-    "venue": "Crypto.com Arena",
-    "day": "Monday",
-    "date": "09/07/2026",
-    "time": "8:00 PM",
-    "name": "J. Cole – The Fall-Off World Tour",
-    "link": "https://www.cryptoarena.com/events/detail/jcole090126"
   },
   {
     "key": "crypto.com arena|09/12/2026|journey – final frontier tour",
@@ -2905,15 +2914,6 @@
     "time": "TBA",
     "name": "The SoCal Cup: The Showcase 2027",
     "link": "https://www.laconventioncenter.com/events/detail/socal-cup-volleyball-showcase-2027"
-  },
-  {
-    "key": "dodger stadium|09/07/2026|vs. cincinnati reds",
-    "venue": "Dodger Stadium",
-    "day": "Monday",
-    "date": "09/07/2026",
-    "time": "6:10 PM",
-    "name": "vs. Cincinnati Reds",
-    "link": "https://www.mlb.com/gameday/823902"
   },
   {
     "key": "dodger stadium|09/08/2026|vs. cincinnati reds",

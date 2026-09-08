@@ -6138,5 +6138,25 @@
     "name": "Stephen Wilson Jr. - Gary The Torch Tour",
     "link": "https://www.ticketmaster.com/stephen-wilson-jr-gary-the-torch-hollywood-california-09-06-2026/event/0900646DE9B21460",
     "archived_on": "2026-09-07"
+  },
+  {
+    "key": "crypto.com arena|09/07/2026|j. cole – the fall-off world tour",
+    "venue": "Crypto.com Arena",
+    "day": "Monday",
+    "date": "09/07/2026",
+    "time": "8:00 PM",
+    "name": "J. Cole – The Fall-Off World Tour",
+    "link": "https://www.cryptoarena.com/events/detail/jcole090126",
+    "archived_on": "2026-09-08"
+  },
+  {
+    "key": "dodger stadium|09/07/2026|vs. cincinnati reds",
+    "venue": "Dodger Stadium",
+    "day": "Monday",
+    "date": "09/07/2026",
+    "time": "6:10 PM",
+    "name": "vs. Cincinnati Reds",
+    "link": "https://www.mlb.com/gameday/823902",
+    "archived_on": "2026-09-08"
   }
 ]
