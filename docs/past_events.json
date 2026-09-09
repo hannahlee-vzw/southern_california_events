@@ -5938,5 +5938,255 @@
     "name": "The Garden",
     "link": "https://www.ticketmaster.com/the-garden-hollywood-california-09-02-2026/event/090064CCAF8AD996",
     "archived_on": "2026-09-03"
+  },
+  {
+    "key": "intuit dome|09/03/2026|j. cole",
+    "venue": "Intuit Dome",
+    "day": "Thursday",
+    "date": "09/03/2026",
+    "time": "8:00 PM",
+    "name": "J. Cole",
+    "link": "https://www.intuitdome.com/events/event-schedule/3492?utm_source=IDwebsite&utm_medium=eventschedule&utm_campaign=IDevents26&utm_content=j_cole_260903",
+    "archived_on": "2026-09-04"
+  },
+  {
+    "key": "dodger stadium|09/03/2026|vs. st. louis cardinals",
+    "venue": "Dodger Stadium",
+    "day": "Thursday",
+    "date": "09/03/2026",
+    "time": "7:10 PM",
+    "name": "vs. St. Louis Cardinals",
+    "link": "https://www.mlb.com/gameday/823907",
+    "archived_on": "2026-09-04"
+  },
+  {
+    "key": "hollywood bowl|09/03/2026|amadeusin concert",
+    "venue": "Hollywood Bowl",
+    "day": "Thursday",
+    "date": "09/03/2026",
+    "time": "8:00 PM",
+    "name": "Amadeusin Concert",
+    "link": "https://www.hollywoodbowl.com/events/performances/4332/2026-09-03/amadeus-in-concert",
+    "archived_on": "2026-09-04"
+  },
+  {
+    "key": "intuit dome|09/04/2026|j. cole",
+    "venue": "Intuit Dome",
+    "day": "Friday",
+    "date": "09/04/2026",
+    "time": "8:00 PM",
+    "name": "J. Cole",
+    "link": "https://www.intuitdome.com/events/event-schedule/3498?utm_source=IDwebsite&utm_medium=eventschedule&utm_campaign=IDevents26&utm_content=j_cole_260903",
+    "archived_on": "2026-09-05"
+  },
+  {
+    "key": "l.a. memorial coliseum|09/04/2026|fresno state vs usc",
+    "venue": "L.A. Memorial Coliseum",
+    "day": "Friday",
+    "date": "09/04/2026",
+    "time": "TBA",
+    "name": "Fresno State vs USC",
+    "link": "https://www.lacoliseum.com/events/fresno-state-vs-usc-2026/",
+    "archived_on": "2026-09-05"
+  },
+  {
+    "key": "dodger stadium|09/04/2026|vs. washington nationals",
+    "venue": "Dodger Stadium",
+    "day": "Friday",
+    "date": "09/04/2026",
+    "time": "7:10 PM",
+    "name": "vs. Washington Nationals",
+    "link": "https://www.mlb.com/gameday/823905",
+    "archived_on": "2026-09-05"
+  },
+  {
+    "key": "hollywood bowl|09/04/2026|maestro of the movies:a tribute to john williams",
+    "venue": "Hollywood Bowl",
+    "day": "Friday",
+    "date": "09/04/2026",
+    "time": "8:00 PM",
+    "name": "Maestro of the Movies:A Tribute to John Williams",
+    "link": "https://www.hollywoodbowl.com/events/performances/4333/2026-09-04/maestro-of-the-movies-a-tribute-to-john-williams",
+    "archived_on": "2026-09-05"
+  },
+  {
+    "key": "hollywood palladium|09/04/2026|the charlatans uk - north american tour 2026",
+    "venue": "Hollywood Palladium",
+    "day": "Friday",
+    "date": "09/04/2026",
+    "time": "6:30 PM",
+    "name": "The Charlatans UK - North American Tour 2026",
+    "link": "https://www.ticketmaster.com/the-charlatans-uk-north-american-tour-hollywood-california-09-04-2026/event/09006490B9D99051",
+    "archived_on": "2026-09-05"
+  },
+  {
+    "key": "sofi stadium|09/05/2026|bts – bts world tour ‘arirang’ in los angeles",
+    "venue": "SoFi Stadium",
+    "day": "Saturday",
+    "date": "09/05/2026",
+    "time": "8:00 PM",
+    "name": "BTS – BTS WORLD TOUR ‘ARIRANG’ IN LOS ANGELES",
+    "link": "https://www.sofistadium.com/events/detail/bts-september-5-2026",
+    "archived_on": "2026-09-06"
+  },
+  {
+    "key": "dignity health sports park|09/05/2026|la galaxy vs new england revolution",
+    "venue": "Dignity Health Sports Park",
+    "day": "Saturday",
+    "date": "09/05/2026",
+    "time": "TBA",
+    "name": "LA Galaxy vs New England Revolution",
+    "link": "https://www.dignityhealthsportspark.com/events/detail/la-galaxy-vs-new-england-revolution",
+    "archived_on": "2026-09-06"
+  },
+  {
+    "key": "rose bowl stadium|09/05/2026|guns n’ roses",
+    "venue": "Rose Bowl Stadium",
+    "day": "Saturday",
+    "date": "09/05/2026",
+    "time": "6:25 PM",
+    "name": "GUNS N’ ROSES",
+    "link": "https://www.rosebowlstadium.com/events/details/579/guns-n'-roses",
+    "archived_on": "2026-09-06"
+  },
+  {
+    "key": "la convention center|09/05/2026|los angeles lowrider magazine super show",
+    "venue": "LA Convention Center",
+    "day": "Saturday",
+    "date": "09/05/2026",
+    "time": "TBA",
+    "name": "Los Angeles Lowrider Magazine Super Show",
+    "link": "https://www.laconventioncenter.com/events/detail/los-angeles-lowrider-magazine-super-show",
+    "archived_on": "2026-09-06"
+  },
+  {
+    "key": "dodger stadium|09/05/2026|vs. washington nationals",
+    "venue": "Dodger Stadium",
+    "day": "Saturday",
+    "date": "09/05/2026",
+    "time": "6:10 PM",
+    "name": "vs. Washington Nationals",
+    "link": "https://www.mlb.com/gameday/823904",
+    "archived_on": "2026-09-06"
+  },
+  {
+    "key": "hollywood bowl|09/05/2026|maestro of the movies:a tribute to john williams",
+    "venue": "Hollywood Bowl",
+    "day": "Saturday",
+    "date": "09/05/2026",
+    "time": "8:00 PM",
+    "name": "Maestro of the Movies:A Tribute to John Williams",
+    "link": "https://www.hollywoodbowl.com/events/performances/4334/2026-09-05/maestro-of-the-movies-a-tribute-to-john-williams",
+    "archived_on": "2026-09-06"
+  },
+  {
+    "key": "hollywood palladium|09/05/2026|william black",
+    "venue": "Hollywood Palladium",
+    "day": "Saturday",
+    "date": "09/05/2026",
+    "time": "8:00 PM",
+    "name": "William Black",
+    "link": "https://www.ticketmaster.com/william-black-hollywood-california-09-05-2026/event/090064DA849B4543",
+    "archived_on": "2026-09-06"
+  },
+  {
+    "key": "sofi stadium|09/06/2026|bts – bts world tour ‘arirang’ in los angeles",
+    "venue": "SoFi Stadium",
+    "day": "Sunday",
+    "date": "09/06/2026",
+    "time": "8:00 PM",
+    "name": "BTS – BTS WORLD TOUR ‘ARIRANG’ IN LOS ANGELES",
+    "link": "https://www.sofistadium.com/events/detail/bts-september-6-2026",
+    "archived_on": "2026-09-07"
+  },
+  {
+    "key": "kia forum|09/06/2026|chicago & styx – the windy cities tour - all the hits... your kind of tour",
+    "venue": "Kia Forum",
+    "day": "Sunday",
+    "date": "09/06/2026",
+    "time": "7:00 PM",
+    "name": "CHICAGO & STYX – The Windy Cities Tour - All The Hits... Your Kind of Tour",
+    "link": "https://thekiaforum.com/event/chicago-styx/",
+    "archived_on": "2026-09-07"
+  },
+  {
+    "key": "dodger stadium|09/06/2026|vs. washington nationals",
+    "venue": "Dodger Stadium",
+    "day": "Sunday",
+    "date": "09/06/2026",
+    "time": "7:10 PM",
+    "name": "vs. Washington Nationals",
+    "link": "https://www.mlb.com/gameday/823903",
+    "archived_on": "2026-09-07"
+  },
+  {
+    "key": "hollywood bowl|09/06/2026|maestro of the movies:a tribute to john williams",
+    "venue": "Hollywood Bowl",
+    "day": "Sunday",
+    "date": "09/06/2026",
+    "time": "7:30 PM",
+    "name": "Maestro of the Movies:A Tribute to John Williams",
+    "link": "https://www.hollywoodbowl.com/events/performances/4335/2026-09-06/maestro-of-the-movies-a-tribute-to-john-williams",
+    "archived_on": "2026-09-07"
+  },
+  {
+    "key": "hollywood palladium|09/06/2026|stephen wilson jr. - gary the torch tour",
+    "venue": "Hollywood Palladium",
+    "day": "Sunday",
+    "date": "09/06/2026",
+    "time": "6:30 PM",
+    "name": "Stephen Wilson Jr. - Gary The Torch Tour",
+    "link": "https://www.ticketmaster.com/stephen-wilson-jr-gary-the-torch-hollywood-california-09-06-2026/event/0900646DE9B21460",
+    "archived_on": "2026-09-07"
+  },
+  {
+    "key": "crypto.com arena|09/07/2026|j. cole – the fall-off world tour",
+    "venue": "Crypto.com Arena",
+    "day": "Monday",
+    "date": "09/07/2026",
+    "time": "8:00 PM",
+    "name": "J. Cole – The Fall-Off World Tour",
+    "link": "https://www.cryptoarena.com/events/detail/jcole090126",
+    "archived_on": "2026-09-08"
+  },
+  {
+    "key": "dodger stadium|09/07/2026|vs. cincinnati reds",
+    "venue": "Dodger Stadium",
+    "day": "Monday",
+    "date": "09/07/2026",
+    "time": "6:10 PM",
+    "name": "vs. Cincinnati Reds",
+    "link": "https://www.mlb.com/gameday/823902",
+    "archived_on": "2026-09-08"
+  },
+  {
+    "key": "dodger stadium|09/08/2026|vs. cincinnati reds",
+    "venue": "Dodger Stadium",
+    "day": "Tuesday",
+    "date": "09/08/2026",
+    "time": "7:10 PM",
+    "name": "vs. Cincinnati Reds",
+    "link": "https://www.mlb.com/gameday/823901",
+    "archived_on": "2026-09-09"
+  },
+  {
+    "key": "hollywood bowl|09/08/2026|los angeles ballet at the bowl",
+    "venue": "Hollywood Bowl",
+    "day": "Tuesday",
+    "date": "09/08/2026",
+    "time": "8:00 PM",
+    "name": "Los Angeles Ballet at the Bowl",
+    "link": "https://www.hollywoodbowl.com/events/performances/4336/2026-09-08/los-angeles-ballet-at-the-bowl",
+    "archived_on": "2026-09-09"
+  },
+  {
+    "key": "hollywood palladium|09/08/2026|right after you left featuring whitney cummings & surprise guests",
+    "venue": "Hollywood Palladium",
+    "day": "Tuesday",
+    "date": "09/08/2026",
+    "time": "8:00 PM",
+    "name": "Right After You Left Featuring Whitney Cummings & Surprise Guests",
+    "link": "https://www.ticketmaster.com/right-after-you-left-featuring-whitney-hollywood-california-09-08-2026/event/0900652490495CB3",
+    "archived_on": "2026-09-09"
   }
 ]
