@@ -441,6 +441,15 @@
     "link": "https://intuitdome.com/events/event-schedule/4274?type=games&utm_source=IDwebsite&utm_medium=eventdetail&utm_campaign=SGT_2627&utm_content=SGT2627_EST_261117"
   },
   {
+    "key": "intuit dome|11/20/2026|hollywood hardwood classic: usc v baylor",
+    "venue": "Intuit Dome",
+    "day": "Friday",
+    "date": "11/20/2026",
+    "time": "8:00 PM",
+    "name": "Hollywood Hardwood Classic: USC v Baylor",
+    "link": "https://www.intuitdome.com/events/event-schedule/4650?utm_source=IDwebsite&utm_medium=eventschedule&utm_campaign=IDevents26&utm_content=usc_vs_baylor_261120"
+  },
+  {
     "key": "intuit dome|11/22/2026|three days grace",
     "venue": "Intuit Dome",
     "day": "Sunday",
@@ -483,7 +492,7 @@
     "date": "12/19/2026",
     "time": "8:00 PM",
     "name": "Stevie Wonder",
-    "link": "https://www.intuitdome.com/events/event-schedule/4627?utm_source=eventschedule&utm_medium=IDwebsite&utm_campaign=IDevents25&utm_content=stevie_wonder_261219"
+    "link": "https://www.intuitdome.com/events/event-schedule/4627?utm_source=eventschedule&utm_medium=IDwebsite&utm_campaign=IDevents26&utm_content=stevie_wonder_261219"
   },
   {
     "key": "intuit dome|12/20/2026|indiana pacers vs la clippers",
@@ -2808,6 +2817,15 @@
     "link": "https://www.laconventioncenter.com/events/detail/the-fit-expo-los-angeles-2027"
   },
   {
+    "key": "la convention center|01/30/2027|spirit royale cheer championship",
+    "venue": "LA Convention Center",
+    "day": "Saturday",
+    "date": "01/30/2027",
+    "time": "TBA",
+    "name": "Spirit Royale Cheer Championship",
+    "link": "https://www.laconventioncenter.com/events/detail/spirit-royale-cheer-championship"
+  },
+  {
     "key": "la convention center|02/23/2027|makeup + luxe pack in los angeles 2027",
     "venue": "LA Convention Center",
     "day": "Tuesday",
@@ -2916,15 +2934,6 @@
     "link": "https://www.laconventioncenter.com/events/detail/socal-cup-volleyball-showcase-2027"
   },
   {
-    "key": "dodger stadium|09/08/2026|vs. cincinnati reds",
-    "venue": "Dodger Stadium",
-    "day": "Tuesday",
-    "date": "09/08/2026",
-    "time": "7:10 PM",
-    "name": "vs. Cincinnati Reds",
-    "link": "https://www.mlb.com/gameday/823901"
-  },
-  {
     "key": "dodger stadium|09/09/2026|vs. cincinnati reds",
     "venue": "Dodger Stadium",
     "day": "Wednesday",
@@ -2986,15 +2995,6 @@
     "time": "7:10 PM",
     "name": "vs. San Diego Padres",
     "link": "https://www.mlb.com/gameday/823895"
-  },
-  {
-    "key": "hollywood bowl|09/08/2026|los angeles ballet at the bowl",
-    "venue": "Hollywood Bowl",
-    "day": "Tuesday",
-    "date": "09/08/2026",
-    "time": "8:00 PM",
-    "name": "Los Angeles Ballet at the Bowl",
-    "link": "https://www.hollywoodbowl.com/events/performances/4336/2026-09-08/los-angeles-ballet-at-the-bowl"
   },
   {
     "key": "hollywood bowl|09/09/2026|buddy guy 90 – with special guests christone “kingfish” ingram and his delta jam",
@@ -3328,15 +3328,6 @@
     "time": "8:00 PM",
     "name": "Steve Lacy",
     "link": "https://www.hollywoodbowl.com/events/performances/4900/2026-11-21/steve-lacy"
-  },
-  {
-    "key": "hollywood palladium|09/08/2026|right after you left featuring whitney cummings & surprise guests",
-    "venue": "Hollywood Palladium",
-    "day": "Tuesday",
-    "date": "09/08/2026",
-    "time": "8:00 PM",
-    "name": "Right After You Left Featuring Whitney Cummings & Surprise Guests",
-    "link": "https://www.ticketmaster.com/right-after-you-left-featuring-whitney-hollywood-california-09-08-2026/event/0900652490495CB3"
   },
   {
     "key": "hollywood palladium|09/11/2026|san holo presents true love in a made up world",

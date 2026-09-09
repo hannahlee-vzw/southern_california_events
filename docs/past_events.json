@@ -6158,5 +6158,35 @@
     "name": "vs. Cincinnati Reds",
     "link": "https://www.mlb.com/gameday/823902",
     "archived_on": "2026-09-08"
+  },
+  {
+    "key": "dodger stadium|09/08/2026|vs. cincinnati reds",
+    "venue": "Dodger Stadium",
+    "day": "Tuesday",
+    "date": "09/08/2026",
+    "time": "7:10 PM",
+    "name": "vs. Cincinnati Reds",
+    "link": "https://www.mlb.com/gameday/823901",
+    "archived_on": "2026-09-09"
+  },
+  {
+    "key": "hollywood bowl|09/08/2026|los angeles ballet at the bowl",
+    "venue": "Hollywood Bowl",
+    "day": "Tuesday",
+    "date": "09/08/2026",
+    "time": "8:00 PM",
+    "name": "Los Angeles Ballet at the Bowl",
+    "link": "https://www.hollywoodbowl.com/events/performances/4336/2026-09-08/los-angeles-ballet-at-the-bowl",
+    "archived_on": "2026-09-09"
+  },
+  {
+    "key": "hollywood palladium|09/08/2026|right after you left featuring whitney cummings & surprise guests",
+    "venue": "Hollywood Palladium",
+    "day": "Tuesday",
+    "date": "09/08/2026",
+    "time": "8:00 PM",
+    "name": "Right After You Left Featuring Whitney Cummings & Surprise Guests",
+    "link": "https://www.ticketmaster.com/right-after-you-left-featuring-whitney-hollywood-california-09-08-2026/event/0900652490495CB3",
+    "archived_on": "2026-09-09"
   }
 ]
