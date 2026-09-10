@@ -6188,5 +6188,35 @@
     "name": "Right After You Left Featuring Whitney Cummings & Surprise Guests",
     "link": "https://www.ticketmaster.com/right-after-you-left-featuring-whitney-hollywood-california-09-08-2026/event/0900652490495CB3",
     "archived_on": "2026-09-09"
+  },
+  {
+    "key": "la convention center|09/09/2026|alibaba.com cocreate 2026",
+    "venue": "LA Convention Center",
+    "day": "Wednesday",
+    "date": "09/09/2026",
+    "time": "TBA",
+    "name": "Alibaba.com CoCreate 2026",
+    "link": "https://www.laconventioncenter.com/events/detail/alibabacom-cocreate-2026",
+    "archived_on": "2026-09-10"
+  },
+  {
+    "key": "dodger stadium|09/09/2026|vs. cincinnati reds",
+    "venue": "Dodger Stadium",
+    "day": "Wednesday",
+    "date": "09/09/2026",
+    "time": "7:10 PM",
+    "name": "vs. Cincinnati Reds",
+    "link": "https://www.mlb.com/gameday/823900",
+    "archived_on": "2026-09-10"
+  },
+  {
+    "key": "hollywood bowl|09/09/2026|buddy guy 90 – with special guests christone “kingfish” ingram and his delta jam",
+    "venue": "Hollywood Bowl",
+    "day": "Wednesday",
+    "date": "09/09/2026",
+    "time": "8:00 PM",
+    "name": "Buddy Guy 90 – with Special Guests Christone “Kingfish” Ingram and his Delta Jam",
+    "link": "https://www.hollywoodbowl.com/events/performances/4337/2026-09-09/buddy-guy-90",
+    "archived_on": "2026-09-10"
   }
 ]
