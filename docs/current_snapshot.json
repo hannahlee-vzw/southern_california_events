@@ -909,15 +909,6 @@
     "link": "https://www.intuitdome.com/events/event-schedule"
   },
   {
-    "key": "kia forum|09/12/2026|soda stereo – ecos tour",
-    "venue": "Kia Forum",
-    "day": "Saturday",
-    "date": "09/12/2026",
-    "time": "7:00 PM",
-    "name": "SODA STEREO – ECOS TOUR",
-    "link": "https://thekiaforum.com/event/soda-stereo/"
-  },
-  {
     "key": "kia forum|09/23/2026|robyn – the sexistential tour",
     "venue": "Kia Forum",
     "day": "Wednesday",
@@ -1260,15 +1251,6 @@
     "link": "https://thekiaforum.com/event/niall-horan/"
   },
   {
-    "key": "dignity health sports park|09/12/2026|la galaxy vs seattle sounders",
-    "venue": "Dignity Health Sports Park",
-    "day": "Saturday",
-    "date": "09/12/2026",
-    "time": "TBA",
-    "name": "LA Galaxy vs Seattle Sounders",
-    "link": "https://www.dignityhealthsportspark.com/events/detail/la-galaxy-vs-seattle-sounders"
-  },
-  {
     "key": "dignity health sports park|09/19/2026|supermotocross playoff round 2",
     "venue": "Dignity Health Sports Park",
     "day": "Saturday",
@@ -1339,15 +1321,6 @@
     "time": "TBA",
     "name": "Angel City FC vs Boston Legacy FC",
     "link": "https://www.dignityhealthsportspark.com/events/detail/angel-city-fc-vs-boston-legacy-fc"
-  },
-  {
-    "key": "rose bowl stadium|09/12/2026|san diego state vs ucla",
-    "venue": "Rose Bowl Stadium",
-    "day": "Saturday",
-    "date": "09/12/2026",
-    "time": "4:15 PM",
-    "name": "SAN DIEGO STATE VS UCLA",
-    "link": "https://www.rosebowlstadium.com/events/details/594/san-diego-state-vs-ucla"
   },
   {
     "key": "rose bowl stadium|09/13/2026|rose bowl flea market",
@@ -1573,15 +1546,6 @@
     "time": "TBD",
     "name": "Harry Styles - Together, Together Tour",
     "link": "https://www.rosebowlstadium.com/events/details/674/harry-styles-together-together-tour"
-  },
-  {
-    "key": "crypto.com arena|09/12/2026|journey – final frontier tour",
-    "venue": "Crypto.com Arena",
-    "day": "Saturday",
-    "date": "09/12/2026",
-    "time": "7:30 PM",
-    "name": "Journey – FINAL FRONTIER TOUR",
-    "link": "https://www.cryptoarena.com/events/detail/journey091226"
   },
   {
     "key": "crypto.com arena|09/16/2026|2026 le sserafim tour 'pureflow' in los angeles",
@@ -2511,15 +2475,6 @@
     "link": "https://www.cryptoarena.com/events/detail/ncaawestregional2027"
   },
   {
-    "key": "l.a. memorial coliseum|09/12/2026|louisiana vs usc",
-    "venue": "L.A. Memorial Coliseum",
-    "day": "Saturday",
-    "date": "09/12/2026",
-    "time": "TBA",
-    "name": "Louisiana vs USC",
-    "link": "https://www.lacoliseum.com/events/louisiana-vs-usc-2026/"
-  },
-  {
     "key": "l.a. memorial coliseum|09/26/2026|oregon vs usc",
     "venue": "L.A. Memorial Coliseum",
     "day": "Saturday",
@@ -2986,15 +2941,6 @@
     "time": "7:10 PM",
     "name": "vs. San Diego Padres",
     "link": "https://www.mlb.com/gameday/823895"
-  },
-  {
-    "key": "hollywood bowl|09/12/2026|fireworks finale:onerepublic",
-    "venue": "Hollywood Bowl",
-    "day": "Saturday",
-    "date": "09/12/2026",
-    "time": "8:00 PM",
-    "name": "Fireworks Finale:OneRepublic",
-    "link": "https://www.hollywoodbowl.com/events/performances/4340/2026-09-12/fireworks-finale-onerepublic"
   },
   {
     "key": "hollywood bowl|09/13/2026|lucy dacus with the hollywood bowl orchestra – cat power performing, the greatest, kcrw festival",

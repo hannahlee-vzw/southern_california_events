@@ -6268,5 +6268,65 @@
     "name": "Acordeones y Corridos",
     "link": "https://www.lbentertainmentcenter.com/events/acordeones-corridos/",
     "archived_on": "2026-09-12"
+  },
+  {
+    "key": "kia forum|09/12/2026|soda stereo – ecos tour",
+    "venue": "Kia Forum",
+    "day": "Saturday",
+    "date": "09/12/2026",
+    "time": "7:00 PM",
+    "name": "SODA STEREO – ECOS TOUR",
+    "link": "https://thekiaforum.com/event/soda-stereo/",
+    "archived_on": "2026-09-13"
+  },
+  {
+    "key": "dignity health sports park|09/12/2026|la galaxy vs seattle sounders",
+    "venue": "Dignity Health Sports Park",
+    "day": "Saturday",
+    "date": "09/12/2026",
+    "time": "TBA",
+    "name": "LA Galaxy vs Seattle Sounders",
+    "link": "https://www.dignityhealthsportspark.com/events/detail/la-galaxy-vs-seattle-sounders",
+    "archived_on": "2026-09-13"
+  },
+  {
+    "key": "rose bowl stadium|09/12/2026|san diego state vs ucla",
+    "venue": "Rose Bowl Stadium",
+    "day": "Saturday",
+    "date": "09/12/2026",
+    "time": "4:15 PM",
+    "name": "SAN DIEGO STATE VS UCLA",
+    "link": "https://www.rosebowlstadium.com/events/details/594/san-diego-state-vs-ucla",
+    "archived_on": "2026-09-13"
+  },
+  {
+    "key": "crypto.com arena|09/12/2026|journey – final frontier tour",
+    "venue": "Crypto.com Arena",
+    "day": "Saturday",
+    "date": "09/12/2026",
+    "time": "7:30 PM",
+    "name": "Journey – FINAL FRONTIER TOUR",
+    "link": "https://www.cryptoarena.com/events/detail/journey091226",
+    "archived_on": "2026-09-13"
+  },
+  {
+    "key": "l.a. memorial coliseum|09/12/2026|louisiana vs usc",
+    "venue": "L.A. Memorial Coliseum",
+    "day": "Saturday",
+    "date": "09/12/2026",
+    "time": "TBA",
+    "name": "Louisiana vs USC",
+    "link": "https://www.lacoliseum.com/events/louisiana-vs-usc-2026/",
+    "archived_on": "2026-09-13"
+  },
+  {
+    "key": "hollywood bowl|09/12/2026|fireworks finale:onerepublic",
+    "venue": "Hollywood Bowl",
+    "day": "Saturday",
+    "date": "09/12/2026",
+    "time": "8:00 PM",
+    "name": "Fireworks Finale:OneRepublic",
+    "link": "https://www.hollywoodbowl.com/events/performances/4340/2026-09-12/fireworks-finale-onerepublic",
+    "archived_on": "2026-09-13"
   }
 ]
