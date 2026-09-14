@@ -1,14 +1,5 @@
 [
   {
-    "key": "sofi stadium|09/13/2026|chargers vs. cardinals – week 1",
-    "venue": "SoFi Stadium",
-    "day": "Sunday",
-    "date": "09/13/2026",
-    "time": "1:25 PM",
-    "name": "Chargers vs. Cardinals – Week 1",
-    "link": "https://www.sofistadium.com/events/detail/chargers-cardinals-2026"
-  },
-  {
     "key": "sofi stadium|09/20/2026|chargers vs. raiders – week 2",
     "venue": "SoFi Stadium",
     "day": "Sunday",
@@ -1242,6 +1233,24 @@
     "link": "https://thekiaforum.com/event/joyce-manor/"
   },
   {
+    "key": "kia forum|03/07/2027|elevation worship & steven furtick",
+    "venue": "Kia Forum",
+    "day": "Sunday",
+    "date": "03/07/2027",
+    "time": "7:00 PM",
+    "name": "ELEVATION WORSHIP & STEVEN FURTICK",
+    "link": "https://thekiaforum.com/event/elevation-worship-steven-furtick/"
+  },
+  {
+    "key": "kia forum|04/24/2027|jo koy – koy meets world tour",
+    "venue": "Kia Forum",
+    "day": "Saturday",
+    "date": "04/24/2027",
+    "time": "7:00 PM",
+    "name": "JO KOY – Koy Meets World Tour",
+    "link": "https://thekiaforum.com/event/jo-koy/"
+  },
+  {
     "key": "kia forum|05/22/2027|niall horan – dinner party live on tour",
     "venue": "Kia Forum",
     "day": "Saturday",
@@ -1321,15 +1330,6 @@
     "time": "TBA",
     "name": "Angel City FC vs Boston Legacy FC",
     "link": "https://www.dignityhealthsportspark.com/events/detail/angel-city-fc-vs-boston-legacy-fc"
-  },
-  {
-    "key": "rose bowl stadium|09/13/2026|rose bowl flea market",
-    "venue": "Rose Bowl Stadium",
-    "day": "Sunday",
-    "date": "09/13/2026",
-    "time": "5:00 AM",
-    "name": "ROSE BOWL FLEA MARKET",
-    "link": "https://www.rosebowlstadium.com/events/details/604/rose-bowl-flea-market"
   },
   {
     "key": "rose bowl stadium|09/17/2026|rose bowl quarterbacks club",
@@ -2943,15 +2943,6 @@
     "link": "https://www.mlb.com/gameday/823895"
   },
   {
-    "key": "hollywood bowl|09/13/2026|lucy dacus with the hollywood bowl orchestra – cat power performing, the greatest, kcrw festival",
-    "venue": "Hollywood Bowl",
-    "day": "Sunday",
-    "date": "09/13/2026",
-    "time": "7:00 PM",
-    "name": "Lucy Dacus with the Hollywood Bowl Orchestra – Cat Power performing, The Greatest, KCRW Festival",
-    "link": "https://www.hollywoodbowl.com/events/performances/4341/2026-09-13/lucy-dacus-with-the-hollywood-bowl-orchestra"
-  },
-  {
     "key": "hollywood bowl|09/15/2026|andrea bocelli",
     "venue": "Hollywood Bowl",
     "day": "Tuesday",
@@ -3006,13 +2997,13 @@
     "link": "https://www.hollywoodbowl.com/events/performances/4345/2026-09-23/jazz-at-lincoln-center-orchestra-with-wynton-marsalis"
   },
   {
-    "key": "hollywood bowl|09/24/2026|jon bellion",
+    "key": "hollywood bowl|09/24/2026|bellion & friends",
     "venue": "Hollywood Bowl",
     "day": "Thursday",
     "date": "09/24/2026",
     "time": "8:00 PM",
-    "name": "Jon Bellion",
-    "link": "https://www.hollywoodbowl.com/events/performances/4509/2026-09-24/jon-bellion"
+    "name": "Bellion & Friends",
+    "link": "https://www.hollywoodbowl.com/events/performances/4509/2026-09-24/bellion-friends"
   },
   {
     "key": "hollywood bowl|09/25/2026|the concert:a tribute to abba – menalive",
@@ -3247,6 +3238,15 @@
     "time": "6:30 PM",
     "name": "Jack Harlow - Monica Tour",
     "link": "https://www.ticketmaster.com/jack-harlow-monica-tour-hollywood-california-09-14-2026/event/09006471809E4335"
+  },
+  {
+    "key": "hollywood palladium|09/15/2026|right after you left - vinyl room @ the palladium",
+    "venue": "Hollywood Palladium",
+    "day": "Tuesday",
+    "date": "09/15/2026",
+    "time": "8:00 PM",
+    "name": "Right After You Left - Vinyl Room @ the Palladium",
+    "link": "https://www.ticketmaster.com/right-after-you-left-vinyl-room-hollywood-california-09-15-2026/event/0900652EACDA79CF"
   },
   {
     "key": "hollywood palladium|09/16/2026|starbomb featuring dj commander meouch - probably the only tour ever",
@@ -3852,6 +3852,15 @@
     "link": "https://www.lbentertainmentcenter.com/events/dwight-yoakam/"
   },
   {
+    "key": "long beach convention center|12/12/2026|the long beach nutcracker",
+    "venue": "Long Beach Convention Center",
+    "day": "Saturday",
+    "date": "12/12/2026",
+    "time": "TBA",
+    "name": "The Long Beach Nutcracker",
+    "link": "https://www.lbentertainmentcenter.com/events/lb-nutcracker-2026/"
+  },
+  {
     "key": "long beach convention center|12/19/2026|sugar & booze with ana gasteyer",
     "venue": "Long Beach Convention Center",
     "day": "Saturday",
@@ -3868,14 +3877,5 @@
     "time": "TBA",
     "name": "Disney On Ice presents Jump In!",
     "link": "https://www.lbentertainmentcenter.com/events/disney-on-ice-8/"
-  },
-  {
-    "key": "long beach convention center|01/14/2027|dylan thuras",
-    "venue": "Long Beach Convention Center",
-    "day": "Thursday",
-    "date": "01/14/2027",
-    "time": "TBA",
-    "name": "Dylan Thuras",
-    "link": "https://www.lbentertainmentcenter.com/events/dylan-thuras/"
   }
 ]

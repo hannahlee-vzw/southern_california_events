@@ -6328,5 +6328,35 @@
     "name": "Fireworks Finale:OneRepublic",
     "link": "https://www.hollywoodbowl.com/events/performances/4340/2026-09-12/fireworks-finale-onerepublic",
     "archived_on": "2026-09-13"
+  },
+  {
+    "key": "sofi stadium|09/13/2026|chargers vs. cardinals – week 1",
+    "venue": "SoFi Stadium",
+    "day": "Sunday",
+    "date": "09/13/2026",
+    "time": "1:25 PM",
+    "name": "Chargers vs. Cardinals – Week 1",
+    "link": "https://www.sofistadium.com/events/detail/chargers-cardinals-2026",
+    "archived_on": "2026-09-14"
+  },
+  {
+    "key": "rose bowl stadium|09/13/2026|rose bowl flea market",
+    "venue": "Rose Bowl Stadium",
+    "day": "Sunday",
+    "date": "09/13/2026",
+    "time": "5:00 AM",
+    "name": "ROSE BOWL FLEA MARKET",
+    "link": "https://www.rosebowlstadium.com/events/details/604/rose-bowl-flea-market",
+    "archived_on": "2026-09-14"
+  },
+  {
+    "key": "hollywood bowl|09/13/2026|lucy dacus with the hollywood bowl orchestra – cat power performing, the greatest, kcrw festival",
+    "venue": "Hollywood Bowl",
+    "day": "Sunday",
+    "date": "09/13/2026",
+    "time": "7:00 PM",
+    "name": "Lucy Dacus with the Hollywood Bowl Orchestra – Cat Power performing, The Greatest, KCRW Festival",
+    "link": "https://www.hollywoodbowl.com/events/performances/4341/2026-09-13/lucy-dacus-with-the-hollywood-bowl-orchestra",
+    "archived_on": "2026-09-14"
   }
 ]
