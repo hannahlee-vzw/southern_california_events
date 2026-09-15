@@ -1548,6 +1548,24 @@
     "link": "https://www.rosebowlstadium.com/events/details/674/harry-styles-together-together-tour"
   },
   {
+    "key": "rose bowl stadium|04/30/2027|harry styles - together, together tour",
+    "venue": "Rose Bowl Stadium",
+    "day": "Friday",
+    "date": "04/30/2027",
+    "time": "TBD",
+    "name": "HARRY STYLES - TOGETHER, TOGETHER TOUR",
+    "link": "https://www.rosebowlstadium.com/events/details/675/harry-styles-together-together-tour"
+  },
+  {
+    "key": "rose bowl stadium|05/01/2027|harry styles - together, together tour",
+    "venue": "Rose Bowl Stadium",
+    "day": "Saturday",
+    "date": "05/01/2027",
+    "time": "TBD",
+    "name": "HARRY STYLES - TOGETHER, TOGETHER TOUR",
+    "link": "https://www.rosebowlstadium.com/events/details/676/harry-styles-together-together-tour"
+  },
+  {
     "key": "crypto.com arena|09/16/2026|2026 le sserafim tour 'pureflow' in los angeles",
     "venue": "Crypto.com Arena",
     "day": "Wednesday",
@@ -1807,6 +1825,15 @@
     "time": "6:00 PM",
     "name": "Pittsburgh Penguins vs Los Angeles Kings",
     "link": "https://www.cryptoarena.com/events/detail/kingspenguins110726"
+  },
+  {
+    "key": "crypto.com arena|11/09/2026|karan aujla – p-pop culture tour with special guest ikky",
+    "venue": "Crypto.com Arena",
+    "day": "Monday",
+    "date": "11/09/2026",
+    "time": "8:00 PM",
+    "name": "Karan Aujla – P-POP CULTURE TOUR with special guest Ikky",
+    "link": "https://www.cryptoarena.com/events/detail/karanaujla110926"
   },
   {
     "key": "crypto.com arena|11/10/2026|nashville predators vs los angeles kings",
@@ -3231,22 +3258,13 @@
     "link": "https://www.hollywoodbowl.com/events/performances/4900/2026-11-21/steve-lacy"
   },
   {
-    "key": "hollywood palladium|09/14/2026|jack harlow - monica tour",
-    "venue": "Hollywood Palladium",
-    "day": "Monday",
-    "date": "09/14/2026",
-    "time": "6:30 PM",
-    "name": "Jack Harlow - Monica Tour",
-    "link": "https://www.ticketmaster.com/jack-harlow-monica-tour-hollywood-california-09-14-2026/event/09006471809E4335"
-  },
-  {
-    "key": "hollywood palladium|09/15/2026|right after you left - vinyl room @ the palladium",
+    "key": "hollywood palladium|09/15/2026|becky robinson, donnell rawlings & guests - right after you left",
     "venue": "Hollywood Palladium",
     "day": "Tuesday",
     "date": "09/15/2026",
     "time": "8:00 PM",
-    "name": "Right After You Left - Vinyl Room @ the Palladium",
-    "link": "https://www.ticketmaster.com/right-after-you-left-vinyl-room-hollywood-california-09-15-2026/event/0900652EACDA79CF"
+    "name": "Becky Robinson, Donnell Rawlings & Guests - Right After You Left",
+    "link": "https://www.ticketmaster.com/becky-robinson-donnell-rawlings-guests-right-hollywood-california-09-15-2026/event/0900652EACDA79CF"
   },
   {
     "key": "hollywood palladium|09/16/2026|starbomb featuring dj commander meouch - probably the only tour ever",
@@ -3663,15 +3681,6 @@
     "link": "https://www.ticketmaster.com/nothing-but-thieves-the-stray-dogs-hollywood-california-04-04-2027/event/090064B61FAB46C9"
   },
   {
-    "key": "long beach convention center|09/14/2026|iana intermodal expo 2026",
-    "venue": "Long Beach Convention Center",
-    "day": "Monday",
-    "date": "09/14/2026",
-    "time": "TBA",
-    "name": "IANA Intermodal Expo 2026",
-    "link": "https://www.lbentertainmentcenter.com/events/iana-intermodal-2026/"
-  },
-  {
     "key": "long beach convention center|09/18/2026|anthony hamilton & raheem devaughn",
     "venue": "Long Beach Convention Center",
     "day": "Friday",
@@ -3877,5 +3886,14 @@
     "time": "TBA",
     "name": "Disney On Ice presents Jump In!",
     "link": "https://www.lbentertainmentcenter.com/events/disney-on-ice-8/"
+  },
+  {
+    "key": "long beach convention center|09/14/2027|iana intermodal expo 2026",
+    "venue": "Long Beach Convention Center",
+    "day": "Tuesday",
+    "date": "09/14/2027",
+    "time": "TBA",
+    "name": "IANA Intermodal Expo 2026",
+    "link": "https://www.lbentertainmentcenter.com/events/iana-intermodal-2026/"
   }
 ]
