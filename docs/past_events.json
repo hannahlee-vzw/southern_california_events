@@ -6378,5 +6378,25 @@
     "name": "IANA Intermodal Expo 2026",
     "link": "https://www.lbentertainmentcenter.com/events/iana-intermodal-2026/",
     "archived_on": "2026-09-15"
+  },
+  {
+    "key": "hollywood bowl|09/15/2026|andrea bocelli",
+    "venue": "Hollywood Bowl",
+    "day": "Tuesday",
+    "date": "09/15/2026",
+    "time": "8:00 PM",
+    "name": "Andrea Bocelli",
+    "link": "https://www.hollywoodbowl.com/events/performances/4356/2026-09-15/andrea-bocelli",
+    "archived_on": "2026-09-16"
+  },
+  {
+    "key": "hollywood palladium|09/15/2026|becky robinson, donnell rawlings & guests - right after you left",
+    "venue": "Hollywood Palladium",
+    "day": "Tuesday",
+    "date": "09/15/2026",
+    "time": "8:00 PM",
+    "name": "Becky Robinson, Donnell Rawlings & Guests - Right After You Left",
+    "link": "https://www.ticketmaster.com/becky-robinson-donnell-rawlings-guests-right-hollywood-california-09-15-2026/event/0900652EACDA79CF",
+    "archived_on": "2026-09-16"
   }
 ]

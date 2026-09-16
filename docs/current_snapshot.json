@@ -2835,6 +2835,15 @@
     "link": "https://www.laconventioncenter.com/events/detail/ofc-2027"
   },
   {
+    "key": "la convention center|03/14/2027|sbmt 24th annual neurotech convention",
+    "venue": "LA Convention Center",
+    "day": "Sunday",
+    "date": "03/14/2027",
+    "time": "TBA",
+    "name": "SBMT 24th Annual Neurotech Convention",
+    "link": "https://www.laconventioncenter.com/events/detail/sbmt-world-congress-2027"
+  },
+  {
     "key": "la convention center|04/01/2027|star wars celebration 2027",
     "venue": "LA Convention Center",
     "day": "Thursday",
@@ -2968,15 +2977,6 @@
     "time": "7:10 PM",
     "name": "vs. San Diego Padres",
     "link": "https://www.mlb.com/gameday/823895"
-  },
-  {
-    "key": "hollywood bowl|09/15/2026|andrea bocelli",
-    "venue": "Hollywood Bowl",
-    "day": "Tuesday",
-    "date": "09/15/2026",
-    "time": "8:00 PM",
-    "name": "Andrea Bocelli",
-    "link": "https://www.hollywoodbowl.com/events/performances/4356/2026-09-15/andrea-bocelli"
   },
   {
     "key": "hollywood bowl|09/16/2026|andrea bocelli",
@@ -3222,13 +3222,13 @@
     "link": "https://www.hollywoodbowl.com/events/performances/4898/2026-11-07/jimmy-eat-world-the-format"
   },
   {
-    "key": "hollywood bowl|11/08/2026|ms. lauryn hill & wyclef jean",
+    "key": "hollywood bowl|11/08/2026|ms. lauryn hill & wyclef jean: celebrating 30 years of fugees' the score",
     "venue": "Hollywood Bowl",
     "day": "Sunday",
     "date": "11/08/2026",
     "time": "7:30 PM",
-    "name": "Ms. Lauryn Hill & Wyclef Jean",
-    "link": "https://www.hollywoodbowl.com/events/performances/4899/2026-11-08/ms-lauryn-hill-wyclef-jean"
+    "name": "Ms. Lauryn Hill & Wyclef Jean: Celebrating 30 years of Fugees' The Score",
+    "link": "https://www.hollywoodbowl.com/events/performances/4899/2026-11-08/ms-lauryn-hill-wyclef-jean-celebrating-30-years-of-fugees-the-score"
   },
   {
     "key": "hollywood bowl|11/18/2026|jonas brothers – all time low, magnus ferrell",
@@ -3256,15 +3256,6 @@
     "time": "8:00 PM",
     "name": "Steve Lacy",
     "link": "https://www.hollywoodbowl.com/events/performances/4900/2026-11-21/steve-lacy"
-  },
-  {
-    "key": "hollywood palladium|09/15/2026|becky robinson, donnell rawlings & guests - right after you left",
-    "venue": "Hollywood Palladium",
-    "day": "Tuesday",
-    "date": "09/15/2026",
-    "time": "8:00 PM",
-    "name": "Becky Robinson, Donnell Rawlings & Guests - Right After You Left",
-    "link": "https://www.ticketmaster.com/becky-robinson-donnell-rawlings-guests-right-hollywood-california-09-15-2026/event/0900652EACDA79CF"
   },
   {
     "key": "hollywood palladium|09/16/2026|starbomb featuring dj commander meouch - probably the only tour ever",
