@@ -1143,6 +1143,15 @@
     "link": "https://thekiaforum.com/event/teddy-swims/"
   },
   {
+    "key": "kia forum|11/30/2026|ahf world aids day benefit concert",
+    "venue": "Kia Forum",
+    "day": "Monday",
+    "date": "11/30/2026",
+    "time": "7:00 PM",
+    "name": "AHF World AIDS Day Benefit Concert",
+    "link": "https://thekiaforum.com/event/ahf-world-aids-day-concert/"
+  },
+  {
     "key": "kia forum|12/04/2026|the neighbourhood – the wourld tour",
     "venue": "Kia Forum",
     "day": "Friday",
@@ -1564,15 +1573,6 @@
     "time": "TBD",
     "name": "HARRY STYLES - TOGETHER, TOGETHER TOUR",
     "link": "https://www.rosebowlstadium.com/events/details/676/harry-styles-together-together-tour"
-  },
-  {
-    "key": "crypto.com arena|09/16/2026|2026 le sserafim tour 'pureflow' in los angeles",
-    "venue": "Crypto.com Arena",
-    "day": "Wednesday",
-    "date": "09/16/2026",
-    "time": "7:30 PM",
-    "name": "2026 LE SSERAFIM TOUR 'PUREFLOW' IN LOS ANGELES",
-    "link": "https://www.cryptoarena.com/events/detail/lesserafim26"
   },
   {
     "key": "crypto.com arena|09/19/2026|crypto.com ufc 331",
@@ -2421,6 +2421,15 @@
     "link": "https://www.cryptoarena.com/events/detail/kingsjets033127"
   },
   {
+    "key": "crypto.com arena|04/01/2027|hans zimmer live – the next level",
+    "venue": "Crypto.com Arena",
+    "day": "Thursday",
+    "date": "04/01/2027",
+    "time": "7:30 PM",
+    "name": "Hans Zimmer Live – The Next Level",
+    "link": "https://www.cryptoarena.com/events/detail/hanszimmer040127"
+  },
+  {
     "key": "crypto.com arena|04/03/2027|st. louis blues vs los angeles kings",
     "venue": "Crypto.com Arena",
     "day": "Saturday",
@@ -2556,10 +2565,10 @@
     "link": "https://www.lacoliseum.com/events/john-summit-ctrl-escape-tour/"
   },
   {
-    "key": "la convention center|09/16/2026|asla 2026 conference on landscape architecture",
+    "key": "la convention center|09/17/2026|asla 2026 conference on landscape architecture",
     "venue": "LA Convention Center",
-    "day": "Wednesday",
-    "date": "09/16/2026",
+    "day": "Thursday",
+    "date": "09/17/2026",
     "time": "TBA",
     "name": "ASLA 2026 Conference on Landscape Architecture",
     "link": "https://www.laconventioncenter.com/events/detail/asla-2026-conference-on-landscape-architecture"
@@ -2979,15 +2988,6 @@
     "link": "https://www.mlb.com/gameday/823895"
   },
   {
-    "key": "hollywood bowl|09/16/2026|andrea bocelli",
-    "venue": "Hollywood Bowl",
-    "day": "Wednesday",
-    "date": "09/16/2026",
-    "time": "8:00 PM",
-    "name": "Andrea Bocelli",
-    "link": "https://www.hollywoodbowl.com/events/performances/4357/2026-09-16/andrea-bocelli"
-  },
-  {
     "key": "hollywood bowl|09/18/2026|orville peck – lucius, deloyd elze",
     "venue": "Hollywood Bowl",
     "day": "Friday",
@@ -3256,15 +3256,6 @@
     "time": "8:00 PM",
     "name": "Steve Lacy",
     "link": "https://www.hollywoodbowl.com/events/performances/4900/2026-11-21/steve-lacy"
-  },
-  {
-    "key": "hollywood palladium|09/16/2026|starbomb featuring dj commander meouch - probably the only tour ever",
-    "venue": "Hollywood Palladium",
-    "day": "Wednesday",
-    "date": "09/16/2026",
-    "time": "7:00 PM",
-    "name": "Starbomb featuring DJ Commander Meouch - Probably The Only Tour Ever",
-    "link": "https://www.ticketmaster.com/starbomb-featuring-dj-commander-meouch-probably-hollywood-california-09-16-2026/event/090064B02490A2FE"
   },
   {
     "key": "hollywood palladium|09/17/2026|citizen",
@@ -3879,12 +3870,12 @@
     "link": "https://www.lbentertainmentcenter.com/events/disney-on-ice-8/"
   },
   {
-    "key": "long beach convention center|09/14/2027|iana intermodal expo 2026",
+    "key": "long beach convention center|01/14/2027|dylan thuras",
     "venue": "Long Beach Convention Center",
-    "day": "Tuesday",
-    "date": "09/14/2027",
+    "day": "Thursday",
+    "date": "01/14/2027",
     "time": "TBA",
-    "name": "IANA Intermodal Expo 2026",
-    "link": "https://www.lbentertainmentcenter.com/events/iana-intermodal-2026/"
+    "name": "Dylan Thuras",
+    "link": "https://www.lbentertainmentcenter.com/events/dylan-thuras/"
   }
 ]
