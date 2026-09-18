@@ -6438,5 +6438,35 @@
     "name": "Starbomb featuring DJ Commander Meouch - Probably The Only Tour Ever",
     "link": "https://www.ticketmaster.com/starbomb-featuring-dj-commander-meouch-probably-hollywood-california-09-16-2026/event/090064B02490A2FE",
     "archived_on": "2026-09-17"
+  },
+  {
+    "key": "rose bowl stadium|09/17/2026|rose bowl quarterbacks club",
+    "venue": "Rose Bowl Stadium",
+    "day": "Thursday",
+    "date": "09/17/2026",
+    "time": "12:00 PM",
+    "name": "Rose Bowl Quarterbacks Club",
+    "link": "https://www.rosebowlstadium.com/events/details/671/rose-bowl-quarterbacks-club",
+    "archived_on": "2026-09-18"
+  },
+  {
+    "key": "la convention center|09/17/2026|asla 2026 conference on landscape architecture",
+    "venue": "LA Convention Center",
+    "day": "Thursday",
+    "date": "09/17/2026",
+    "time": "TBA",
+    "name": "ASLA 2026 Conference on Landscape Architecture",
+    "link": "https://www.laconventioncenter.com/events/detail/asla-2026-conference-on-landscape-architecture",
+    "archived_on": "2026-09-18"
+  },
+  {
+    "key": "hollywood palladium|09/17/2026|citizen",
+    "venue": "Hollywood Palladium",
+    "day": "Thursday",
+    "date": "09/17/2026",
+    "time": "6:00 PM",
+    "name": "Citizen",
+    "link": "https://www.ticketmaster.com/citizen-hollywood-california-09-17-2026/event/09006495AE13A478",
+    "archived_on": "2026-09-18"
   }
 ]
