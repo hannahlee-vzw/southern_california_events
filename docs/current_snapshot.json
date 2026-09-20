@@ -243,15 +243,6 @@
     "link": "https://www.sofistadium.com/events/detail/super-bowl-lxi"
   },
   {
-    "key": "intuit dome|09/19/2026|maná",
-    "venue": "Intuit Dome",
-    "day": "Saturday",
-    "date": "09/19/2026",
-    "time": "8:30 PM",
-    "name": "Maná",
-    "link": "https://intuitdome.com/events/mana?utm_source=IDwebsite&utm_medium=eventschedule&utm_campaign=IDevents26&utm_content=mana_260919"
-  },
-  {
     "key": "intuit dome|09/24/2026|kehlani",
     "venue": "Intuit Dome",
     "day": "Thursday",
@@ -1260,15 +1251,6 @@
     "link": "https://thekiaforum.com/event/niall-horan/"
   },
   {
-    "key": "dignity health sports park|09/19/2026|supermotocross playoff round 2",
-    "venue": "Dignity Health Sports Park",
-    "day": "Saturday",
-    "date": "09/19/2026",
-    "time": "TBA",
-    "name": "SuperMotocross Playoff Round 2",
-    "link": "https://www.dignityhealthsportspark.com/events/detail/supermotocross"
-  },
-  {
     "key": "dignity health sports park|09/26/2026|la galaxy vs colorado rapids",
     "venue": "Dignity Health Sports Park",
     "day": "Saturday",
@@ -1330,15 +1312,6 @@
     "time": "TBA",
     "name": "Angel City FC vs Boston Legacy FC",
     "link": "https://www.dignityhealthsportspark.com/events/detail/angel-city-fc-vs-boston-legacy-fc"
-  },
-  {
-    "key": "rose bowl stadium|09/19/2026|purdue vs ucla",
-    "venue": "Rose Bowl Stadium",
-    "day": "Saturday",
-    "date": "09/19/2026",
-    "time": "8:00 PM",
-    "name": "PURDUE VS UCLA",
-    "link": "https://www.rosebowlstadium.com/events/details/595/purdue-vs-ucla"
   },
   {
     "key": "rose bowl stadium|09/27/2026|2026 bimbo global race",
@@ -1555,15 +1528,6 @@
     "time": "TBD",
     "name": "HARRY STYLES - TOGETHER, TOGETHER TOUR",
     "link": "https://www.rosebowlstadium.com/events/details/676/harry-styles-together-together-tour"
-  },
-  {
-    "key": "crypto.com arena|09/19/2026|crypto.com ufc 331",
-    "venue": "Crypto.com Arena",
-    "day": "Saturday",
-    "date": "09/19/2026",
-    "time": "2:00 PM",
-    "name": "Crypto.com UFC 331",
-    "link": "https://www.cryptoarena.com/events/detail/ufc331"
   },
   {
     "key": "crypto.com arena|09/20/2026|los angeles sparks vs portland fire",
@@ -2547,24 +2511,6 @@
     "link": "https://www.lacoliseum.com/events/john-summit-ctrl-escape-tour/"
   },
   {
-    "key": "la convention center|09/19/2026|got sole los angeles",
-    "venue": "LA Convention Center",
-    "day": "Saturday",
-    "date": "09/19/2026",
-    "time": "TBA",
-    "name": "Got Sole Los Angeles",
-    "link": "https://www.laconventioncenter.com/events/detail/got-sole-los-angeles"
-  },
-  {
-    "key": "la convention center|09/19/2026|yugioh! cori regional qualifier",
-    "venue": "LA Convention Center",
-    "day": "Saturday",
-    "date": "09/19/2026",
-    "time": "TBA",
-    "name": "YuGiOh! CORI Regional Qualifier",
-    "link": "https://www.laconventioncenter.com/events/detail/yugioh-cori-regional-qualifier"
-  },
-  {
     "key": "la convention center|09/20/2026|wekfest la 2026",
     "venue": "LA Convention Center",
     "day": "Sunday",
@@ -2907,15 +2853,6 @@
     "link": "https://www.laconventioncenter.com/events/detail/socal-cup-volleyball-showcase-2027"
   },
   {
-    "key": "dodger stadium|09/19/2026|vs. san francisco giants",
-    "venue": "Dodger Stadium",
-    "day": "Saturday",
-    "date": "09/19/2026",
-    "time": "6:10 PM",
-    "name": "vs. San Francisco Giants",
-    "link": "https://www.mlb.com/gameday/823899"
-  },
-  {
     "key": "dodger stadium|09/20/2026|vs. san francisco giants",
     "venue": "Dodger Stadium",
     "day": "Sunday",
@@ -2950,15 +2887,6 @@
     "time": "7:10 PM",
     "name": "vs. San Diego Padres",
     "link": "https://www.mlb.com/gameday/823895"
-  },
-  {
-    "key": "hollywood bowl|09/19/2026|squeeze – with special guest adam ant, and the english beat",
-    "venue": "Hollywood Bowl",
-    "day": "Saturday",
-    "date": "09/19/2026",
-    "time": "8:00 PM",
-    "name": "Squeeze – with special guest ADAM ANT, and The English Beat",
-    "link": "https://www.hollywoodbowl.com/events/performances/4343/2026-09-19/squeeze"
   },
   {
     "key": "hollywood bowl|09/20/2026|gregory alan isakov with the hollywood bowl orchestra – josé gonzález",
@@ -3211,15 +3139,6 @@
     "time": "8:00 PM",
     "name": "Steve Lacy",
     "link": "https://www.hollywoodbowl.com/events/performances/4900/2026-11-21/steve-lacy"
-  },
-  {
-    "key": "hollywood palladium|09/19/2026|peter hook & the light - north american tour 2026",
-    "venue": "Hollywood Palladium",
-    "day": "Saturday",
-    "date": "09/19/2026",
-    "time": "7:00 PM",
-    "name": "Peter Hook & The Light - North American Tour 2026",
-    "link": "https://www.ticketmaster.com/peter-hook-the-light-north-american-hollywood-california-09-19-2026/event/09006312976815C4"
   },
   {
     "key": "hollywood palladium|09/20/2026|chance the rapper - coloring book 10 year anniversary tour",
