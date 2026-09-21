@@ -1,14 +1,5 @@
 [
   {
-    "key": "sofi stadium|09/20/2026|chargers vs. raiders – week 2",
-    "venue": "SoFi Stadium",
-    "day": "Sunday",
-    "date": "09/20/2026",
-    "time": "1:05 PM",
-    "name": "Chargers vs. Raiders – Week 2",
-    "link": "https://www.sofistadium.com/events/detail/chargers-raiders-2026"
-  },
-  {
     "key": "sofi stadium|09/21/2026|rams vs. giants – week 2",
     "venue": "SoFi Stadium",
     "day": "Monday",
@@ -1530,15 +1521,6 @@
     "link": "https://www.rosebowlstadium.com/events/details/676/harry-styles-together-together-tour"
   },
   {
-    "key": "crypto.com arena|09/20/2026|los angeles sparks vs portland fire",
-    "venue": "Crypto.com Arena",
-    "day": "Sunday",
-    "date": "09/20/2026",
-    "time": "4:00 PM",
-    "name": "Los Angeles Sparks vs Portland Fire",
-    "link": "https://www.cryptoarena.com/events/detail/sparksfire092026"
-  },
-  {
     "key": "crypto.com arena|09/22/2026|utah mammoth vs los angeles kings – preseason",
     "venue": "Crypto.com Arena",
     "day": "Tuesday",
@@ -2511,24 +2493,6 @@
     "link": "https://www.lacoliseum.com/events/john-summit-ctrl-escape-tour/"
   },
   {
-    "key": "la convention center|09/20/2026|wekfest la 2026",
-    "venue": "LA Convention Center",
-    "day": "Sunday",
-    "date": "09/20/2026",
-    "time": "TBA",
-    "name": "Wekfest LA 2026",
-    "link": "https://www.laconventioncenter.com/events/detail/wekfest-la-2026"
-  },
-  {
-    "key": "la convention center|09/20/2026|california bridal & wedding expo",
-    "venue": "LA Convention Center",
-    "day": "Sunday",
-    "date": "09/20/2026",
-    "time": "TBA",
-    "name": "California Bridal & Wedding Expo",
-    "link": "https://www.laconventioncenter.com/events/detail/california-bridal-wedding-expo-15"
-  },
-  {
     "key": "la convention center|09/23/2026|national black mba annual conference & exposition",
     "venue": "LA Convention Center",
     "day": "Wednesday",
@@ -2853,15 +2817,6 @@
     "link": "https://www.laconventioncenter.com/events/detail/socal-cup-volleyball-showcase-2027"
   },
   {
-    "key": "dodger stadium|09/20/2026|vs. san francisco giants",
-    "venue": "Dodger Stadium",
-    "day": "Sunday",
-    "date": "09/20/2026",
-    "time": "1:10 PM",
-    "name": "vs. San Francisco Giants",
-    "link": "https://www.mlb.com/gameday/823896"
-  },
-  {
     "key": "dodger stadium|09/22/2026|vs. san diego padres",
     "venue": "Dodger Stadium",
     "day": "Tuesday",
@@ -2887,15 +2842,6 @@
     "time": "7:10 PM",
     "name": "vs. San Diego Padres",
     "link": "https://www.mlb.com/gameday/823895"
-  },
-  {
-    "key": "hollywood bowl|09/20/2026|gregory alan isakov with the hollywood bowl orchestra – josé gonzález",
-    "venue": "Hollywood Bowl",
-    "day": "Sunday",
-    "date": "09/20/2026",
-    "time": "7:30 PM",
-    "name": "Gregory Alan Isakov with the Hollywood Bowl Orchestra – José González",
-    "link": "https://www.hollywoodbowl.com/events/performances/4344/2026-09-20/gregory-alan-isakov-with-the-hollywood-bowl-orchestra"
   },
   {
     "key": "hollywood bowl|09/23/2026|jazz at lincoln center orchestra with wynton marsalis – john coltrane 100th celebration with lakecia benjamin",
@@ -3139,15 +3085,6 @@
     "time": "8:00 PM",
     "name": "Steve Lacy",
     "link": "https://www.hollywoodbowl.com/events/performances/4900/2026-11-21/steve-lacy"
-  },
-  {
-    "key": "hollywood palladium|09/20/2026|chance the rapper - coloring book 10 year anniversary tour",
-    "venue": "Hollywood Palladium",
-    "day": "Sunday",
-    "date": "09/20/2026",
-    "time": "7:00 PM",
-    "name": "Chance The Rapper - Coloring Book 10 Year Anniversary Tour",
-    "link": "https://www.ticketmaster.com/chance-the-rapper-coloring-book-10-hollywood-california-09-20-2026/event/090064D2E6C0EEDB"
   },
   {
     "key": "hollywood palladium|09/23/2026|the basement series - vinyl room @ the palladium",
@@ -3499,6 +3436,15 @@
     "time": "7:00 PM",
     "name": "Earl Sweatshirt & MIKE Home on the Range Tour 2026",
     "link": "https://www.ticketmaster.com/earl-sweatshirt-mike-home-on-the-hollywood-california-12-19-2026/event/09006466BA1DF6D7"
+  },
+  {
+    "key": "hollywood palladium|01/09/2027|cid",
+    "venue": "Hollywood Palladium",
+    "day": "Saturday",
+    "date": "01/09/2027",
+    "time": "8:00 PM",
+    "name": "CID",
+    "link": "https://www.ticketmaster.com/cid-hollywood-california-01-09-2027/event/0900653032FDAFBF"
   },
   {
     "key": "hollywood palladium|02/09/2027|polyphia: be not afraid world tour",

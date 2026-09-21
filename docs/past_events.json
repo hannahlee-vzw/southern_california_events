@@ -6618,5 +6618,75 @@
     "name": "Peter Hook & The Light - North American Tour 2026",
     "link": "https://www.ticketmaster.com/peter-hook-the-light-north-american-hollywood-california-09-19-2026/event/09006312976815C4",
     "archived_on": "2026-09-20"
+  },
+  {
+    "key": "sofi stadium|09/20/2026|chargers vs. raiders – week 2",
+    "venue": "SoFi Stadium",
+    "day": "Sunday",
+    "date": "09/20/2026",
+    "time": "1:05 PM",
+    "name": "Chargers vs. Raiders – Week 2",
+    "link": "https://www.sofistadium.com/events/detail/chargers-raiders-2026",
+    "archived_on": "2026-09-21"
+  },
+  {
+    "key": "crypto.com arena|09/20/2026|los angeles sparks vs portland fire",
+    "venue": "Crypto.com Arena",
+    "day": "Sunday",
+    "date": "09/20/2026",
+    "time": "4:00 PM",
+    "name": "Los Angeles Sparks vs Portland Fire",
+    "link": "https://www.cryptoarena.com/events/detail/sparksfire092026",
+    "archived_on": "2026-09-21"
+  },
+  {
+    "key": "la convention center|09/20/2026|wekfest la 2026",
+    "venue": "LA Convention Center",
+    "day": "Sunday",
+    "date": "09/20/2026",
+    "time": "TBA",
+    "name": "Wekfest LA 2026",
+    "link": "https://www.laconventioncenter.com/events/detail/wekfest-la-2026",
+    "archived_on": "2026-09-21"
+  },
+  {
+    "key": "la convention center|09/20/2026|california bridal & wedding expo",
+    "venue": "LA Convention Center",
+    "day": "Sunday",
+    "date": "09/20/2026",
+    "time": "TBA",
+    "name": "California Bridal & Wedding Expo",
+    "link": "https://www.laconventioncenter.com/events/detail/california-bridal-wedding-expo-15",
+    "archived_on": "2026-09-21"
+  },
+  {
+    "key": "dodger stadium|09/20/2026|vs. san francisco giants",
+    "venue": "Dodger Stadium",
+    "day": "Sunday",
+    "date": "09/20/2026",
+    "time": "1:10 PM",
+    "name": "vs. San Francisco Giants",
+    "link": "https://www.mlb.com/gameday/823896",
+    "archived_on": "2026-09-21"
+  },
+  {
+    "key": "hollywood bowl|09/20/2026|gregory alan isakov with the hollywood bowl orchestra – josé gonzález",
+    "venue": "Hollywood Bowl",
+    "day": "Sunday",
+    "date": "09/20/2026",
+    "time": "7:30 PM",
+    "name": "Gregory Alan Isakov with the Hollywood Bowl Orchestra – José González",
+    "link": "https://www.hollywoodbowl.com/events/performances/4344/2026-09-20/gregory-alan-isakov-with-the-hollywood-bowl-orchestra",
+    "archived_on": "2026-09-21"
+  },
+  {
+    "key": "hollywood palladium|09/20/2026|chance the rapper - coloring book 10 year anniversary tour",
+    "venue": "Hollywood Palladium",
+    "day": "Sunday",
+    "date": "09/20/2026",
+    "time": "7:00 PM",
+    "name": "Chance The Rapper - Coloring Book 10 Year Anniversary Tour",
+    "link": "https://www.ticketmaster.com/chance-the-rapper-coloring-book-10-hollywood-california-09-20-2026/event/090064D2E6C0EEDB",
+    "archived_on": "2026-09-21"
   }
 ]
