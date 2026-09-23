@@ -6698,5 +6698,25 @@
     "name": "Rams vs. Giants – Week 2",
     "link": "https://www.sofistadium.com/events/detail/rams-giants-2026",
     "archived_on": "2026-09-22"
+  },
+  {
+    "key": "crypto.com arena|09/22/2026|utah mammoth vs los angeles kings – preseason",
+    "venue": "Crypto.com Arena",
+    "day": "Tuesday",
+    "date": "09/22/2026",
+    "time": "7:00 PM",
+    "name": "Utah Mammoth vs Los Angeles Kings – Preseason",
+    "link": "https://www.cryptoarena.com/events/detail/kingsmammoth092226",
+    "archived_on": "2026-09-23"
+  },
+  {
+    "key": "dodger stadium|09/22/2026|vs. san diego padres",
+    "venue": "Dodger Stadium",
+    "day": "Tuesday",
+    "date": "09/22/2026",
+    "time": "7:10 PM",
+    "name": "vs. San Diego Padres",
+    "link": "https://www.mlb.com/gameday/823897",
+    "archived_on": "2026-09-23"
   }
 ]

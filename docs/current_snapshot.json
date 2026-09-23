@@ -1512,15 +1512,6 @@
     "link": "https://www.rosebowlstadium.com/events/details/676/harry-styles-together-together-tour"
   },
   {
-    "key": "crypto.com arena|09/22/2026|utah mammoth vs los angeles kings – preseason",
-    "venue": "Crypto.com Arena",
-    "day": "Tuesday",
-    "date": "09/22/2026",
-    "time": "7:00 PM",
-    "name": "Utah Mammoth vs Los Angeles Kings – Preseason",
-    "link": "https://www.cryptoarena.com/events/detail/kingsmammoth092226"
-  },
-  {
     "key": "crypto.com arena|09/24/2026|los angeles sparks vs golden state valkyries",
     "venue": "Crypto.com Arena",
     "day": "Thursday",
@@ -1870,6 +1861,15 @@
     "time": "6:30 PM",
     "name": "San Jose Sharks vs Los Angeles Kings",
     "link": "https://www.cryptoarena.com/events/detail/kingssharks120926"
+  },
+  {
+    "key": "crypto.com arena|12/11/2026|brent faiyaz",
+    "venue": "Crypto.com Arena",
+    "day": "Friday",
+    "date": "12/11/2026",
+    "time": "8:00 PM",
+    "name": "Brent Faiyaz",
+    "link": "https://www.cryptoarena.com/events/detail/brentfaiyaz121126"
   },
   {
     "key": "crypto.com arena|12/12/2026|vancouver canucks vs los angeles kings",
@@ -2529,12 +2529,12 @@
     "link": "https://www.laconventioncenter.com/events/detail/38th-annual-scanph-conference"
   },
   {
-    "key": "la convention center|10/08/2026|net zero conference 2026",
+    "key": "la convention center|10/08/2026|2026 net zero conference",
     "venue": "LA Convention Center",
     "day": "Thursday",
     "date": "10/08/2026",
     "time": "TBA",
-    "name": "Net Zero Conference 2026",
+    "name": "2026 Net Zero Conference",
     "link": "https://www.laconventioncenter.com/events/detail/net-zero-conference-2026"
   },
   {
@@ -2682,6 +2682,15 @@
     "link": "https://www.laconventioncenter.com/events/detail/the-fit-expo-los-angeles-2027"
   },
   {
+    "key": "la convention center|01/30/2027|los angeles ibjjf jiu jitsu competition",
+    "venue": "LA Convention Center",
+    "day": "Saturday",
+    "date": "01/30/2027",
+    "time": "TBA",
+    "name": "Los Angeles IBJJF Jiu Jitsu Competition",
+    "link": "https://www.laconventioncenter.com/events/detail/los-angeles-ibjjf-jiu-jitsu-competition"
+  },
+  {
     "key": "la convention center|01/30/2027|spirit royale cheer championship",
     "venue": "LA Convention Center",
     "day": "Saturday",
@@ -2709,12 +2718,21 @@
     "link": "https://www.laconventioncenter.com/events/detail/victory-gymnastics-victory-classic-1"
   },
   {
-    "key": "la convention center|03/07/2027|ofc 2027",
+    "key": "la convention center|02/28/2027|california bridal & wedding expo",
     "venue": "LA Convention Center",
     "day": "Sunday",
-    "date": "03/07/2027",
+    "date": "02/28/2027",
     "time": "TBA",
-    "name": "OFC 2027",
+    "name": "California Bridal & Wedding Expo",
+    "link": "https://www.laconventioncenter.com/events/detail/california-bridal-wedding-expo-16"
+  },
+  {
+    "key": "la convention center|03/09/2027|ofc conference and exhibition 2027",
+    "venue": "LA Convention Center",
+    "day": "Tuesday",
+    "date": "03/09/2027",
+    "time": "TBA",
+    "name": "OFC Conference and Exhibition 2027",
     "link": "https://www.laconventioncenter.com/events/detail/ofc-2027"
   },
   {
@@ -2806,15 +2824,6 @@
     "time": "TBA",
     "name": "The SoCal Cup: The Showcase 2027",
     "link": "https://www.laconventioncenter.com/events/detail/socal-cup-volleyball-showcase-2027"
-  },
-  {
-    "key": "dodger stadium|09/22/2026|vs. san diego padres",
-    "venue": "Dodger Stadium",
-    "day": "Tuesday",
-    "date": "09/22/2026",
-    "time": "7:10 PM",
-    "name": "vs. San Diego Padres",
-    "link": "https://www.mlb.com/gameday/823897"
   },
   {
     "key": "dodger stadium|09/23/2026|vs. san diego padres",
@@ -3427,6 +3436,15 @@
     "time": "8:00 PM",
     "name": "BASSRUSH presents Virtual Riot & Blanke - Far From Home Tour",
     "link": "https://www.ticketmaster.com/bassrush-presents-virtual-riot-blanke-far-hollywood-california-12-11-2026/event/090064D6B46E7E1D"
+  },
+  {
+    "key": "hollywood palladium|12/15/2026|trippie redd - the non-disclosure agreement tour",
+    "venue": "Hollywood Palladium",
+    "day": "Tuesday",
+    "date": "12/15/2026",
+    "time": "7:00 PM",
+    "name": "Trippie Redd - The Non-disclosure Agreement Tour",
+    "link": "https://www.ticketmaster.com/trippie-redd-the-nondisclosure-agreement-tour-hollywood-california-12-15-2026/event/090065303EFFBE81"
   },
   {
     "key": "hollywood palladium|12/18/2026|beartooth: pure ecstasy world tour",
