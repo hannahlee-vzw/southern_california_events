@@ -873,15 +873,6 @@
     "link": "https://www.intuitdome.com/events/event-schedule"
   },
   {
-    "key": "kia forum|09/23/2026|robyn – the sexistential tour",
-    "venue": "Kia Forum",
-    "day": "Wednesday",
-    "date": "09/23/2026",
-    "time": "7:00 PM",
-    "name": "ROBYN – The Sexistential Tour",
-    "link": "https://thekiaforum.com/event/robyn/"
-  },
-  {
     "key": "kia forum|09/24/2026|robyn – the sexistential tour",
     "venue": "Kia Forum",
     "day": "Thursday",
@@ -1116,6 +1107,15 @@
     "link": "https://thekiaforum.com/event/teddy-swims/"
   },
   {
+    "key": "kia forum|11/30/2026|ahf world aids day benefit concert",
+    "venue": "Kia Forum",
+    "day": "Monday",
+    "date": "11/30/2026",
+    "time": "7:00 PM",
+    "name": "AHF World AIDS Day Benefit Concert",
+    "link": "https://thekiaforum.com/event/ahf-world-aids-day-concert/"
+  },
+  {
     "key": "kia forum|12/04/2026|the neighbourhood – the wourld tour",
     "venue": "Kia Forum",
     "day": "Friday",
@@ -1231,6 +1231,15 @@
     "time": "7:00 PM",
     "name": "NIALL HORAN – Dinner Party Live On Tour",
     "link": "https://thekiaforum.com/event/niall-horan/"
+  },
+  {
+    "key": "kia forum|07/10/2027|lizzy mcalpine – the over country tour",
+    "venue": "Kia Forum",
+    "day": "Saturday",
+    "date": "07/10/2027",
+    "time": "7:00 PM",
+    "name": "LIZZY MCALPINE – The Over Country Tour",
+    "link": "https://thekiaforum.com/event/lizzy-mcalpine/"
   },
   {
     "key": "dignity health sports park|09/26/2026|la galaxy vs colorado rapids",
@@ -1863,12 +1872,12 @@
     "link": "https://www.cryptoarena.com/events/detail/kingssharks120926"
   },
   {
-    "key": "crypto.com arena|12/11/2026|brent faiyaz",
+    "key": "crypto.com arena|12/11/2026|brent faiyaz live – i spent the night with brent faiyaz",
     "venue": "Crypto.com Arena",
     "day": "Friday",
     "date": "12/11/2026",
     "time": "8:00 PM",
-    "name": "Brent Faiyaz",
+    "name": "Brent Faiyaz Live – I Spent The Night With Brent Faiyaz",
     "link": "https://www.cryptoarena.com/events/detail/brentfaiyaz121126"
   },
   {
@@ -2484,10 +2493,10 @@
     "link": "https://www.lacoliseum.com/events/john-summit-ctrl-escape-tour/"
   },
   {
-    "key": "la convention center|09/23/2026|national black mba annual conference & exposition",
+    "key": "la convention center|09/24/2026|national black mba annual conference & exposition",
     "venue": "LA Convention Center",
-    "day": "Wednesday",
-    "date": "09/23/2026",
+    "day": "Thursday",
+    "date": "09/24/2026",
     "time": "TBA",
     "name": "National Black MBA Annual Conference & Exposition",
     "link": "https://www.laconventioncenter.com/events/detail/national-black-mba-association-conference-exposition"
@@ -2826,15 +2835,6 @@
     "link": "https://www.laconventioncenter.com/events/detail/socal-cup-volleyball-showcase-2027"
   },
   {
-    "key": "dodger stadium|09/23/2026|vs. san diego padres",
-    "venue": "Dodger Stadium",
-    "day": "Wednesday",
-    "date": "09/23/2026",
-    "time": "7:10 PM",
-    "name": "vs. San Diego Padres",
-    "link": "https://www.mlb.com/gameday/823894"
-  },
-  {
     "key": "dodger stadium|09/24/2026|vs. san diego padres",
     "venue": "Dodger Stadium",
     "day": "Thursday",
@@ -2842,15 +2842,6 @@
     "time": "7:10 PM",
     "name": "vs. San Diego Padres",
     "link": "https://www.mlb.com/gameday/823895"
-  },
-  {
-    "key": "hollywood bowl|09/23/2026|jazz at lincoln center orchestra with wynton marsalis – john coltrane 100th celebration with lakecia benjamin",
-    "venue": "Hollywood Bowl",
-    "day": "Wednesday",
-    "date": "09/23/2026",
-    "time": "8:00 PM",
-    "name": "Jazz at Lincoln Center Orchestra with Wynton Marsalis – John Coltrane 100th Celebration with Lakecia Benjamin",
-    "link": "https://www.hollywoodbowl.com/events/performances/4345/2026-09-23/jazz-at-lincoln-center-orchestra-with-wynton-marsalis"
   },
   {
     "key": "hollywood bowl|09/24/2026|bellion & friends",
@@ -3085,15 +3076,6 @@
     "time": "8:00 PM",
     "name": "Steve Lacy",
     "link": "https://www.hollywoodbowl.com/events/performances/4900/2026-11-21/steve-lacy"
-  },
-  {
-    "key": "hollywood palladium|09/23/2026|the basement series - vinyl room @ the palladium",
-    "venue": "Hollywood Palladium",
-    "day": "Wednesday",
-    "date": "09/23/2026",
-    "time": "8:00 PM",
-    "name": "The Basement Series - Vinyl Room @ the Palladium",
-    "link": "https://www.ticketmaster.com/the-basement-series-vinyl-room-the-hollywood-california-09-23-2026/event/0900651AE477BB0C"
   },
   {
     "key": "hollywood palladium|09/24/2026|right after you left - vinyl room @ the palladium",
