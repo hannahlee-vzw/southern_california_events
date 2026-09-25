@@ -225,15 +225,6 @@
     "link": "https://www.sofistadium.com/events/detail/super-bowl-lxi"
   },
   {
-    "key": "intuit dome|09/24/2026|kehlani",
-    "venue": "Intuit Dome",
-    "day": "Thursday",
-    "date": "09/24/2026",
-    "time": "6:30 PM",
-    "name": "Kehlani",
-    "link": "https://www.intuitdome.com/events/event-schedule/4033?utm_source=IDwebsite&utm_medium=eventschedule&utm_campaign=IDevents26&utm_content=kehlani_260924"
-  },
-  {
     "key": "intuit dome|10/01/2026|rod wave",
     "venue": "Intuit Dome",
     "day": "Thursday",
@@ -439,6 +430,15 @@
     "time": "7:30 PM",
     "name": "Minnesota Timberwolves vs LA Clippers",
     "link": "https://intuitdome.com/events/event-schedule/4277?type=games&utm_source=IDwebsite&utm_medium=eventdetail&utm_campaign=SGT_2627&utm_content=SGT2627_EST_261202"
+  },
+  {
+    "key": "intuit dome|12/04/2026|102.7 kiis fm's jingle ball presented by capital one",
+    "venue": "Intuit Dome",
+    "day": "Friday",
+    "date": "12/04/2026",
+    "time": "7:30 PM",
+    "name": "102.7 KIIS FM's Jingle Ball Presented by Capital One",
+    "link": "https://www.intuitdome.com/events/event-schedule/4658?utm_source=eventschedule&utm_medium=IDwebsite&utm_campaign=IDevents26&utm_content=jingle_ball_261204"
   },
   {
     "key": "intuit dome|TBA|tbd vs la clippers",
@@ -871,15 +871,6 @@
     "time": "12:00 PM",
     "name": "Laver Cup 2027",
     "link": "https://www.intuitdome.com/events/event-schedule"
-  },
-  {
-    "key": "kia forum|09/24/2026|robyn – the sexistential tour",
-    "venue": "Kia Forum",
-    "day": "Thursday",
-    "date": "09/24/2026",
-    "time": "7:00 PM",
-    "name": "ROBYN – The Sexistential Tour",
-    "link": "https://thekiaforum.com/event/robyn-2/"
   },
   {
     "key": "kia forum|09/26/2026|billy strings",
@@ -1528,15 +1519,6 @@
     "time": "TBD",
     "name": "HARRY STYLES - TOGETHER, TOGETHER TOUR",
     "link": "https://www.rosebowlstadium.com/events/details/676/harry-styles-together-together-tour"
-  },
-  {
-    "key": "crypto.com arena|09/24/2026|los angeles sparks vs golden state valkyries",
-    "venue": "Crypto.com Arena",
-    "day": "Thursday",
-    "date": "09/24/2026",
-    "time": "7:00 PM",
-    "name": "Los Angeles Sparks vs Golden State Valkyries",
-    "link": "https://www.cryptoarena.com/events/detail/sparksvalkyries092426"
   },
   {
     "key": "crypto.com arena|09/25/2026|yandel – sinfónico usa tour 2026",
@@ -2502,10 +2484,10 @@
     "link": "https://www.lacoliseum.com/events/john-summit-ctrl-escape-tour/"
   },
   {
-    "key": "la convention center|09/24/2026|national black mba annual conference & exposition",
+    "key": "la convention center|09/25/2026|national black mba annual conference & exposition",
     "venue": "LA Convention Center",
-    "day": "Thursday",
-    "date": "09/24/2026",
+    "day": "Friday",
+    "date": "09/25/2026",
     "time": "TBA",
     "name": "National Black MBA Annual Conference & Exposition",
     "link": "https://www.laconventioncenter.com/events/detail/national-black-mba-association-conference-exposition"
@@ -2853,15 +2835,6 @@
     "link": "https://www.mlb.com/gameday/823895"
   },
   {
-    "key": "hollywood bowl|09/24/2026|bellion & friends",
-    "venue": "Hollywood Bowl",
-    "day": "Thursday",
-    "date": "09/24/2026",
-    "time": "8:00 PM",
-    "name": "Bellion & Friends",
-    "link": "https://www.hollywoodbowl.com/events/performances/4509/2026-09-24/bellion-friends"
-  },
-  {
     "key": "hollywood bowl|09/25/2026|the concert:a tribute to abba – menalive",
     "venue": "Hollywood Bowl",
     "day": "Friday",
@@ -3085,15 +3058,6 @@
     "time": "8:00 PM",
     "name": "Steve Lacy",
     "link": "https://www.hollywoodbowl.com/events/performances/4900/2026-11-21/steve-lacy"
-  },
-  {
-    "key": "hollywood palladium|09/24/2026|right after you left - vinyl room @ the palladium",
-    "venue": "Hollywood Palladium",
-    "day": "Thursday",
-    "date": "09/24/2026",
-    "time": "8:00 PM",
-    "name": "Right After You Left - Vinyl Room @ the Palladium",
-    "link": "https://www.ticketmaster.com/right-after-you-left-vinyl-room-hollywood-california-09-24-2026/event/09006535388B7980"
   },
   {
     "key": "hollywood palladium|09/25/2026|overmono - pure devotion world tour",

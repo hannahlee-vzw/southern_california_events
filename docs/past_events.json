@@ -6768,5 +6768,75 @@
     "name": "The Basement Series - Vinyl Room @ the Palladium",
     "link": "https://www.ticketmaster.com/the-basement-series-vinyl-room-the-hollywood-california-09-23-2026/event/0900651AE477BB0C",
     "archived_on": "2026-09-24"
+  },
+  {
+    "key": "intuit dome|09/24/2026|kehlani",
+    "venue": "Intuit Dome",
+    "day": "Thursday",
+    "date": "09/24/2026",
+    "time": "6:30 PM",
+    "name": "Kehlani",
+    "link": "https://www.intuitdome.com/events/event-schedule/4033?utm_source=IDwebsite&utm_medium=eventschedule&utm_campaign=IDevents26&utm_content=kehlani_260924",
+    "archived_on": "2026-09-25"
+  },
+  {
+    "key": "kia forum|09/24/2026|robyn – the sexistential tour",
+    "venue": "Kia Forum",
+    "day": "Thursday",
+    "date": "09/24/2026",
+    "time": "7:00 PM",
+    "name": "ROBYN – The Sexistential Tour",
+    "link": "https://thekiaforum.com/event/robyn-2/",
+    "archived_on": "2026-09-25"
+  },
+  {
+    "key": "crypto.com arena|09/24/2026|los angeles sparks vs golden state valkyries",
+    "venue": "Crypto.com Arena",
+    "day": "Thursday",
+    "date": "09/24/2026",
+    "time": "7:00 PM",
+    "name": "Los Angeles Sparks vs Golden State Valkyries",
+    "link": "https://www.cryptoarena.com/events/detail/sparksvalkyries092426",
+    "archived_on": "2026-09-25"
+  },
+  {
+    "key": "la convention center|09/24/2026|national black mba annual conference & exposition",
+    "venue": "LA Convention Center",
+    "day": "Thursday",
+    "date": "09/24/2026",
+    "time": "TBA",
+    "name": "National Black MBA Annual Conference & Exposition",
+    "link": "https://www.laconventioncenter.com/events/detail/national-black-mba-association-conference-exposition",
+    "archived_on": "2026-09-25"
+  },
+  {
+    "key": "dodger stadium|09/24/2026|vs. san diego padres",
+    "venue": "Dodger Stadium",
+    "day": "Thursday",
+    "date": "09/24/2026",
+    "time": "7:10 PM",
+    "name": "vs. San Diego Padres",
+    "link": "https://www.mlb.com/gameday/823895",
+    "archived_on": "2026-09-25"
+  },
+  {
+    "key": "hollywood bowl|09/24/2026|bellion & friends",
+    "venue": "Hollywood Bowl",
+    "day": "Thursday",
+    "date": "09/24/2026",
+    "time": "8:00 PM",
+    "name": "Bellion & Friends",
+    "link": "https://www.hollywoodbowl.com/events/performances/4509/2026-09-24/bellion-friends",
+    "archived_on": "2026-09-25"
+  },
+  {
+    "key": "hollywood palladium|09/24/2026|right after you left - vinyl room @ the palladium",
+    "venue": "Hollywood Palladium",
+    "day": "Thursday",
+    "date": "09/24/2026",
+    "time": "8:00 PM",
+    "name": "Right After You Left - Vinyl Room @ the Palladium",
+    "link": "https://www.ticketmaster.com/right-after-you-left-vinyl-room-hollywood-california-09-24-2026/event/09006535388B7980",
+    "archived_on": "2026-09-25"
   }
 ]
