@@ -6838,5 +6838,65 @@
     "name": "Right After You Left - Vinyl Room @ the Palladium",
     "link": "https://www.ticketmaster.com/right-after-you-left-vinyl-room-hollywood-california-09-24-2026/event/09006535388B7980",
     "archived_on": "2026-09-25"
+  },
+  {
+    "key": "sofi stadium|09/25/2026|the r&b tour - starring usher raymond & chris brown",
+    "venue": "SoFi Stadium",
+    "day": "Friday",
+    "date": "09/25/2026",
+    "time": "7:30 PM",
+    "name": "The R&B Tour - Starring Usher Raymond & Chris Brown",
+    "link": "https://www.sofistadium.com/events/detail/chris-brown-usher-september-25",
+    "archived_on": "2026-09-26"
+  },
+  {
+    "key": "crypto.com arena|09/25/2026|yandel – sinfónico usa tour 2026",
+    "venue": "Crypto.com Arena",
+    "day": "Friday",
+    "date": "09/25/2026",
+    "time": "8:00 PM",
+    "name": "Yandel – SINFÓNICO USA TOUR 2026",
+    "link": "https://www.cryptoarena.com/events/detail/yandel092526",
+    "archived_on": "2026-09-26"
+  },
+  {
+    "key": "la convention center|09/25/2026|national black mba annual conference & exposition",
+    "venue": "LA Convention Center",
+    "day": "Friday",
+    "date": "09/25/2026",
+    "time": "TBA",
+    "name": "National Black MBA Annual Conference & Exposition",
+    "link": "https://www.laconventioncenter.com/events/detail/national-black-mba-association-conference-exposition",
+    "archived_on": "2026-09-26"
+  },
+  {
+    "key": "la convention center|09/25/2026|riftbound regional qualifier",
+    "venue": "LA Convention Center",
+    "day": "Friday",
+    "date": "09/25/2026",
+    "time": "TBA",
+    "name": "Riftbound Regional Qualifier",
+    "link": "https://www.laconventioncenter.com/events/detail/riftbound-regional-qualifier",
+    "archived_on": "2026-09-26"
+  },
+  {
+    "key": "hollywood bowl|09/25/2026|the concert:a tribute to abba – menalive",
+    "venue": "Hollywood Bowl",
+    "day": "Friday",
+    "date": "09/25/2026",
+    "time": "8:00 PM",
+    "name": "The Concert:A Tribute to ABBA – MenAlive",
+    "link": "https://www.hollywoodbowl.com/events/performances/4254/2026-09-25/the-concert-a-tribute-to-abba",
+    "archived_on": "2026-09-26"
+  },
+  {
+    "key": "hollywood palladium|09/25/2026|overmono - pure devotion world tour",
+    "venue": "Hollywood Palladium",
+    "day": "Friday",
+    "date": "09/25/2026",
+    "time": "8:00 PM",
+    "name": "Overmono - Pure Devotion World Tour",
+    "link": "https://www.ticketmaster.com/overmono-pure-devotion-world-tour-hollywood-california-09-25-2026/event/090064B0F998CD8C",
+    "archived_on": "2026-09-26"
   }
 ]
