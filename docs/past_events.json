@@ -6898,5 +6898,85 @@
     "name": "Overmono - Pure Devotion World Tour",
     "link": "https://www.ticketmaster.com/overmono-pure-devotion-world-tour-hollywood-california-09-25-2026/event/090064B0F998CD8C",
     "archived_on": "2026-09-26"
+  },
+  {
+    "key": "sofi stadium|09/26/2026|the r&b tour - starring usher raymond & chris brown",
+    "venue": "SoFi Stadium",
+    "day": "Saturday",
+    "date": "09/26/2026",
+    "time": "7:30 PM",
+    "name": "The R&B Tour - Starring Usher Raymond & Chris Brown",
+    "link": "https://www.sofistadium.com/events/detail/chris-brown-usher-september-26",
+    "archived_on": "2026-09-27"
+  },
+  {
+    "key": "kia forum|09/26/2026|billy strings",
+    "venue": "Kia Forum",
+    "day": "Saturday",
+    "date": "09/26/2026",
+    "time": "7:00 PM",
+    "name": "BILLY STRINGS",
+    "link": "https://thekiaforum.com/event/billy-strings-3/",
+    "archived_on": "2026-09-27"
+  },
+  {
+    "key": "dignity health sports park|09/26/2026|la galaxy vs colorado rapids",
+    "venue": "Dignity Health Sports Park",
+    "day": "Saturday",
+    "date": "09/26/2026",
+    "time": "TBA",
+    "name": "LA Galaxy vs Colorado Rapids",
+    "link": "https://www.dignityhealthsportspark.com/events/detail/la-galaxy-vs-colorado-rapids",
+    "archived_on": "2026-09-27"
+  },
+  {
+    "key": "crypto.com arena|09/26/2026|anaheim ducks vs los angeles kings – preseason",
+    "venue": "Crypto.com Arena",
+    "day": "Saturday",
+    "date": "09/26/2026",
+    "time": "1:00 PM",
+    "name": "Anaheim Ducks vs Los Angeles Kings – Preseason",
+    "link": "https://www.cryptoarena.com/events/detail/kingsducks092626",
+    "archived_on": "2026-09-27"
+  },
+  {
+    "key": "l.a. memorial coliseum|09/26/2026|oregon vs usc",
+    "venue": "L.A. Memorial Coliseum",
+    "day": "Saturday",
+    "date": "09/26/2026",
+    "time": "TBA",
+    "name": "Oregon vs USC",
+    "link": "https://www.lacoliseum.com/events/oregon-vs-usc-2026/",
+    "archived_on": "2026-09-27"
+  },
+  {
+    "key": "la convention center|09/26/2026|riftbound regional qualifier",
+    "venue": "LA Convention Center",
+    "day": "Saturday",
+    "date": "09/26/2026",
+    "time": "TBA",
+    "name": "Riftbound Regional Qualifier",
+    "link": "https://www.laconventioncenter.com/events/detail/riftbound-regional-qualifier",
+    "archived_on": "2026-09-27"
+  },
+  {
+    "key": "hollywood bowl|09/26/2026|rodgers & hammerstein’s the sound of music sing-a-long",
+    "venue": "Hollywood Bowl",
+    "day": "Saturday",
+    "date": "09/26/2026",
+    "time": "7:30 PM",
+    "name": "Rodgers & Hammerstein’s The Sound of Music Sing-A-Long",
+    "link": "https://www.hollywoodbowl.com/events/performances/4342/2026-09-26/rodgers-hammersteins-the-sound-of-music-sing-a-long",
+    "archived_on": "2026-09-27"
+  },
+  {
+    "key": "hollywood palladium|09/26/2026|dexter and the moonrocks",
+    "venue": "Hollywood Palladium",
+    "day": "Saturday",
+    "date": "09/26/2026",
+    "time": "7:00 PM",
+    "name": "Dexter and The Moonrocks",
+    "link": "https://www.ticketmaster.com/dexter-and-the-moonrocks-hollywood-california-09-26-2026/event/090064C49BC79F9F",
+    "archived_on": "2026-09-27"
   }
 ]
