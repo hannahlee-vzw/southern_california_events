@@ -6978,5 +6978,45 @@
     "name": "Dexter and The Moonrocks",
     "link": "https://www.ticketmaster.com/dexter-and-the-moonrocks-hollywood-california-09-26-2026/event/090064C49BC79F9F",
     "archived_on": "2026-09-27"
+  },
+  {
+    "key": "kia forum|09/27/2026|sin bandera – escenas tour",
+    "venue": "Kia Forum",
+    "day": "Sunday",
+    "date": "09/27/2026",
+    "time": "7:00 PM",
+    "name": "SIN BANDERA – ESCENAS TOUR",
+    "link": "https://thekiaforum.com/event/sin-bandera/",
+    "archived_on": "2026-09-28"
+  },
+  {
+    "key": "rose bowl stadium|09/27/2026|2026 bimbo global race",
+    "venue": "Rose Bowl Stadium",
+    "day": "Sunday",
+    "date": "09/27/2026",
+    "time": "8:30 AM",
+    "name": "2026 Bimbo Global Race",
+    "link": "https://www.rosebowlstadium.com/events/details/669/2026-bimbo-global-race",
+    "archived_on": "2026-09-28"
+  },
+  {
+    "key": "la convention center|09/27/2026|riftbound regional qualifier",
+    "venue": "LA Convention Center",
+    "day": "Sunday",
+    "date": "09/27/2026",
+    "time": "TBA",
+    "name": "Riftbound Regional Qualifier",
+    "link": "https://www.laconventioncenter.com/events/detail/riftbound-regional-qualifier",
+    "archived_on": "2026-09-28"
+  },
+  {
+    "key": "hollywood bowl|09/27/2026|jon batiste",
+    "venue": "Hollywood Bowl",
+    "day": "Sunday",
+    "date": "09/27/2026",
+    "time": "7:30 PM",
+    "name": "Jon Batiste",
+    "link": "https://www.hollywoodbowl.com/events/performances/4346/2026-09-27/jon-batiste",
+    "archived_on": "2026-09-28"
   }
 ]
