@@ -297,6 +297,15 @@
     "link": "https://intuitdome.com/events/event-schedule/4295?type=games&utm_source=IDwebsite&utm_medium=eventdetail&utm_campaign=SGT_2627&utm_content=SGT2627_EST_261028"
   },
   {
+    "key": "intuit dome|10/29/2026|omer adam",
+    "venue": "Intuit Dome",
+    "day": "Thursday",
+    "date": "10/29/2026",
+    "time": "8:30 PM",
+    "name": "Omer Adam",
+    "link": "https://www.intuitdome.com/events/event-schedule/4684?utm_source=eventschedule&utm_medium=IDwebsite&utm_campaign=IDevents26&utm_content=omer_adam_261029"
+  },
+  {
     "key": "intuit dome|10/30/2026|phoebe bridgers",
     "venue": "Intuit Dome",
     "day": "Friday",
@@ -1485,15 +1494,6 @@
     "link": "https://www.rosebowlstadium.com/events/details/676/harry-styles-together-together-tour"
   },
   {
-    "key": "crypto.com arena|09/28/2026|disney descendants, zombies & camp rock: worlds collide concert tour – malachi barton, liamani segura, dara reneé, mekonnen knife, hudson stone, swayam bhatia, kiara romero, alexandro byrd",
-    "venue": "Crypto.com Arena",
-    "day": "Monday",
-    "date": "09/28/2026",
-    "time": "7:00 PM",
-    "name": "Disney Descendants, ZOMBIES & Camp Rock: Worlds Collide Concert Tour – Malachi Barton, Liamani Segura, Dara Reneé, Mekonnen Knife, Hudson Stone, Swayam Bhatia, Kiara Romero, Alexandro Byrd",
-    "link": "https://www.cryptoarena.com/events/detail/disneydescendants092826"
-  },
-  {
     "key": "crypto.com arena|10/06/2026|florida panthers vs los angeles kings",
     "venue": "Crypto.com Arena",
     "day": "Tuesday",
@@ -1530,12 +1530,12 @@
     "link": "https://www.cryptoarena.com/events/detail/kingsoilers101326"
   },
   {
-    "key": "crypto.com arena|10/15/2026|taemin – 2026-27 taemin world tour <liminal>",
+    "key": "crypto.com arena|10/15/2026|taemin - postponed – 2026-27 taemin world tour <liminal>",
     "venue": "Crypto.com Arena",
     "day": "Thursday",
     "date": "10/15/2026",
-    "time": "8:00 PM",
-    "name": "TAEMIN – 2026-27 TAEMIN WORLD TOUR <LiMiNaL>",
+    "time": "TBA",
+    "name": "TAEMIN - Postponed – 2026-27 TAEMIN WORLD TOUR <LiMiNaL>",
     "link": "https://www.cryptoarena.com/events/detail/taemin101526"
   },
   {
@@ -2943,13 +2943,22 @@
     "link": "https://www.hollywoodbowl.com/events/performances/4900/2026-11-21/steve-lacy"
   },
   {
-    "key": "hollywood palladium|09/28/2026|jack white live 2026",
-    "venue": "Hollywood Palladium",
-    "day": "Monday",
-    "date": "09/28/2026",
-    "time": "7:00 PM",
-    "name": "JACK WHITE LIVE 2026",
-    "link": "https://www.ticketmaster.com/jack-white-live-2026-hollywood-california-09-28-2026/event/090064878E2C68FC"
+    "key": "hollywood bowl|06/06/2027|a perfect circle – the cult",
+    "venue": "Hollywood Bowl",
+    "day": "Sunday",
+    "date": "06/06/2027",
+    "time": "7:30 PM",
+    "name": "A Perfect Circle – The Cult",
+    "link": "https://www.hollywoodbowl.com/events/performances/4908/2027-06-06/a-perfect-circle"
+  },
+  {
+    "key": "hollywood bowl|08/25/2027|the legend of zelda – 40th anniversary concert",
+    "venue": "Hollywood Bowl",
+    "day": "Wednesday",
+    "date": "08/25/2027",
+    "time": "8:00 PM",
+    "name": "The Legend of Zelda – 40th Anniversary Concert",
+    "link": "https://www.hollywoodbowl.com/events/performances/4909/2027-08-25/the-legend-of-zelda"
   },
   {
     "key": "hollywood palladium|09/29/2026|jack white live 2026",
@@ -3267,6 +3276,15 @@
     "link": "https://www.ticketmaster.com/trippie-redd-the-nondisclosure-agreement-tour-hollywood-california-12-15-2026/event/090065303EFFBE81"
   },
   {
+    "key": "hollywood palladium|12/17/2026|mixed feelings presents - kim petras: de-tour",
+    "venue": "Hollywood Palladium",
+    "day": "Thursday",
+    "date": "12/17/2026",
+    "time": "7:00 PM",
+    "name": "Mixed Feelings Presents - Kim Petras: De-Tour",
+    "link": "https://www.ticketmaster.com/mixed-feelings-presents-kim-petras-detour-hollywood-california-12-17-2026/event/090065371323C327"
+  },
+  {
     "key": "hollywood palladium|12/18/2026|beartooth: pure ecstasy world tour",
     "venue": "Hollywood Palladium",
     "day": "Friday",
@@ -3310,15 +3328,6 @@
     "time": "7:00 PM",
     "name": "Nothing But Thieves: The Stray Dogs World Tour",
     "link": "https://www.ticketmaster.com/nothing-but-thieves-the-stray-dogs-hollywood-california-04-04-2027/event/090064B61FAB46C9"
-  },
-  {
-    "key": "long beach convention center|09/28/2026|chainge by ascm",
-    "venue": "Long Beach Convention Center",
-    "day": "Monday",
-    "date": "09/28/2026",
-    "time": "TBA",
-    "name": "CHAINge by ASCM",
-    "link": "https://www.lbentertainmentcenter.com/events/acsm-2026/"
   },
   {
     "key": "long beach convention center|10/03/2026|hot wheels monster trucks live: glow-n-fire",
@@ -3526,5 +3535,14 @@
     "time": "TBA",
     "name": "Ali Wong",
     "link": "https://www.lbentertainmentcenter.com/events/ali-wong/"
+  },
+  {
+    "key": "long beach convention center|09/28/2027|chainge by ascm",
+    "venue": "Long Beach Convention Center",
+    "day": "Tuesday",
+    "date": "09/28/2027",
+    "time": "TBA",
+    "name": "CHAINge by ASCM",
+    "link": "https://www.lbentertainmentcenter.com/events/acsm-2026/"
   }
 ]
