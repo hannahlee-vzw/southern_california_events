@@ -2745,15 +2745,6 @@
     "link": "https://www.mlb.com/gameday/823895"
   },
   {
-    "key": "hollywood bowl|09/29/2026|lauren halsey'semajendaterykah badu and the alchemist – with dj pee .wee (anderson .paak), flea, charles gaines collective with black nile and devin daniels",
-    "venue": "Hollywood Bowl",
-    "day": "Tuesday",
-    "date": "09/29/2026",
-    "time": "8:00 PM",
-    "name": "Lauren Halsey'semajendatErykah Badu and The Alchemist – with DJ Pee .Wee (Anderson .Paak), Flea, Charles Gaines Collective with Black Nile and Devin Daniels",
-    "link": "https://www.hollywoodbowl.com/events/performances/4843/2026-09-29/lauren-halseys-emajendat-erykah-badu-and-the-alchemist"
-  },
-  {
     "key": "hollywood bowl|09/30/2026|rubén blades & roberto delgado big band: fotografías tour – silvana estrada",
     "venue": "Hollywood Bowl",
     "day": "Wednesday",
@@ -2959,15 +2950,6 @@
     "time": "8:00 PM",
     "name": "The Legend of Zelda – 40th Anniversary Concert",
     "link": "https://www.hollywoodbowl.com/events/performances/4909/2027-08-25/the-legend-of-zelda"
-  },
-  {
-    "key": "hollywood palladium|09/29/2026|jack white live 2026",
-    "venue": "Hollywood Palladium",
-    "day": "Tuesday",
-    "date": "09/29/2026",
-    "time": "7:00 PM",
-    "name": "JACK WHITE LIVE 2026",
-    "link": "https://www.ticketmaster.com/jack-white-live-2026-hollywood-california-09-29-2026/event/090064878E416938"
   },
   {
     "key": "hollywood palladium|09/30/2026|sugar - love you even still 2026 world tour",
@@ -3474,6 +3456,15 @@
     "link": "https://www.lbentertainmentcenter.com/events/ian-bremmer/"
   },
   {
+    "key": "long beach convention center|11/19/2026|national catholic youth conference (2026 ncyc)",
+    "venue": "Long Beach Convention Center",
+    "day": "Thursday",
+    "date": "11/19/2026",
+    "time": "TBA",
+    "name": "National Catholic Youth Conference (2026 NCYC)",
+    "link": "https://www.lbentertainmentcenter.com/events/ncyc/"
+  },
+  {
     "key": "long beach convention center|11/28/2026|forever tour",
     "venue": "Long Beach Convention Center",
     "day": "Saturday",
@@ -3526,15 +3517,6 @@
     "time": "TBA",
     "name": "Dylan Thuras",
     "link": "https://www.lbentertainmentcenter.com/events/dylan-thuras/"
-  },
-  {
-    "key": "long beach convention center|01/23/2027|ali wong",
-    "venue": "Long Beach Convention Center",
-    "day": "Saturday",
-    "date": "01/23/2027",
-    "time": "TBA",
-    "name": "Ali Wong",
-    "link": "https://www.lbentertainmentcenter.com/events/ali-wong/"
   },
   {
     "key": "long beach convention center|09/28/2027|chainge by ascm",
