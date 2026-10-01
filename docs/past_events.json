@@ -7068,5 +7068,45 @@
     "name": "JACK WHITE LIVE 2026",
     "link": "https://www.ticketmaster.com/jack-white-live-2026-hollywood-california-09-29-2026/event/090064878E416938",
     "archived_on": "2026-09-30"
+  },
+  {
+    "key": "sofi stadium|09/30/2026|bruno mars – the romantic tour with anderson.paak as dj pee.wee",
+    "venue": "SoFi Stadium",
+    "day": "Wednesday",
+    "date": "09/30/2026",
+    "time": "7:00 PM",
+    "name": "Bruno Mars – The Romantic Tour with Anderson.Paak as DJ Pee.Wee",
+    "link": "https://www.sofistadium.com/events/detail/bruno-mars-september-30",
+    "archived_on": "2026-10-01"
+  },
+  {
+    "key": "kia forum|09/30/2026|disney descendants, zombies & camp rock: worlds collide concert tour",
+    "venue": "Kia Forum",
+    "day": "Wednesday",
+    "date": "09/30/2026",
+    "time": "7:00 PM",
+    "name": "DISNEY DESCENDANTS, ZOMBIES & CAMP ROCK: WORLDS COLLIDE CONCERT TOUR",
+    "link": "https://thekiaforum.com/event/worlds-collide-concert-tour/",
+    "archived_on": "2026-10-01"
+  },
+  {
+    "key": "hollywood bowl|09/30/2026|rubén blades & roberto delgado big band: fotografías tour – silvana estrada",
+    "venue": "Hollywood Bowl",
+    "day": "Wednesday",
+    "date": "09/30/2026",
+    "time": "8:00 PM",
+    "name": "Rubén Blades & Roberto Delgado Big Band: Fotografías Tour – Silvana Estrada",
+    "link": "https://www.hollywoodbowl.com/events/performances/4347/2026-09-30/ruben-blades-roberto-delgado-big-band-fotografias-tour",
+    "archived_on": "2026-10-01"
+  },
+  {
+    "key": "hollywood palladium|09/30/2026|sugar - love you even still 2026 world tour",
+    "venue": "Hollywood Palladium",
+    "day": "Wednesday",
+    "date": "09/30/2026",
+    "time": "7:00 PM",
+    "name": "SUGAR - Love You Even Still 2026 World Tour",
+    "link": "https://www.ticketmaster.com/sugar-love-you-even-still-2026-hollywood-california-09-30-2026/event/09006434A1B88DDD",
+    "archived_on": "2026-10-01"
   }
 ]

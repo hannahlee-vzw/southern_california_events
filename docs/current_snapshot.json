@@ -1,14 +1,5 @@
 [
   {
-    "key": "sofi stadium|09/30/2026|bruno mars – the romantic tour with anderson.paak as dj pee.wee",
-    "venue": "SoFi Stadium",
-    "day": "Wednesday",
-    "date": "09/30/2026",
-    "time": "7:00 PM",
-    "name": "Bruno Mars – The Romantic Tour with Anderson.Paak as DJ Pee.Wee",
-    "link": "https://www.sofistadium.com/events/detail/bruno-mars-september-30"
-  },
-  {
     "key": "sofi stadium|10/02/2026|bruno mars – the romantic tour with anderson.paak as dj pee.wee and raye",
     "venue": "SoFi Stadium",
     "day": "Friday",
@@ -504,6 +495,15 @@
     "link": "https://intuitdome.com/events/event-schedule/4282?type=games&utm_source=IDwebsite&utm_medium=eventdetail&utm_campaign=SGT_2627&utm_content=SGT2627_EST_261227"
   },
   {
+    "key": "intuit dome|01/08/2027|la is unrivaled",
+    "venue": "Intuit Dome",
+    "day": "Friday",
+    "date": "01/08/2027",
+    "time": "7:00 PM",
+    "name": "LA is Unrivaled",
+    "link": "https://www.intuitdome.com/events/event-schedule/4669?utm_source=eventschedule&utm_medium=IDwebsite&utm_campaign=IDevents27&utm_content=unrivaled_270108"
+  },
+  {
     "key": "intuit dome|01/09/2027|boston celtics vs la clippers",
     "venue": "Intuit Dome",
     "day": "Saturday",
@@ -882,15 +882,6 @@
     "link": "https://www.intuitdome.com/events/event-schedule"
   },
   {
-    "key": "kia forum|09/30/2026|disney descendants, zombies & camp rock: worlds collide concert tour",
-    "venue": "Kia Forum",
-    "day": "Wednesday",
-    "date": "09/30/2026",
-    "time": "7:00 PM",
-    "name": "DISNEY DESCENDANTS, ZOMBIES & CAMP ROCK: WORLDS COLLIDE CONCERT TOUR",
-    "link": "https://thekiaforum.com/event/worlds-collide-concert-tour/"
-  },
-  {
     "key": "kia forum|10/03/2026|klangkuenstler – outworld – klangkuenstler all night long",
     "venue": "Kia Forum",
     "day": "Saturday",
@@ -1195,6 +1186,15 @@
     "time": "7:00 PM",
     "name": "ELEVATION WORSHIP & STEVEN FURTICK",
     "link": "https://thekiaforum.com/event/elevation-worship-steven-furtick/"
+  },
+  {
+    "key": "kia forum|04/22/2027|carly rae jepsen – day and night tour",
+    "venue": "Kia Forum",
+    "day": "Thursday",
+    "date": "04/22/2027",
+    "time": "7:00 PM",
+    "name": "CARLY RAE JEPSEN – Day and Night Tour",
+    "link": "https://thekiaforum.com/event/carly-rae-jepsen/"
   },
   {
     "key": "kia forum|04/24/2027|jo koy – koy meets world tour",
@@ -2745,15 +2745,6 @@
     "link": "https://www.mlb.com/gameday/823895"
   },
   {
-    "key": "hollywood bowl|09/30/2026|rubén blades & roberto delgado big band: fotografías tour – silvana estrada",
-    "venue": "Hollywood Bowl",
-    "day": "Wednesday",
-    "date": "09/30/2026",
-    "time": "8:00 PM",
-    "name": "Rubén Blades & Roberto Delgado Big Band: Fotografías Tour – Silvana Estrada",
-    "link": "https://www.hollywoodbowl.com/events/performances/4347/2026-09-30/ruben-blades-roberto-delgado-big-band-fotografias-tour"
-  },
-  {
     "key": "hollywood bowl|10/05/2026|“the hayley williams show”",
     "venue": "Hollywood Bowl",
     "day": "Monday",
@@ -2952,15 +2943,6 @@
     "link": "https://www.hollywoodbowl.com/events/performances/4909/2027-08-25/the-legend-of-zelda"
   },
   {
-    "key": "hollywood palladium|09/30/2026|sugar - love you even still 2026 world tour",
-    "venue": "Hollywood Palladium",
-    "day": "Wednesday",
-    "date": "09/30/2026",
-    "time": "7:00 PM",
-    "name": "SUGAR - Love You Even Still 2026 World Tour",
-    "link": "https://www.ticketmaster.com/sugar-love-you-even-still-2026-hollywood-california-09-30-2026/event/09006434A1B88DDD"
-  },
-  {
     "key": "hollywood palladium|10/01/2026|social distortion",
     "venue": "Hollywood Palladium",
     "day": "Thursday",
@@ -3067,24 +3049,6 @@
     "time": "7:00 PM",
     "name": "Modest Mouse",
     "link": "https://www.ticketmaster.com/modest-mouse-hollywood-california-10-20-2026/event/0900648FCF4AA265"
-  },
-  {
-    "key": "hollywood palladium|10/21/2026|fakemink: a terrible beauty. - the tour. part 2",
-    "venue": "Hollywood Palladium",
-    "day": "Wednesday",
-    "date": "10/21/2026",
-    "time": "7:00 PM",
-    "name": "fakemink: a Terrible Beauty. - The Tour. part 2",
-    "link": "https://www.ticketmaster.com/fakemink-a-terrible-beauty-the-tour-hollywood-california-10-21-2026/event/09006513D701D1D2"
-  },
-  {
-    "key": "hollywood palladium|10/22/2026|fakemink: a terrible beauty. - the tour. part 2",
-    "venue": "Hollywood Palladium",
-    "day": "Thursday",
-    "date": "10/22/2026",
-    "time": "7:00 PM",
-    "name": "fakemink: a Terrible Beauty. - The Tour. part 2",
-    "link": "https://www.ticketmaster.com/fakemink-a-terrible-beauty-the-tour-hollywood-california-10-22-2026/event/0900651978D425F7"
   },
   {
     "key": "hollywood palladium|10/23/2026|two friends",
@@ -3292,6 +3256,24 @@
     "time": "8:00 PM",
     "name": "CID",
     "link": "https://www.ticketmaster.com/cid-hollywood-california-01-09-2027/event/0900653032FDAFBF"
+  },
+  {
+    "key": "hollywood palladium|01/19/2027|fakemink: a terrible beauty. - the tour. part 2",
+    "venue": "Hollywood Palladium",
+    "day": "Tuesday",
+    "date": "01/19/2027",
+    "time": "7:00 PM",
+    "name": "fakemink: a Terrible Beauty. - The Tour. part 2",
+    "link": "https://www.ticketmaster.com/fakemink-a-terrible-beauty-the-tour-hollywood-california-01-19-2027/event/09006513D701D1D2"
+  },
+  {
+    "key": "hollywood palladium|01/20/2027|fakemink: a terrible beauty. - the tour. part 2",
+    "venue": "Hollywood Palladium",
+    "day": "Wednesday",
+    "date": "01/20/2027",
+    "time": "7:00 PM",
+    "name": "fakemink: a Terrible Beauty. - The Tour. part 2",
+    "link": "https://www.ticketmaster.com/fakemink-a-terrible-beauty-the-tour-hollywood-california-01-20-2027/event/0900651978D425F7"
   },
   {
     "key": "hollywood palladium|02/09/2027|polyphia: be not afraid world tour",
@@ -3519,12 +3501,12 @@
     "link": "https://www.lbentertainmentcenter.com/events/dylan-thuras/"
   },
   {
-    "key": "long beach convention center|09/28/2027|chainge by ascm",
+    "key": "long beach convention center|01/23/2027|ali wong",
     "venue": "Long Beach Convention Center",
-    "day": "Tuesday",
-    "date": "09/28/2027",
+    "day": "Saturday",
+    "date": "01/23/2027",
     "time": "TBA",
-    "name": "CHAINge by ASCM",
-    "link": "https://www.lbentertainmentcenter.com/events/acsm-2026/"
+    "name": "Ali Wong",
+    "link": "https://www.lbentertainmentcenter.com/events/ali-wong/"
   }
 ]
