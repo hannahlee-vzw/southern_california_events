@@ -207,15 +207,6 @@
     "link": "https://www.sofistadium.com/events/detail/skipknot-august-13"
   },
   {
-    "key": "intuit dome|10/01/2026|rod wave",
-    "venue": "Intuit Dome",
-    "day": "Thursday",
-    "date": "10/01/2026",
-    "time": "8:00 PM",
-    "name": "Rod Wave",
-    "link": "https://www.intuitdome.com/events/event-schedule/4161?utm_source=IDwebsite&utm_medium=eventschedule&utm_campaign=IDevents26&utm_content=rod_wave_261001"
-  },
-  {
     "key": "intuit dome|10/03/2026|aespa live tour – synk : complæxity – in los angeles",
     "venue": "Intuit Dome",
     "day": "Saturday",
@@ -927,6 +918,15 @@
     "link": "https://thekiaforum.com/event/sombr/"
   },
   {
+    "key": "kia forum|10/15/2026|fontaines d.c.",
+    "venue": "Kia Forum",
+    "day": "Thursday",
+    "date": "10/15/2026",
+    "time": "7:00 PM",
+    "name": "FONTAINES D.C.",
+    "link": "https://thekiaforum.com/event/fontaines-d-c/"
+  },
+  {
     "key": "kia forum|10/16/2026|juanes",
     "venue": "Kia Forum",
     "day": "Friday",
@@ -1276,6 +1276,15 @@
     "time": "TBA",
     "name": "Angel City FC vs Boston Legacy FC",
     "link": "https://www.dignityhealthsportspark.com/events/detail/angel-city-fc-vs-boston-legacy-fc"
+  },
+  {
+    "key": "dignity health sports park|11/14/2026|matchroom boxing presents: diego pacheco vs darius fulghum",
+    "venue": "Dignity Health Sports Park",
+    "day": "Saturday",
+    "date": "11/14/2026",
+    "time": "TBA",
+    "name": "Matchroom Boxing Presents: Diego Pacheco vs Darius Fulghum",
+    "link": "https://www.dignityhealthsportspark.com/events/detail/matchroom-boxing-presents-diego-pacheco-vs-darius-fulghum"
   },
   {
     "key": "rose bowl stadium|10/03/2026|2026 los angeles heart and stroke walk",
@@ -2941,15 +2950,6 @@
     "time": "8:00 PM",
     "name": "The Legend of Zelda – 40th Anniversary Concert",
     "link": "https://www.hollywoodbowl.com/events/performances/4909/2027-08-25/the-legend-of-zelda"
-  },
-  {
-    "key": "hollywood palladium|10/01/2026|social distortion",
-    "venue": "Hollywood Palladium",
-    "day": "Thursday",
-    "date": "10/01/2026",
-    "time": "7:00 PM",
-    "name": "Social Distortion",
-    "link": "https://www.ticketmaster.com/social-distortion-hollywood-california-10-01-2026/event/09006455A7CEBF3A"
   },
   {
     "key": "hollywood palladium|10/02/2026|social distortion",

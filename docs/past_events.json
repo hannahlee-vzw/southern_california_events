@@ -7108,5 +7108,25 @@
     "name": "SUGAR - Love You Even Still 2026 World Tour",
     "link": "https://www.ticketmaster.com/sugar-love-you-even-still-2026-hollywood-california-09-30-2026/event/09006434A1B88DDD",
     "archived_on": "2026-10-01"
+  },
+  {
+    "key": "intuit dome|10/01/2026|rod wave",
+    "venue": "Intuit Dome",
+    "day": "Thursday",
+    "date": "10/01/2026",
+    "time": "8:00 PM",
+    "name": "Rod Wave",
+    "link": "https://www.intuitdome.com/events/event-schedule/4161?utm_source=IDwebsite&utm_medium=eventschedule&utm_campaign=IDevents26&utm_content=rod_wave_261001",
+    "archived_on": "2026-10-02"
+  },
+  {
+    "key": "hollywood palladium|10/01/2026|social distortion",
+    "venue": "Hollywood Palladium",
+    "day": "Thursday",
+    "date": "10/01/2026",
+    "time": "7:00 PM",
+    "name": "Social Distortion",
+    "link": "https://www.ticketmaster.com/social-distortion-hollywood-california-10-01-2026/event/09006455A7CEBF3A",
+    "archived_on": "2026-10-02"
   }
 ]
