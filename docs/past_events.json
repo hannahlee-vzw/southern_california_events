@@ -7128,5 +7128,25 @@
     "name": "Social Distortion",
     "link": "https://www.ticketmaster.com/social-distortion-hollywood-california-10-01-2026/event/09006455A7CEBF3A",
     "archived_on": "2026-10-02"
+  },
+  {
+    "key": "sofi stadium|10/02/2026|bruno mars – the romantic tour with anderson.paak as dj pee.wee and raye",
+    "venue": "SoFi Stadium",
+    "day": "Friday",
+    "date": "10/02/2026",
+    "time": "7:00 PM",
+    "name": "Bruno Mars – The Romantic Tour with Anderson.Paak as DJ Pee.Wee and Raye",
+    "link": "https://www.sofistadium.com/events/detail/bruno-mars-october-2",
+    "archived_on": "2026-10-03"
+  },
+  {
+    "key": "hollywood palladium|10/02/2026|social distortion",
+    "venue": "Hollywood Palladium",
+    "day": "Friday",
+    "date": "10/02/2026",
+    "time": "7:00 PM",
+    "name": "Social Distortion",
+    "link": "https://www.ticketmaster.com/social-distortion-hollywood-california-10-02-2026/event/09006455A7E2BF66",
+    "archived_on": "2026-10-03"
   }
 ]
