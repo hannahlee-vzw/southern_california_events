@@ -1,14 +1,5 @@
 [
   {
-    "key": "sofi stadium|10/03/2026|bruno mars – the romantic tour with anderson.paak as dj pee.wee and raye",
-    "venue": "SoFi Stadium",
-    "day": "Saturday",
-    "date": "10/03/2026",
-    "time": "7:00 PM",
-    "name": "Bruno Mars – The Romantic Tour with Anderson.Paak as DJ Pee.Wee and Raye",
-    "link": "https://www.sofistadium.com/events/detail/bruno-mars-october-3"
-  },
-  {
     "key": "sofi stadium|10/06/2026|bruno mars – the romantic tour with anderson.paak as dj pee.wee and raye",
     "venue": "SoFi Stadium",
     "day": "Tuesday",
@@ -196,15 +187,6 @@
     "time": "7:00 PM",
     "name": "Slipknot – (sic)est Stadium Tour",
     "link": "https://www.sofistadium.com/events/detail/skipknot-august-13"
-  },
-  {
-    "key": "intuit dome|10/03/2026|aespa live tour – synk : complæxity – in los angeles",
-    "venue": "Intuit Dome",
-    "day": "Saturday",
-    "date": "10/03/2026",
-    "time": "8:00 PM",
-    "name": "aespa LIVE TOUR – SYNK : COMPLæXITY – in Los Angeles",
-    "link": "https://www.intuitdome.com/events/event-schedule/3850?utm_source=IDwebsite&utm_medium=eventschedule&utm_campaign=IDevents26&utm_content=aespa_live_tour_261003"
   },
   {
     "key": "intuit dome|10/10/2026|tlc and salt-n-pepa",
@@ -864,15 +846,6 @@
     "link": "https://www.intuitdome.com/events/event-schedule"
   },
   {
-    "key": "kia forum|10/03/2026|klangkuenstler – outworld – klangkuenstler all night long",
-    "venue": "Kia Forum",
-    "day": "Saturday",
-    "date": "10/03/2026",
-    "time": "7:00 PM",
-    "name": "KLANGKUENSTLER – OUTWORLD – Klangkuenstler All Night Long",
-    "link": "https://thekiaforum.com/event/klangkuenstler/"
-  },
-  {
     "key": "kia forum|10/06/2026|mumford & sons – prizefighter tour",
     "venue": "Kia Forum",
     "day": "Tuesday",
@@ -1276,15 +1249,6 @@
     "time": "TBA",
     "name": "Matchroom Boxing Presents: Diego Pacheco vs Darius Fulghum",
     "link": "https://www.dignityhealthsportspark.com/events/detail/matchroom-boxing-presents-diego-pacheco-vs-darius-fulghum"
-  },
-  {
-    "key": "rose bowl stadium|10/03/2026|2026 los angeles heart and stroke walk",
-    "venue": "Rose Bowl Stadium",
-    "day": "Saturday",
-    "date": "10/03/2026",
-    "time": "8:45 AM",
-    "name": "2026 Los Angeles Heart and Stroke Walk",
-    "link": "https://www.rosebowlstadium.com/events/details/665/2026-los-angeles-heart-and-stroke-walk"
   },
   {
     "key": "rose bowl stadium|10/09/2026|next rung - battle for mental health",
@@ -2376,15 +2340,6 @@
     "link": "https://www.cryptoarena.com/events/detail/ncaawestregional2027"
   },
   {
-    "key": "l.a. memorial coliseum|10/03/2026|washington vs usc",
-    "venue": "L.A. Memorial Coliseum",
-    "day": "Saturday",
-    "date": "10/03/2026",
-    "time": "TBA",
-    "name": "Washington vs USC",
-    "link": "https://www.lacoliseum.com/events/washington-vs-usc-2026/"
-  },
-  {
     "key": "l.a. memorial coliseum|10/06/2026|mextour: mexico vs. chile",
     "venue": "L.A. Memorial Coliseum",
     "day": "Tuesday",
@@ -2421,10 +2376,10 @@
     "link": "https://www.lacoliseum.com/events/john-summit-ctrl-escape-tour/"
   },
   {
-    "key": "la convention center|10/03/2026|complexcon 2026",
+    "key": "la convention center|10/04/2026|complexcon 2026",
     "venue": "LA Convention Center",
-    "day": "Saturday",
-    "date": "10/03/2026",
+    "day": "Sunday",
+    "date": "10/04/2026",
     "time": "TBA",
     "name": "ComplexCon 2026",
     "link": "https://www.laconventioncenter.com/events/detail/complexcon-los-angeles-2026"
@@ -3276,15 +3231,6 @@
     "link": "https://www.ticketmaster.com/nothing-but-thieves-the-stray-dogs-hollywood-california-04-04-2027/event/090064B61FAB46C9"
   },
   {
-    "key": "long beach convention center|10/03/2026|hot wheels monster trucks live: glow-n-fire",
-    "venue": "Long Beach Convention Center",
-    "day": "Saturday",
-    "date": "10/03/2026",
-    "time": "TBA",
-    "name": "HOT WHEELS MONSTER TRUCKS LIVE: Glow-N-Fire",
-    "link": "https://www.lbentertainmentcenter.com/events/hot-wheels-monster-trucks-live-glow-n-fire-26/"
-  },
-  {
     "key": "long beach convention center|10/05/2026|antojo industry trade expo",
     "venue": "Long Beach Convention Center",
     "day": "Monday",
@@ -3490,5 +3436,14 @@
     "time": "TBA",
     "name": "Ali Wong",
     "link": "https://www.lbentertainmentcenter.com/events/ali-wong/"
+  },
+  {
+    "key": "long beach convention center|10/03/2027|hot wheels monster trucks live: glow-n-fire",
+    "venue": "Long Beach Convention Center",
+    "day": "Sunday",
+    "date": "10/03/2027",
+    "time": "TBA",
+    "name": "HOT WHEELS MONSTER TRUCKS LIVE: Glow-N-Fire",
+    "link": "https://www.lbentertainmentcenter.com/events/hot-wheels-monster-trucks-live-glow-n-fire-26/"
   }
 ]

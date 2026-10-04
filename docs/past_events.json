@@ -7148,5 +7148,75 @@
     "name": "Social Distortion",
     "link": "https://www.ticketmaster.com/social-distortion-hollywood-california-10-02-2026/event/09006455A7E2BF66",
     "archived_on": "2026-10-03"
+  },
+  {
+    "key": "sofi stadium|10/03/2026|bruno mars – the romantic tour with anderson.paak as dj pee.wee and raye",
+    "venue": "SoFi Stadium",
+    "day": "Saturday",
+    "date": "10/03/2026",
+    "time": "7:00 PM",
+    "name": "Bruno Mars – The Romantic Tour with Anderson.Paak as DJ Pee.Wee and Raye",
+    "link": "https://www.sofistadium.com/events/detail/bruno-mars-october-3",
+    "archived_on": "2026-10-04"
+  },
+  {
+    "key": "intuit dome|10/03/2026|aespa live tour – synk : complæxity – in los angeles",
+    "venue": "Intuit Dome",
+    "day": "Saturday",
+    "date": "10/03/2026",
+    "time": "8:00 PM",
+    "name": "aespa LIVE TOUR – SYNK : COMPLæXITY – in Los Angeles",
+    "link": "https://www.intuitdome.com/events/event-schedule/3850?utm_source=IDwebsite&utm_medium=eventschedule&utm_campaign=IDevents26&utm_content=aespa_live_tour_261003",
+    "archived_on": "2026-10-04"
+  },
+  {
+    "key": "kia forum|10/03/2026|klangkuenstler – outworld – klangkuenstler all night long",
+    "venue": "Kia Forum",
+    "day": "Saturday",
+    "date": "10/03/2026",
+    "time": "7:00 PM",
+    "name": "KLANGKUENSTLER – OUTWORLD – Klangkuenstler All Night Long",
+    "link": "https://thekiaforum.com/event/klangkuenstler/",
+    "archived_on": "2026-10-04"
+  },
+  {
+    "key": "rose bowl stadium|10/03/2026|2026 los angeles heart and stroke walk",
+    "venue": "Rose Bowl Stadium",
+    "day": "Saturday",
+    "date": "10/03/2026",
+    "time": "8:45 AM",
+    "name": "2026 Los Angeles Heart and Stroke Walk",
+    "link": "https://www.rosebowlstadium.com/events/details/665/2026-los-angeles-heart-and-stroke-walk",
+    "archived_on": "2026-10-04"
+  },
+  {
+    "key": "l.a. memorial coliseum|10/03/2026|washington vs usc",
+    "venue": "L.A. Memorial Coliseum",
+    "day": "Saturday",
+    "date": "10/03/2026",
+    "time": "TBA",
+    "name": "Washington vs USC",
+    "link": "https://www.lacoliseum.com/events/washington-vs-usc-2026/",
+    "archived_on": "2026-10-04"
+  },
+  {
+    "key": "la convention center|10/03/2026|complexcon 2026",
+    "venue": "LA Convention Center",
+    "day": "Saturday",
+    "date": "10/03/2026",
+    "time": "TBA",
+    "name": "ComplexCon 2026",
+    "link": "https://www.laconventioncenter.com/events/detail/complexcon-los-angeles-2026",
+    "archived_on": "2026-10-04"
+  },
+  {
+    "key": "long beach convention center|10/03/2026|hot wheels monster trucks live: glow-n-fire",
+    "venue": "Long Beach Convention Center",
+    "day": "Saturday",
+    "date": "10/03/2026",
+    "time": "TBA",
+    "name": "HOT WHEELS MONSTER TRUCKS LIVE: Glow-N-Fire",
+    "link": "https://www.lbentertainmentcenter.com/events/hot-wheels-monster-trucks-live-glow-n-fire-26/",
+    "archived_on": "2026-10-04"
   }
 ]
