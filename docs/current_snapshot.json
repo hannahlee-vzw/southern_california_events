@@ -1188,15 +1188,6 @@
     "link": "https://thekiaforum.com/event/lizzy-mcalpine/"
   },
   {
-    "key": "dignity health sports park|10/04/2026|la galaxy vs cruz azul",
-    "venue": "Dignity Health Sports Park",
-    "day": "Sunday",
-    "date": "10/04/2026",
-    "time": "TBA",
-    "name": "LA Galaxy vs Cruz Azul",
-    "link": "https://www.dignityhealthsportspark.com/events/detail/la-galaxy-vs-cruz-azul-1"
-  },
-  {
     "key": "dignity health sports park|10/14/2026|la galaxy vs portland timbers fc",
     "venue": "Dignity Health Sports Park",
     "day": "Wednesday",
@@ -1278,6 +1269,15 @@
     "link": "https://www.rosebowlstadium.com/events/details/605/rose-bowl-flea-market"
   },
   {
+    "key": "rose bowl stadium|10/15/2026|rose bowl quarterbacks club",
+    "venue": "Rose Bowl Stadium",
+    "day": "Thursday",
+    "date": "10/15/2026",
+    "time": "12:00 PM",
+    "name": "Rose Bowl Quarterbacks Club",
+    "link": "https://www.rosebowlstadium.com/events/details/678/rose-bowl-quarterbacks-club"
+  },
+  {
     "key": "rose bowl stadium|10/17/2026|wisconsin vs ucla",
     "venue": "Rose Bowl Stadium",
     "day": "Saturday",
@@ -1332,6 +1332,15 @@
     "link": "https://www.rosebowlstadium.com/events/details/630/illinois-vs-ucla"
   },
   {
+    "key": "rose bowl stadium|11/18/2026|rose bowl quarterbacks club",
+    "venue": "Rose Bowl Stadium",
+    "day": "Wednesday",
+    "date": "11/18/2026",
+    "time": "12:00 PM",
+    "name": "Rose Bowl Quarterbacks Club",
+    "link": "https://www.rosebowlstadium.com/events/details/679/rose-bowl-quarterbacks-club"
+  },
+  {
     "key": "rose bowl stadium|11/26/2026|rose bowl turkey trot",
     "venue": "Rose Bowl Stadium",
     "day": "Thursday",
@@ -1348,6 +1357,15 @@
     "time": "TBD",
     "name": "USC VS UCLA",
     "link": "https://www.rosebowlstadium.com/events/details/631/usc-vs-ucla"
+  },
+  {
+    "key": "rose bowl stadium|12/03/2026|rose bowl quarterbacks club",
+    "venue": "Rose Bowl Stadium",
+    "day": "Thursday",
+    "date": "12/03/2026",
+    "time": "TBD",
+    "name": "Rose Bowl Quarterbacks Club",
+    "link": "https://www.rosebowlstadium.com/events/details/680/rose-bowl-quarterbacks-club"
   },
   {
     "key": "rose bowl stadium|12/13/2026|rose bowl flea market",
@@ -1411,6 +1429,15 @@
     "time": "10:00 PM",
     "name": "HOLIDAY HUDDLE",
     "link": "https://www.rosebowlstadium.com/events/details/668/holiday-huddle"
+  },
+  {
+    "key": "rose bowl stadium|01/12/2027|rose bowl quarterbacks club",
+    "venue": "Rose Bowl Stadium",
+    "day": "Tuesday",
+    "date": "01/12/2027",
+    "time": "6:00 PM",
+    "name": "Rose Bowl Quarterbacks Club",
+    "link": "https://www.rosebowlstadium.com/events/details/681/rose-bowl-quarterbacks-club"
   },
   {
     "key": "rose bowl stadium|01/17/2027|rose bowl half marathon & 5k",
@@ -2331,6 +2358,15 @@
     "link": "https://www.cryptoarena.com/events/detail/yurilucero041727"
   },
   {
+    "key": "crypto.com arena|06/26/2027|hot wheels stunt show",
+    "venue": "Crypto.com Arena",
+    "day": "Saturday",
+    "date": "06/26/2027",
+    "time": "TBA",
+    "name": "Hot Wheels Stunt Show",
+    "link": "https://www.cryptoarena.com/events/detail/hotwheelsstuntshow27"
+  },
+  {
     "key": "crypto.com arena|TBA|ncaa west regional",
     "venue": "Crypto.com Arena",
     "day": "TBA",
@@ -2374,15 +2410,6 @@
     "time": "TBA",
     "name": "JOHN SUMMIT – CTRL ESCAPE TOUR",
     "link": "https://www.lacoliseum.com/events/john-summit-ctrl-escape-tour/"
-  },
-  {
-    "key": "la convention center|10/04/2026|complexcon 2026",
-    "venue": "LA Convention Center",
-    "day": "Sunday",
-    "date": "10/04/2026",
-    "time": "TBA",
-    "name": "ComplexCon 2026",
-    "link": "https://www.laconventioncenter.com/events/detail/complexcon-los-angeles-2026"
   },
   {
     "key": "la convention center|10/07/2026|38th annual scanph conference",
@@ -2889,6 +2916,15 @@
     "link": "https://www.hollywoodbowl.com/events/performances/4908/2027-06-06/a-perfect-circle"
   },
   {
+    "key": "hollywood bowl|06/22/2027|taskmaster live on stage",
+    "venue": "Hollywood Bowl",
+    "day": "Tuesday",
+    "date": "06/22/2027",
+    "time": "8:00 PM",
+    "name": "Taskmaster Live On Stage",
+    "link": "https://www.hollywoodbowl.com/events/performances/4913/2027-06-22/taskmaster-live-on-stage"
+  },
+  {
     "key": "hollywood bowl|08/25/2027|the legend of zelda – 40th anniversary concert",
     "venue": "Hollywood Bowl",
     "day": "Wednesday",
@@ -3213,6 +3249,33 @@
     "link": "https://www.ticketmaster.com/fakemink-a-terrible-beauty-the-tour-hollywood-california-01-20-2027/event/0900651978D425F7"
   },
   {
+    "key": "hollywood palladium|01/22/2027|alleycvt",
+    "venue": "Hollywood Palladium",
+    "day": "Friday",
+    "date": "01/22/2027",
+    "time": "8:00 PM",
+    "name": "ALLEYCVT",
+    "link": "https://www.ticketmaster.com/alleycvt-hollywood-california-01-22-2027/event/09006541B472DF1C"
+  },
+  {
+    "key": "hollywood palladium|01/23/2027|2 day pass - alleycvt",
+    "venue": "Hollywood Palladium",
+    "day": "Saturday",
+    "date": "01/23/2027",
+    "time": "8:00 PM",
+    "name": "2 DAY PASS - ALLEYCVT",
+    "link": "https://www.ticketmaster.com/2-day-pass-alleycvt-hollywood-california-01-23-2027/event/09006541B491DF63"
+  },
+  {
+    "key": "hollywood palladium|01/23/2027|alleycvt",
+    "venue": "Hollywood Palladium",
+    "day": "Saturday",
+    "date": "01/23/2027",
+    "time": "8:00 PM",
+    "name": "ALLEYCVT",
+    "link": "https://www.ticketmaster.com/alleycvt-hollywood-california-01-23-2027/event/09006541B489DF53"
+  },
+  {
     "key": "hollywood palladium|02/09/2027|polyphia: be not afraid world tour",
     "venue": "Hollywood Palladium",
     "day": "Tuesday",
@@ -3438,12 +3501,12 @@
     "link": "https://www.lbentertainmentcenter.com/events/ali-wong/"
   },
   {
-    "key": "long beach convention center|10/03/2027|hot wheels monster trucks live: glow-n-fire",
+    "key": "long beach convention center|01/29/2027|shen yun 2027",
     "venue": "Long Beach Convention Center",
-    "day": "Sunday",
-    "date": "10/03/2027",
+    "day": "Friday",
+    "date": "01/29/2027",
     "time": "TBA",
-    "name": "HOT WHEELS MONSTER TRUCKS LIVE: Glow-N-Fire",
-    "link": "https://www.lbentertainmentcenter.com/events/hot-wheels-monster-trucks-live-glow-n-fire-26/"
+    "name": "Shen Yun 2027",
+    "link": "https://www.lbentertainmentcenter.com/events/shen-yun-2027/"
   }
 ]

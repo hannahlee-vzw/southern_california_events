@@ -7218,5 +7218,25 @@
     "name": "HOT WHEELS MONSTER TRUCKS LIVE: Glow-N-Fire",
     "link": "https://www.lbentertainmentcenter.com/events/hot-wheels-monster-trucks-live-glow-n-fire-26/",
     "archived_on": "2026-10-04"
+  },
+  {
+    "key": "dignity health sports park|10/04/2026|la galaxy vs cruz azul",
+    "venue": "Dignity Health Sports Park",
+    "day": "Sunday",
+    "date": "10/04/2026",
+    "time": "TBA",
+    "name": "LA Galaxy vs Cruz Azul",
+    "link": "https://www.dignityhealthsportspark.com/events/detail/la-galaxy-vs-cruz-azul-1",
+    "archived_on": "2026-10-05"
+  },
+  {
+    "key": "la convention center|10/04/2026|complexcon 2026",
+    "venue": "LA Convention Center",
+    "day": "Sunday",
+    "date": "10/04/2026",
+    "time": "TBA",
+    "name": "ComplexCon 2026",
+    "link": "https://www.laconventioncenter.com/events/detail/complexcon-los-angeles-2026",
+    "archived_on": "2026-10-05"
   }
 ]
