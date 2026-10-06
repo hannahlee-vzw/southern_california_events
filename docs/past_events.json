@@ -7238,5 +7238,25 @@
     "name": "ComplexCon 2026",
     "link": "https://www.laconventioncenter.com/events/detail/complexcon-los-angeles-2026",
     "archived_on": "2026-10-05"
+  },
+  {
+    "key": "hollywood bowl|10/05/2026|“the hayley williams show”",
+    "venue": "Hollywood Bowl",
+    "day": "Monday",
+    "date": "10/05/2026",
+    "time": "7:00 PM",
+    "name": "“The Hayley Williams Show”",
+    "link": "https://www.hollywoodbowl.com/events/performances/4885/2026-10-05/the-hayley-williams-show",
+    "archived_on": "2026-10-06"
+  },
+  {
+    "key": "long beach convention center|10/05/2026|antojo industry trade expo",
+    "venue": "Long Beach Convention Center",
+    "day": "Monday",
+    "date": "10/05/2026",
+    "time": "TBA",
+    "name": "Antojo Industry Trade Expo",
+    "link": "https://www.lbentertainmentcenter.com/events/antojo-expo/",
+    "archived_on": "2026-10-06"
   }
 ]
