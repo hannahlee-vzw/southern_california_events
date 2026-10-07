@@ -7258,5 +7258,65 @@
     "name": "Antojo Industry Trade Expo",
     "link": "https://www.lbentertainmentcenter.com/events/antojo-expo/",
     "archived_on": "2026-10-06"
+  },
+  {
+    "key": "sofi stadium|10/06/2026|bruno mars – the romantic tour with anderson.paak as dj pee.wee and raye",
+    "venue": "SoFi Stadium",
+    "day": "Tuesday",
+    "date": "10/06/2026",
+    "time": "7:00 PM",
+    "name": "Bruno Mars – The Romantic Tour with Anderson.Paak as DJ Pee.Wee and Raye",
+    "link": "https://www.sofistadium.com/events/detail/bruno-mars-october-6",
+    "archived_on": "2026-10-07"
+  },
+  {
+    "key": "kia forum|10/06/2026|mumford & sons – prizefighter tour",
+    "venue": "Kia Forum",
+    "day": "Tuesday",
+    "date": "10/06/2026",
+    "time": "7:00 PM",
+    "name": "MUMFORD & SONS – Prizefighter Tour",
+    "link": "https://thekiaforum.com/event/mumford-sons/",
+    "archived_on": "2026-10-07"
+  },
+  {
+    "key": "crypto.com arena|10/06/2026|florida panthers vs los angeles kings",
+    "venue": "Crypto.com Arena",
+    "day": "Tuesday",
+    "date": "10/06/2026",
+    "time": "7:00 PM",
+    "name": "Florida Panthers vs Los Angeles Kings",
+    "link": "https://www.cryptoarena.com/events/detail/kingspanthers100626",
+    "archived_on": "2026-10-07"
+  },
+  {
+    "key": "l.a. memorial coliseum|10/06/2026|mextour: mexico vs. chile",
+    "venue": "L.A. Memorial Coliseum",
+    "day": "Tuesday",
+    "date": "10/06/2026",
+    "time": "TBA",
+    "name": "MEXTOUR: Mexico vs. Chile",
+    "link": "https://www.lacoliseum.com/events/mextour-mexico-vs-chile/",
+    "archived_on": "2026-10-07"
+  },
+  {
+    "key": "hollywood bowl|10/06/2026|“the hayley williams show”",
+    "venue": "Hollywood Bowl",
+    "day": "Tuesday",
+    "date": "10/06/2026",
+    "time": "7:00 PM",
+    "name": "“The Hayley Williams Show”",
+    "link": "https://www.hollywoodbowl.com/events/performances/4888/2026-10-06/the-hayley-williams-show",
+    "archived_on": "2026-10-07"
+  },
+  {
+    "key": "long beach convention center|10/06/2026|california association of realtors® reimagine!® conference & expo",
+    "venue": "Long Beach Convention Center",
+    "day": "Tuesday",
+    "date": "10/06/2026",
+    "time": "TBA",
+    "name": "CALIFORNIA ASSOCIATION OF REALTORS® REimagine!® Conference & Expo",
+    "link": "https://www.lbentertainmentcenter.com/events/car-expo/",
+    "archived_on": "2026-10-07"
   }
 ]

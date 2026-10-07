@@ -1,14 +1,5 @@
 [
   {
-    "key": "sofi stadium|10/06/2026|bruno mars – the romantic tour with anderson.paak as dj pee.wee and raye",
-    "venue": "SoFi Stadium",
-    "day": "Tuesday",
-    "date": "10/06/2026",
-    "time": "7:00 PM",
-    "name": "Bruno Mars – The Romantic Tour with Anderson.Paak as DJ Pee.Wee and Raye",
-    "link": "https://www.sofistadium.com/events/detail/bruno-mars-october-6"
-  },
-  {
     "key": "sofi stadium|10/07/2026|bruno mars – the romantic tour with anderson.paak as dj pee.wee and raye",
     "venue": "SoFi Stadium",
     "day": "Wednesday",
@@ -846,15 +837,6 @@
     "link": "https://www.intuitdome.com/events/event-schedule"
   },
   {
-    "key": "kia forum|10/06/2026|mumford & sons – prizefighter tour",
-    "venue": "Kia Forum",
-    "day": "Tuesday",
-    "date": "10/06/2026",
-    "time": "7:00 PM",
-    "name": "MUMFORD & SONS – Prizefighter Tour",
-    "link": "https://thekiaforum.com/event/mumford-sons/"
-  },
-  {
     "key": "kia forum|10/07/2026|mumford & sons – prizefighter tour",
     "venue": "Kia Forum",
     "day": "Wednesday",
@@ -1483,15 +1465,6 @@
     "time": "TBD",
     "name": "HARRY STYLES - TOGETHER, TOGETHER TOUR",
     "link": "https://www.rosebowlstadium.com/events/details/676/harry-styles-together-together-tour"
-  },
-  {
-    "key": "crypto.com arena|10/06/2026|florida panthers vs los angeles kings",
-    "venue": "Crypto.com Arena",
-    "day": "Tuesday",
-    "date": "10/06/2026",
-    "time": "7:00 PM",
-    "name": "Florida Panthers vs Los Angeles Kings",
-    "link": "https://www.cryptoarena.com/events/detail/kingspanthers100626"
   },
   {
     "key": "crypto.com arena|10/08/2026|sacramento kings vs los angeles lakers – preseason",
@@ -2286,6 +2259,15 @@
     "link": "https://www.cryptoarena.com/events/detail/hanszimmer040127"
   },
   {
+    "key": "crypto.com arena|04/02/2027|dancing with the stars: live! – 2027 tour",
+    "venue": "Crypto.com Arena",
+    "day": "Friday",
+    "date": "04/02/2027",
+    "time": "7:30 PM",
+    "name": "Dancing with the Stars: Live! – 2027 Tour",
+    "link": "https://www.cryptoarena.com/events/detail/dancingwiththestars27"
+  },
+  {
     "key": "crypto.com arena|04/03/2027|st. louis blues vs los angeles kings",
     "venue": "Crypto.com Arena",
     "day": "Saturday",
@@ -2376,15 +2358,6 @@
     "link": "https://www.cryptoarena.com/events/detail/ncaawestregional2027"
   },
   {
-    "key": "l.a. memorial coliseum|10/06/2026|mextour: mexico vs. chile",
-    "venue": "L.A. Memorial Coliseum",
-    "day": "Tuesday",
-    "date": "10/06/2026",
-    "time": "TBA",
-    "name": "MEXTOUR: Mexico vs. Chile",
-    "link": "https://www.lacoliseum.com/events/mextour-mexico-vs-chile/"
-  },
-  {
     "key": "l.a. memorial coliseum|10/31/2026|ohio state vs usc",
     "venue": "L.A. Memorial Coliseum",
     "day": "Saturday",
@@ -2439,15 +2412,6 @@
     "link": "https://www.laconventioncenter.com/events/detail/scg-con-los-angeles-2026"
   },
   {
-    "key": "la convention center|10/10/2026|el sembrador - cdj 2026",
-    "venue": "LA Convention Center",
-    "day": "Saturday",
-    "date": "10/10/2026",
-    "time": "TBA",
-    "name": "El Sembrador - CDJ 2026",
-    "link": "https://www.laconventioncenter.com/events/detail/el-sembrador-cdj"
-  },
-  {
     "key": "la convention center|10/10/2026|naga grappling championship los angeles",
     "venue": "LA Convention Center",
     "day": "Saturday",
@@ -2455,6 +2419,15 @@
     "time": "TBA",
     "name": "NAGA Grappling Championship Los Angeles",
     "link": "https://www.laconventioncenter.com/events/detail/naga-grappling-championship-los-angeles"
+  },
+  {
+    "key": "la convention center|10/10/2026|el sembrador - cdj 2026",
+    "venue": "LA Convention Center",
+    "day": "Saturday",
+    "date": "10/10/2026",
+    "time": "TBA",
+    "name": "El Sembrador - CDJ 2026",
+    "link": "https://www.laconventioncenter.com/events/detail/el-sembrador-cdj"
   },
   {
     "key": "la convention center|10/17/2026|aao-hnsf 2026 annual meeting & oto expo",
@@ -2727,15 +2700,6 @@
     "link": "https://www.mlb.com/gameday/823895"
   },
   {
-    "key": "hollywood bowl|10/06/2026|“the hayley williams show”",
-    "venue": "Hollywood Bowl",
-    "day": "Tuesday",
-    "date": "10/06/2026",
-    "time": "7:00 PM",
-    "name": "“The Hayley Williams Show”",
-    "link": "https://www.hollywoodbowl.com/events/performances/4888/2026-10-06/the-hayley-williams-show"
-  },
-  {
     "key": "hollywood bowl|10/08/2026|empire of the sun – polo & pan, midnight gen",
     "venue": "Hollywood Bowl",
     "day": "Thursday",
@@ -2835,6 +2799,15 @@
     "link": "https://www.hollywoodbowl.com/events/performances/4233/2026-10-24/my-chemical-romance"
   },
   {
+    "key": "hollywood bowl|10/29/2026|aerosmith & friends – two nights only at the hollywood bowl",
+    "venue": "Hollywood Bowl",
+    "day": "Thursday",
+    "date": "10/29/2026",
+    "time": "7:00 PM",
+    "name": "Aerosmith & Friends – Two Nights Only at the Hollywood Bowl",
+    "link": "https://www.hollywoodbowl.com/events/performances/4914/2026-10-29/aerosmith-friends"
+  },
+  {
     "key": "hollywood bowl|10/30/2026|my chemical romance – the used",
     "venue": "Hollywood Bowl",
     "day": "Friday",
@@ -2851,6 +2824,15 @@
     "time": "7:00 PM",
     "name": "My Chemical Romance – Thrice",
     "link": "https://www.hollywoodbowl.com/events/performances/4264/2026-10-31/my-chemical-romance"
+  },
+  {
+    "key": "hollywood bowl|11/01/2026|aerosmith & friends – two nights only at the hollywood bowl",
+    "venue": "Hollywood Bowl",
+    "day": "Sunday",
+    "date": "11/01/2026",
+    "time": "6:30 PM",
+    "name": "Aerosmith & Friends – Two Nights Only at the Hollywood Bowl",
+    "link": "https://www.hollywoodbowl.com/events/performances/4915/2026-11-01/aerosmith-friends"
   },
   {
     "key": "hollywood bowl|11/07/2026|jimmy eat worldthe format – the linda lindas",
@@ -3294,15 +3276,6 @@
     "link": "https://www.ticketmaster.com/nothing-but-thieves-the-stray-dogs-hollywood-california-04-04-2027/event/090064B61FAB46C9"
   },
   {
-    "key": "long beach convention center|10/06/2026|california association of realtors® reimagine!® conference & expo",
-    "venue": "Long Beach Convention Center",
-    "day": "Tuesday",
-    "date": "10/06/2026",
-    "time": "TBA",
-    "name": "CALIFORNIA ASSOCIATION OF REALTORS® REimagine!® Conference & Expo",
-    "link": "https://www.lbentertainmentcenter.com/events/car-expo/"
-  },
-  {
     "key": "long beach convention center|10/10/2026|long beach marathon",
     "venue": "Long Beach Convention Center",
     "day": "Saturday",
@@ -3501,12 +3474,21 @@
     "link": "https://www.lbentertainmentcenter.com/events/shen-yun-2027/"
   },
   {
-    "key": "long beach convention center|10/05/2027|antojo industry trade expo",
+    "key": "long beach convention center|02/06/2027|painting in notes",
     "venue": "Long Beach Convention Center",
-    "day": "Tuesday",
-    "date": "10/05/2027",
+    "day": "Saturday",
+    "date": "02/06/2027",
     "time": "TBA",
-    "name": "Antojo Industry Trade Expo",
-    "link": "https://www.lbentertainmentcenter.com/events/antojo-expo/"
+    "name": "Painting in Notes",
+    "link": "https://www.lbentertainmentcenter.com/events/painting-in-notes/"
+  },
+  {
+    "key": "long beach convention center|10/06/2027|california association of realtors® reimagine!® conference & expo",
+    "venue": "Long Beach Convention Center",
+    "day": "Wednesday",
+    "date": "10/06/2027",
+    "time": "TBA",
+    "name": "CALIFORNIA ASSOCIATION OF REALTORS® REimagine!® Conference & Expo",
+    "link": "https://www.lbentertainmentcenter.com/events/car-expo/"
   }
 ]
