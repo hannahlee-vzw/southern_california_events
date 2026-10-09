@@ -1,14 +1,5 @@
 [
   {
-    "key": "sofi stadium|10/07/2026|bruno mars – the romantic tour with anderson.paak as dj pee.wee and raye",
-    "venue": "SoFi Stadium",
-    "day": "Wednesday",
-    "date": "10/07/2026",
-    "time": "7:00 PM",
-    "name": "Bruno Mars – The Romantic Tour with Anderson.Paak as DJ Pee.Wee and Raye",
-    "link": "https://www.sofistadium.com/events/detail/bruno-mars-october-7"
-  },
-  {
     "key": "sofi stadium|10/11/2026|chargers vs. broncos – week 5",
     "venue": "SoFi Stadium",
     "day": "Sunday",
@@ -1467,15 +1458,6 @@
     "link": "https://www.rosebowlstadium.com/events/details/676/harry-styles-together-together-tour"
   },
   {
-    "key": "crypto.com arena|10/08/2026|sacramento kings vs los angeles lakers – preseason",
-    "venue": "Crypto.com Arena",
-    "day": "Thursday",
-    "date": "10/08/2026",
-    "time": "7:30 PM",
-    "name": "Sacramento Kings vs Los Angeles Lakers – Preseason",
-    "link": "https://www.cryptoarena.com/events/detail/lakerskings100826"
-  },
-  {
     "key": "crypto.com arena|10/10/2026|jungle – world tour 2026 with rio kosta",
     "venue": "Crypto.com Arena",
     "day": "Saturday",
@@ -2376,6 +2358,15 @@
     "link": "https://www.lacoliseum.com/events/maryland-vs-usc-2026/"
   },
   {
+    "key": "l.a. memorial coliseum|11/28/2026|bassrush presents ray volpe – ages 18+ with valid id",
+    "venue": "L.A. Memorial Coliseum",
+    "day": "Saturday",
+    "date": "11/28/2026",
+    "time": "TBA",
+    "name": "Bassrush Presents Ray Volpe – Ages 18+ with Valid ID",
+    "link": "https://www.thetorch.la/torch-event/bassrush-presents-ray-volpe-2026/"
+  },
+  {
     "key": "l.a. memorial coliseum|12/12/2026|john summit – ctrl escape tour",
     "venue": "L.A. Memorial Coliseum",
     "day": "Saturday",
@@ -2385,22 +2376,13 @@
     "link": "https://www.lacoliseum.com/events/john-summit-ctrl-escape-tour/"
   },
   {
-    "key": "la convention center|10/08/2026|2026 net zero conference",
-    "venue": "LA Convention Center",
-    "day": "Thursday",
-    "date": "10/08/2026",
+    "key": "l.a. memorial coliseum|03/06/2027|legend of atlantis tour – alan walker",
+    "venue": "L.A. Memorial Coliseum",
+    "day": "Saturday",
+    "date": "03/06/2027",
     "time": "TBA",
-    "name": "2026 Net Zero Conference",
-    "link": "https://www.laconventioncenter.com/events/detail/net-zero-conference-2026"
-  },
-  {
-    "key": "la convention center|10/08/2026|38th annual scanph conference",
-    "venue": "LA Convention Center",
-    "day": "Thursday",
-    "date": "10/08/2026",
-    "time": "TBA",
-    "name": "38th Annual SCANPH Conference",
-    "link": "https://www.laconventioncenter.com/events/detail/38th-annual-scanph-conference"
+    "name": "Legend of Atlantis Tour – Alan Walker",
+    "link": "https://www.thetorch.la/torch-event/legend-of-atlantis-tour-2026/"
   },
   {
     "key": "la convention center|10/09/2026|scg con los angeles 2026",
@@ -2698,15 +2680,6 @@
     "time": "7:10 PM",
     "name": "vs. San Diego Padres",
     "link": "https://www.mlb.com/gameday/823895"
-  },
-  {
-    "key": "hollywood bowl|10/08/2026|empire of the sun – polo & pan, midnight gen",
-    "venue": "Hollywood Bowl",
-    "day": "Thursday",
-    "date": "10/08/2026",
-    "time": "7:30 PM",
-    "name": "Empire of the Sun – Polo & Pan, Midnight Gen",
-    "link": "https://www.hollywoodbowl.com/events/performances/4537/2026-10-08/empire-of-the-sun"
   },
   {
     "key": "hollywood bowl|10/09/2026|mac demarco",
@@ -3483,12 +3456,12 @@
     "link": "https://www.lbentertainmentcenter.com/events/shen-yun-2027/"
   },
   {
-    "key": "long beach convention center|10/06/2027|california association of realtors® reimagine!® conference & expo",
+    "key": "long beach convention center|02/06/2027|painting in notes",
     "venue": "Long Beach Convention Center",
-    "day": "Wednesday",
-    "date": "10/06/2027",
+    "day": "Saturday",
+    "date": "02/06/2027",
     "time": "TBA",
-    "name": "CALIFORNIA ASSOCIATION OF REALTORS® REimagine!® Conference & Expo",
-    "link": "https://www.lbentertainmentcenter.com/events/car-expo/"
+    "name": "Painting in Notes",
+    "link": "https://www.lbentertainmentcenter.com/events/painting-in-notes/"
   }
 ]

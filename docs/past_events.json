@@ -7358,5 +7358,45 @@
     "name": "EsDeeKid - Council House Rat Tour",
     "link": "https://www.ticketmaster.com/esdeekid-council-house-rat-tour-hollywood-california-10-07-2026/event/090064F0F51C470D",
     "archived_on": "2026-10-08"
+  },
+  {
+    "key": "crypto.com arena|10/08/2026|sacramento kings vs los angeles lakers – preseason",
+    "venue": "Crypto.com Arena",
+    "day": "Thursday",
+    "date": "10/08/2026",
+    "time": "7:30 PM",
+    "name": "Sacramento Kings vs Los Angeles Lakers – Preseason",
+    "link": "https://www.cryptoarena.com/events/detail/lakerskings100826",
+    "archived_on": "2026-10-09"
+  },
+  {
+    "key": "la convention center|10/08/2026|2026 net zero conference",
+    "venue": "LA Convention Center",
+    "day": "Thursday",
+    "date": "10/08/2026",
+    "time": "TBA",
+    "name": "2026 Net Zero Conference",
+    "link": "https://www.laconventioncenter.com/events/detail/net-zero-conference-2026",
+    "archived_on": "2026-10-09"
+  },
+  {
+    "key": "la convention center|10/08/2026|38th annual scanph conference",
+    "venue": "LA Convention Center",
+    "day": "Thursday",
+    "date": "10/08/2026",
+    "time": "TBA",
+    "name": "38th Annual SCANPH Conference",
+    "link": "https://www.laconventioncenter.com/events/detail/38th-annual-scanph-conference",
+    "archived_on": "2026-10-09"
+  },
+  {
+    "key": "hollywood bowl|10/08/2026|empire of the sun – polo & pan, midnight gen",
+    "venue": "Hollywood Bowl",
+    "day": "Thursday",
+    "date": "10/08/2026",
+    "time": "7:30 PM",
+    "name": "Empire of the Sun – Polo & Pan, Midnight Gen",
+    "link": "https://www.hollywoodbowl.com/events/performances/4537/2026-10-08/empire-of-the-sun",
+    "archived_on": "2026-10-09"
   }
 ]
