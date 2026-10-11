@@ -171,15 +171,6 @@
     "link": "https://www.sofistadium.com/events/detail/skipknot-august-13"
   },
   {
-    "key": "intuit dome|10/10/2026|tlc and salt-n-pepa",
-    "venue": "Intuit Dome",
-    "day": "Saturday",
-    "date": "10/10/2026",
-    "time": "7:30 PM",
-    "name": "TLC and Salt-N-Pepa",
-    "link": "https://www.intuitdome.com/events/event-schedule/3613?utm_source=IDwebsite&utm_medium=eventschedule&utm_campaign=IDevents26&utm_content=tlc_salt-n-pepa_261010"
-  },
-  {
     "key": "intuit dome|10/14/2026|denver nuggets vs la clippers",
     "venue": "Intuit Dome",
     "day": "Wednesday",
@@ -828,15 +819,6 @@
     "link": "https://www.intuitdome.com/events/event-schedule"
   },
   {
-    "key": "kia forum|10/10/2026|sombr – you are the reason tour",
-    "venue": "Kia Forum",
-    "day": "Saturday",
-    "date": "10/10/2026",
-    "time": "7:00 PM",
-    "name": "SOMBR – You Are The Reason Tour",
-    "link": "https://thekiaforum.com/event/sombr/"
-  },
-  {
     "key": "kia forum|10/15/2026|fontaines d.c.",
     "venue": "Kia Forum",
     "day": "Thursday",
@@ -1206,15 +1188,6 @@
     "link": "https://www.dignityhealthsportspark.com/events/detail/matchroom-boxing-presents-diego-pacheco-vs-darius-fulghum"
   },
   {
-    "key": "rose bowl stadium|10/10/2026|race for the rescues",
-    "venue": "Rose Bowl Stadium",
-    "day": "Saturday",
-    "date": "10/10/2026",
-    "time": "7:00 AM",
-    "name": "Race For The Rescues",
-    "link": "https://www.rosebowlstadium.com/events/details/664/race-for-the-rescues"
-  },
-  {
     "key": "rose bowl stadium|10/11/2026|rose bowl flea market",
     "venue": "Rose Bowl Stadium",
     "day": "Sunday",
@@ -1438,15 +1411,6 @@
     "time": "TBD",
     "name": "HARRY STYLES - TOGETHER, TOGETHER TOUR",
     "link": "https://www.rosebowlstadium.com/events/details/676/harry-styles-together-together-tour"
-  },
-  {
-    "key": "crypto.com arena|10/10/2026|jungle – world tour 2026 with rio kosta",
-    "venue": "Crypto.com Arena",
-    "day": "Saturday",
-    "date": "10/10/2026",
-    "time": "7:45 PM",
-    "name": "JUNGLE – World Tour 2026 with RIO KOSTA",
-    "link": "https://www.cryptoarena.com/events/detail/jungle101026"
   },
   {
     "key": "crypto.com arena|10/13/2026|edmonton oilers vs los angeles kings",
@@ -2367,28 +2331,19 @@
     "link": "https://www.thetorch.la/torch-event/legend-of-atlantis-tour-2026/"
   },
   {
-    "key": "la convention center|10/10/2026|naga grappling championship los angeles",
+    "key": "la convention center|10/11/2026|scg con los angeles 2026",
     "venue": "LA Convention Center",
-    "day": "Saturday",
-    "date": "10/10/2026",
-    "time": "TBA",
-    "name": "NAGA Grappling Championship Los Angeles",
-    "link": "https://www.laconventioncenter.com/events/detail/naga-grappling-championship-los-angeles"
-  },
-  {
-    "key": "la convention center|10/10/2026|scg con los angeles 2026",
-    "venue": "LA Convention Center",
-    "day": "Saturday",
-    "date": "10/10/2026",
+    "day": "Sunday",
+    "date": "10/11/2026",
     "time": "TBA",
     "name": "SCG CON Los Angeles 2026",
     "link": "https://www.laconventioncenter.com/events/detail/scg-con-los-angeles-2026"
   },
   {
-    "key": "la convention center|10/10/2026|el sembrador - cdj 2026",
+    "key": "la convention center|10/11/2026|el sembrador - cdj 2026",
     "venue": "LA Convention Center",
-    "day": "Saturday",
-    "date": "10/10/2026",
+    "day": "Sunday",
+    "date": "10/11/2026",
     "time": "TBA",
     "name": "El Sembrador - CDJ 2026",
     "link": "https://www.laconventioncenter.com/events/detail/el-sembrador-cdj"
@@ -2664,15 +2619,6 @@
     "link": "https://www.mlb.com/gameday/823895"
   },
   {
-    "key": "hollywood bowl|10/10/2026|jack johnson – hermanos gutiérrez",
-    "venue": "Hollywood Bowl",
-    "day": "Saturday",
-    "date": "10/10/2026",
-    "time": "7:30 PM",
-    "name": "Jack Johnson – Hermanos Gutiérrez",
-    "link": "https://www.hollywoodbowl.com/events/performances/4256/2026-10-10/jack-johnson"
-  },
-  {
     "key": "hollywood bowl|10/11/2026|jack johnson – hermanos gutiérrez",
     "venue": "Hollywood Bowl",
     "day": "Sunday",
@@ -2860,15 +2806,6 @@
     "time": "8:00 PM",
     "name": "The Legend of Zelda – 40th Anniversary Concert",
     "link": "https://www.hollywoodbowl.com/events/performances/4909/2027-08-25/the-legend-of-zelda"
-  },
-  {
-    "key": "hollywood palladium|10/10/2026|mastodon",
-    "venue": "Hollywood Palladium",
-    "day": "Saturday",
-    "date": "10/10/2026",
-    "time": "6:00 PM",
-    "name": "Mastodon",
-    "link": "https://www.ticketmaster.com/mastodon-hollywood-california-10-10-2026/event/090064BD4B3E8A67"
   },
   {
     "key": "hollywood palladium|10/11/2026|loathe: a stranger to you",
@@ -3213,24 +3150,6 @@
     "link": "https://www.ticketmaster.com/nothing-but-thieves-the-stray-dogs-hollywood-california-04-04-2027/event/090064B61FAB46C9"
   },
   {
-    "key": "long beach convention center|10/10/2026|long beach marathon",
-    "venue": "Long Beach Convention Center",
-    "day": "Saturday",
-    "date": "10/10/2026",
-    "time": "TBA",
-    "name": "Long Beach Marathon",
-    "link": "https://www.lbentertainmentcenter.com/events/lb-marathon/"
-  },
-  {
-    "key": "long beach convention center|10/10/2026|faces of america at 250",
-    "venue": "Long Beach Convention Center",
-    "day": "Saturday",
-    "date": "10/10/2026",
-    "time": "TBA",
-    "name": "Faces of America at 250",
-    "link": "https://www.lbentertainmentcenter.com/events/faces-of-america-250/"
-  },
-  {
     "key": "long beach convention center|10/13/2026|long beach college & career expo",
     "venue": "Long Beach Convention Center",
     "day": "Tuesday",
@@ -3427,5 +3346,23 @@
     "time": "TBA",
     "name": "Painting in Notes",
     "link": "https://www.lbentertainmentcenter.com/events/painting-in-notes/"
+  },
+  {
+    "key": "long beach convention center|02/12/2027|the legends of laughter",
+    "venue": "Long Beach Convention Center",
+    "day": "Friday",
+    "date": "02/12/2027",
+    "time": "TBA",
+    "name": "The Legends of Laughter",
+    "link": "https://www.lbentertainmentcenter.com/events/legends-of-laughter-2/"
+  },
+  {
+    "key": "long beach convention center|10/10/2027|long beach marathon",
+    "venue": "Long Beach Convention Center",
+    "day": "Sunday",
+    "date": "10/10/2027",
+    "time": "TBA",
+    "name": "Long Beach Marathon",
+    "link": "https://www.lbentertainmentcenter.com/events/lb-marathon/"
   }
 ]
