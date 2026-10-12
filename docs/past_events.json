@@ -7558,5 +7558,65 @@
     "name": "Faces of America at 250",
     "link": "https://www.lbentertainmentcenter.com/events/faces-of-america-250/",
     "archived_on": "2026-10-11"
+  },
+  {
+    "key": "sofi stadium|10/11/2026|chargers vs. broncos – week 5",
+    "venue": "SoFi Stadium",
+    "day": "Sunday",
+    "date": "10/11/2026",
+    "time": "1:05 PM",
+    "name": "Chargers vs. Broncos – Week 5",
+    "link": "https://www.sofistadium.com/events/detail/chargers-broncos-2026",
+    "archived_on": "2026-10-12"
+  },
+  {
+    "key": "rose bowl stadium|10/11/2026|rose bowl flea market",
+    "venue": "Rose Bowl Stadium",
+    "day": "Sunday",
+    "date": "10/11/2026",
+    "time": "5:00 AM",
+    "name": "ROSE BOWL FLEA MARKET",
+    "link": "https://www.rosebowlstadium.com/events/details/605/rose-bowl-flea-market",
+    "archived_on": "2026-10-12"
+  },
+  {
+    "key": "la convention center|10/11/2026|scg con los angeles 2026",
+    "venue": "LA Convention Center",
+    "day": "Sunday",
+    "date": "10/11/2026",
+    "time": "TBA",
+    "name": "SCG CON Los Angeles 2026",
+    "link": "https://www.laconventioncenter.com/events/detail/scg-con-los-angeles-2026",
+    "archived_on": "2026-10-12"
+  },
+  {
+    "key": "la convention center|10/11/2026|el sembrador - cdj 2026",
+    "venue": "LA Convention Center",
+    "day": "Sunday",
+    "date": "10/11/2026",
+    "time": "TBA",
+    "name": "El Sembrador - CDJ 2026",
+    "link": "https://www.laconventioncenter.com/events/detail/el-sembrador-cdj",
+    "archived_on": "2026-10-12"
+  },
+  {
+    "key": "hollywood bowl|10/11/2026|jack johnson – hermanos gutiérrez",
+    "venue": "Hollywood Bowl",
+    "day": "Sunday",
+    "date": "10/11/2026",
+    "time": "7:00 PM",
+    "name": "Jack Johnson – Hermanos Gutiérrez",
+    "link": "https://www.hollywoodbowl.com/events/performances/4257/2026-10-11/jack-johnson",
+    "archived_on": "2026-10-12"
+  },
+  {
+    "key": "hollywood palladium|10/11/2026|loathe: a stranger to you",
+    "venue": "Hollywood Palladium",
+    "day": "Sunday",
+    "date": "10/11/2026",
+    "time": "6:30 PM",
+    "name": "Loathe: A Stranger to You",
+    "link": "https://www.ticketmaster.com/loathe-a-stranger-to-you-hollywood-california-10-11-2026/event/090064987F5E5CAE",
+    "archived_on": "2026-10-12"
   }
 ]
