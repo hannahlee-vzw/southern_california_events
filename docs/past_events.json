@@ -7628,5 +7628,45 @@
     "name": "Rams vs. Bills – Week 5",
     "link": "https://www.sofistadium.com/events/detail/rams-bills-2026",
     "archived_on": "2026-10-13"
+  },
+  {
+    "key": "crypto.com arena|10/13/2026|edmonton oilers vs los angeles kings",
+    "venue": "Crypto.com Arena",
+    "day": "Tuesday",
+    "date": "10/13/2026",
+    "time": "7:30 PM",
+    "name": "Edmonton Oilers vs Los Angeles Kings",
+    "link": "https://www.cryptoarena.com/events/detail/kingsoilers101326",
+    "archived_on": "2026-10-14"
+  },
+  {
+    "key": "long beach convention center|10/13/2026|long beach college & career expo",
+    "venue": "Long Beach Convention Center",
+    "day": "Tuesday",
+    "date": "10/13/2026",
+    "time": "TBA",
+    "name": "Long Beach College & Career Expo",
+    "link": "https://www.lbentertainmentcenter.com/events/lb-career-expo/",
+    "archived_on": "2026-10-14"
+  },
+  {
+    "key": "long beach convention center|10/13/2026|california economic summit",
+    "venue": "Long Beach Convention Center",
+    "day": "Tuesday",
+    "date": "10/13/2026",
+    "time": "TBA",
+    "name": "California Economic Summit",
+    "link": "https://www.lbentertainmentcenter.com/events/ca-economic-summit/",
+    "archived_on": "2026-10-14"
+  },
+  {
+    "key": "long beach convention center|10/13/2026|lucy darling: as you wish",
+    "venue": "Long Beach Convention Center",
+    "day": "Tuesday",
+    "date": "10/13/2026",
+    "time": "TBA",
+    "name": "Lucy Darling: As You Wish",
+    "link": "https://www.lbentertainmentcenter.com/events/lucy-darling/",
+    "archived_on": "2026-10-14"
   }
 ]

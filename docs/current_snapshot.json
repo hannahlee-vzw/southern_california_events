@@ -1228,7 +1228,7 @@
     "venue": "Rose Bowl Stadium",
     "day": "Saturday",
     "date": "11/07/2026",
-    "time": "TBD",
+    "time": "4:00 PM",
     "name": "Moby + Underworld",
     "link": "https://www.rosebowlstadium.com/events/details/672/moby-%2B-underworld"
   },
@@ -1402,15 +1402,6 @@
     "time": "TBD",
     "name": "HARRY STYLES - TOGETHER, TOGETHER TOUR",
     "link": "https://www.rosebowlstadium.com/events/details/676/harry-styles-together-together-tour"
-  },
-  {
-    "key": "crypto.com arena|10/13/2026|edmonton oilers vs los angeles kings",
-    "venue": "Crypto.com Arena",
-    "day": "Tuesday",
-    "date": "10/13/2026",
-    "time": "7:30 PM",
-    "name": "Edmonton Oilers vs Los Angeles Kings",
-    "link": "https://www.cryptoarena.com/events/detail/kingsoilers101326"
   },
   {
     "key": "crypto.com arena|10/15/2026|taemin - postponed – 2026-27 taemin world tour <liminal>",
@@ -1872,12 +1863,12 @@
     "link": "https://www.cryptoarena.com/events/detail/lakersmagic011427"
   },
   {
-    "key": "crypto.com arena|01/16/2027|calibash – omar courtz, elena rose, dei v, clarent, jowel y randy, aria vega, zion, darell",
+    "key": "crypto.com arena|01/16/2027|calibash – omar courtz, jowell y randy, elena rose, aria vega, dei v, zion, clarent, darell",
     "venue": "Crypto.com Arena",
     "day": "Saturday",
     "date": "01/16/2027",
     "time": "8:00 PM",
-    "name": "Calibash – Omar Courtz, Elena Rose, Dei V, Clarent, Jowel Y Randy, Aria Vega, Zion, Darell",
+    "name": "Calibash – Omar Courtz, Jowell y Randy, Elena Rose, Aria Vega, Dei V, Zion, Clarent, Darell",
     "link": "https://www.cryptoarena.com/events/detail/calibash27"
   },
   {
@@ -3105,6 +3096,15 @@
     "link": "https://www.ticketmaster.com/alleycvt-hollywood-california-01-23-2027/event/09006541B489DF53"
   },
   {
+    "key": "hollywood palladium|01/30/2027|laszewo",
+    "venue": "Hollywood Palladium",
+    "day": "Saturday",
+    "date": "01/30/2027",
+    "time": "8:00 PM",
+    "name": "Laszewo",
+    "link": "https://www.ticketmaster.com/laszewo-hollywood-california-01-30-2027/event/090065491D4410B2"
+  },
+  {
     "key": "hollywood palladium|02/09/2027|polyphia: be not afraid world tour",
     "venue": "Hollywood Palladium",
     "day": "Tuesday",
@@ -3157,33 +3157,6 @@
     "time": "7:00 PM",
     "name": "Nothing But Thieves: The Stray Dogs World Tour",
     "link": "https://www.ticketmaster.com/nothing-but-thieves-the-stray-dogs-hollywood-california-04-04-2027/event/090064B61FAB46C9"
-  },
-  {
-    "key": "long beach convention center|10/13/2026|long beach college & career expo",
-    "venue": "Long Beach Convention Center",
-    "day": "Tuesday",
-    "date": "10/13/2026",
-    "time": "TBA",
-    "name": "Long Beach College & Career Expo",
-    "link": "https://www.lbentertainmentcenter.com/events/lb-career-expo/"
-  },
-  {
-    "key": "long beach convention center|10/13/2026|california economic summit",
-    "venue": "Long Beach Convention Center",
-    "day": "Tuesday",
-    "date": "10/13/2026",
-    "time": "TBA",
-    "name": "California Economic Summit",
-    "link": "https://www.lbentertainmentcenter.com/events/ca-economic-summit/"
-  },
-  {
-    "key": "long beach convention center|10/13/2026|lucy darling: as you wish",
-    "venue": "Long Beach Convention Center",
-    "day": "Tuesday",
-    "date": "10/13/2026",
-    "time": "TBA",
-    "name": "Lucy Darling: As You Wish",
-    "link": "https://www.lbentertainmentcenter.com/events/lucy-darling/"
   },
   {
     "key": "long beach convention center|10/22/2026|type s night lights presented by pennzoil",
@@ -3373,5 +3346,32 @@
     "time": "TBA",
     "name": "The Legends of Laughter",
     "link": "https://www.lbentertainmentcenter.com/events/legends-of-laughter-2/"
+  },
+  {
+    "key": "long beach convention center|02/19/2027|world ballet company: swan lake with a live orchestra",
+    "venue": "Long Beach Convention Center",
+    "day": "Friday",
+    "date": "02/19/2027",
+    "time": "TBA",
+    "name": "World Ballet Company: Swan Lake with a Live Orchestra",
+    "link": "https://www.lbentertainmentcenter.com/events/swan-lake-2027/"
+  },
+  {
+    "key": "long beach convention center|02/20/2027|let's misbehave: the songs of cole porter",
+    "venue": "Long Beach Convention Center",
+    "day": "Saturday",
+    "date": "02/20/2027",
+    "time": "TBA",
+    "name": "Let's Misbehave: The Songs of Cole Porter",
+    "link": "https://www.lbentertainmentcenter.com/events/songs-of-cole-porter/"
+  },
+  {
+    "key": "long beach convention center|10/13/2027|california economic summit",
+    "venue": "Long Beach Convention Center",
+    "day": "Wednesday",
+    "date": "10/13/2027",
+    "time": "TBA",
+    "name": "California Economic Summit",
+    "link": "https://www.lbentertainmentcenter.com/events/ca-economic-summit/"
   }
 ]
