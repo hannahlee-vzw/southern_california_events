@@ -7668,5 +7668,25 @@
     "name": "Lucy Darling: As You Wish",
     "link": "https://www.lbentertainmentcenter.com/events/lucy-darling/",
     "archived_on": "2026-10-14"
+  },
+  {
+    "key": "intuit dome|10/14/2026|denver nuggets vs la clippers",
+    "venue": "Intuit Dome",
+    "day": "Wednesday",
+    "date": "10/14/2026",
+    "time": "7:30 PM",
+    "name": "Denver Nuggets vs LA Clippers",
+    "link": "https://intuitdome.com/events/event-schedule/4308?type=games&utm_source=IDwebsite&utm_medium=eventdetail&utm_campaign=SGT_2627&utm_content=SGT2627_EST_261014",
+    "archived_on": "2026-10-15"
+  },
+  {
+    "key": "dignity health sports park|10/14/2026|la galaxy vs portland timbers fc",
+    "venue": "Dignity Health Sports Park",
+    "day": "Wednesday",
+    "date": "10/14/2026",
+    "time": "TBA",
+    "name": "LA Galaxy vs Portland Timbers FC",
+    "link": "https://www.dignityhealthsportspark.com/events/detail/la-galaxy-vs-portland-timbers",
+    "archived_on": "2026-10-15"
   }
 ]

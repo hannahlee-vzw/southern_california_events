@@ -144,6 +144,15 @@
     "link": "https://www.sofistadium.com/events/detail/super-bowl-lxi"
   },
   {
+    "key": "sofi stadium|07/20/2027|zach bryan – young manhood and other donatable organs tour",
+    "venue": "SoFi Stadium",
+    "day": "Tuesday",
+    "date": "07/20/2027",
+    "time": "7:00 PM",
+    "name": "Zach Bryan – Young Manhood and Other Donatable Organs Tour",
+    "link": "https://www.sofistadium.com/events/detail/zach-bryan-2027"
+  },
+  {
     "key": "sofi stadium|08/13/2027|slipknot – (sic)est stadium tour",
     "venue": "SoFi Stadium",
     "day": "Friday",
@@ -151,15 +160,6 @@
     "time": "7:00 PM",
     "name": "Slipknot – (sic)est Stadium Tour",
     "link": "https://www.sofistadium.com/events/detail/skipknot-august-13"
-  },
-  {
-    "key": "intuit dome|10/14/2026|denver nuggets vs la clippers",
-    "venue": "Intuit Dome",
-    "day": "Wednesday",
-    "date": "10/14/2026",
-    "time": "7:30 PM",
-    "name": "Denver Nuggets vs LA Clippers",
-    "link": "https://intuitdome.com/events/event-schedule/4308?type=games&utm_source=IDwebsite&utm_medium=eventdetail&utm_campaign=SGT_2627&utm_content=SGT2627_EST_261014"
   },
   {
     "key": "intuit dome|10/17/2026|young miko",
@@ -1071,6 +1071,15 @@
     "link": "https://thekiaforum.com/event/joyce-manor/"
   },
   {
+    "key": "kia forum|02/06/2027|kenshi yonezu – 2026-2027 world tour / ghost",
+    "venue": "Kia Forum",
+    "day": "Saturday",
+    "date": "02/06/2027",
+    "time": "7:00 PM",
+    "name": "KENSHI YONEZU – 2026-2027 WORLD TOUR / GHOST",
+    "link": "https://thekiaforum.com/event/kenshi-yonezu/"
+  },
+  {
     "key": "kia forum|03/07/2027|elevation worship & steven furtick",
     "venue": "Kia Forum",
     "day": "Sunday",
@@ -1123,15 +1132,6 @@
     "time": "7:00 PM",
     "name": "LIZZY MCALPINE – The Over Country Tour",
     "link": "https://thekiaforum.com/event/lizzy-mcalpine/"
-  },
-  {
-    "key": "dignity health sports park|10/14/2026|la galaxy vs portland timbers fc",
-    "venue": "Dignity Health Sports Park",
-    "day": "Wednesday",
-    "date": "10/14/2026",
-    "time": "TBA",
-    "name": "LA Galaxy vs Portland Timbers FC",
-    "link": "https://www.dignityhealthsportspark.com/events/detail/la-galaxy-vs-portland-timbers"
   },
   {
     "key": "dignity health sports park|10/16/2026|treats-n-suites halloween bash",
@@ -2770,6 +2770,15 @@
     "time": "8:00 PM",
     "name": "Taskmaster Live On Stage",
     "link": "https://www.hollywoodbowl.com/events/performances/4913/2027-06-22/taskmaster-live-on-stage"
+  },
+  {
+    "key": "hollywood bowl|06/23/2027|taskmaster live on stage",
+    "venue": "Hollywood Bowl",
+    "day": "Wednesday",
+    "date": "06/23/2027",
+    "time": "8:00 PM",
+    "name": "Taskmaster Live On Stage",
+    "link": "https://www.hollywoodbowl.com/events/performances/4919/2027-06-23/taskmaster-live-on-stage"
   },
   {
     "key": "hollywood bowl|08/25/2027|the legend of zelda – 40th anniversary concert",
