@@ -801,15 +801,6 @@
     "link": "https://www.intuitdome.com/events/event-schedule"
   },
   {
-    "key": "kia forum|10/16/2026|juanes",
-    "venue": "Kia Forum",
-    "day": "Friday",
-    "date": "10/16/2026",
-    "time": "7:00 PM",
-    "name": "JUANES",
-    "link": "https://thekiaforum.com/event/juanes/"
-  },
-  {
     "key": "kia forum|10/17/2026|charli xcx – music, fashion, film tour",
     "venue": "Kia Forum",
     "day": "Saturday",
@@ -1134,24 +1125,6 @@
     "link": "https://thekiaforum.com/event/fontaines-d-c/"
   },
   {
-    "key": "dignity health sports park|10/16/2026|treats-n-suites halloween bash",
-    "venue": "Dignity Health Sports Park",
-    "day": "Friday",
-    "date": "10/16/2026",
-    "time": "TBA",
-    "name": "Treats-n-Suites Halloween Bash",
-    "link": "https://www.dignityhealthsportspark.com/events/detail/treats-n-suites-halloween-bash"
-  },
-  {
-    "key": "dignity health sports park|10/16/2026|mls next pro playoffs: ventura county fc vs minnesota united fc 2",
-    "venue": "Dignity Health Sports Park",
-    "day": "Friday",
-    "date": "10/16/2026",
-    "time": "TBA",
-    "name": "MLS NEXT Pro Playoffs: Ventura County FC vs Minnesota United FC 2",
-    "link": "https://www.dignityhealthsportspark.com/events/detail/mls-next-pro-playoffs-ventura-county-fc-vs-minnesota-united-fc-2"
-  },
-  {
     "key": "dignity health sports park|10/17/2026|la galaxy vs san diego fc",
     "venue": "Dignity Health Sports Park",
     "day": "Saturday",
@@ -1213,6 +1186,15 @@
     "time": "TBD",
     "name": "NEVADA VS UCLA",
     "link": "https://www.rosebowlstadium.com/events/details/629/nevada-vs-ucla"
+  },
+  {
+    "key": "rose bowl stadium|11/03/2026|women's empowerment symposium",
+    "venue": "Rose Bowl Stadium",
+    "day": "Tuesday",
+    "date": "11/03/2026",
+    "time": "TBD",
+    "name": "Women's Empowerment Symposium",
+    "link": "https://www.rosebowlstadium.com/events/details/682/women's-empowerment-symposium"
   },
   {
     "key": "rose bowl stadium|11/07/2026|moby + underworld",
@@ -1393,15 +1375,6 @@
     "time": "TBD",
     "name": "HARRY STYLES - TOGETHER, TOGETHER TOUR",
     "link": "https://www.rosebowlstadium.com/events/details/676/harry-styles-together-together-tour"
-  },
-  {
-    "key": "crypto.com arena|10/16/2026|denver nuggets vs los angeles lakers – preseason",
-    "venue": "Crypto.com Arena",
-    "day": "Friday",
-    "date": "10/16/2026",
-    "time": "7:30 PM",
-    "name": "Denver Nuggets vs Los Angeles Lakers – Preseason",
-    "link": "https://www.cryptoarena.com/events/detail/lakersnuggets101626"
   },
   {
     "key": "crypto.com arena|10/17/2026|boston bruins vs los angeles kings",
@@ -2592,15 +2565,6 @@
     "link": "https://www.mlb.com/gameday/823895"
   },
   {
-    "key": "hollywood bowl|10/16/2026|miley: bass persuades – model/actriz",
-    "venue": "Hollywood Bowl",
-    "day": "Friday",
-    "date": "10/16/2026",
-    "time": "7:30 PM",
-    "name": "MILEY: BASS PERSUADES – Model/Actriz",
-    "link": "https://www.hollywoodbowl.com/events/performances/4905/2026-10-16/miley-bass-persuades"
-  },
-  {
     "key": "hollywood bowl|10/17/2026|smartless live with jason bateman, sean hayes, & will arnett",
     "venue": "Hollywood Bowl",
     "day": "Saturday",
@@ -2779,15 +2743,6 @@
     "time": "8:00 PM",
     "name": "The Legend of Zelda – 40th Anniversary Concert",
     "link": "https://www.hollywoodbowl.com/events/performances/4909/2027-08-25/the-legend-of-zelda"
-  },
-  {
-    "key": "hollywood palladium|10/16/2026|boy harsher",
-    "venue": "Hollywood Palladium",
-    "day": "Friday",
-    "date": "10/16/2026",
-    "time": "7:00 PM",
-    "name": "Boy Harsher",
-    "link": "https://www.ticketmaster.com/boy-harsher-hollywood-california-10-16-2026/event/090064C325F30F8A"
   },
   {
     "key": "hollywood palladium|10/17/2026|silverlake conservatory of music celebrates 25 years!",
