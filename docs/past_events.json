@@ -7798,5 +7798,85 @@
     "name": "Boy Harsher",
     "link": "https://www.ticketmaster.com/boy-harsher-hollywood-california-10-16-2026/event/090064C325F30F8A",
     "archived_on": "2026-10-17"
+  },
+  {
+    "key": "intuit dome|10/17/2026|young miko",
+    "venue": "Intuit Dome",
+    "day": "Saturday",
+    "date": "10/17/2026",
+    "time": "8:00 PM",
+    "name": "Young Miko",
+    "link": "https://www.intuitdome.com/events/event-schedule/3707?utm_source=IDwebsite&utm_medium=eventschedule&utm_campaign=IDevents26&utm_content=young_miko_261017",
+    "archived_on": "2026-10-18"
+  },
+  {
+    "key": "kia forum|10/17/2026|charli xcx – music, fashion, film tour",
+    "venue": "Kia Forum",
+    "day": "Saturday",
+    "date": "10/17/2026",
+    "time": "7:00 PM",
+    "name": "CHARLI XCX – MUSIC, FASHION, FILM TOUR",
+    "link": "https://thekiaforum.com/event/charli-xcx/",
+    "archived_on": "2026-10-18"
+  },
+  {
+    "key": "dignity health sports park|10/17/2026|la galaxy vs san diego fc",
+    "venue": "Dignity Health Sports Park",
+    "day": "Saturday",
+    "date": "10/17/2026",
+    "time": "TBA",
+    "name": "LA Galaxy vs San Diego FC",
+    "link": "https://www.dignityhealthsportspark.com/events/detail/la-galaxy-vs-san-diego-fc",
+    "archived_on": "2026-10-18"
+  },
+  {
+    "key": "rose bowl stadium|10/17/2026|wisconsin vs ucla",
+    "venue": "Rose Bowl Stadium",
+    "day": "Saturday",
+    "date": "10/17/2026",
+    "time": "4:30 PM",
+    "name": "WISCONSIN VS UCLA",
+    "link": "https://www.rosebowlstadium.com/events/details/627/wisconsin-vs-ucla",
+    "archived_on": "2026-10-18"
+  },
+  {
+    "key": "crypto.com arena|10/17/2026|boston bruins vs los angeles kings",
+    "venue": "Crypto.com Arena",
+    "day": "Saturday",
+    "date": "10/17/2026",
+    "time": "6:00 PM",
+    "name": "Boston Bruins vs Los Angeles Kings",
+    "link": "https://www.cryptoarena.com/events/detail/kingsbruins101726",
+    "archived_on": "2026-10-18"
+  },
+  {
+    "key": "la convention center|10/17/2026|aao-hnsf 2026 annual meeting & oto expo",
+    "venue": "LA Convention Center",
+    "day": "Saturday",
+    "date": "10/17/2026",
+    "time": "TBA",
+    "name": "AAO-HNSF 2026 Annual Meeting & OTO EXPO",
+    "link": "https://www.laconventioncenter.com/events/detail/american-academy-of-otolaryngology-2026-aao-oto-expo",
+    "archived_on": "2026-10-18"
+  },
+  {
+    "key": "hollywood bowl|10/17/2026|smartless live with jason bateman, sean hayes, & will arnett",
+    "venue": "Hollywood Bowl",
+    "day": "Saturday",
+    "date": "10/17/2026",
+    "time": "7:30 PM",
+    "name": "SmartLess Live with Jason Bateman, Sean Hayes, & Will Arnett",
+    "link": "https://www.hollywoodbowl.com/events/performances/4841/2026-10-17/smartless-live-with-jason-bateman-sean-hayes-will-arnett",
+    "archived_on": "2026-10-18"
+  },
+  {
+    "key": "hollywood palladium|10/17/2026|silverlake conservatory of music celebrates 25 years!",
+    "venue": "Hollywood Palladium",
+    "day": "Saturday",
+    "date": "10/17/2026",
+    "time": "7:00 PM",
+    "name": "Silverlake Conservatory of Music celebrates 25 years!",
+    "link": "https://www.ticketmaster.com/silverlake-conservatory-of-music-celebrates-25-hollywood-california-10-17-2026/event/0900653276CE3529",
+    "archived_on": "2026-10-18"
   }
 ]
