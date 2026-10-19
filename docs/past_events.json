@@ -7878,5 +7878,65 @@
     "name": "Silverlake Conservatory of Music celebrates 25 years!",
     "link": "https://www.ticketmaster.com/silverlake-conservatory-of-music-celebrates-25-hollywood-california-10-17-2026/event/0900653276CE3529",
     "archived_on": "2026-10-18"
+  },
+  {
+    "key": "sofi stadium|10/18/2026|rams vs. cardinals – week 6",
+    "venue": "SoFi Stadium",
+    "day": "Sunday",
+    "date": "10/18/2026",
+    "time": "1:05 PM",
+    "name": "Rams vs. Cardinals – Week 6",
+    "link": "https://www.sofistadium.com/events/detail/rams-cardinals-2026",
+    "archived_on": "2026-10-19"
+  },
+  {
+    "key": "kia forum|10/18/2026|charli xcx – music, fashion, film tour",
+    "venue": "Kia Forum",
+    "day": "Sunday",
+    "date": "10/18/2026",
+    "time": "7:00 PM",
+    "name": "CHARLI XCX – MUSIC, FASHION, FILM TOUR",
+    "link": "https://thekiaforum.com/event/charli-xcx-2/",
+    "archived_on": "2026-10-19"
+  },
+  {
+    "key": "crypto.com arena|10/18/2026|kacey musgraves – middle of nowhere tour with gabriella rose and estevie",
+    "venue": "Crypto.com Arena",
+    "day": "Sunday",
+    "date": "10/18/2026",
+    "time": "TBA",
+    "name": "Kacey Musgraves – Middle of Nowhere Tour with Gabriella Rose and Estevie",
+    "link": "https://www.cryptoarena.com/events/detail/kaceymusgraves26",
+    "archived_on": "2026-10-19"
+  },
+  {
+    "key": "la convention center|10/18/2026|aao-hnsf 2026 annual meeting & oto expo",
+    "venue": "LA Convention Center",
+    "day": "Sunday",
+    "date": "10/18/2026",
+    "time": "TBA",
+    "name": "AAO-HNSF 2026 Annual Meeting & OTO EXPO",
+    "link": "https://www.laconventioncenter.com/events/detail/american-academy-of-otolaryngology-2026-aao-oto-expo",
+    "archived_on": "2026-10-19"
+  },
+  {
+    "key": "hollywood bowl|10/18/2026|miley: bass persuades – model/actriz",
+    "venue": "Hollywood Bowl",
+    "day": "Sunday",
+    "date": "10/18/2026",
+    "time": "7:30 PM",
+    "name": "MILEY: BASS PERSUADES – Model/Actriz",
+    "link": "https://www.hollywoodbowl.com/events/performances/4906/2026-10-18/miley-bass-persuades",
+    "archived_on": "2026-10-19"
+  },
+  {
+    "key": "hollywood palladium|10/18/2026|sex pistols (steve jones, paul cook, glen matlock) feat. frank carter",
+    "venue": "Hollywood Palladium",
+    "day": "Sunday",
+    "date": "10/18/2026",
+    "time": "7:30 PM",
+    "name": "SEX PISTOLS (Steve Jones, Paul Cook, Glen Matlock) feat. Frank Carter",
+    "link": "https://www.ticketmaster.com/sex-pistols-steve-jones-paul-cook-hollywood-california-10-18-2026/event/0900627AEA50512B",
+    "archived_on": "2026-10-19"
   }
 ]

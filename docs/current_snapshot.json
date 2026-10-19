@@ -1,14 +1,5 @@
 [
   {
-    "key": "sofi stadium|10/18/2026|rams vs. cardinals – week 6",
-    "venue": "SoFi Stadium",
-    "day": "Sunday",
-    "date": "10/18/2026",
-    "time": "1:05 PM",
-    "name": "Rams vs. Cardinals – Week 6",
-    "link": "https://www.sofistadium.com/events/detail/rams-cardinals-2026"
-  },
-  {
     "key": "sofi stadium|10/23/2026|jaÿ-z 30",
     "venue": "SoFi Stadium",
     "day": "Friday",
@@ -792,15 +783,6 @@
     "link": "https://www.intuitdome.com/events/event-schedule"
   },
   {
-    "key": "kia forum|10/18/2026|charli xcx – music, fashion, film tour",
-    "venue": "Kia Forum",
-    "day": "Sunday",
-    "date": "10/18/2026",
-    "time": "7:00 PM",
-    "name": "CHARLI XCX – MUSIC, FASHION, FILM TOUR",
-    "link": "https://thekiaforum.com/event/charli-xcx-2/"
-  },
-  {
     "key": "kia forum|10/20/2026|monsta x – 2026 monsta x world tour [the x : nexus] in los angeles",
     "venue": "Kia Forum",
     "day": "Tuesday",
@@ -1089,6 +1071,15 @@
     "link": "https://thekiaforum.com/event/calvin-harris/"
   },
   {
+    "key": "kia forum|05/28/2027|calvin harris",
+    "venue": "Kia Forum",
+    "day": "Friday",
+    "date": "05/28/2027",
+    "time": "7:00 PM",
+    "name": "CALVIN HARRIS",
+    "link": "https://thekiaforum.com/event/calvin-harris-2/"
+  },
+  {
     "key": "kia forum|07/10/2027|lizzy mcalpine – the over country tour",
     "venue": "Kia Forum",
     "day": "Saturday",
@@ -1138,7 +1129,7 @@
     "venue": "Rose Bowl Stadium",
     "day": "Saturday",
     "date": "10/24/2026",
-    "time": "TBD",
+    "time": "12:30 PM",
     "name": "MICHIGAN STATE VS UCLA",
     "link": "https://www.rosebowlstadium.com/events/details/628/michigan-state-vs-ucla"
   },
@@ -1147,7 +1138,7 @@
     "venue": "Rose Bowl Stadium",
     "day": "Saturday",
     "date": "10/31/2026",
-    "time": "TBD",
+    "time": "1:15 PM",
     "name": "NEVADA VS UCLA",
     "link": "https://www.rosebowlstadium.com/events/details/629/nevada-vs-ucla"
   },
@@ -1156,7 +1147,7 @@
     "venue": "Rose Bowl Stadium",
     "day": "Tuesday",
     "date": "11/03/2026",
-    "time": "TBD",
+    "time": "TBA",
     "name": "Women's Empowerment Symposium",
     "link": "https://www.rosebowlstadium.com/events/details/682/women's-empowerment-symposium"
   },
@@ -1341,11 +1332,20 @@
     "link": "https://www.rosebowlstadium.com/events/details/676/harry-styles-together-together-tour"
   },
   {
-    "key": "crypto.com arena|10/18/2026|kacey musgraves – middle of nowhere tour with gabriella rose and estevie",
+    "key": "rose bowl stadium|06/05/2027|system of a down: live at the rose bowl",
+    "venue": "Rose Bowl Stadium",
+    "day": "Saturday",
+    "date": "06/05/2027",
+    "time": "TBD",
+    "name": "System Of A Down: Live At The Rose Bowl",
+    "link": "https://www.rosebowlstadium.com/events/details/683/system-of-a-down:-live-at-the-rose-bowl"
+  },
+  {
+    "key": "crypto.com arena|10/19/2026|kacey musgraves – middle of nowhere tour with gabriella rose and estevie",
     "venue": "Crypto.com Arena",
-    "day": "Sunday",
-    "date": "10/18/2026",
-    "time": "TBA",
+    "day": "Monday",
+    "date": "10/19/2026",
+    "time": "7:30 PM",
     "name": "Kacey Musgraves – Middle of Nowhere Tour with Gabriella Rose and Estevie",
     "link": "https://www.cryptoarena.com/events/detail/kaceymusgraves26"
   },
@@ -2232,10 +2232,10 @@
     "link": "https://www.thetorch.la/torch-event/legend-of-atlantis-tour-2026/"
   },
   {
-    "key": "la convention center|10/18/2026|aao-hnsf 2026 annual meeting & oto expo",
+    "key": "la convention center|10/19/2026|aao-hnsf 2026 annual meeting & oto expo",
     "venue": "LA Convention Center",
-    "day": "Sunday",
-    "date": "10/18/2026",
+    "day": "Monday",
+    "date": "10/19/2026",
     "time": "TBA",
     "name": "AAO-HNSF 2026 Annual Meeting & OTO EXPO",
     "link": "https://www.laconventioncenter.com/events/detail/american-academy-of-otolaryngology-2026-aao-oto-expo"
@@ -2520,15 +2520,6 @@
     "link": "https://www.mlb.com/gameday/823895"
   },
   {
-    "key": "hollywood bowl|10/18/2026|miley: bass persuades – model/actriz",
-    "venue": "Hollywood Bowl",
-    "day": "Sunday",
-    "date": "10/18/2026",
-    "time": "7:30 PM",
-    "name": "MILEY: BASS PERSUADES – Model/Actriz",
-    "link": "https://www.hollywoodbowl.com/events/performances/4906/2026-10-18/miley-bass-persuades"
-  },
-  {
     "key": "hollywood bowl|10/21/2026|my chemical romance",
     "venue": "Hollywood Bowl",
     "day": "Wednesday",
@@ -2689,15 +2680,6 @@
     "time": "8:00 PM",
     "name": "The Legend of Zelda – 40th Anniversary Concert",
     "link": "https://www.hollywoodbowl.com/events/performances/4909/2027-08-25/the-legend-of-zelda"
-  },
-  {
-    "key": "hollywood palladium|10/18/2026|sex pistols (steve jones, paul cook, glen matlock) feat. frank carter",
-    "venue": "Hollywood Palladium",
-    "day": "Sunday",
-    "date": "10/18/2026",
-    "time": "7:30 PM",
-    "name": "SEX PISTOLS (Steve Jones, Paul Cook, Glen Matlock) feat. Frank Carter",
-    "link": "https://www.ticketmaster.com/sex-pistols-steve-jones-paul-cook-hollywood-california-10-18-2026/event/0900627AEA50512B"
   },
   {
     "key": "hollywood palladium|10/19/2026|vanillamace  -'ghosted by vanilla'",
@@ -2923,6 +2905,15 @@
     "time": "7:00 PM",
     "name": "Earl Sweatshirt & MIKE Home on the Range Tour 2026",
     "link": "https://www.ticketmaster.com/earl-sweatshirt-mike-home-on-the-hollywood-california-12-19-2026/event/09006466BA1DF6D7"
+  },
+  {
+    "key": "hollywood palladium|01/02/2027|azyr",
+    "venue": "Hollywood Palladium",
+    "day": "Saturday",
+    "date": "01/02/2027",
+    "time": "8:00 PM",
+    "name": "Azyr",
+    "link": "https://www.ticketmaster.com/azyr-hollywood-california-01-02-2027/event/090065523DBF1F9B"
   },
   {
     "key": "hollywood palladium|01/09/2027|cid",
@@ -3177,6 +3168,15 @@
     "link": "https://www.lbentertainmentcenter.com/events/dwight-yoakam/"
   },
   {
+    "key": "long beach convention center|12/12/2026|storm large: holiday ordeal",
+    "venue": "Long Beach Convention Center",
+    "day": "Saturday",
+    "date": "12/12/2026",
+    "time": "TBA",
+    "name": "Storm Large: Holiday Ordeal",
+    "link": "https://www.lbentertainmentcenter.com/events/storm-large/"
+  },
+  {
     "key": "long beach convention center|12/12/2026|the long beach nutcracker",
     "venue": "Long Beach Convention Center",
     "day": "Saturday",
@@ -3265,14 +3265,5 @@
     "time": "TBA",
     "name": "World Ballet Company: Swan Lake with a Live Orchestra",
     "link": "https://www.lbentertainmentcenter.com/events/swan-lake-2027/"
-  },
-  {
-    "key": "long beach convention center|02/20/2027|let's misbehave: the songs of cole porter",
-    "venue": "Long Beach Convention Center",
-    "day": "Saturday",
-    "date": "02/20/2027",
-    "time": "TBA",
-    "name": "Let's Misbehave: The Songs of Cole Porter",
-    "link": "https://www.lbentertainmentcenter.com/events/songs-of-cole-porter/"
   }
 ]
