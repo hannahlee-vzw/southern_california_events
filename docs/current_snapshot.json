@@ -90,6 +90,15 @@
     "link": "https://www.sofistadium.com/events/detail/rams-chiefs-2026"
   },
   {
+    "key": "sofi stadium|12/12/2026|la card show at sofi stadium – la card show, the world-famous collectible and culture event, is bringing its electric energy to the iconic sofi stadium for a 2-day event full of trading cards, collectibles, music, food, giveaways, meet and greets and more!",
+    "venue": "SoFi Stadium",
+    "day": "Saturday",
+    "date": "12/12/2026",
+    "time": "TBA",
+    "name": "LA CARD SHOW at SoFi Stadium – LA CARD SHOW, the world-famous collectible and culture event, is bringing its electric energy to the iconic SoFi Stadium for a 2-day event full of trading cards, collectibles, music, food, giveaways, meet and greets and more!",
+    "link": "https://www.sofistadium.com/events/detail/la-card-show-sofi-2026"
+  },
+  {
     "key": "sofi stadium|12/17/2026|chargers vs. 49ers – week 15",
     "venue": "SoFi Stadium",
     "day": "Thursday",
@@ -1053,6 +1062,15 @@
     "link": "https://thekiaforum.com/event/jo-koy/"
   },
   {
+    "key": "kia forum|04/28/2027|cleo sol – gentlewoman tour",
+    "venue": "Kia Forum",
+    "day": "Wednesday",
+    "date": "04/28/2027",
+    "time": "7:00 PM",
+    "name": "CLEO SOL – Gentlewoman Tour",
+    "link": "https://thekiaforum.com/event/cleo-sol/"
+  },
+  {
     "key": "kia forum|05/22/2027|niall horan – dinner party live on tour",
     "venue": "Kia Forum",
     "day": "Saturday",
@@ -1114,6 +1132,15 @@
     "time": "TBA",
     "name": "Angel City FC vs Boston Legacy FC",
     "link": "https://www.dignityhealthsportspark.com/events/detail/angel-city-fc-vs-boston-legacy-fc"
+  },
+  {
+    "key": "dignity health sports park|11/07/2026|als walk & stair climb",
+    "venue": "Dignity Health Sports Park",
+    "day": "Saturday",
+    "date": "11/07/2026",
+    "time": "TBA",
+    "name": "ALS Walk & Stair Climb",
+    "link": "https://www.dignityhealthsportspark.com/events/detail/als-walk"
   },
   {
     "key": "dignity health sports park|11/14/2026|matchroom boxing presents: diego pacheco vs darius fulghum",
@@ -1339,15 +1366,6 @@
     "time": "TBD",
     "name": "System Of A Down: Live At The Rose Bowl",
     "link": "https://www.rosebowlstadium.com/events/details/683/system-of-a-down:-live-at-the-rose-bowl"
-  },
-  {
-    "key": "crypto.com arena|10/19/2026|kacey musgraves – middle of nowhere tour with gabriella rose and estevie",
-    "venue": "Crypto.com Arena",
-    "day": "Monday",
-    "date": "10/19/2026",
-    "time": "7:30 PM",
-    "name": "Kacey Musgraves – Middle of Nowhere Tour with Gabriella Rose and Estevie",
-    "link": "https://www.cryptoarena.com/events/detail/kaceymusgraves26"
   },
   {
     "key": "crypto.com arena|10/21/2026|golden state warriors vs los angeles lakers",
@@ -2232,10 +2250,10 @@
     "link": "https://www.thetorch.la/torch-event/legend-of-atlantis-tour-2026/"
   },
   {
-    "key": "la convention center|10/19/2026|aao-hnsf 2026 annual meeting & oto expo",
+    "key": "la convention center|10/20/2026|aao-hnsf 2026 annual meeting & oto expo",
     "venue": "LA Convention Center",
-    "day": "Monday",
-    "date": "10/19/2026",
+    "day": "Tuesday",
+    "date": "10/20/2026",
     "time": "TBA",
     "name": "AAO-HNSF 2026 Annual Meeting & OTO EXPO",
     "link": "https://www.laconventioncenter.com/events/detail/american-academy-of-otolaryngology-2026-aao-oto-expo"
@@ -2680,15 +2698,6 @@
     "time": "8:00 PM",
     "name": "The Legend of Zelda – 40th Anniversary Concert",
     "link": "https://www.hollywoodbowl.com/events/performances/4909/2027-08-25/the-legend-of-zelda"
-  },
-  {
-    "key": "hollywood palladium|10/19/2026|vanillamace  -'ghosted by vanilla'",
-    "venue": "Hollywood Palladium",
-    "day": "Monday",
-    "date": "10/19/2026",
-    "time": "9:00 PM",
-    "name": "Vanillamace  -'Ghosted by Vanilla'",
-    "link": "https://www.ticketmaster.com/vanillamace-ghosted-by-vanilla-hollywood-california-10-19-2026/event/09006521C63DAF94"
   },
   {
     "key": "hollywood palladium|10/20/2026|modest mouse",
@@ -3213,6 +3222,15 @@
     "link": "https://www.lbentertainmentcenter.com/events/dylan-thuras/"
   },
   {
+    "key": "long beach convention center|01/22/2027|ali siddiq: the custom fit tour",
+    "venue": "Long Beach Convention Center",
+    "day": "Friday",
+    "date": "01/22/2027",
+    "time": "TBA",
+    "name": "Ali Siddiq: The Custom Fit Tour",
+    "link": "https://www.lbentertainmentcenter.com/events/ali-siddiq/"
+  },
+  {
     "key": "long beach convention center|01/23/2027|ali wong",
     "venue": "Long Beach Convention Center",
     "day": "Saturday",
@@ -3222,15 +3240,6 @@
     "link": "https://www.lbentertainmentcenter.com/events/ali-wong/"
   },
   {
-    "key": "long beach convention center|01/29/2027|shen yun 2027",
-    "venue": "Long Beach Convention Center",
-    "day": "Friday",
-    "date": "01/29/2027",
-    "time": "TBA",
-    "name": "Shen Yun 2027",
-    "link": "https://www.lbentertainmentcenter.com/events/shen-yun-2027/"
-  },
-  {
     "key": "long beach convention center|02/06/2027|painting in notes",
     "venue": "Long Beach Convention Center",
     "day": "Saturday",
@@ -3238,6 +3247,15 @@
     "time": "TBA",
     "name": "Painting in Notes",
     "link": "https://www.lbentertainmentcenter.com/events/painting-in-notes/"
+  },
+  {
+    "key": "long beach convention center|02/11/2027|dr. neil degrasse tyson",
+    "venue": "Long Beach Convention Center",
+    "day": "Thursday",
+    "date": "02/11/2027",
+    "time": "TBA",
+    "name": "Dr. Neil deGrasse Tyson",
+    "link": "https://www.lbentertainmentcenter.com/events/neil-degrasse-tyson-lbc/"
   },
   {
     "key": "long beach convention center|02/12/2027|the legends of laughter",
@@ -3256,14 +3274,5 @@
     "time": "TBA",
     "name": "Tenderly: The Rosemary Clooney Musical",
     "link": "https://www.lbentertainmentcenter.com/events/tenderly-ict/"
-  },
-  {
-    "key": "long beach convention center|02/19/2027|world ballet company: swan lake with a live orchestra",
-    "venue": "Long Beach Convention Center",
-    "day": "Friday",
-    "date": "02/19/2027",
-    "time": "TBA",
-    "name": "World Ballet Company: Swan Lake with a Live Orchestra",
-    "link": "https://www.lbentertainmentcenter.com/events/swan-lake-2027/"
   }
 ]
