@@ -162,15 +162,6 @@
     "link": "https://www.sofistadium.com/events/detail/skipknot-august-13"
   },
   {
-    "key": "intuit dome|10/21/2026|sacramento kings vs la clippers",
-    "venue": "Intuit Dome",
-    "day": "Wednesday",
-    "date": "10/21/2026",
-    "time": "7:30 PM",
-    "name": "Sacramento Kings vs LA Clippers",
-    "link": "https://intuitdome.com/events/event-schedule/4288?type=games&utm_source=IDwebsite&utm_medium=eventdetail&utm_campaign=SGT_2627&utm_content=SGT2627_EST_261021"
-  },
-  {
     "key": "intuit dome|10/24/2026|pokémon night out",
     "venue": "Intuit Dome",
     "day": "Saturday",
@@ -792,15 +783,6 @@
     "link": "https://www.intuitdome.com/events/event-schedule"
   },
   {
-    "key": "kia forum|10/21/2026|beabadoobee – the powerlines tour",
-    "venue": "Kia Forum",
-    "day": "Wednesday",
-    "date": "10/21/2026",
-    "time": "7:00 PM",
-    "name": "beabadoobee – The Powerlines Tour",
-    "link": "https://thekiaforum.com/event/beabadoobee/"
-  },
-  {
     "key": "kia forum|10/22/2026|doja cat – tour ma vie world tour",
     "venue": "Kia Forum",
     "day": "Thursday",
@@ -1026,6 +1008,15 @@
     "link": "https://thekiaforum.com/event/kenshi-yonezu/"
   },
   {
+    "key": "kia forum|03/05/2027|2hollis – the pirouette tour",
+    "venue": "Kia Forum",
+    "day": "Friday",
+    "date": "03/05/2027",
+    "time": "7:00 PM",
+    "name": "2hollis – The Pirouette Tour",
+    "link": "https://thekiaforum.com/event/2hollis/"
+  },
+  {
     "key": "kia forum|03/07/2027|elevation worship & steven furtick",
     "venue": "Kia Forum",
     "day": "Sunday",
@@ -1062,6 +1053,15 @@
     "link": "https://thekiaforum.com/event/cleo-sol/"
   },
   {
+    "key": "kia forum|05/02/2027|queens of the stone age – perfecth world tour",
+    "venue": "Kia Forum",
+    "day": "Sunday",
+    "date": "05/02/2027",
+    "time": "7:00 PM",
+    "name": "QUEENS OF THE STONE AGE – Perfecth World Tour",
+    "link": "https://thekiaforum.com/event/queens-of-the-stone-age/"
+  },
+  {
     "key": "kia forum|05/22/2027|niall horan – dinner party live on tour",
     "venue": "Kia Forum",
     "day": "Saturday",
@@ -1069,6 +1069,15 @@
     "time": "7:00 PM",
     "name": "NIALL HORAN – Dinner Party Live On Tour",
     "link": "https://thekiaforum.com/event/niall-horan/"
+  },
+  {
+    "key": "kia forum|05/26/2027|calvin harris",
+    "venue": "Kia Forum",
+    "day": "Wednesday",
+    "date": "05/26/2027",
+    "time": "7:00 PM",
+    "name": "CALVIN HARRIS",
+    "link": "https://thekiaforum.com/event/calvin-harris-5/"
   },
   {
     "key": "kia forum|05/27/2027|calvin harris",
@@ -1375,15 +1384,6 @@
     "time": "TBD",
     "name": "System Of A Down: Live At The Rose Bowl",
     "link": "https://www.rosebowlstadium.com/events/details/683/system-of-a-down:-live-at-the-rose-bowl"
-  },
-  {
-    "key": "crypto.com arena|10/21/2026|golden state warriors vs los angeles lakers",
-    "venue": "Crypto.com Arena",
-    "day": "Wednesday",
-    "date": "10/21/2026",
-    "time": "7:00 PM",
-    "name": "Golden State Warriors vs Los Angeles Lakers",
-    "link": "https://www.cryptoarena.com/events/detail/lakerswarriors102126"
   },
   {
     "key": "crypto.com arena|10/23/2026|los angeles clippers vs los angeles lakers",
@@ -2268,6 +2268,15 @@
     "link": "https://www.laconventioncenter.com/events/detail/2026-nmsdc-annual-conference-exchange"
   },
   {
+    "key": "la convention center|10/25/2026|grand archive prd regional championship",
+    "venue": "LA Convention Center",
+    "day": "Sunday",
+    "date": "10/25/2026",
+    "time": "TBA",
+    "name": "Grand Archive PRD Regional Championship",
+    "link": "https://www.laconventioncenter.com/events/detail/grand-archive-prd-regional-championship"
+  },
+  {
     "key": "la convention center|10/30/2026|l.a. comic con 2026",
     "venue": "LA Convention Center",
     "day": "Friday",
@@ -2536,15 +2545,6 @@
     "time": "7:10 PM",
     "name": "vs. San Diego Padres",
     "link": "https://www.mlb.com/gameday/823895"
-  },
-  {
-    "key": "hollywood bowl|10/21/2026|my chemical romance",
-    "venue": "Hollywood Bowl",
-    "day": "Wednesday",
-    "date": "10/21/2026",
-    "time": "8:00 PM",
-    "name": "My Chemical Romance",
-    "link": "https://www.hollywoodbowl.com/events/performances/4231/2026-10-21/my-chemical-romance"
   },
   {
     "key": "hollywood bowl|10/23/2026|my chemical romance",
@@ -3231,6 +3231,15 @@
     "link": "https://www.lbentertainmentcenter.com/events/dylan-thuras/"
   },
   {
+    "key": "long beach convention center|01/14/2027|abilities expo los angeles",
+    "venue": "Long Beach Convention Center",
+    "day": "Thursday",
+    "date": "01/14/2027",
+    "time": "TBA",
+    "name": "Abilities Expo Los Angeles",
+    "link": "https://www.lbentertainmentcenter.com/events/abilities-expo-2027/"
+  },
+  {
     "key": "long beach convention center|01/22/2027|ali siddiq: the custom fit tour",
     "venue": "Long Beach Convention Center",
     "day": "Friday",
@@ -3265,14 +3274,5 @@
     "time": "TBA",
     "name": "Painting in Notes",
     "link": "https://www.lbentertainmentcenter.com/events/painting-in-notes/"
-  },
-  {
-    "key": "long beach convention center|02/11/2027|dr. neil degrasse tyson",
-    "venue": "Long Beach Convention Center",
-    "day": "Thursday",
-    "date": "02/11/2027",
-    "time": "TBA",
-    "name": "Dr. Neil deGrasse Tyson",
-    "link": "https://www.lbentertainmentcenter.com/events/neil-degrasse-tyson-lbc/"
   }
 ]

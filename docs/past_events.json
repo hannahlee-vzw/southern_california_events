@@ -7998,5 +7998,45 @@
     "name": "Modest Mouse",
     "link": "https://www.ticketmaster.com/modest-mouse-hollywood-california-10-20-2026/event/0900648FCF4AA265",
     "archived_on": "2026-10-21"
+  },
+  {
+    "key": "intuit dome|10/21/2026|sacramento kings vs la clippers",
+    "venue": "Intuit Dome",
+    "day": "Wednesday",
+    "date": "10/21/2026",
+    "time": "7:30 PM",
+    "name": "Sacramento Kings vs LA Clippers",
+    "link": "https://intuitdome.com/events/event-schedule/4288?type=games&utm_source=IDwebsite&utm_medium=eventdetail&utm_campaign=SGT_2627&utm_content=SGT2627_EST_261021",
+    "archived_on": "2026-10-22"
+  },
+  {
+    "key": "kia forum|10/21/2026|beabadoobee – the powerlines tour",
+    "venue": "Kia Forum",
+    "day": "Wednesday",
+    "date": "10/21/2026",
+    "time": "7:00 PM",
+    "name": "beabadoobee – The Powerlines Tour",
+    "link": "https://thekiaforum.com/event/beabadoobee/",
+    "archived_on": "2026-10-22"
+  },
+  {
+    "key": "crypto.com arena|10/21/2026|golden state warriors vs los angeles lakers",
+    "venue": "Crypto.com Arena",
+    "day": "Wednesday",
+    "date": "10/21/2026",
+    "time": "7:00 PM",
+    "name": "Golden State Warriors vs Los Angeles Lakers",
+    "link": "https://www.cryptoarena.com/events/detail/lakerswarriors102126",
+    "archived_on": "2026-10-22"
+  },
+  {
+    "key": "hollywood bowl|10/21/2026|my chemical romance",
+    "venue": "Hollywood Bowl",
+    "day": "Wednesday",
+    "date": "10/21/2026",
+    "time": "8:00 PM",
+    "name": "My Chemical Romance",
+    "link": "https://www.hollywoodbowl.com/events/performances/4231/2026-10-21/my-chemical-romance",
+    "archived_on": "2026-10-22"
   }
 ]
