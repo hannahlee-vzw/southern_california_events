@@ -8038,5 +8038,35 @@
     "name": "My Chemical Romance",
     "link": "https://www.hollywoodbowl.com/events/performances/4231/2026-10-21/my-chemical-romance",
     "archived_on": "2026-10-22"
+  },
+  {
+    "key": "kia forum|10/22/2026|doja cat – tour ma vie world tour",
+    "venue": "Kia Forum",
+    "day": "Thursday",
+    "date": "10/22/2026",
+    "time": "7:00 PM",
+    "name": "DOJA CAT – Tour Ma Vie World Tour",
+    "link": "https://thekiaforum.com/event/doja-cat/",
+    "archived_on": "2026-10-23"
+  },
+  {
+    "key": "long beach convention center|10/22/2026|type s night lights presented by pennzoil",
+    "venue": "Long Beach Convention Center",
+    "day": "Thursday",
+    "date": "10/22/2026",
+    "time": "TBA",
+    "name": "TYPE S Night Lights Presented by Pennzoil",
+    "link": "https://www.lbentertainmentcenter.com/events/type-s-2026/",
+    "archived_on": "2026-10-23"
+  },
+  {
+    "key": "long beach convention center|10/22/2026|justin trudeau",
+    "venue": "Long Beach Convention Center",
+    "day": "Thursday",
+    "date": "10/22/2026",
+    "time": "TBA",
+    "name": "Justin Trudeau",
+    "link": "https://www.lbentertainmentcenter.com/events/justin-trudeau/",
+    "archived_on": "2026-10-23"
   }
 ]

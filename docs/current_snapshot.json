@@ -783,15 +783,6 @@
     "link": "https://www.intuitdome.com/events/event-schedule"
   },
   {
-    "key": "kia forum|10/22/2026|doja cat – tour ma vie world tour",
-    "venue": "Kia Forum",
-    "day": "Thursday",
-    "date": "10/22/2026",
-    "time": "7:00 PM",
-    "name": "DOJA CAT – Tour Ma Vie World Tour",
-    "link": "https://thekiaforum.com/event/doja-cat/"
-  },
-  {
     "key": "kia forum|10/23/2026|worship",
     "venue": "Kia Forum",
     "day": "Friday",
@@ -1233,6 +1224,24 @@
     "link": "https://www.rosebowlstadium.com/events/details/679/rose-bowl-quarterbacks-club"
   },
   {
+    "key": "rose bowl stadium|11/21/2026|best friends super adoption",
+    "venue": "Rose Bowl Stadium",
+    "day": "Saturday",
+    "date": "11/21/2026",
+    "time": "11:00 AM",
+    "name": "Best Friends Super Adoption",
+    "link": "https://www.rosebowlstadium.com/events/details/686/best-friends-super-adoption"
+  },
+  {
+    "key": "rose bowl stadium|11/22/2026|best friends super adoption",
+    "venue": "Rose Bowl Stadium",
+    "day": "Sunday",
+    "date": "11/22/2026",
+    "time": "11:00 AM",
+    "name": "Best Friends Super Adoption",
+    "link": "https://www.rosebowlstadium.com/events/details/687/best-friends-super-adoption"
+  },
+  {
     "key": "rose bowl stadium|11/26/2026|rose bowl turkey trot",
     "venue": "Rose Bowl Stadium",
     "day": "Thursday",
@@ -1384,6 +1393,15 @@
     "time": "TBD",
     "name": "System Of A Down: Live At The Rose Bowl",
     "link": "https://www.rosebowlstadium.com/events/details/683/system-of-a-down:-live-at-the-rose-bowl"
+  },
+  {
+    "key": "rose bowl stadium|06/06/2027|system of a down: live at the rose bowl",
+    "venue": "Rose Bowl Stadium",
+    "day": "Sunday",
+    "date": "06/06/2027",
+    "time": "TBD",
+    "name": "System Of A Down: Live At The Rose Bowl",
+    "link": "https://www.rosebowlstadium.com/events/details/688/system-of-a-down:-live-at-the-rose-bowl"
   },
   {
     "key": "crypto.com arena|10/23/2026|los angeles clippers vs los angeles lakers",
@@ -3060,22 +3078,13 @@
     "link": "https://www.ticketmaster.com/nothing-but-thieves-the-stray-dogs-hollywood-california-04-04-2027/event/090064B61FAB46C9"
   },
   {
-    "key": "long beach convention center|10/22/2026|type s night lights presented by pennzoil",
-    "venue": "Long Beach Convention Center",
-    "day": "Thursday",
-    "date": "10/22/2026",
-    "time": "TBA",
-    "name": "TYPE S Night Lights Presented by Pennzoil",
-    "link": "https://www.lbentertainmentcenter.com/events/type-s-2026/"
-  },
-  {
-    "key": "long beach convention center|10/22/2026|justin trudeau",
-    "venue": "Long Beach Convention Center",
-    "day": "Thursday",
-    "date": "10/22/2026",
-    "time": "TBA",
-    "name": "Justin Trudeau",
-    "link": "https://www.lbentertainmentcenter.com/events/justin-trudeau/"
+    "key": "hollywood palladium|05/22/2027|two door cinema club - tourist history 15th anniversary tour",
+    "venue": "Hollywood Palladium",
+    "day": "Saturday",
+    "date": "05/22/2027",
+    "time": "7:00 PM",
+    "name": "Two Door Cinema Club - Tourist History 15th Anniversary Tour",
+    "link": "https://www.ticketmaster.com/two-door-cinema-club-tourist-history-hollywood-california-05-22-2027/event/09006553853A4496"
   },
   {
     "key": "long beach convention center|10/23/2026|formula drift: shoreline showdown",
@@ -3274,5 +3283,23 @@
     "time": "TBA",
     "name": "Painting in Notes",
     "link": "https://www.lbentertainmentcenter.com/events/painting-in-notes/"
+  },
+  {
+    "key": "long beach convention center|02/11/2027|dr. neil degrasse tyson",
+    "venue": "Long Beach Convention Center",
+    "day": "Thursday",
+    "date": "02/11/2027",
+    "time": "TBA",
+    "name": "Dr. Neil deGrasse Tyson",
+    "link": "https://www.lbentertainmentcenter.com/events/neil-degrasse-tyson-lbc/"
+  },
+  {
+    "key": "long beach convention center|02/12/2027|the legends of laughter",
+    "venue": "Long Beach Convention Center",
+    "day": "Friday",
+    "date": "02/12/2027",
+    "time": "TBA",
+    "name": "The Legends of Laughter",
+    "link": "https://www.lbentertainmentcenter.com/events/legends-of-laughter-2/"
   }
 ]
