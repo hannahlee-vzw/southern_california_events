@@ -1,14 +1,5 @@
 [
   {
-    "key": "sofi stadium|10/24/2026|jaÿ-z 30",
-    "venue": "SoFi Stadium",
-    "day": "Saturday",
-    "date": "10/24/2026",
-    "time": "8:00 PM",
-    "name": "JAŸ-Z 30",
-    "link": "https://www.sofistadium.com/events/detail/jay-z-october-24-2026"
-  },
-  {
     "key": "sofi stadium|11/01/2026|rams vs. chargers – week 8",
     "venue": "SoFi Stadium",
     "day": "Sunday",
@@ -151,15 +142,6 @@
     "time": "7:00 PM",
     "name": "Slipknot – (sic)est Stadium Tour",
     "link": "https://www.sofistadium.com/events/detail/skipknot-august-13"
-  },
-  {
-    "key": "intuit dome|10/24/2026|pokémon night out",
-    "venue": "Intuit Dome",
-    "day": "Saturday",
-    "date": "10/24/2026",
-    "time": "7:30 PM",
-    "name": "Pokémon Night Out",
-    "link": "https://www.intuitdome.com/events/event-schedule/3674?utm_source=IDwebsite&utm_medium=eventschedule&utm_campaign=IDevents26&utm_content=pokemon_night_out_261024"
   },
   {
     "key": "intuit dome|10/25/2026|bryson tiller",
@@ -774,15 +756,6 @@
     "link": "https://www.intuitdome.com/events/event-schedule"
   },
   {
-    "key": "kia forum|10/24/2026|gorillaz – the mountain tour",
-    "venue": "Kia Forum",
-    "day": "Saturday",
-    "date": "10/24/2026",
-    "time": "7:00 PM",
-    "name": "GORILLAZ – The Mountain Tour",
-    "link": "https://thekiaforum.com/event/gorillaz-2/"
-  },
-  {
     "key": "kia forum|11/06/2026|don omar – the last king world tour",
     "venue": "Kia Forum",
     "day": "Friday",
@@ -1143,15 +1116,6 @@
     "link": "https://www.dignityhealthsportspark.com/events/detail/matchroom-boxing-presents-diego-pacheco-vs-darius-fulghum"
   },
   {
-    "key": "rose bowl stadium|10/24/2026|michigan state vs ucla",
-    "venue": "Rose Bowl Stadium",
-    "day": "Saturday",
-    "date": "10/24/2026",
-    "time": "12:30 PM",
-    "name": "MICHIGAN STATE VS UCLA",
-    "link": "https://www.rosebowlstadium.com/events/details/628/michigan-state-vs-ucla"
-  },
-  {
     "key": "rose bowl stadium|10/31/2026|nevada vs ucla",
     "venue": "Rose Bowl Stadium",
     "day": "Saturday",
@@ -1393,15 +1357,6 @@
     "time": "TBD",
     "name": "System Of A Down: Live At The Rose Bowl",
     "link": "https://www.rosebowlstadium.com/events/details/689/system-of-a-down:-live-at-the-rose-bowl"
-  },
-  {
-    "key": "crypto.com arena|10/24/2026|weezer: the gathering – with special guests the shins & silversun pickups",
-    "venue": "Crypto.com Arena",
-    "day": "Saturday",
-    "date": "10/24/2026",
-    "time": "7:00 PM",
-    "name": "Weezer: The Gathering – With special guests The Shins & Silversun Pickups",
-    "link": "https://www.cryptoarena.com/events/detail/weezer102426"
   },
   {
     "key": "crypto.com arena|10/27/2026|portland trail blazers vs los angeles lakers",
@@ -2232,6 +2187,15 @@
     "link": "https://www.lacoliseum.com/events/maryland-vs-usc-2026/"
   },
   {
+    "key": "l.a. memorial coliseum|11/27/2026|cif-ss ford division 1 football championship",
+    "venue": "L.A. Memorial Coliseum",
+    "day": "Friday",
+    "date": "11/27/2026",
+    "time": "TBA",
+    "name": "CIF-SS FORD DIVISION 1 FOOTBALL CHAMPIONSHIP",
+    "link": "https://www.lacoliseum.com/events/cif-ss-ford-division-1-football-championship-2026/"
+  },
+  {
     "key": "l.a. memorial coliseum|11/28/2026|bassrush presents ray volpe – ages 18+ with valid id",
     "venue": "L.A. Memorial Coliseum",
     "day": "Saturday",
@@ -2547,15 +2511,6 @@
     "link": "https://www.mlb.com/gameday/823895"
   },
   {
-    "key": "hollywood bowl|10/24/2026|my chemical romance",
-    "venue": "Hollywood Bowl",
-    "day": "Saturday",
-    "date": "10/24/2026",
-    "time": "8:00 PM",
-    "name": "My Chemical Romance",
-    "link": "https://www.hollywoodbowl.com/events/performances/4233/2026-10-24/my-chemical-romance"
-  },
-  {
     "key": "hollywood bowl|10/29/2026|aerosmith & friends – two nights only at the hollywood bowl",
     "venue": "Hollywood Bowl",
     "day": "Thursday",
@@ -2689,15 +2644,6 @@
     "time": "8:00 PM",
     "name": "The Legend of Zelda – 40th Anniversary Concert",
     "link": "https://www.hollywoodbowl.com/events/performances/4909/2027-08-25/the-legend-of-zelda"
-  },
-  {
-    "key": "hollywood palladium|10/24/2026|two friends",
-    "venue": "Hollywood Palladium",
-    "day": "Saturday",
-    "date": "10/24/2026",
-    "time": "8:00 PM",
-    "name": "Two Friends",
-    "link": "https://www.ticketmaster.com/two-friends-hollywood-california-10-24-2026/event/090064A4AC83DB33"
   },
   {
     "key": "hollywood palladium|10/25/2026|xavier wulf - the cool world tour",
@@ -3051,24 +2997,6 @@
     "link": "https://www.ticketmaster.com/two-door-cinema-club-tourist-history-hollywood-california-05-22-2027/event/09006553853A4496"
   },
   {
-    "key": "long beach convention center|10/24/2026|the ultimate eagles experience",
-    "venue": "Long Beach Convention Center",
-    "day": "Saturday",
-    "date": "10/24/2026",
-    "time": "TBA",
-    "name": "The Ultimate Eagles Experience",
-    "link": "https://www.lbentertainmentcenter.com/events/ultimate-eagles-experience/"
-  },
-  {
-    "key": "long beach convention center|10/24/2026|be like blippi!",
-    "venue": "Long Beach Convention Center",
-    "day": "Saturday",
-    "date": "10/24/2026",
-    "time": "TBA",
-    "name": "Be Like Blippi!",
-    "link": "https://www.lbentertainmentcenter.com/events/blippi-long-beach/"
-  },
-  {
     "key": "long beach convention center|10/25/2026|quinceanera.com expo",
     "venue": "Long Beach Convention Center",
     "day": "Sunday",
@@ -3258,12 +3186,30 @@
     "link": "https://www.lbentertainmentcenter.com/events/legends-of-laughter-2/"
   },
   {
-    "key": "long beach convention center|10/23/2027|formula drift: shoreline showdown",
+    "key": "long beach convention center|02/17/2027|tenderly: the rosemary clooney musical",
+    "venue": "Long Beach Convention Center",
+    "day": "Wednesday",
+    "date": "02/17/2027",
+    "time": "TBA",
+    "name": "Tenderly: The Rosemary Clooney Musical",
+    "link": "https://www.lbentertainmentcenter.com/events/tenderly-ict/"
+  },
+  {
+    "key": "long beach convention center|02/19/2027|world ballet company: swan lake with a live orchestra",
+    "venue": "Long Beach Convention Center",
+    "day": "Friday",
+    "date": "02/19/2027",
+    "time": "TBA",
+    "name": "World Ballet Company: Swan Lake with a Live Orchestra",
+    "link": "https://www.lbentertainmentcenter.com/events/swan-lake-2027/"
+  },
+  {
+    "key": "long beach convention center|02/20/2027|let's misbehave: the songs of cole porter",
     "venue": "Long Beach Convention Center",
     "day": "Saturday",
-    "date": "10/23/2027",
+    "date": "02/20/2027",
     "time": "TBA",
-    "name": "Formula Drift: Shoreline Showdown",
-    "link": "https://www.lbentertainmentcenter.com/events/formula-drift-rd8/"
+    "name": "Let's Misbehave: The Songs of Cole Porter",
+    "link": "https://www.lbentertainmentcenter.com/events/songs-of-cole-porter/"
   }
 ]
