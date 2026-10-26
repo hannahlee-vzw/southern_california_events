@@ -8218,5 +8218,55 @@
     "name": "Be Like Blippi!",
     "link": "https://www.lbentertainmentcenter.com/events/blippi-long-beach/",
     "archived_on": "2026-10-25"
+  },
+  {
+    "key": "intuit dome|10/25/2026|bryson tiller",
+    "venue": "Intuit Dome",
+    "day": "Sunday",
+    "date": "10/25/2026",
+    "time": "7:30 PM",
+    "name": "Bryson Tiller",
+    "link": "https://www.intuitdome.com/events/event-schedule/4036?utm_source=IDwebsite&utm_medium=eventschedule&utm_campaign=IDevents26&utm_content=bryson_tiller_261025",
+    "archived_on": "2026-10-26"
+  },
+  {
+    "key": "la convention center|10/25/2026|2026 nmsdc annual conference & exchange",
+    "venue": "LA Convention Center",
+    "day": "Sunday",
+    "date": "10/25/2026",
+    "time": "TBA",
+    "name": "2026 NMSDC Annual Conference & Exchange",
+    "link": "https://www.laconventioncenter.com/events/detail/2026-nmsdc-annual-conference-exchange",
+    "archived_on": "2026-10-26"
+  },
+  {
+    "key": "la convention center|10/25/2026|grand archive prd regional championship",
+    "venue": "LA Convention Center",
+    "day": "Sunday",
+    "date": "10/25/2026",
+    "time": "TBA",
+    "name": "Grand Archive PRD Regional Championship",
+    "link": "https://www.laconventioncenter.com/events/detail/grand-archive-prd-regional-championship",
+    "archived_on": "2026-10-26"
+  },
+  {
+    "key": "hollywood palladium|10/25/2026|xavier wulf - the cool world tour",
+    "venue": "Hollywood Palladium",
+    "day": "Sunday",
+    "date": "10/25/2026",
+    "time": "7:00 PM",
+    "name": "XAVIER WULF - THE COOL WORLD TOUR",
+    "link": "https://www.ticketmaster.com/xavier-wulf-the-cool-world-tour-hollywood-california-10-25-2026/event/090064F4D3499ECC",
+    "archived_on": "2026-10-26"
+  },
+  {
+    "key": "long beach convention center|10/25/2026|quinceanera.com expo",
+    "venue": "Long Beach Convention Center",
+    "day": "Sunday",
+    "date": "10/25/2026",
+    "time": "TBA",
+    "name": "Quinceanera.com Expo",
+    "link": "https://www.lbentertainmentcenter.com/events/quinceanera-expo/",
+    "archived_on": "2026-10-26"
   }
 ]

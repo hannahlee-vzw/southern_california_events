@@ -144,15 +144,6 @@
     "link": "https://www.sofistadium.com/events/detail/skipknot-august-13"
   },
   {
-    "key": "intuit dome|10/25/2026|bryson tiller",
-    "venue": "Intuit Dome",
-    "day": "Sunday",
-    "date": "10/25/2026",
-    "time": "7:30 PM",
-    "name": "Bryson Tiller",
-    "link": "https://www.intuitdome.com/events/event-schedule/4036?utm_source=IDwebsite&utm_medium=eventschedule&utm_campaign=IDevents26&utm_content=bryson_tiller_261025"
-  },
-  {
     "key": "intuit dome|10/28/2026|los angeles lakers vs la clippers",
     "venue": "Intuit Dome",
     "day": "Wednesday",
@@ -1006,6 +997,15 @@
     "time": "7:00 PM",
     "name": "QUEENS OF THE STONE AGE – Perfecth World Tour",
     "link": "https://thekiaforum.com/event/queens-of-the-stone-age/"
+  },
+  {
+    "key": "kia forum|05/14/2027|panchiko",
+    "venue": "Kia Forum",
+    "day": "Friday",
+    "date": "05/14/2027",
+    "time": "7:00 PM",
+    "name": "PANCHIKO",
+    "link": "https://thekiaforum.com/event/panchiko/"
   },
   {
     "key": "kia forum|05/22/2027|niall horan – dinner party live on tour",
@@ -2223,22 +2223,13 @@
     "link": "https://www.thetorch.la/torch-event/legend-of-atlantis-tour-2026/"
   },
   {
-    "key": "la convention center|10/25/2026|2026 nmsdc annual conference & exchange",
+    "key": "la convention center|10/26/2026|2026 nmsdc annual conference & exchange",
     "venue": "LA Convention Center",
-    "day": "Sunday",
-    "date": "10/25/2026",
+    "day": "Monday",
+    "date": "10/26/2026",
     "time": "TBA",
     "name": "2026 NMSDC Annual Conference & Exchange",
     "link": "https://www.laconventioncenter.com/events/detail/2026-nmsdc-annual-conference-exchange"
-  },
-  {
-    "key": "la convention center|10/25/2026|grand archive prd regional championship",
-    "venue": "LA Convention Center",
-    "day": "Sunday",
-    "date": "10/25/2026",
-    "time": "TBA",
-    "name": "Grand Archive PRD Regional Championship",
-    "link": "https://www.laconventioncenter.com/events/detail/grand-archive-prd-regional-championship"
   },
   {
     "key": "la convention center|10/30/2026|l.a. comic con 2026",
@@ -2257,6 +2248,15 @@
     "time": "TBA",
     "name": "Build Expo 2026",
     "link": "https://www.laconventioncenter.com/events/detail/build-expo-2026"
+  },
+  {
+    "key": "la convention center|11/20/2026|la auto show 2026",
+    "venue": "LA Convention Center",
+    "day": "Friday",
+    "date": "11/20/2026",
+    "time": "TBA",
+    "name": "LA Auto Show 2026",
+    "link": "https://www.laconventioncenter.com/events/detail/la-auto-show-2026"
   },
   {
     "key": "la convention center|12/05/2026|tonight's conversation: live & uncut los angeles",
@@ -2646,15 +2646,6 @@
     "link": "https://www.hollywoodbowl.com/events/performances/4909/2027-08-25/the-legend-of-zelda"
   },
   {
-    "key": "hollywood palladium|10/25/2026|xavier wulf - the cool world tour",
-    "venue": "Hollywood Palladium",
-    "day": "Sunday",
-    "date": "10/25/2026",
-    "time": "7:00 PM",
-    "name": "XAVIER WULF - THE COOL WORLD TOUR",
-    "link": "https://www.ticketmaster.com/xavier-wulf-the-cool-world-tour-hollywood-california-10-25-2026/event/090064F4D3499ECC"
-  },
-  {
     "key": "hollywood palladium|11/06/2026|carl cox",
     "venue": "Hollywood Palladium",
     "day": "Friday",
@@ -2997,15 +2988,6 @@
     "link": "https://www.ticketmaster.com/two-door-cinema-club-tourist-history-hollywood-california-05-22-2027/event/09006553853A4496"
   },
   {
-    "key": "long beach convention center|10/25/2026|quinceanera.com expo",
-    "venue": "Long Beach Convention Center",
-    "day": "Sunday",
-    "date": "10/25/2026",
-    "time": "TBA",
-    "name": "Quinceanera.com Expo",
-    "link": "https://www.lbentertainmentcenter.com/events/quinceanera-expo/"
-  },
-  {
     "key": "long beach convention center|11/06/2026|miel san marcos conference 2026",
     "venue": "Long Beach Convention Center",
     "day": "Friday",
@@ -3211,5 +3193,14 @@
     "time": "TBA",
     "name": "Let's Misbehave: The Songs of Cole Porter",
     "link": "https://www.lbentertainmentcenter.com/events/songs-of-cole-porter/"
+  },
+  {
+    "key": "long beach convention center|02/25/2027|hillary rodham clinton",
+    "venue": "Long Beach Convention Center",
+    "day": "Thursday",
+    "date": "02/25/2027",
+    "time": "TBA",
+    "name": "Hillary Rodham Clinton",
+    "link": "https://www.lbentertainmentcenter.com/events/hillary-clinton/"
   }
 ]
