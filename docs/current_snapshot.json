@@ -144,20 +144,11 @@
     "link": "https://www.sofistadium.com/events/detail/skipknot-august-13"
   },
   {
-    "key": "intuit dome|10/28/2026|los angeles lakers vs la clippers",
-    "venue": "Intuit Dome",
-    "day": "Wednesday",
-    "date": "10/28/2026",
-    "time": "7:30 PM",
-    "name": "Los Angeles Lakers vs LA Clippers",
-    "link": "https://intuitdome.com/events/event-schedule/4295?type=games&utm_source=IDwebsite&utm_medium=eventdetail&utm_campaign=SGT_2627&utm_content=SGT2627_EST_261028"
-  },
-  {
     "key": "intuit dome|10/29/2026|omer adam",
     "venue": "Intuit Dome",
     "day": "Thursday",
     "date": "10/29/2026",
-    "time": "8:30 PM",
+    "time": "9:00 PM",
     "name": "Omer Adam",
     "link": "https://www.intuitdome.com/events/event-schedule/4684?utm_source=eventschedule&utm_medium=IDwebsite&utm_campaign=IDevents26&utm_content=omer_adam_261029"
   },
@@ -1107,12 +1098,12 @@
     "link": "https://www.dignityhealthsportspark.com/events/detail/angel-city-fc-vs-boston-legacy-fc"
   },
   {
-    "key": "dignity health sports park|11/07/2026|als walk & stair climb",
+    "key": "dignity health sports park|11/07/2026|als walk",
     "venue": "Dignity Health Sports Park",
     "day": "Saturday",
     "date": "11/07/2026",
     "time": "TBA",
-    "name": "ALS Walk & Stair Climb",
+    "name": "ALS Walk",
     "link": "https://www.dignityhealthsportspark.com/events/detail/als-walk"
   },
   {
@@ -1123,6 +1114,69 @@
     "time": "TBA",
     "name": "Matchroom Boxing Presents: Diego Pacheco vs Darius Fulghum",
     "link": "https://www.dignityhealthsportspark.com/events/detail/matchroom-boxing-presents-diego-pacheco-vs-darius-fulghum"
+  },
+  {
+    "key": "dignity health sports park|02/20/2027|la galaxy vs st. louis city sc",
+    "venue": "Dignity Health Sports Park",
+    "day": "Saturday",
+    "date": "02/20/2027",
+    "time": "TBA",
+    "name": "LA Galaxy vs St. Louis CITY SC",
+    "link": "https://www.dignityhealthsportspark.com/events/detail/la-galaxy-vs-st-louis-city-sc-1"
+  },
+  {
+    "key": "dignity health sports park|03/06/2027|la galaxy vs san jose earthquakes",
+    "venue": "Dignity Health Sports Park",
+    "day": "Saturday",
+    "date": "03/06/2027",
+    "time": "TBA",
+    "name": "LA Galaxy vs San Jose Earthquakes",
+    "link": "https://www.dignityhealthsportspark.com/events/detail/la-galaxy-vs-san-jose-earthquakes-1"
+  },
+  {
+    "key": "dignity health sports park|03/20/2027|la galaxy vs portland timbers",
+    "venue": "Dignity Health Sports Park",
+    "day": "Saturday",
+    "date": "03/20/2027",
+    "time": "TBA",
+    "name": "LA Galaxy vs Portland Timbers",
+    "link": "https://www.dignityhealthsportspark.com/events/detail/la-galaxy-vs-portland-timbers-1"
+  },
+  {
+    "key": "dignity health sports park|04/03/2027|la galaxy vs minnesota united fc",
+    "venue": "Dignity Health Sports Park",
+    "day": "Saturday",
+    "date": "04/03/2027",
+    "time": "TBA",
+    "name": "LA Galaxy vs Minnesota United FC",
+    "link": "https://www.dignityhealthsportspark.com/events/detail/la-galaxy-vs-minnesota-united-fc-1"
+  },
+  {
+    "key": "dignity health sports park|04/10/2027|la galaxy vs lafc",
+    "venue": "Dignity Health Sports Park",
+    "day": "Saturday",
+    "date": "04/10/2027",
+    "time": "TBA",
+    "name": "LA Galaxy vs LAFC",
+    "link": "https://www.dignityhealthsportspark.com/events/detail/la-galaxy-vs-lafc-1"
+  },
+  {
+    "key": "dignity health sports park|04/21/2027|la galaxy vs seattle sounders",
+    "venue": "Dignity Health Sports Park",
+    "day": "Wednesday",
+    "date": "04/21/2027",
+    "time": "TBA",
+    "name": "LA Galaxy vs Seattle Sounders",
+    "link": "https://www.dignityhealthsportspark.com/events/detail/la-galaxy-vs-seattle-sounders-1"
+  },
+  {
+    "key": "dignity health sports park|05/08/2027|la galaxy vs austin fc",
+    "venue": "Dignity Health Sports Park",
+    "day": "Saturday",
+    "date": "05/08/2027",
+    "time": "TBA",
+    "name": "LA Galaxy vs Austin FC",
+    "link": "https://www.dignityhealthsportspark.com/events/detail/la-galaxy-vs-austin-fc-1"
   },
   {
     "key": "rose bowl stadium|10/31/2026|nevada vs ucla",
@@ -1375,15 +1429,6 @@
     "time": "TBD",
     "name": "System Of A Down: Live At The Rose Bowl",
     "link": "https://www.rosebowlstadium.com/events/details/690/system-of-a-down:-live-at-the-rose-bowl"
-  },
-  {
-    "key": "crypto.com arena|10/28/2026|yg – the gentlemen's club tour with mozzy, kalan.frfr, natalie nunn, and chef boy",
-    "venue": "Crypto.com Arena",
-    "day": "Wednesday",
-    "date": "10/28/2026",
-    "time": "8:00 PM",
-    "name": "YG – The Gentlemen's Club Tour with Mozzy, Kalan.FrFr, Natalie Nunn, and Chef Boy",
-    "link": "https://www.cryptoarena.com/events/detail/yg102826"
   },
   {
     "key": "crypto.com arena|10/29/2026|ottawa senators vs los angeles kings",
@@ -2232,13 +2277,13 @@
     "link": "https://www.thetorch.la/torch-event/legend-of-atlantis-tour-2026/"
   },
   {
-    "key": "la convention center|10/28/2026|2026 nmsdc annual conference & exchange",
-    "venue": "LA Convention Center",
-    "day": "Wednesday",
-    "date": "10/28/2026",
+    "key": "l.a. memorial coliseum|05/13/2027|usc commencement",
+    "venue": "L.A. Memorial Coliseum",
+    "day": "Thursday",
+    "date": "05/13/2027",
     "time": "TBA",
-    "name": "2026 NMSDC Annual Conference & Exchange",
-    "link": "https://www.laconventioncenter.com/events/detail/2026-nmsdc-annual-conference-exchange"
+    "name": "USC Commencement",
+    "link": "https://www.lacoliseum.com/events/usc-commencement-2027/"
   },
   {
     "key": "la convention center|10/30/2026|l.a. comic con 2026",

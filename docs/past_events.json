@@ -8298,5 +8298,35 @@
     "name": "2026 NMSDC Annual Conference & Exchange",
     "link": "https://www.laconventioncenter.com/events/detail/2026-nmsdc-annual-conference-exchange",
     "archived_on": "2026-10-28"
+  },
+  {
+    "key": "intuit dome|10/28/2026|los angeles lakers vs la clippers",
+    "venue": "Intuit Dome",
+    "day": "Wednesday",
+    "date": "10/28/2026",
+    "time": "7:30 PM",
+    "name": "Los Angeles Lakers vs LA Clippers",
+    "link": "https://intuitdome.com/events/event-schedule/4295?type=games&utm_source=IDwebsite&utm_medium=eventdetail&utm_campaign=SGT_2627&utm_content=SGT2627_EST_261028",
+    "archived_on": "2026-10-29"
+  },
+  {
+    "key": "crypto.com arena|10/28/2026|yg – the gentlemen's club tour with mozzy, kalan.frfr, natalie nunn, and chef boy",
+    "venue": "Crypto.com Arena",
+    "day": "Wednesday",
+    "date": "10/28/2026",
+    "time": "8:00 PM",
+    "name": "YG – The Gentlemen's Club Tour with Mozzy, Kalan.FrFr, Natalie Nunn, and Chef Boy",
+    "link": "https://www.cryptoarena.com/events/detail/yg102826",
+    "archived_on": "2026-10-29"
+  },
+  {
+    "key": "la convention center|10/28/2026|2026 nmsdc annual conference & exchange",
+    "venue": "LA Convention Center",
+    "day": "Wednesday",
+    "date": "10/28/2026",
+    "time": "TBA",
+    "name": "2026 NMSDC Annual Conference & Exchange",
+    "link": "https://www.laconventioncenter.com/events/detail/2026-nmsdc-annual-conference-exchange",
+    "archived_on": "2026-10-29"
   }
 ]
