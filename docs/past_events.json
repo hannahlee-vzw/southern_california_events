@@ -8328,5 +8328,35 @@
     "name": "2026 NMSDC Annual Conference & Exchange",
     "link": "https://www.laconventioncenter.com/events/detail/2026-nmsdc-annual-conference-exchange",
     "archived_on": "2026-10-29"
+  },
+  {
+    "key": "intuit dome|10/29/2026|omer adam",
+    "venue": "Intuit Dome",
+    "day": "Thursday",
+    "date": "10/29/2026",
+    "time": "9:00 PM",
+    "name": "Omer Adam",
+    "link": "https://www.intuitdome.com/events/event-schedule/4684?utm_source=eventschedule&utm_medium=IDwebsite&utm_campaign=IDevents26&utm_content=omer_adam_261029",
+    "archived_on": "2026-10-30"
+  },
+  {
+    "key": "crypto.com arena|10/29/2026|ottawa senators vs los angeles kings",
+    "venue": "Crypto.com Arena",
+    "day": "Thursday",
+    "date": "10/29/2026",
+    "time": "7:00 PM",
+    "name": "Ottawa Senators vs Los Angeles Kings",
+    "link": "https://www.cryptoarena.com/events/detail/kingssenators102926",
+    "archived_on": "2026-10-30"
+  },
+  {
+    "key": "hollywood bowl|10/29/2026|aerosmith & friends – two nights only at the hollywood bowl",
+    "venue": "Hollywood Bowl",
+    "day": "Thursday",
+    "date": "10/29/2026",
+    "time": "6:45 PM",
+    "name": "Aerosmith & Friends – Two Nights Only at the Hollywood Bowl",
+    "link": "https://www.hollywoodbowl.com/events/performances/4914/2026-10-29/aerosmith-friends",
+    "archived_on": "2026-10-30"
   }
 ]
