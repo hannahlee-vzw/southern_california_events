@@ -144,15 +144,6 @@
     "link": "https://www.sofistadium.com/events/detail/skipknot-august-13"
   },
   {
-    "key": "intuit dome|10/30/2026|phoebe bridgers",
-    "venue": "Intuit Dome",
-    "day": "Friday",
-    "date": "10/30/2026",
-    "time": "7:30 PM",
-    "name": "Phoebe Bridgers",
-    "link": "https://www.intuitdome.com/events/event-schedule/4041?utm_source=IDwebsite&utm_medium=eventschedule&utm_campaign=IDevents26&utm_content=phoebe_bridgers_261030"
-  },
-  {
     "key": "intuit dome|10/31/2026|phoebe bridgers",
     "venue": "Intuit Dome",
     "day": "Saturday",
@@ -837,15 +828,6 @@
     "link": "https://thekiaforum.com/event/the-neighbourhood-3/"
   },
   {
-    "key": "kia forum|12/10/2026|triumph – the rock & roll machine reloaded tour",
-    "venue": "Kia Forum",
-    "day": "Thursday",
-    "date": "12/10/2026",
-    "time": "7:00 PM",
-    "name": "TRIUMPH – The Rock & Roll Machine Reloaded Tour",
-    "link": "https://thekiaforum.com/event/triumph/"
-  },
-  {
     "key": "kia forum|12/12/2026|kroq almost acoustic christmas",
     "venue": "Kia Forum",
     "day": "Saturday",
@@ -1483,15 +1465,6 @@
     "time": "6:00 PM",
     "name": "Pittsburgh Penguins vs Los Angeles Kings",
     "link": "https://www.cryptoarena.com/events/detail/kingspenguins110726"
-  },
-  {
-    "key": "crypto.com arena|11/09/2026|karan aujla – p-pop culture tour with special guest ikky",
-    "venue": "Crypto.com Arena",
-    "day": "Monday",
-    "date": "11/09/2026",
-    "time": "8:00 PM",
-    "name": "Karan Aujla – P-POP CULTURE TOUR with special guest Ikky",
-    "link": "https://www.cryptoarena.com/events/detail/karanaujla110926"
   },
   {
     "key": "crypto.com arena|11/10/2026|nashville predators vs los angeles kings",
@@ -2196,6 +2169,15 @@
     "link": "https://www.cryptoarena.com/events/detail/hotwheelsstuntshow27"
   },
   {
+    "key": "crypto.com arena|TBA|karan aujla - postponed – p-pop culture tour with special guest ikky",
+    "venue": "Crypto.com Arena",
+    "day": "TBA",
+    "date": "TBA",
+    "time": "TBA",
+    "name": "Karan Aujla - Postponed – P-POP CULTURE TOUR with special guest Ikky",
+    "link": "https://www.cryptoarena.com/events/detail/karanaujla110926"
+  },
+  {
     "key": "crypto.com arena|TBA|ncaa west regional",
     "venue": "Crypto.com Arena",
     "day": "TBA",
@@ -2268,10 +2250,10 @@
     "link": "https://www.lacoliseum.com/events/usc-commencement-2027/"
   },
   {
-    "key": "la convention center|10/30/2026|l.a. comic con 2026",
+    "key": "la convention center|10/31/2026|l.a. comic con 2026",
     "venue": "LA Convention Center",
-    "day": "Friday",
-    "date": "10/30/2026",
+    "day": "Saturday",
+    "date": "10/31/2026",
     "time": "TBA",
     "name": "L.A. Comic Con 2026",
     "link": "https://www.laconventioncenter.com/events/detail/la-comic-con-2026"
@@ -2545,15 +2527,6 @@
     "time": "7:10 PM",
     "name": "vs. San Diego Padres",
     "link": "https://www.mlb.com/gameday/823895"
-  },
-  {
-    "key": "hollywood bowl|10/30/2026|my chemical romance – the used",
-    "venue": "Hollywood Bowl",
-    "day": "Friday",
-    "date": "10/30/2026",
-    "time": "7:00 PM",
-    "name": "My Chemical Romance – The Used",
-    "link": "https://www.hollywoodbowl.com/events/performances/4263/2026-10-30/my-chemical-romance"
   },
   {
     "key": "hollywood bowl|10/31/2026|my chemical romance – thrice",

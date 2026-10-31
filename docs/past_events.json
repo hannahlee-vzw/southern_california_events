@@ -8358,5 +8358,35 @@
     "name": "Aerosmith & Friends – Two Nights Only at the Hollywood Bowl",
     "link": "https://www.hollywoodbowl.com/events/performances/4914/2026-10-29/aerosmith-friends",
     "archived_on": "2026-10-30"
+  },
+  {
+    "key": "intuit dome|10/30/2026|phoebe bridgers",
+    "venue": "Intuit Dome",
+    "day": "Friday",
+    "date": "10/30/2026",
+    "time": "7:30 PM",
+    "name": "Phoebe Bridgers",
+    "link": "https://www.intuitdome.com/events/event-schedule/4041?utm_source=IDwebsite&utm_medium=eventschedule&utm_campaign=IDevents26&utm_content=phoebe_bridgers_261030",
+    "archived_on": "2026-10-31"
+  },
+  {
+    "key": "la convention center|10/30/2026|l.a. comic con 2026",
+    "venue": "LA Convention Center",
+    "day": "Friday",
+    "date": "10/30/2026",
+    "time": "TBA",
+    "name": "L.A. Comic Con 2026",
+    "link": "https://www.laconventioncenter.com/events/detail/la-comic-con-2026",
+    "archived_on": "2026-10-31"
+  },
+  {
+    "key": "hollywood bowl|10/30/2026|my chemical romance – the used",
+    "venue": "Hollywood Bowl",
+    "day": "Friday",
+    "date": "10/30/2026",
+    "time": "7:00 PM",
+    "name": "My Chemical Romance – The Used",
+    "link": "https://www.hollywoodbowl.com/events/performances/4263/2026-10-30/my-chemical-romance",
+    "archived_on": "2026-10-31"
   }
 ]
