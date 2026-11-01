@@ -144,15 +144,6 @@
     "link": "https://www.sofistadium.com/events/detail/skipknot-august-13"
   },
   {
-    "key": "intuit dome|10/31/2026|phoebe bridgers",
-    "venue": "Intuit Dome",
-    "day": "Saturday",
-    "date": "10/31/2026",
-    "time": "7:30 PM",
-    "name": "Phoebe Bridgers",
-    "link": "https://www.intuitdome.com/events/event-schedule/4050?utm_source=IDwebsite&utm_medium=eventschedule&utm_campaign=IDevents26&utm_content=phoebe_bridgers_261031"
-  },
-  {
     "key": "intuit dome|11/01/2026|phoebe bridgers",
     "venue": "Intuit Dome",
     "day": "Sunday",
@@ -1053,15 +1044,6 @@
     "link": "https://thekiaforum.com/event/fontaines-d-c/"
   },
   {
-    "key": "dignity health sports park|10/31/2026|la galaxy vs austin fc",
-    "venue": "Dignity Health Sports Park",
-    "day": "Saturday",
-    "date": "10/31/2026",
-    "time": "TBA",
-    "name": "LA Galaxy vs Austin FC",
-    "link": "https://www.dignityhealthsportspark.com/events/detail/la-galaxy-vs-austin-fc"
-  },
-  {
     "key": "dignity health sports park|11/01/2026|angel city fc vs boston legacy fc",
     "venue": "Dignity Health Sports Park",
     "day": "Sunday",
@@ -1150,15 +1132,6 @@
     "time": "TBA",
     "name": "LA Galaxy vs Austin FC",
     "link": "https://www.dignityhealthsportspark.com/events/detail/la-galaxy-vs-austin-fc-1"
-  },
-  {
-    "key": "rose bowl stadium|10/31/2026|nevada vs ucla",
-    "venue": "Rose Bowl Stadium",
-    "day": "Saturday",
-    "date": "10/31/2026",
-    "time": "1:15 PM",
-    "name": "NEVADA VS UCLA",
-    "link": "https://www.rosebowlstadium.com/events/details/629/nevada-vs-ucla"
   },
   {
     "key": "rose bowl stadium|11/03/2026|women's empowerment symposium",
@@ -1402,15 +1375,6 @@
     "time": "TBD",
     "name": "System Of A Down: Live At The Rose Bowl",
     "link": "https://www.rosebowlstadium.com/events/details/690/system-of-a-down:-live-at-the-rose-bowl"
-  },
-  {
-    "key": "crypto.com arena|10/31/2026|buffalo sabres vs los angeles kings",
-    "venue": "Crypto.com Arena",
-    "day": "Saturday",
-    "date": "10/31/2026",
-    "time": "1:00 PM",
-    "name": "Buffalo Sabres vs Los Angeles Kings",
-    "link": "https://www.cryptoarena.com/events/detail/kingssabres103126"
   },
   {
     "key": "crypto.com arena|11/01/2026|toronto raptors vs los angeles lakers",
@@ -2187,15 +2151,6 @@
     "link": "https://www.cryptoarena.com/events/detail/ncaawestregional2027"
   },
   {
-    "key": "l.a. memorial coliseum|10/31/2026|ohio state vs usc",
-    "venue": "L.A. Memorial Coliseum",
-    "day": "Saturday",
-    "date": "10/31/2026",
-    "time": "TBA",
-    "name": "Ohio State vs USC",
-    "link": "https://www.lacoliseum.com/events/ohio-state-vs-usc-2026/"
-  },
-  {
     "key": "l.a. memorial coliseum|11/21/2026|maryland vs usc",
     "venue": "L.A. Memorial Coliseum",
     "day": "Saturday",
@@ -2250,10 +2205,10 @@
     "link": "https://www.lacoliseum.com/events/usc-commencement-2027/"
   },
   {
-    "key": "la convention center|10/31/2026|l.a. comic con 2026",
+    "key": "la convention center|11/01/2026|l.a. comic con 2026",
     "venue": "LA Convention Center",
-    "day": "Saturday",
-    "date": "10/31/2026",
+    "day": "Sunday",
+    "date": "11/01/2026",
     "time": "TBA",
     "name": "L.A. Comic Con 2026",
     "link": "https://www.laconventioncenter.com/events/detail/la-comic-con-2026"
@@ -2527,15 +2482,6 @@
     "time": "7:10 PM",
     "name": "vs. San Diego Padres",
     "link": "https://www.mlb.com/gameday/823895"
-  },
-  {
-    "key": "hollywood bowl|10/31/2026|my chemical romance – thrice",
-    "venue": "Hollywood Bowl",
-    "day": "Saturday",
-    "date": "10/31/2026",
-    "time": "7:00 PM",
-    "name": "My Chemical Romance – Thrice",
-    "link": "https://www.hollywoodbowl.com/events/performances/4264/2026-10-31/my-chemical-romance"
   },
   {
     "key": "hollywood bowl|11/01/2026|aerosmith & friends – two nights only at the hollywood bowl",

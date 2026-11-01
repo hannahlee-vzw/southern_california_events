@@ -8388,5 +8388,75 @@
     "name": "My Chemical Romance – The Used",
     "link": "https://www.hollywoodbowl.com/events/performances/4263/2026-10-30/my-chemical-romance",
     "archived_on": "2026-10-31"
+  },
+  {
+    "key": "intuit dome|10/31/2026|phoebe bridgers",
+    "venue": "Intuit Dome",
+    "day": "Saturday",
+    "date": "10/31/2026",
+    "time": "7:30 PM",
+    "name": "Phoebe Bridgers",
+    "link": "https://www.intuitdome.com/events/event-schedule/4050?utm_source=IDwebsite&utm_medium=eventschedule&utm_campaign=IDevents26&utm_content=phoebe_bridgers_261031",
+    "archived_on": "2026-11-01"
+  },
+  {
+    "key": "dignity health sports park|10/31/2026|la galaxy vs austin fc",
+    "venue": "Dignity Health Sports Park",
+    "day": "Saturday",
+    "date": "10/31/2026",
+    "time": "TBA",
+    "name": "LA Galaxy vs Austin FC",
+    "link": "https://www.dignityhealthsportspark.com/events/detail/la-galaxy-vs-austin-fc",
+    "archived_on": "2026-11-01"
+  },
+  {
+    "key": "rose bowl stadium|10/31/2026|nevada vs ucla",
+    "venue": "Rose Bowl Stadium",
+    "day": "Saturday",
+    "date": "10/31/2026",
+    "time": "1:15 PM",
+    "name": "NEVADA VS UCLA",
+    "link": "https://www.rosebowlstadium.com/events/details/629/nevada-vs-ucla",
+    "archived_on": "2026-11-01"
+  },
+  {
+    "key": "crypto.com arena|10/31/2026|buffalo sabres vs los angeles kings",
+    "venue": "Crypto.com Arena",
+    "day": "Saturday",
+    "date": "10/31/2026",
+    "time": "1:00 PM",
+    "name": "Buffalo Sabres vs Los Angeles Kings",
+    "link": "https://www.cryptoarena.com/events/detail/kingssabres103126",
+    "archived_on": "2026-11-01"
+  },
+  {
+    "key": "l.a. memorial coliseum|10/31/2026|ohio state vs usc",
+    "venue": "L.A. Memorial Coliseum",
+    "day": "Saturday",
+    "date": "10/31/2026",
+    "time": "TBA",
+    "name": "Ohio State vs USC",
+    "link": "https://www.lacoliseum.com/events/ohio-state-vs-usc-2026/",
+    "archived_on": "2026-11-01"
+  },
+  {
+    "key": "la convention center|10/31/2026|l.a. comic con 2026",
+    "venue": "LA Convention Center",
+    "day": "Saturday",
+    "date": "10/31/2026",
+    "time": "TBA",
+    "name": "L.A. Comic Con 2026",
+    "link": "https://www.laconventioncenter.com/events/detail/la-comic-con-2026",
+    "archived_on": "2026-11-01"
+  },
+  {
+    "key": "hollywood bowl|10/31/2026|my chemical romance – thrice",
+    "venue": "Hollywood Bowl",
+    "day": "Saturday",
+    "date": "10/31/2026",
+    "time": "7:00 PM",
+    "name": "My Chemical Romance – Thrice",
+    "link": "https://www.hollywoodbowl.com/events/performances/4264/2026-10-31/my-chemical-romance",
+    "archived_on": "2026-11-01"
   }
 ]
