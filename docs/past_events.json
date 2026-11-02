@@ -8458,5 +8458,65 @@
     "name": "My Chemical Romance – Thrice",
     "link": "https://www.hollywoodbowl.com/events/performances/4264/2026-10-31/my-chemical-romance",
     "archived_on": "2026-11-01"
+  },
+  {
+    "key": "sofi stadium|11/01/2026|rams vs. chargers – week 8",
+    "venue": "SoFi Stadium",
+    "day": "Sunday",
+    "date": "11/01/2026",
+    "time": "1:05 PM",
+    "name": "Rams vs. Chargers – Week 8",
+    "link": "https://www.sofistadium.com/events/detail/rams-chargers-2026",
+    "archived_on": "2026-11-02"
+  },
+  {
+    "key": "intuit dome|11/01/2026|phoebe bridgers",
+    "venue": "Intuit Dome",
+    "day": "Sunday",
+    "date": "11/01/2026",
+    "time": "7:30 PM",
+    "name": "Phoebe Bridgers",
+    "link": "https://www.intuitdome.com/events/event-schedule/4051?utm_source=IDwebsite&utm_medium=eventschedule&utm_campaign=IDevents26&utm_content=phoebe_bridgers_261101",
+    "archived_on": "2026-11-02"
+  },
+  {
+    "key": "dignity health sports park|11/01/2026|angel city fc vs boston legacy fc",
+    "venue": "Dignity Health Sports Park",
+    "day": "Sunday",
+    "date": "11/01/2026",
+    "time": "TBA",
+    "name": "Angel City FC vs Boston Legacy FC",
+    "link": "https://www.dignityhealthsportspark.com/events/detail/angel-city-fc-vs-boston-legacy-fc",
+    "archived_on": "2026-11-02"
+  },
+  {
+    "key": "crypto.com arena|11/01/2026|toronto raptors vs los angeles lakers",
+    "venue": "Crypto.com Arena",
+    "day": "Sunday",
+    "date": "11/01/2026",
+    "time": "6:00 PM",
+    "name": "Toronto Raptors vs Los Angeles Lakers",
+    "link": "https://www.cryptoarena.com/events/detail/lakersraptors110126",
+    "archived_on": "2026-11-02"
+  },
+  {
+    "key": "la convention center|11/01/2026|l.a. comic con 2026",
+    "venue": "LA Convention Center",
+    "day": "Sunday",
+    "date": "11/01/2026",
+    "time": "TBA",
+    "name": "L.A. Comic Con 2026",
+    "link": "https://www.laconventioncenter.com/events/detail/la-comic-con-2026",
+    "archived_on": "2026-11-02"
+  },
+  {
+    "key": "hollywood bowl|11/01/2026|aerosmith & friends – two nights only at the hollywood bowl",
+    "venue": "Hollywood Bowl",
+    "day": "Sunday",
+    "date": "11/01/2026",
+    "time": "6:15 PM",
+    "name": "Aerosmith & Friends – Two Nights Only at the Hollywood Bowl",
+    "link": "https://www.hollywoodbowl.com/events/performances/4915/2026-11-01/aerosmith-friends",
+    "archived_on": "2026-11-02"
   }
 ]

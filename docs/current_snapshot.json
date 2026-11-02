@@ -1,14 +1,5 @@
 [
   {
-    "key": "sofi stadium|11/01/2026|rams vs. chargers – week 8",
-    "venue": "SoFi Stadium",
-    "day": "Sunday",
-    "date": "11/01/2026",
-    "time": "1:05 PM",
-    "name": "Rams vs. Chargers – Week 8",
-    "link": "https://www.sofistadium.com/events/detail/rams-chargers-2026"
-  },
-  {
     "key": "sofi stadium|11/08/2026|chargers vs. texans – week 9",
     "venue": "SoFi Stadium",
     "day": "Sunday",
@@ -142,15 +133,6 @@
     "time": "7:00 PM",
     "name": "Slipknot – (sic)est Stadium Tour",
     "link": "https://www.sofistadium.com/events/detail/skipknot-august-13"
-  },
-  {
-    "key": "intuit dome|11/01/2026|phoebe bridgers",
-    "venue": "Intuit Dome",
-    "day": "Sunday",
-    "date": "11/01/2026",
-    "time": "7:30 PM",
-    "name": "Phoebe Bridgers",
-    "link": "https://www.intuitdome.com/events/event-schedule/4051?utm_source=IDwebsite&utm_medium=eventschedule&utm_campaign=IDevents26&utm_content=phoebe_bridgers_261101"
   },
   {
     "key": "intuit dome|11/02/2026|toronto raptors vs la clippers",
@@ -675,6 +657,15 @@
     "link": "https://intuitdome.com/events/event-schedule/4305?type=games&utm_source=IDwebsite&utm_medium=eventdetail&utm_campaign=SGT_2627&utm_content=SGT2627_EST_270406"
   },
   {
+    "key": "intuit dome|04/10/2027|we them one's comedy tour",
+    "venue": "Intuit Dome",
+    "day": "Saturday",
+    "date": "04/10/2027",
+    "time": "8:00 PM",
+    "name": "We Them One's Comedy Tour",
+    "link": "https://www.intuitdome.com/events/event-schedule/4952?utm_source=IDwebsite&utm_medium=eventschedule&utm_campaign=IDevents26&utm_content=we_them_ones_comedy_tour_270410"
+  },
+  {
     "key": "intuit dome|04/11/2027|sacramento kings vs la clippers",
     "venue": "Intuit Dome",
     "day": "Sunday",
@@ -1044,15 +1035,6 @@
     "link": "https://thekiaforum.com/event/fontaines-d-c/"
   },
   {
-    "key": "dignity health sports park|11/01/2026|angel city fc vs boston legacy fc",
-    "venue": "Dignity Health Sports Park",
-    "day": "Sunday",
-    "date": "11/01/2026",
-    "time": "TBA",
-    "name": "Angel City FC vs Boston Legacy FC",
-    "link": "https://www.dignityhealthsportspark.com/events/detail/angel-city-fc-vs-boston-legacy-fc"
-  },
-  {
     "key": "dignity health sports park|11/07/2026|als walk",
     "venue": "Dignity Health Sports Park",
     "day": "Saturday",
@@ -1375,15 +1357,6 @@
     "time": "TBD",
     "name": "System Of A Down: Live At The Rose Bowl",
     "link": "https://www.rosebowlstadium.com/events/details/690/system-of-a-down:-live-at-the-rose-bowl"
-  },
-  {
-    "key": "crypto.com arena|11/01/2026|toronto raptors vs los angeles lakers",
-    "venue": "Crypto.com Arena",
-    "day": "Sunday",
-    "date": "11/01/2026",
-    "time": "6:00 PM",
-    "name": "Toronto Raptors vs Los Angeles Lakers",
-    "link": "https://www.cryptoarena.com/events/detail/lakersraptors110126"
   },
   {
     "key": "crypto.com arena|11/02/2026|miami heat vs los angeles lakers",
@@ -1845,6 +1818,15 @@
     "link": "https://www.cryptoarena.com/events/detail/lakersbulls021627"
   },
   {
+    "key": "crypto.com arena|02/17/2027|dc flight vs los angeles thunder",
+    "venue": "Crypto.com Arena",
+    "day": "Wednesday",
+    "date": "02/17/2027",
+    "time": "TBA",
+    "name": "DC Flight vs Los Angeles Thunder",
+    "link": "https://www.cryptoarena.com/events/detail/thunderflight27"
+  },
+  {
     "key": "crypto.com arena|02/18/2027|houston rockets vs los angeles lakers",
     "venue": "Crypto.com Arena",
     "day": "Thursday",
@@ -1935,6 +1917,15 @@
     "link": "https://www.cryptoarena.com/events/detail/lakersnets030727"
   },
   {
+    "key": "crypto.com arena|03/08/2027|columbus fury vs los angeles thunder",
+    "venue": "Crypto.com Arena",
+    "day": "Monday",
+    "date": "03/08/2027",
+    "time": "TBA",
+    "name": "Columbus Fury vs Los Angeles Thunder",
+    "link": "https://www.cryptoarena.com/events/detail/thunderfury27"
+  },
+  {
     "key": "crypto.com arena|03/11/2027|new york knicks vs los angeles lakers",
     "venue": "Crypto.com Arena",
     "day": "Thursday",
@@ -1969,6 +1960,15 @@
     "time": "7:00 PM",
     "name": "Golden State Warriors vs Los Angeles Lakers",
     "link": "https://www.cryptoarena.com/events/detail/lakerswarriors031427"
+  },
+  {
+    "key": "crypto.com arena|03/14/2027|norcal rumble vs los angeles thunder",
+    "venue": "Crypto.com Arena",
+    "day": "Sunday",
+    "date": "03/14/2027",
+    "time": "TBA",
+    "name": "NorCal Rumble vs Los Angeles Thunder",
+    "link": "https://www.cryptoarena.com/events/detail/thunderrumble27"
   },
   {
     "key": "crypto.com arena|03/16/2027|winnipeg jets vs los angeles kings",
@@ -2070,6 +2070,15 @@
     "link": "https://www.cryptoarena.com/events/detail/lakersspurs040427"
   },
   {
+    "key": "crypto.com arena|04/05/2027|vegas thrill vs los angeles thunder",
+    "venue": "Crypto.com Arena",
+    "day": "Monday",
+    "date": "04/05/2027",
+    "time": "TBA",
+    "name": "Vegas Thrill vs Los Angeles Thunder",
+    "link": "https://www.cryptoarena.com/events/detail/thunderthrill27"
+  },
+  {
     "key": "crypto.com arena|04/06/2027|dallas mavericks vs los angeles lakers",
     "venue": "Crypto.com Arena",
     "day": "Tuesday",
@@ -2104,6 +2113,15 @@
     "time": "7:00 PM",
     "name": "Minnesota Timberwolves vs Los Angeles Lakers",
     "link": "https://www.cryptoarena.com/events/detail/lakerswolves040927"
+  },
+  {
+    "key": "crypto.com arena|04/10/2027|los tigres del norte – tour 2027",
+    "venue": "Crypto.com Arena",
+    "day": "Saturday",
+    "date": "04/10/2027",
+    "time": "8:00 PM",
+    "name": "Los Tigres del Norte – Tour 2027",
+    "link": "https://www.cryptoarena.com/events/detail/lostigresdelnorte27"
   },
   {
     "key": "crypto.com arena|04/11/2027|phoenix suns vs los angeles lakers",
@@ -2203,15 +2221,6 @@
     "time": "TBA",
     "name": "USC Commencement",
     "link": "https://www.lacoliseum.com/events/usc-commencement-2027/"
-  },
-  {
-    "key": "la convention center|11/01/2026|l.a. comic con 2026",
-    "venue": "LA Convention Center",
-    "day": "Sunday",
-    "date": "11/01/2026",
-    "time": "TBA",
-    "name": "L.A. Comic Con 2026",
-    "link": "https://www.laconventioncenter.com/events/detail/la-comic-con-2026"
   },
   {
     "key": "la convention center|11/04/2026|build expo 2026",
