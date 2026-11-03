@@ -8518,5 +8518,25 @@
     "name": "Aerosmith & Friends – Two Nights Only at the Hollywood Bowl",
     "link": "https://www.hollywoodbowl.com/events/performances/4915/2026-11-01/aerosmith-friends",
     "archived_on": "2026-11-02"
+  },
+  {
+    "key": "intuit dome|11/02/2026|toronto raptors vs la clippers",
+    "venue": "Intuit Dome",
+    "day": "Monday",
+    "date": "11/02/2026",
+    "time": "7:00 PM",
+    "name": "Toronto Raptors vs LA Clippers",
+    "link": "https://intuitdome.com/events/event-schedule/4268?type=games&utm_source=IDwebsite&utm_medium=eventdetail&utm_campaign=SGT_2627&utm_content=SGT2627_EST_261102",
+    "archived_on": "2026-11-03"
+  },
+  {
+    "key": "crypto.com arena|11/02/2026|miami heat vs los angeles lakers",
+    "venue": "Crypto.com Arena",
+    "day": "Monday",
+    "date": "11/02/2026",
+    "time": "7:00 PM",
+    "name": "Miami Heat vs Los Angeles Lakers",
+    "link": "https://www.cryptoarena.com/events/detail/lakersheat110226",
+    "archived_on": "2026-11-03"
   }
 ]

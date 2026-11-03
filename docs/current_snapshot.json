@@ -117,6 +117,15 @@
     "link": "https://www.sofistadium.com/events/detail/super-bowl-lxi"
   },
   {
+    "key": "sofi stadium|03/13/2027|bigbang – 2026-2027 world tour",
+    "venue": "SoFi Stadium",
+    "day": "Saturday",
+    "date": "03/13/2027",
+    "time": "7:00 PM",
+    "name": "BIGBANG – 2026-2027 WORLD TOUR",
+    "link": "https://www.sofistadium.com/events/detail/bigbang-2027"
+  },
+  {
     "key": "sofi stadium|07/20/2027|zach bryan – young manhood and other donatable organs tour",
     "venue": "SoFi Stadium",
     "day": "Tuesday",
@@ -133,15 +142,6 @@
     "time": "7:00 PM",
     "name": "Slipknot – (sic)est Stadium Tour",
     "link": "https://www.sofistadium.com/events/detail/skipknot-august-13"
-  },
-  {
-    "key": "intuit dome|11/02/2026|toronto raptors vs la clippers",
-    "venue": "Intuit Dome",
-    "day": "Monday",
-    "date": "11/02/2026",
-    "time": "7:00 PM",
-    "name": "Toronto Raptors vs LA Clippers",
-    "link": "https://intuitdome.com/events/event-schedule/4268?type=games&utm_source=IDwebsite&utm_medium=eventdetail&utm_campaign=SGT_2627&utm_content=SGT2627_EST_261102"
   },
   {
     "key": "intuit dome|11/04/2026|miami heat vs la clippers",
@@ -1359,15 +1359,6 @@
     "link": "https://www.rosebowlstadium.com/events/details/690/system-of-a-down:-live-at-the-rose-bowl"
   },
   {
-    "key": "crypto.com arena|11/02/2026|miami heat vs los angeles lakers",
-    "venue": "Crypto.com Arena",
-    "day": "Monday",
-    "date": "11/02/2026",
-    "time": "7:00 PM",
-    "name": "Miami Heat vs Los Angeles Lakers",
-    "link": "https://www.cryptoarena.com/events/detail/lakersheat110226"
-  },
-  {
     "key": "crypto.com arena|11/04/2026|san jose sharks vs los angeles kings",
     "venue": "Crypto.com Arena",
     "day": "Wednesday",
@@ -1836,6 +1827,15 @@
     "link": "https://www.cryptoarena.com/events/detail/lakersrockets021827"
   },
   {
+    "key": "crypto.com arena|02/19/2027|karan aujla – p-pop culture tour with special guest ikky",
+    "venue": "Crypto.com Arena",
+    "day": "Friday",
+    "date": "02/19/2027",
+    "time": "7:00 PM",
+    "name": "Karan Aujla – P-POP CULTURE TOUR with special guest Ikky",
+    "link": "https://www.cryptoarena.com/events/detail/karanaujla110926"
+  },
+  {
     "key": "crypto.com arena|02/20/2027|seattle kraken vs los angeles kings",
     "venue": "Crypto.com Arena",
     "day": "Saturday",
@@ -2149,15 +2149,6 @@
     "time": "TBA",
     "name": "Hot Wheels Stunt Show",
     "link": "https://www.cryptoarena.com/events/detail/hotwheelsstuntshow27"
-  },
-  {
-    "key": "crypto.com arena|TBA|karan aujla - postponed – p-pop culture tour with special guest ikky",
-    "venue": "Crypto.com Arena",
-    "day": "TBA",
-    "date": "TBA",
-    "time": "TBA",
-    "name": "Karan Aujla - Postponed – P-POP CULTURE TOUR with special guest Ikky",
-    "link": "https://www.cryptoarena.com/events/detail/karanaujla110926"
   },
   {
     "key": "crypto.com arena|TBA|ncaa west regional",
@@ -2619,15 +2610,6 @@
     "link": "https://www.ticketmaster.com/tinashe-one-night-with-a-popstar-hollywood-california-11-07-2026/event/090064F499E14E53"
   },
   {
-    "key": "hollywood palladium|11/11/2026|turnover - down on earth tour",
-    "venue": "Hollywood Palladium",
-    "day": "Wednesday",
-    "date": "11/11/2026",
-    "time": "6:30 PM",
-    "name": "Turnover - Down On Earth Tour",
-    "link": "https://www.ticketmaster.com/turnover-down-on-earth-tour-hollywood-california-11-11-2026/event/090064D2BD80BA7E"
-  },
-  {
     "key": "hollywood palladium|11/12/2026|sabaton: legends on tour",
     "venue": "Hollywood Palladium",
     "day": "Thursday",
@@ -2925,6 +2907,15 @@
     "link": "https://www.ticketmaster.com/haywire-hollywood-california-03-11-2027/event/0900654ED64ED90C"
   },
   {
+    "key": "hollywood palladium|03/13/2027|liquid stranger presents: electric helix",
+    "venue": "Hollywood Palladium",
+    "day": "Saturday",
+    "date": "03/13/2027",
+    "time": "8:00 PM",
+    "name": "Liquid Stranger Presents: Electric Helix",
+    "link": "https://www.ticketmaster.com/liquid-stranger-presents-electric-helix-hollywood-california-03-13-2027/event/0900655BEDE521B0"
+  },
+  {
     "key": "hollywood palladium|03/14/2027|chvrches: live 2027",
     "venue": "Hollywood Palladium",
     "day": "Sunday",
@@ -2950,6 +2941,15 @@
     "time": "6:00 PM",
     "name": "The Plot In You: WORLD TOUR: PART 1",
     "link": "https://www.ticketmaster.com/the-plot-in-you-world-tour-hollywood-california-03-20-2027/event/09006557006EF5EB"
+  },
+  {
+    "key": "hollywood palladium|04/02/2027|poison the well & alexisonfire",
+    "venue": "Hollywood Palladium",
+    "day": "Friday",
+    "date": "04/02/2027",
+    "time": "6:00 PM",
+    "name": "POISON THE WELL & ALEXISONFIRE",
+    "link": "https://www.ticketmaster.com/poison-the-well-alexisonfire-hollywood-california-04-02-2027/event/0900655BD03AEB96"
   },
   {
     "key": "hollywood palladium|04/04/2027|nothing but thieves: the stray dogs world tour",
