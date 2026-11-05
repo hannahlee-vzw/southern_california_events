@@ -144,15 +144,6 @@
     "link": "https://www.sofistadium.com/events/detail/skipknot-august-13"
   },
   {
-    "key": "intuit dome|11/04/2026|miami heat vs la clippers",
-    "venue": "Intuit Dome",
-    "day": "Wednesday",
-    "date": "11/04/2026",
-    "time": "7:30 PM",
-    "name": "Miami Heat vs LA Clippers",
-    "link": "https://intuitdome.com/events/event-schedule/4269?type=games&utm_source=IDwebsite&utm_medium=eventdetail&utm_campaign=SGT_2627&utm_content=SGT2627_EST_261104"
-  },
-  {
     "key": "intuit dome|11/08/2026|new orleans pelicans vs la clippers",
     "venue": "Intuit Dome",
     "day": "Sunday",
@@ -1116,11 +1107,11 @@
     "link": "https://www.dignityhealthsportspark.com/events/detail/la-galaxy-vs-austin-fc-1"
   },
   {
-    "key": "rose bowl stadium|11/04/2026|women's empowerment symposium",
+    "key": "rose bowl stadium|11/05/2026|women's empowerment symposium",
     "venue": "Rose Bowl Stadium",
-    "day": "Wednesday",
-    "date": "11/04/2026",
-    "time": "TBA",
+    "day": "Thursday",
+    "date": "11/05/2026",
+    "time": "2:30 PM",
     "name": "Women's Empowerment Symposium",
     "link": "https://www.rosebowlstadium.com/events/details/682/women's-empowerment-symposium"
   },
@@ -1357,15 +1348,6 @@
     "time": "TBD",
     "name": "System Of A Down: Live At The Rose Bowl",
     "link": "https://www.rosebowlstadium.com/events/details/690/system-of-a-down:-live-at-the-rose-bowl"
-  },
-  {
-    "key": "crypto.com arena|11/04/2026|san jose sharks vs los angeles kings",
-    "venue": "Crypto.com Arena",
-    "day": "Wednesday",
-    "date": "11/04/2026",
-    "time": "7:00 PM",
-    "name": "San Jose Sharks vs Los Angeles Kings",
-    "link": "https://www.cryptoarena.com/events/detail/kingssharks110426"
   },
   {
     "key": "crypto.com arena|11/05/2026|xg world tour: the core in los angeles",
@@ -2214,10 +2196,10 @@
     "link": "https://www.lacoliseum.com/events/usc-commencement-2027/"
   },
   {
-    "key": "la convention center|11/04/2026|build expo 2026",
+    "key": "la convention center|11/05/2026|build expo 2026",
     "venue": "LA Convention Center",
-    "day": "Wednesday",
-    "date": "11/04/2026",
+    "day": "Thursday",
+    "date": "11/05/2026",
     "time": "TBA",
     "name": "Build Expo 2026",
     "link": "https://www.laconventioncenter.com/events/detail/build-expo-2026"
