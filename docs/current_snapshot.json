@@ -157,7 +157,7 @@
     "venue": "Intuit Dome",
     "day": "Thursday",
     "date": "11/12/2026",
-    "time": "8:00 PM",
+    "time": "7:00 PM",
     "name": "Wild 'N Out Live - The Next Generation",
     "link": "https://www.intuitdome.com/events/event-schedule/4657?utm_source=IDwebsite&utm_medium=eventschedule&utm_campaign=IDevents26&utm_content=wild_n_out_live_261112"
   },
@@ -654,7 +654,7 @@
     "date": "04/10/2027",
     "time": "8:00 PM",
     "name": "We Them One's Comedy Tour",
-    "link": "https://www.intuitdome.com/events/event-schedule/4952?utm_source=IDwebsite&utm_medium=eventschedule&utm_campaign=IDevents26&utm_content=we_them_ones_comedy_tour_270410"
+    "link": "https://www.intuitdome.com/events/event-schedule/4952?utm_source=IDwebsite&utm_medium=eventschedule&utm_campaign=IDevents27&utm_content=we_them_ones_comedy_tour_270410"
   },
   {
     "key": "intuit dome|04/11/2027|sacramento kings vs la clippers",
@@ -664,6 +664,15 @@
     "time": "5:30 PM",
     "name": "Sacramento Kings vs LA Clippers",
     "link": "https://intuitdome.com/events/event-schedule/4306?type=games&utm_source=IDwebsite&utm_medium=eventdetail&utm_campaign=SGT_2627&utm_content=SGT2627_EST_270411"
+  },
+  {
+    "key": "intuit dome|04/29/2027|feid",
+    "venue": "Intuit Dome",
+    "day": "Thursday",
+    "date": "04/29/2027",
+    "time": "8:00 PM",
+    "name": "Feid",
+    "link": "https://www.intuitdome.com/events/event-schedule/4977?utm_source=IDwebsite&utm_medium=eventschedule&utm_campaign=IDevents27&utm_content=feid_270429"
   },
   {
     "key": "intuit dome|09/24/2027|laver cup 2027",
@@ -909,6 +918,15 @@
     "link": "https://thekiaforum.com/event/elevation-worship-steven-furtick/"
   },
   {
+    "key": "kia forum|03/13/2027|bigbang",
+    "venue": "Kia Forum",
+    "day": "Saturday",
+    "date": "03/13/2027",
+    "time": "7:00 PM",
+    "name": "BIGBANG",
+    "link": "https://thekiaforum.com/event/bigbang/"
+  },
+  {
     "key": "kia forum|04/22/2027|carly rae jepsen – day and night tour",
     "venue": "Kia Forum",
     "day": "Thursday",
@@ -1017,6 +1035,15 @@
     "link": "https://thekiaforum.com/event/lizzy-mcalpine/"
   },
   {
+    "key": "kia forum|09/18/2027|kings of leon",
+    "venue": "Kia Forum",
+    "day": "Saturday",
+    "date": "09/18/2027",
+    "time": "7:00 PM",
+    "name": "KINGS OF LEON",
+    "link": "https://thekiaforum.com/event/kings-of-leon/"
+  },
+  {
     "key": "kia forum|10/15/2027|fontaines d.c.",
     "venue": "Kia Forum",
     "day": "Friday",
@@ -1105,15 +1132,6 @@
     "time": "TBA",
     "name": "LA Galaxy vs Austin FC",
     "link": "https://www.dignityhealthsportspark.com/events/detail/la-galaxy-vs-austin-fc-1"
-  },
-  {
-    "key": "rose bowl stadium|11/05/2026|women's empowerment symposium",
-    "venue": "Rose Bowl Stadium",
-    "day": "Thursday",
-    "date": "11/05/2026",
-    "time": "2:30 PM",
-    "name": "Women's Empowerment Symposium",
-    "link": "https://www.rosebowlstadium.com/events/details/682/women's-empowerment-symposium"
   },
   {
     "key": "rose bowl stadium|11/07/2026|moby + underworld",
@@ -1348,15 +1366,6 @@
     "time": "TBD",
     "name": "System Of A Down: Live At The Rose Bowl",
     "link": "https://www.rosebowlstadium.com/events/details/690/system-of-a-down:-live-at-the-rose-bowl"
-  },
-  {
-    "key": "crypto.com arena|11/05/2026|xg world tour: the core in los angeles",
-    "venue": "Crypto.com Arena",
-    "day": "Thursday",
-    "date": "11/05/2026",
-    "time": "8:00 PM",
-    "name": "XG WORLD TOUR: THE CORE IN LOS ANGELES",
-    "link": "https://www.cryptoarena.com/events/detail/xg-110526"
   },
   {
     "key": "crypto.com arena|11/06/2026|portland trail blazers vs los angeles lakers – emirates nba cup",
@@ -2194,15 +2203,6 @@
     "time": "TBA",
     "name": "USC Commencement",
     "link": "https://www.lacoliseum.com/events/usc-commencement-2027/"
-  },
-  {
-    "key": "la convention center|11/05/2026|build expo 2026",
-    "venue": "LA Convention Center",
-    "day": "Thursday",
-    "date": "11/05/2026",
-    "time": "TBA",
-    "name": "Build Expo 2026",
-    "link": "https://www.laconventioncenter.com/events/detail/build-expo-2026"
   },
   {
     "key": "la convention center|11/20/2026|la auto show 2026",

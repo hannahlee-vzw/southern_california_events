@@ -8588,5 +8588,35 @@
     "name": "Build Expo 2026",
     "link": "https://www.laconventioncenter.com/events/detail/build-expo-2026",
     "archived_on": "2026-11-05"
+  },
+  {
+    "key": "rose bowl stadium|11/05/2026|women's empowerment symposium",
+    "venue": "Rose Bowl Stadium",
+    "day": "Thursday",
+    "date": "11/05/2026",
+    "time": "2:30 PM",
+    "name": "Women's Empowerment Symposium",
+    "link": "https://www.rosebowlstadium.com/events/details/682/women's-empowerment-symposium",
+    "archived_on": "2026-11-06"
+  },
+  {
+    "key": "crypto.com arena|11/05/2026|xg world tour: the core in los angeles",
+    "venue": "Crypto.com Arena",
+    "day": "Thursday",
+    "date": "11/05/2026",
+    "time": "8:00 PM",
+    "name": "XG WORLD TOUR: THE CORE IN LOS ANGELES",
+    "link": "https://www.cryptoarena.com/events/detail/xg-110526",
+    "archived_on": "2026-11-06"
+  },
+  {
+    "key": "la convention center|11/05/2026|build expo 2026",
+    "venue": "LA Convention Center",
+    "day": "Thursday",
+    "date": "11/05/2026",
+    "time": "TBA",
+    "name": "Build Expo 2026",
+    "link": "https://www.laconventioncenter.com/events/detail/build-expo-2026",
+    "archived_on": "2026-11-06"
   }
 ]
