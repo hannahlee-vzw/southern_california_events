@@ -8618,5 +8618,55 @@
     "name": "Build Expo 2026",
     "link": "https://www.laconventioncenter.com/events/detail/build-expo-2026",
     "archived_on": "2026-11-06"
+  },
+  {
+    "key": "kia forum|11/06/2026|don omar – the last king world tour",
+    "venue": "Kia Forum",
+    "day": "Friday",
+    "date": "11/06/2026",
+    "time": "7:00 PM",
+    "name": "DON OMAR – The Last King World Tour",
+    "link": "https://thekiaforum.com/event/don-omar/",
+    "archived_on": "2026-11-07"
+  },
+  {
+    "key": "crypto.com arena|11/06/2026|portland trail blazers vs los angeles lakers – emirates nba cup",
+    "venue": "Crypto.com Arena",
+    "day": "Friday",
+    "date": "11/06/2026",
+    "time": "7:00 PM",
+    "name": "Portland Trail Blazers vs Los Angeles Lakers – Emirates NBA Cup",
+    "link": "https://www.cryptoarena.com/events/detail/lakersblazers110626",
+    "archived_on": "2026-11-07"
+  },
+  {
+    "key": "hollywood palladium|11/06/2026|carl cox",
+    "venue": "Hollywood Palladium",
+    "day": "Friday",
+    "date": "11/06/2026",
+    "time": "7:00 PM",
+    "name": "Carl Cox",
+    "link": "https://www.ticketmaster.com/carl-cox-hollywood-california-11-06-2026/event/09006503777A2802",
+    "archived_on": "2026-11-07"
+  },
+  {
+    "key": "long beach convention center|11/06/2026|miel san marcos conference 2026",
+    "venue": "Long Beach Convention Center",
+    "day": "Friday",
+    "date": "11/06/2026",
+    "time": "TBA",
+    "name": "Miel San Marcos Conference 2026",
+    "link": "https://www.lbentertainmentcenter.com/events/miel-san-marcos/",
+    "archived_on": "2026-11-07"
+  },
+  {
+    "key": "long beach convention center|11/06/2026|iaem 74th annual conference & emex",
+    "venue": "Long Beach Convention Center",
+    "day": "Friday",
+    "date": "11/06/2026",
+    "time": "TBA",
+    "name": "IAEM 74th Annual Conference & EMEX",
+    "link": "https://www.lbentertainmentcenter.com/events/iaem-annual-conference/",
+    "archived_on": "2026-11-07"
   }
 ]
