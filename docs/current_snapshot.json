@@ -702,15 +702,6 @@
     "link": "https://www.intuitdome.com/events/event-schedule"
   },
   {
-    "key": "kia forum|11/07/2026|mon laferte – femme fatale tour",
-    "venue": "Kia Forum",
-    "day": "Saturday",
-    "date": "11/07/2026",
-    "time": "7:00 PM",
-    "name": "MON LAFERTE – Femme Fatale Tour",
-    "link": "https://thekiaforum.com/event/mon-laferte/"
-  },
-  {
     "key": "kia forum|11/08/2026|mon laferte – femme fatale tour",
     "venue": "Kia Forum",
     "day": "Sunday",
@@ -1035,15 +1026,6 @@
     "link": "https://thekiaforum.com/event/fontaines-d-c/"
   },
   {
-    "key": "dignity health sports park|11/07/2026|als walk",
-    "venue": "Dignity Health Sports Park",
-    "day": "Saturday",
-    "date": "11/07/2026",
-    "time": "TBA",
-    "name": "ALS Walk",
-    "link": "https://www.dignityhealthsportspark.com/events/detail/als-walk"
-  },
-  {
     "key": "dignity health sports park|11/14/2026|matchroom boxing presents: diego pacheco vs darius fulghum",
     "venue": "Dignity Health Sports Park",
     "day": "Saturday",
@@ -1114,15 +1096,6 @@
     "time": "TBA",
     "name": "LA Galaxy vs Austin FC",
     "link": "https://www.dignityhealthsportspark.com/events/detail/la-galaxy-vs-austin-fc-1"
-  },
-  {
-    "key": "rose bowl stadium|11/07/2026|moby + underworld",
-    "venue": "Rose Bowl Stadium",
-    "day": "Saturday",
-    "date": "11/07/2026",
-    "time": "4:00 PM",
-    "name": "Moby + Underworld",
-    "link": "https://www.rosebowlstadium.com/events/details/672/moby-%2B-underworld"
   },
   {
     "key": "rose bowl stadium|11/08/2026|rose bowl flea market",
@@ -1348,15 +1321,6 @@
     "time": "TBD",
     "name": "System Of A Down: Live At The Rose Bowl",
     "link": "https://www.rosebowlstadium.com/events/details/690/system-of-a-down:-live-at-the-rose-bowl"
-  },
-  {
-    "key": "crypto.com arena|11/07/2026|pittsburgh penguins vs los angeles kings",
-    "venue": "Crypto.com Arena",
-    "day": "Saturday",
-    "date": "11/07/2026",
-    "time": "6:00 PM",
-    "name": "Pittsburgh Penguins vs Los Angeles Kings",
-    "link": "https://www.cryptoarena.com/events/detail/kingspenguins110726"
   },
   {
     "key": "crypto.com arena|11/10/2026|nashville predators vs los angeles kings",
@@ -2547,15 +2511,6 @@
     "link": "https://www.hollywoodbowl.com/events/performances/4909/2027-08-25/the-legend-of-zelda"
   },
   {
-    "key": "hollywood palladium|11/07/2026|tinashe - one night with a popstar",
-    "venue": "Hollywood Palladium",
-    "day": "Saturday",
-    "date": "11/07/2026",
-    "time": "7:00 PM",
-    "name": "TINASHE - ONE NIGHT WITH A POPSTAR",
-    "link": "https://www.ticketmaster.com/tinashe-one-night-with-a-popstar-hollywood-california-11-07-2026/event/090064F499E14E53"
-  },
-  {
     "key": "hollywood palladium|11/12/2026|sabaton: legends on tour",
     "venue": "Hollywood Palladium",
     "day": "Thursday",
@@ -3132,13 +3087,13 @@
     "link": "https://www.lbentertainmentcenter.com/events/hillary-clinton/"
   },
   {
-    "key": "long beach convention center|11/06/2027|miel san marcos conference 2026",
+    "key": "long beach convention center|03/06/2027|heaven & earth",
     "venue": "Long Beach Convention Center",
     "day": "Saturday",
-    "date": "11/06/2027",
+    "date": "03/06/2027",
     "time": "TBA",
-    "name": "Miel San Marcos Conference 2026",
-    "link": "https://www.lbentertainmentcenter.com/events/miel-san-marcos/"
+    "name": "Heaven & Earth",
+    "link": "https://www.lbentertainmentcenter.com/events/heaven-and-earth/"
   },
   {
     "key": "long beach convention center|11/06/2027|iaem 74th annual conference & emex",
