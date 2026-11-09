@@ -1,14 +1,5 @@
 [
   {
-    "key": "sofi stadium|11/08/2026|chargers vs. texans – week 9",
-    "venue": "SoFi Stadium",
-    "day": "Sunday",
-    "date": "11/08/2026",
-    "time": "1:05 PM",
-    "name": "Chargers vs. Texans – Week 9",
-    "link": "https://www.sofistadium.com/events/detail/chargers-texans-2026"
-  },
-  {
     "key": "sofi stadium|11/15/2026|the r&b tour - starring usher raymond & chris brown",
     "venue": "SoFi Stadium",
     "day": "Sunday",
@@ -126,6 +117,15 @@
     "link": "https://www.sofistadium.com/events/detail/bigbang-2027"
   },
   {
+    "key": "sofi stadium|05/29/2027|stray kids – stray kids world tour < run it los angeles >",
+    "venue": "SoFi Stadium",
+    "day": "Saturday",
+    "date": "05/29/2027",
+    "time": "7:00 PM",
+    "name": "Stray Kids – Stray Kids World Tour < RUN IT LOS ANGELES >",
+    "link": "https://www.sofistadium.com/events/detail/straykids-2027"
+  },
+  {
     "key": "sofi stadium|07/20/2027|zach bryan – young manhood and other donatable organs tour",
     "venue": "SoFi Stadium",
     "day": "Tuesday",
@@ -142,15 +142,6 @@
     "time": "7:00 PM",
     "name": "Slipknot – (sic)est Stadium Tour",
     "link": "https://www.sofistadium.com/events/detail/skipknot-august-13"
-  },
-  {
-    "key": "intuit dome|11/08/2026|new orleans pelicans vs la clippers",
-    "venue": "Intuit Dome",
-    "day": "Sunday",
-    "date": "11/08/2026",
-    "time": "6:00 PM",
-    "name": "New Orleans Pelicans vs LA Clippers",
-    "link": "https://intuitdome.com/events/event-schedule/4270?type=games&utm_source=IDwebsite&utm_medium=eventdetail&utm_campaign=SGT_2627&utm_content=SGT2627_EST_261108"
   },
   {
     "key": "intuit dome|11/12/2026|wild 'n out live - the next generation",
@@ -184,7 +175,7 @@
     "venue": "Intuit Dome",
     "day": "Tuesday",
     "date": "11/17/2026",
-    "time": "8:00 PM",
+    "time": "7:30 PM",
     "name": "Utah Jazz vs LA Clippers",
     "link": "https://intuitdome.com/events/event-schedule/4274?type=games&utm_source=IDwebsite&utm_medium=eventdetail&utm_campaign=SGT_2627&utm_content=SGT2627_EST_261117"
   },
@@ -319,7 +310,7 @@
     "venue": "Intuit Dome",
     "day": "Monday",
     "date": "01/11/2027",
-    "time": "7:00 PM",
+    "time": "7:30 PM",
     "name": "Los Angeles Lakers vs LA Clippers",
     "link": "https://intuitdome.com/events/event-schedule/4284?type=games&utm_source=IDwebsite&utm_medium=eventdetail&utm_campaign=SGT_2627&utm_content=SGT2627_EST_270111"
   },
@@ -700,15 +691,6 @@
     "time": "12:00 PM",
     "name": "Laver Cup 2027",
     "link": "https://www.intuitdome.com/events/event-schedule"
-  },
-  {
-    "key": "kia forum|11/08/2026|mon laferte – femme fatale tour",
-    "venue": "Kia Forum",
-    "day": "Sunday",
-    "date": "11/08/2026",
-    "time": "7:00 PM",
-    "name": "MON LAFERTE – Femme Fatale Tour",
-    "link": "https://thekiaforum.com/event/mon-laferte-2/"
   },
   {
     "key": "kia forum|11/09/2026|jessie reyez – a little vengeance tour",
@@ -1098,15 +1080,6 @@
     "link": "https://www.dignityhealthsportspark.com/events/detail/la-galaxy-vs-austin-fc-1"
   },
   {
-    "key": "rose bowl stadium|11/08/2026|rose bowl flea market",
-    "venue": "Rose Bowl Stadium",
-    "day": "Sunday",
-    "date": "11/08/2026",
-    "time": "5:00 AM",
-    "name": "ROSE BOWL FLEA MARKET",
-    "link": "https://www.rosebowlstadium.com/events/details/606/rose-bowl-flea-market"
-  },
-  {
     "key": "rose bowl stadium|11/13/2026|illinois vs ucla",
     "venue": "Rose Bowl Stadium",
     "day": "Friday",
@@ -1354,7 +1327,7 @@
     "venue": "Crypto.com Arena",
     "day": "Tuesday",
     "date": "11/17/2026",
-    "time": "7:00 PM",
+    "time": "8:00 PM",
     "name": "Charlotte Hornets vs Los Angeles Lakers",
     "link": "https://www.cryptoarena.com/events/detail/lakershornets111726"
   },
@@ -2842,6 +2815,15 @@
     "time": "6:00 PM",
     "name": "The Plot In You: WORLD TOUR: PART 1",
     "link": "https://www.ticketmaster.com/the-plot-in-you-world-tour-hollywood-california-03-20-2027/event/09006557006EF5EB"
+  },
+  {
+    "key": "hollywood palladium|04/01/2027|dashboard confessional",
+    "venue": "Hollywood Palladium",
+    "day": "Thursday",
+    "date": "04/01/2027",
+    "time": "7:00 PM",
+    "name": "Dashboard Confessional",
+    "link": "https://www.ticketmaster.com/dashboard-confessional-hollywood-california-04-01-2027/event/0900656599338BCD"
   },
   {
     "key": "hollywood palladium|04/02/2027|poison the well & alexisonfire",
