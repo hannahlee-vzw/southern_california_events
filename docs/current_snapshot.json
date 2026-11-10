@@ -693,15 +693,6 @@
     "link": "https://www.intuitdome.com/events/event-schedule"
   },
   {
-    "key": "kia forum|11/09/2026|jessie reyez – a little vengeance tour",
-    "venue": "Kia Forum",
-    "day": "Monday",
-    "date": "11/09/2026",
-    "time": "7:00 PM",
-    "name": "JESSIE REYEZ – A Little Vengeance Tour",
-    "link": "https://thekiaforum.com/event/jessie-reyez/"
-  },
-  {
     "key": "kia forum|11/12/2026|the smashing pumpkins – the rats in a cage tour",
     "venue": "Kia Forum",
     "day": "Thursday",
@@ -2581,6 +2572,15 @@
     "time": "7:00 PM",
     "name": "Meek Mill: Dream Chasers Nights",
     "link": "https://www.ticketmaster.com/meek-mill-dream-chasers-nights-hollywood-california-11-29-2026/event/09006550EDCC51CA"
+  },
+  {
+    "key": "hollywood palladium|12/01/2026|the basement series - vinyl room @ the palladium",
+    "venue": "Hollywood Palladium",
+    "day": "Tuesday",
+    "date": "12/01/2026",
+    "time": "8:00 PM",
+    "name": "The Basement Series - Vinyl Room @ the Palladium",
+    "link": "https://www.ticketmaster.com/the-basement-series-vinyl-room-the-hollywood-california-12-01-2026/event/0900656A8F1C6F55"
   },
   {
     "key": "hollywood palladium|12/04/2026|fetty wap: nostalgia tour",
