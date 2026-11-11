@@ -9,15 +9,6 @@
     "link": "https://www.sofistadium.com/events/detail/chris-brown-usher-november-15"
   },
   {
-    "key": "sofi stadium|11/16/2026|the r&b tour - starring usher raymond & chris brown",
-    "venue": "SoFi Stadium",
-    "day": "Monday",
-    "date": "11/16/2026",
-    "time": "7:30 PM",
-    "name": "The R&B Tour - Starring Usher Raymond & Chris Brown",
-    "link": "https://www.sofistadium.com/events/detail/chris-brown-usher-november-16"
-  },
-  {
     "key": "sofi stadium|11/22/2026|chargers vs. jets – week 11",
     "venue": "SoFi Stadium",
     "day": "Sunday",
@@ -115,6 +106,24 @@
     "time": "7:00 PM",
     "name": "BIGBANG – 2026-2027 WORLD TOUR",
     "link": "https://www.sofistadium.com/events/detail/bigbang-2027"
+  },
+  {
+    "key": "sofi stadium|03/25/2027|concacaf nations league finals - semifinals",
+    "venue": "SoFi Stadium",
+    "day": "Thursday",
+    "date": "03/25/2027",
+    "time": "4:00 PM",
+    "name": "Concacaf Nations League Finals - Semifinals",
+    "link": "https://www.sofistadium.com/events/detail/concacaf-nations-league-2027-semifinals-1"
+  },
+  {
+    "key": "sofi stadium|03/28/2027|concacaf nations league finals",
+    "venue": "SoFi Stadium",
+    "day": "Sunday",
+    "date": "03/28/2027",
+    "time": "7:00 PM",
+    "name": "Concacaf Nations League Finals",
+    "link": "https://www.sofistadium.com/events/detail/concacaf-nations-league-2027-final-1"
   },
   {
     "key": "sofi stadium|05/29/2027|stray kids – stray kids world tour < run it los angeles >",
@@ -670,7 +679,7 @@
     "venue": "Intuit Dome",
     "day": "Friday",
     "date": "09/24/2027",
-    "time": "12:00 PM",
+    "time": "1:00 PM",
     "name": "Laver Cup 2027",
     "link": "https://www.intuitdome.com/events/event-schedule"
   },
@@ -1285,15 +1294,6 @@
     "time": "TBD",
     "name": "System Of A Down: Live At The Rose Bowl",
     "link": "https://www.rosebowlstadium.com/events/details/690/system-of-a-down:-live-at-the-rose-bowl"
-  },
-  {
-    "key": "crypto.com arena|11/10/2026|nashville predators vs los angeles kings",
-    "venue": "Crypto.com Arena",
-    "day": "Tuesday",
-    "date": "11/10/2026",
-    "time": "7:00 PM",
-    "name": "Nashville Predators vs Los Angeles Kings",
-    "link": "https://www.cryptoarena.com/events/detail/kingspreds111026"
   },
   {
     "key": "crypto.com arena|11/12/2026|new york islanders vs los angeles kings",
@@ -2817,13 +2817,13 @@
     "link": "https://www.ticketmaster.com/the-plot-in-you-world-tour-hollywood-california-03-20-2027/event/09006557006EF5EB"
   },
   {
-    "key": "hollywood palladium|04/01/2027|dashboard confessional",
+    "key": "hollywood palladium|04/01/2027|dashboard confessional - unplugged 25th anniversary",
     "venue": "Hollywood Palladium",
     "day": "Thursday",
     "date": "04/01/2027",
     "time": "7:00 PM",
-    "name": "Dashboard Confessional",
-    "link": "https://www.ticketmaster.com/dashboard-confessional-hollywood-california-04-01-2027/event/0900656599338BCD"
+    "name": "Dashboard Confessional - Unplugged 25th Anniversary",
+    "link": "https://www.ticketmaster.com/dashboard-confessional-unplugged-25th-anniversary-hollywood-california-04-01-2027/event/0900656599338BCD"
   },
   {
     "key": "hollywood palladium|04/02/2027|poison the well & alexisonfire",
