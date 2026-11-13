@@ -153,15 +153,6 @@
     "link": "https://www.sofistadium.com/events/detail/skipknot-august-13"
   },
   {
-    "key": "intuit dome|11/12/2026|wild 'n out live - the next generation",
-    "venue": "Intuit Dome",
-    "day": "Thursday",
-    "date": "11/12/2026",
-    "time": "7:00 PM",
-    "name": "Wild 'N Out Live - The Next Generation",
-    "link": "https://www.intuitdome.com/events/event-schedule/4657?utm_source=IDwebsite&utm_medium=eventschedule&utm_campaign=IDevents26&utm_content=wild_n_out_live_261112"
-  },
-  {
     "key": "intuit dome|11/13/2026|oklahoma city thunder vs la clippers",
     "venue": "Intuit Dome",
     "day": "Friday",
@@ -700,15 +691,6 @@
     "time": "12:00 PM",
     "name": "Laver Cup 2027",
     "link": "https://www.intuitdome.com/events/event-schedule"
-  },
-  {
-    "key": "kia forum|11/12/2026|the smashing pumpkins – the rats in a cage tour",
-    "venue": "Kia Forum",
-    "day": "Thursday",
-    "date": "11/12/2026",
-    "time": "7:00 PM",
-    "name": "THE SMASHING PUMPKINS – The Rats In A Cage Tour",
-    "link": "https://thekiaforum.com/event/the-smashing-pumpkins/"
   },
   {
     "key": "kia forum|11/13/2026|slayer – reign in blood 40th anniversary",
@@ -1294,15 +1276,6 @@
     "time": "TBD",
     "name": "System Of A Down: Live At The Rose Bowl",
     "link": "https://www.rosebowlstadium.com/events/details/690/system-of-a-down:-live-at-the-rose-bowl"
-  },
-  {
-    "key": "crypto.com arena|11/12/2026|new york islanders vs los angeles kings",
-    "venue": "Crypto.com Arena",
-    "day": "Thursday",
-    "date": "11/12/2026",
-    "time": "7:00 PM",
-    "name": "New York Islanders vs Los Angeles Kings",
-    "link": "https://www.cryptoarena.com/events/detail/kingsislanders111226"
   },
   {
     "key": "crypto.com arena|11/14/2026|calgary flames vs los angeles kings",
@@ -2043,6 +2016,15 @@
     "link": "https://www.cryptoarena.com/events/detail/hotwheelsstuntshow27"
   },
   {
+    "key": "crypto.com arena|07/30/2027|kpop demon hunters golden world tour",
+    "venue": "Crypto.com Arena",
+    "day": "Friday",
+    "date": "07/30/2027",
+    "time": "TBA",
+    "name": "KPop Demon Hunters Golden World Tour",
+    "link": "https://www.cryptoarena.com/events/detail/kpopdemonhunters27"
+  },
+  {
     "key": "crypto.com arena|TBA|ncaa west regional",
     "venue": "Crypto.com Arena",
     "day": "TBA",
@@ -2176,6 +2158,15 @@
     "time": "TBA",
     "name": "Modern Language Association Annual Convention 2027",
     "link": "https://www.laconventioncenter.com/events/detail/modern-language-association-annual-convention-2027"
+  },
+  {
+    "key": "la convention center|01/09/2027|oddities & curiosities expo",
+    "venue": "LA Convention Center",
+    "day": "Saturday",
+    "date": "01/09/2027",
+    "time": "TBA",
+    "name": "Oddities & Curiosities Expo",
+    "link": "https://www.laconventioncenter.com/events/detail/oddities-curiosities-expo-los-angeles-2027"
   },
   {
     "key": "la convention center|01/16/2027|the socal cup: the open championship",
@@ -2473,15 +2464,6 @@
     "time": "8:00 PM",
     "name": "The Legend of Zelda – 40th Anniversary Concert",
     "link": "https://www.hollywoodbowl.com/events/performances/4909/2027-08-25/the-legend-of-zelda"
-  },
-  {
-    "key": "hollywood palladium|11/12/2026|sabaton: legends on tour",
-    "venue": "Hollywood Palladium",
-    "day": "Thursday",
-    "date": "11/12/2026",
-    "time": "6:00 PM",
-    "name": "Sabaton: Legends on Tour",
-    "link": "https://www.ticketmaster.com/sabaton-legends-on-tour-hollywood-california-11-12-2026/event/09006455C0F6592F"
   },
   {
     "key": "hollywood palladium|11/13/2026|underoath - define the great line 20th anniversary tour",
@@ -3087,12 +3069,12 @@
     "link": "https://www.lbentertainmentcenter.com/events/heaven-and-earth/"
   },
   {
-    "key": "long beach convention center|11/06/2027|iaem 74th annual conference & emex",
+    "key": "long beach convention center|03/12/2027|mojo brookzz: outta pocket tour",
     "venue": "Long Beach Convention Center",
-    "day": "Saturday",
-    "date": "11/06/2027",
+    "day": "Friday",
+    "date": "03/12/2027",
     "time": "TBA",
-    "name": "IAEM 74th Annual Conference & EMEX",
-    "link": "https://www.lbentertainmentcenter.com/events/iaem-annual-conference/"
+    "name": "Mojo Brookzz: Outta Pocket Tour",
+    "link": "https://www.lbentertainmentcenter.com/events/mojo-brookzz/"
   }
 ]
