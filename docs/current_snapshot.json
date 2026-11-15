@@ -684,15 +684,6 @@
     "link": "https://www.intuitdome.com/events/event-schedule"
   },
   {
-    "key": "kia forum|11/14/2026|slayer – reign in blood 40th anniversary",
-    "venue": "Kia Forum",
-    "day": "Saturday",
-    "date": "11/14/2026",
-    "time": "7:00 PM",
-    "name": "SLAYER – Reign in Blood 40th Anniversary",
-    "link": "https://thekiaforum.com/event/slayer-2/"
-  },
-  {
     "key": "kia forum|11/15/2026|rawayana – ¿dónde es el after? world tour",
     "venue": "Kia Forum",
     "day": "Sunday",
@@ -1249,15 +1240,6 @@
     "time": "TBD",
     "name": "System Of A Down: Live At The Rose Bowl",
     "link": "https://www.rosebowlstadium.com/events/details/690/system-of-a-down:-live-at-the-rose-bowl"
-  },
-  {
-    "key": "crypto.com arena|11/14/2026|calgary flames vs los angeles kings",
-    "venue": "Crypto.com Arena",
-    "day": "Saturday",
-    "date": "11/14/2026",
-    "time": "7:00 PM",
-    "name": "Calgary Flames vs Los Angeles Kings",
-    "link": "https://www.cryptoarena.com/events/detail/kingsflames111426"
   },
   {
     "key": "crypto.com arena|11/17/2026|charlotte hornets vs los angeles lakers",
@@ -2439,15 +2421,6 @@
     "link": "https://www.hollywoodbowl.com/events/performances/4909/2027-08-25/the-legend-of-zelda"
   },
   {
-    "key": "hollywood palladium|11/14/2026|insomniac presents valentino khan",
-    "venue": "Hollywood Palladium",
-    "day": "Saturday",
-    "date": "11/14/2026",
-    "time": "8:00 PM",
-    "name": "Insomniac presents Valentino Khan",
-    "link": "https://www.ticketmaster.com/insomniac-presents-valentino-khan-hollywood-california-11-14-2026/event/090064BDA75FB781"
-  },
-  {
     "key": "hollywood palladium|11/15/2026|lil peep 30th birthday celebration",
     "venue": "Hollywood Palladium",
     "day": "Sunday",
@@ -2826,15 +2799,6 @@
     "link": "https://www.ticketmaster.com/two-door-cinema-club-tourist-history-hollywood-california-05-23-2027/event/0900655ABA9598E2"
   },
   {
-    "key": "long beach convention center|11/14/2026|entangled in passion",
-    "venue": "Long Beach Convention Center",
-    "day": "Saturday",
-    "date": "11/14/2026",
-    "time": "TBA",
-    "name": "Entangled in Passion",
-    "link": "https://www.lbentertainmentcenter.com/events/entangled-in-passion/"
-  },
-  {
     "key": "long beach convention center|11/17/2026|ian bremmer",
     "venue": "Long Beach Convention Center",
     "day": "Tuesday",
@@ -3040,5 +3004,14 @@
     "time": "TBA",
     "name": "Mojo Brookzz: Outta Pocket Tour",
     "link": "https://www.lbentertainmentcenter.com/events/mojo-brookzz/"
+  },
+  {
+    "key": "long beach convention center|03/13/2027|elvis rocks vegas",
+    "venue": "Long Beach Convention Center",
+    "day": "Saturday",
+    "date": "03/13/2027",
+    "time": "TBA",
+    "name": "Elvis Rocks Vegas",
+    "link": "https://www.lbentertainmentcenter.com/events/elvis-rocks-vegas/"
   }
 ]
