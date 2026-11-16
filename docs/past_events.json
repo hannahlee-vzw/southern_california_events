@@ -8928,5 +8928,45 @@
     "name": "Entangled in Passion",
     "link": "https://www.lbentertainmentcenter.com/events/entangled-in-passion/",
     "archived_on": "2026-11-15"
+  },
+  {
+    "key": "sofi stadium|11/15/2026|the r&b tour - starring usher raymond & chris brown",
+    "venue": "SoFi Stadium",
+    "day": "Sunday",
+    "date": "11/15/2026",
+    "time": "7:30 PM",
+    "name": "The R&B Tour - Starring Usher Raymond & Chris Brown",
+    "link": "https://www.sofistadium.com/events/detail/chris-brown-usher-november-15",
+    "archived_on": "2026-11-16"
+  },
+  {
+    "key": "intuit dome|11/15/2026|charlotte hornets vs la clippers",
+    "venue": "Intuit Dome",
+    "day": "Sunday",
+    "date": "11/15/2026",
+    "time": "1:30 PM",
+    "name": "Charlotte Hornets vs LA Clippers",
+    "link": "https://intuitdome.com/events/event-schedule/4273?type=games&utm_source=IDwebsite&utm_medium=eventdetail&utm_campaign=SGT_2627&utm_content=SGT2627_EST_261115",
+    "archived_on": "2026-11-16"
+  },
+  {
+    "key": "kia forum|11/15/2026|rawayana – ¿dónde es el after? world tour",
+    "venue": "Kia Forum",
+    "day": "Sunday",
+    "date": "11/15/2026",
+    "time": "7:00 PM",
+    "name": "RAWAYANA – ¿Dónde es el after? World Tour",
+    "link": "https://thekiaforum.com/event/rawayana/",
+    "archived_on": "2026-11-16"
+  },
+  {
+    "key": "hollywood palladium|11/15/2026|lil peep 30th birthday celebration",
+    "venue": "Hollywood Palladium",
+    "day": "Sunday",
+    "date": "11/15/2026",
+    "time": "7:00 PM",
+    "name": "LIL PEEP 30TH BIRTHDAY CELEBRATION",
+    "link": "https://www.ticketmaster.com/lil-peep-30th-birthday-celebration-hollywood-california-11-15-2026/event/090065068E7555BB",
+    "archived_on": "2026-11-16"
   }
 ]

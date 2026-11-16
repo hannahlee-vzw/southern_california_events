@@ -1,14 +1,5 @@
 [
   {
-    "key": "sofi stadium|11/15/2026|the r&b tour - starring usher raymond & chris brown",
-    "venue": "SoFi Stadium",
-    "day": "Sunday",
-    "date": "11/15/2026",
-    "time": "7:30 PM",
-    "name": "The R&B Tour - Starring Usher Raymond & Chris Brown",
-    "link": "https://www.sofistadium.com/events/detail/chris-brown-usher-november-15"
-  },
-  {
     "key": "sofi stadium|11/22/2026|chargers vs. jets – week 11",
     "venue": "SoFi Stadium",
     "day": "Sunday",
@@ -151,15 +142,6 @@
     "time": "7:00 PM",
     "name": "Slipknot – (sic)est Stadium Tour",
     "link": "https://www.sofistadium.com/events/detail/skipknot-august-13"
-  },
-  {
-    "key": "intuit dome|11/15/2026|charlotte hornets vs la clippers",
-    "venue": "Intuit Dome",
-    "day": "Sunday",
-    "date": "11/15/2026",
-    "time": "1:30 PM",
-    "name": "Charlotte Hornets vs LA Clippers",
-    "link": "https://intuitdome.com/events/event-schedule/4273?type=games&utm_source=IDwebsite&utm_medium=eventdetail&utm_campaign=SGT_2627&utm_content=SGT2627_EST_261115"
   },
   {
     "key": "intuit dome|11/17/2026|utah jazz vs la clippers",
@@ -531,6 +513,15 @@
     "link": "https://intuitdome.com/events/event-schedule/4293?type=games&utm_source=IDwebsite&utm_medium=eventdetail&utm_campaign=SGT_2627&utm_content=SGT2627_EST_270304"
   },
   {
+    "key": "intuit dome|03/06/2027|intocable",
+    "venue": "Intuit Dome",
+    "day": "Saturday",
+    "date": "03/06/2027",
+    "time": "8:00 PM",
+    "name": "Intocable",
+    "link": "https://www.intuitdome.com/events/event-schedule/5003?utm_source=eventschedule&utm_medium=IDwebsite&utm_campaign=IDevents27&utm_content=intocable_270306"
+  },
+  {
     "key": "intuit dome|03/08/2027|houston rockets vs la clippers",
     "venue": "Intuit Dome",
     "day": "Monday",
@@ -682,15 +673,6 @@
     "time": "12:00 PM",
     "name": "Laver Cup 2027",
     "link": "https://www.intuitdome.com/events/event-schedule"
-  },
-  {
-    "key": "kia forum|11/15/2026|rawayana – ¿dónde es el after? world tour",
-    "venue": "Kia Forum",
-    "day": "Sunday",
-    "date": "11/15/2026",
-    "time": "7:00 PM",
-    "name": "RAWAYANA – ¿Dónde es el after? World Tour",
-    "link": "https://thekiaforum.com/event/rawayana/"
   },
   {
     "key": "kia forum|11/18/2026|teddy swims – the ugly tour",
@@ -880,6 +862,15 @@
     "time": "7:00 PM",
     "name": "PANCHIKO",
     "link": "https://thekiaforum.com/event/panchiko/"
+  },
+  {
+    "key": "kia forum|05/19/2027|megadeth – outbreak: vaccination of the nations",
+    "venue": "Kia Forum",
+    "day": "Wednesday",
+    "date": "05/19/2027",
+    "time": "7:00 PM",
+    "name": "MEGADETH – Outbreak: Vaccination of the Nations",
+    "link": "https://thekiaforum.com/event/megadeth/"
   },
   {
     "key": "kia forum|05/22/2027|niall horan – dinner party live on tour",
@@ -1075,7 +1066,7 @@
     "venue": "Rose Bowl Stadium",
     "day": "Saturday",
     "date": "11/28/2026",
-    "time": "TBD",
+    "time": "12:30 PM",
     "name": "USC VS UCLA",
     "link": "https://www.rosebowlstadium.com/events/details/631/usc-vs-ucla"
   },
@@ -2196,10 +2187,10 @@
     "link": "https://www.laconventioncenter.com/events/detail/california-bridal-wedding-expo-16"
   },
   {
-    "key": "la convention center|03/09/2027|ofc conference and exhibition 2027",
+    "key": "la convention center|03/07/2027|ofc conference and exhibition 2027",
     "venue": "LA Convention Center",
-    "day": "Tuesday",
-    "date": "03/09/2027",
+    "day": "Sunday",
+    "date": "03/07/2027",
     "time": "TBA",
     "name": "OFC Conference and Exhibition 2027",
     "link": "https://www.laconventioncenter.com/events/detail/ofc-2027"
@@ -2419,15 +2410,6 @@
     "time": "8:00 PM",
     "name": "The Legend of Zelda – 40th Anniversary Concert",
     "link": "https://www.hollywoodbowl.com/events/performances/4909/2027-08-25/the-legend-of-zelda"
-  },
-  {
-    "key": "hollywood palladium|11/15/2026|lil peep 30th birthday celebration",
-    "venue": "Hollywood Palladium",
-    "day": "Sunday",
-    "date": "11/15/2026",
-    "time": "7:00 PM",
-    "name": "LIL PEEP 30TH BIRTHDAY CELEBRATION",
-    "link": "https://www.ticketmaster.com/lil-peep-30th-birthday-celebration-hollywood-california-11-15-2026/event/090065068E7555BB"
   },
   {
     "key": "hollywood palladium|11/19/2026|bolo",
@@ -2779,6 +2761,15 @@
     "time": "8:00 PM",
     "name": "LSDREAM: BEE HERE NOW TOUR",
     "link": "https://www.ticketmaster.com/lsdream-bee-here-now-tour-hollywood-california-04-23-2027/event/09006562B0958625"
+  },
+  {
+    "key": "hollywood palladium|05/20/2027|tori kelly - god must really love me world tour",
+    "venue": "Hollywood Palladium",
+    "day": "Thursday",
+    "date": "05/20/2027",
+    "time": "7:00 PM",
+    "name": "TORI KELLY - GOD MUST REALLY LOVE ME WORLD TOUR",
+    "link": "https://www.ticketmaster.com/tori-kelly-god-must-really-love-hollywood-california-05-20-2027/event/0900656C967D87DF"
   },
   {
     "key": "hollywood palladium|05/22/2027|two door cinema club - tourist history 15th anniversary tour",
