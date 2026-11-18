@@ -8968,5 +8968,35 @@
     "name": "LIL PEEP 30TH BIRTHDAY CELEBRATION",
     "link": "https://www.ticketmaster.com/lil-peep-30th-birthday-celebration-hollywood-california-11-15-2026/event/090065068E7555BB",
     "archived_on": "2026-11-16"
+  },
+  {
+    "key": "intuit dome|11/17/2026|utah jazz vs la clippers",
+    "venue": "Intuit Dome",
+    "day": "Tuesday",
+    "date": "11/17/2026",
+    "time": "7:30 PM",
+    "name": "Utah Jazz vs LA Clippers",
+    "link": "https://intuitdome.com/events/event-schedule/4274?type=games&utm_source=IDwebsite&utm_medium=eventdetail&utm_campaign=SGT_2627&utm_content=SGT2627_EST_261117",
+    "archived_on": "2026-11-18"
+  },
+  {
+    "key": "crypto.com arena|11/17/2026|charlotte hornets vs los angeles lakers",
+    "venue": "Crypto.com Arena",
+    "day": "Tuesday",
+    "date": "11/17/2026",
+    "time": "8:00 PM",
+    "name": "Charlotte Hornets vs Los Angeles Lakers",
+    "link": "https://www.cryptoarena.com/events/detail/lakershornets111726",
+    "archived_on": "2026-11-18"
+  },
+  {
+    "key": "long beach convention center|11/17/2026|ian bremmer",
+    "venue": "Long Beach Convention Center",
+    "day": "Tuesday",
+    "date": "11/17/2026",
+    "time": "TBA",
+    "name": "Ian Bremmer",
+    "link": "https://www.lbentertainmentcenter.com/events/ian-bremmer/",
+    "archived_on": "2026-11-18"
   }
 ]
