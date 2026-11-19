@@ -765,15 +765,6 @@
     "link": "https://www.intuitdome.com/events/event-schedule"
   },
   {
-    "key": "kia forum|11/18/2026|teddy swims – the ugly tour",
-    "venue": "Kia Forum",
-    "day": "Wednesday",
-    "date": "11/18/2026",
-    "time": "7:00 PM",
-    "name": "TEDDY SWIMS – The UGLY Tour",
-    "link": "https://thekiaforum.com/event/teddy-swims/"
-  },
-  {
     "key": "kia forum|11/30/2026|ahf world aids day benefit concert",
     "venue": "Kia Forum",
     "day": "Monday",
@@ -1125,15 +1116,6 @@
     "link": "https://www.dignityhealthsportspark.com/events/detail/la-galaxy-vs-austin-fc-1"
   },
   {
-    "key": "rose bowl stadium|11/18/2026|rose bowl quarterbacks club",
-    "venue": "Rose Bowl Stadium",
-    "day": "Wednesday",
-    "date": "11/18/2026",
-    "time": "12:00 PM",
-    "name": "Rose Bowl Quarterbacks Club",
-    "link": "https://www.rosebowlstadium.com/events/details/679/rose-bowl-quarterbacks-club"
-  },
-  {
     "key": "rose bowl stadium|11/21/2026|best friends super adoption",
     "venue": "Rose Bowl Stadium",
     "day": "Saturday",
@@ -1330,15 +1312,6 @@
     "time": "TBD",
     "name": "System Of A Down: Live At The Rose Bowl",
     "link": "https://www.rosebowlstadium.com/events/details/690/system-of-a-down:-live-at-the-rose-bowl"
-  },
-  {
-    "key": "crypto.com arena|11/18/2026|utah jazz vs los angeles lakers",
-    "venue": "Crypto.com Arena",
-    "day": "Wednesday",
-    "date": "11/18/2026",
-    "time": "7:00 PM",
-    "name": "Utah Jazz vs Los Angeles Lakers",
-    "link": "https://www.cryptoarena.com/events/detail/lakersjazz111826"
   },
   {
     "key": "crypto.com arena|11/20/2026|sacramento kings vs los angeles lakers – emirates nba cup",
@@ -1737,6 +1710,15 @@
     "link": "https://www.cryptoarena.com/events/detail/karanaujla110926"
   },
   {
+    "key": "crypto.com arena|02/20/2027|pwhl takeover tour: montréal victoire at boston fleet",
+    "venue": "Crypto.com Arena",
+    "day": "Saturday",
+    "date": "02/20/2027",
+    "time": "12:00 PM",
+    "name": "PWHL Takeover Tour: Montréal Victoire at Boston Fleet",
+    "link": "https://www.cryptoarena.com/events/detail/pwhl27"
+  },
+  {
     "key": "crypto.com arena|02/20/2027|seattle kraken vs los angeles kings",
     "venue": "Crypto.com Arena",
     "day": "Saturday",
@@ -2047,7 +2029,7 @@
     "venue": "Crypto.com Arena",
     "day": "Friday",
     "date": "05/21/2027",
-    "time": "7:30 PM",
+    "time": "TBA",
     "name": "Jhené Aiko Presents: Ark to Agartha - A Westside Whimsy Experience – With Special Guest H.E.R. Featuring Swae Lee and Karri",
     "link": "https://www.cryptoarena.com/events/detail/jheneaiko052127"
   },
@@ -3015,6 +2997,15 @@
     "link": "https://www.lbentertainmentcenter.com/events/disney-on-ice-8/"
   },
   {
+    "key": "long beach convention center|01/07/2027|animé los angeles 22",
+    "venue": "Long Beach Convention Center",
+    "day": "Thursday",
+    "date": "01/07/2027",
+    "time": "TBA",
+    "name": "Animé Los Angeles 22",
+    "link": "https://www.lbentertainmentcenter.com/events/anime-la-2027/"
+  },
+  {
     "key": "long beach convention center|01/14/2027|dylan thuras",
     "venue": "Long Beach Convention Center",
     "day": "Thursday",
@@ -3058,6 +3049,15 @@
     "time": "TBA",
     "name": "Shen Yun 2027",
     "link": "https://www.lbentertainmentcenter.com/events/shen-yun-2027/"
+  },
+  {
+    "key": "long beach convention center|02/05/2027|atssa's 57th annual convention & traffic expo",
+    "venue": "Long Beach Convention Center",
+    "day": "Friday",
+    "date": "02/05/2027",
+    "time": "TBA",
+    "name": "ATSSA's 57th Annual Convention & Traffic Expo",
+    "link": "https://www.lbentertainmentcenter.com/events/atssa-long-beach-2027/"
   },
   {
     "key": "long beach convention center|02/06/2027|painting in notes",
@@ -3139,23 +3139,5 @@
     "time": "TBA",
     "name": "Mojo Brookzz: Outta Pocket Tour",
     "link": "https://www.lbentertainmentcenter.com/events/mojo-brookzz/"
-  },
-  {
-    "key": "long beach convention center|03/13/2027|elvis rocks vegas",
-    "venue": "Long Beach Convention Center",
-    "day": "Saturday",
-    "date": "03/13/2027",
-    "time": "TBA",
-    "name": "Elvis Rocks Vegas",
-    "link": "https://www.lbentertainmentcenter.com/events/elvis-rocks-vegas/"
-  },
-  {
-    "key": "long beach convention center|03/26/2027|hot wheels stunt show",
-    "venue": "Long Beach Convention Center",
-    "day": "Friday",
-    "date": "03/26/2027",
-    "time": "TBA",
-    "name": "Hot Wheels Stunt Show",
-    "link": "https://www.lbentertainmentcenter.com/events/hw-stunt-show/"
   }
 ]
