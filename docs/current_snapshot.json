@@ -2493,15 +2493,6 @@
     "link": "https://www.hollywoodbowl.com/events/performances/4909/2027-08-25/the-legend-of-zelda"
   },
   {
-    "key": "hollywood palladium|11/19/2026|bolo",
-    "venue": "Hollywood Palladium",
-    "day": "Thursday",
-    "date": "11/19/2026",
-    "time": "8:00 PM",
-    "name": "BOLO",
-    "link": "https://www.ticketmaster.com/bolo-hollywood-california-11-19-2026/event/0900650CAE378D35"
-  },
-  {
     "key": "hollywood palladium|11/20/2026|rhye",
     "venue": "Hollywood Palladium",
     "day": "Friday",
@@ -2925,15 +2916,6 @@
     "link": "https://www.ticketmaster.com/two-door-cinema-club-tourist-history-hollywood-california-05-23-2027/event/0900655ABA9598E2"
   },
   {
-    "key": "long beach convention center|11/19/2026|national catholic youth conference (2026 ncyc)",
-    "venue": "Long Beach Convention Center",
-    "day": "Thursday",
-    "date": "11/19/2026",
-    "time": "TBA",
-    "name": "National Catholic Youth Conference (2026 NCYC)",
-    "link": "https://www.lbentertainmentcenter.com/events/ncyc/"
-  },
-  {
     "key": "long beach convention center|11/28/2026|forever tour",
     "venue": "Long Beach Convention Center",
     "day": "Saturday",
@@ -3139,5 +3121,14 @@
     "time": "TBA",
     "name": "Mojo Brookzz: Outta Pocket Tour",
     "link": "https://www.lbentertainmentcenter.com/events/mojo-brookzz/"
+  },
+  {
+    "key": "long beach convention center|11/19/2027|national catholic youth conference (2026 ncyc)",
+    "venue": "Long Beach Convention Center",
+    "day": "Friday",
+    "date": "11/19/2027",
+    "time": "TBA",
+    "name": "National Catholic Youth Conference (2026 NCYC)",
+    "link": "https://www.lbentertainmentcenter.com/events/ncyc/"
   }
 ]
