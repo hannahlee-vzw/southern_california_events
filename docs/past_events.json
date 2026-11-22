@@ -9108,5 +9108,65 @@
     "name": "Rhye",
     "link": "https://www.ticketmaster.com/rhye-hollywood-california-11-20-2026/event/090064C32762134F",
     "archived_on": "2026-11-21"
+  },
+  {
+    "key": "rose bowl stadium|11/21/2026|best friends super adoption",
+    "venue": "Rose Bowl Stadium",
+    "day": "Saturday",
+    "date": "11/21/2026",
+    "time": "11:00 AM",
+    "name": "Best Friends Super Adoption",
+    "link": "https://www.rosebowlstadium.com/events/details/686/best-friends-super-adoption",
+    "archived_on": "2026-11-22"
+  },
+  {
+    "key": "crypto.com arena|11/21/2026|katseye – the wildworld tour",
+    "venue": "Crypto.com Arena",
+    "day": "Saturday",
+    "date": "11/21/2026",
+    "time": "TBA",
+    "name": "KATSEYE – The WILDWORLD Tour",
+    "link": "https://www.cryptoarena.com/events/detail/katseye26",
+    "archived_on": "2026-11-22"
+  },
+  {
+    "key": "l.a. memorial coliseum|11/21/2026|maryland vs usc",
+    "venue": "L.A. Memorial Coliseum",
+    "day": "Saturday",
+    "date": "11/21/2026",
+    "time": "TBA",
+    "name": "Maryland vs USC",
+    "link": "https://www.lacoliseum.com/events/maryland-vs-usc-2026/",
+    "archived_on": "2026-11-22"
+  },
+  {
+    "key": "la convention center|11/21/2026|la auto show 2026",
+    "venue": "LA Convention Center",
+    "day": "Saturday",
+    "date": "11/21/2026",
+    "time": "TBA",
+    "name": "LA Auto Show 2026",
+    "link": "https://www.laconventioncenter.com/events/detail/la-auto-show-2026",
+    "archived_on": "2026-11-22"
+  },
+  {
+    "key": "hollywood bowl|11/21/2026|steve lacy",
+    "venue": "Hollywood Bowl",
+    "day": "Saturday",
+    "date": "11/21/2026",
+    "time": "8:00 PM",
+    "name": "Steve Lacy",
+    "link": "https://www.hollywoodbowl.com/events/performances/4900/2026-11-21/steve-lacy",
+    "archived_on": "2026-11-22"
+  },
+  {
+    "key": "hollywood palladium|11/21/2026|bolo",
+    "venue": "Hollywood Palladium",
+    "day": "Saturday",
+    "date": "11/21/2026",
+    "time": "8:00 PM",
+    "name": "BOLO",
+    "link": "https://www.ticketmaster.com/bolo-hollywood-california-11-21-2026/event/09006506891F4B69",
+    "archived_on": "2026-11-22"
   }
 ]
