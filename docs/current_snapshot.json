@@ -1,14 +1,5 @@
 [
   {
-    "key": "sofi stadium|11/22/2026|chargers vs. jets – week 11",
-    "venue": "SoFi Stadium",
-    "day": "Sunday",
-    "date": "11/22/2026",
-    "time": "1:05 PM",
-    "name": "Chargers vs. Jets – Week 11",
-    "link": "https://www.sofistadium.com/events/detail/chargers-jets-2026"
-  },
-  {
     "key": "sofi stadium|11/25/2026|rams vs. packers – week 12",
     "venue": "SoFi Stadium",
     "day": "Wednesday",
@@ -142,15 +133,6 @@
     "time": "7:00 PM",
     "name": "Slipknot – (sic)est Stadium Tour",
     "link": "https://www.sofistadium.com/events/detail/skipknot-august-13"
-  },
-  {
-    "key": "intuit dome|11/22/2026|three days grace",
-    "venue": "Intuit Dome",
-    "day": "Sunday",
-    "date": "11/22/2026",
-    "time": "7:00 PM",
-    "name": "Three Days Grace",
-    "link": "https://www.intuitdome.com/events/event-schedule/3149?utm_source=IDwebsite&utm_medium=eventschedule&utm_campaign=IDevents26&utm_content=three_days_grace_261122"
   },
   {
     "key": "intuit dome|11/27/2026|new orleans pelicans vs la clippers",
@@ -725,8 +707,17 @@
     "day": "Thursday",
     "date": "04/29/2027",
     "time": "8:00 PM",
-    "name": "Feid",
+    "name": "FEID",
     "link": "https://www.intuitdome.com/events/event-schedule/4977?utm_source=IDwebsite&utm_medium=eventschedule&utm_campaign=IDevents27&utm_content=feid_270429"
+  },
+  {
+    "key": "intuit dome|04/30/2027|feid",
+    "venue": "Intuit Dome",
+    "day": "Friday",
+    "date": "04/30/2027",
+    "time": "8:00 PM",
+    "name": "FEID",
+    "link": "https://www.intuitdome.com/events/event-schedule/4987?utm_source=IDwebsite&utm_medium=eventschedule&utm_campaign=IDevents27&utm_content=feid_270430"
   },
   {
     "key": "intuit dome|09/24/2027|laver cup 2027",
@@ -1107,15 +1098,6 @@
     "link": "https://www.dignityhealthsportspark.com/events/detail/la-galaxy-vs-austin-fc-1"
   },
   {
-    "key": "rose bowl stadium|11/22/2026|best friends super adoption",
-    "venue": "Rose Bowl Stadium",
-    "day": "Sunday",
-    "date": "11/22/2026",
-    "time": "11:00 AM",
-    "name": "Best Friends Super Adoption",
-    "link": "https://www.rosebowlstadium.com/events/details/687/best-friends-super-adoption"
-  },
-  {
     "key": "rose bowl stadium|11/26/2026|rose bowl turkey trot",
     "venue": "Rose Bowl Stadium",
     "day": "Thursday",
@@ -1294,15 +1276,6 @@
     "time": "TBD",
     "name": "System Of A Down: Live At The Rose Bowl",
     "link": "https://www.rosebowlstadium.com/events/details/690/system-of-a-down:-live-at-the-rose-bowl"
-  },
-  {
-    "key": "crypto.com arena|11/22/2026|katseye – the wildworld tour",
-    "venue": "Crypto.com Arena",
-    "day": "Sunday",
-    "date": "11/22/2026",
-    "time": "8:00 PM",
-    "name": "KATSEYE – The WILDWORLD Tour",
-    "link": "https://www.cryptoarena.com/events/detail/katseye26"
   },
   {
     "key": "crypto.com arena|11/23/2026|utah jazz vs los angeles lakers",
@@ -2052,6 +2025,15 @@
     "link": "https://www.thetorch.la/torch-event/bassrush-presents-ray-volpe-2026/"
   },
   {
+    "key": "l.a. memorial coliseum|12/11/2026|john summit – ctrl escape tour (date added)",
+    "venue": "L.A. Memorial Coliseum",
+    "day": "Friday",
+    "date": "12/11/2026",
+    "time": "TBA",
+    "name": "JOHN SUMMIT – CTRL ESCAPE TOUR (DATE ADDED)",
+    "link": "https://www.lacoliseum.com/events/john-summit-ctrl-escape-tour-dec11/"
+  },
+  {
     "key": "l.a. memorial coliseum|12/12/2026|john summit – ctrl escape tour",
     "venue": "L.A. Memorial Coliseum",
     "day": "Saturday",
@@ -2079,10 +2061,10 @@
     "link": "https://www.lacoliseum.com/events/usc-commencement-2027/"
   },
   {
-    "key": "la convention center|11/22/2026|la auto show 2026",
+    "key": "la convention center|11/23/2026|la auto show 2026",
     "venue": "LA Convention Center",
-    "day": "Sunday",
-    "date": "11/22/2026",
+    "day": "Monday",
+    "date": "11/23/2026",
     "time": "TBA",
     "name": "LA Auto Show 2026",
     "link": "https://www.laconventioncenter.com/events/detail/la-auto-show-2026"
@@ -2095,6 +2077,15 @@
     "time": "TBA",
     "name": "Tonight's Conversation: LIVE & UNCUT Los Angeles",
     "link": "https://www.laconventioncenter.com/events/detail/tonights-conversation-live-uncut-los-angeles-1"
+  },
+  {
+    "key": "la convention center|12/05/2026|yugioh! betb regional qualifier",
+    "venue": "LA Convention Center",
+    "day": "Saturday",
+    "date": "12/05/2026",
+    "time": "TBA",
+    "name": "YuGiOh! BETB Regional Qualifier",
+    "link": "https://www.laconventioncenter.com/events/detail/yugioh-betb-regional-qualifier"
   },
   {
     "key": "la convention center|12/10/2026|st. john's holiday party",
@@ -2455,15 +2446,6 @@
     "time": "8:00 PM",
     "name": "The Legend of Zelda – 40th Anniversary Concert",
     "link": "https://www.hollywoodbowl.com/events/performances/4909/2027-08-25/the-legend-of-zelda"
-  },
-  {
-    "key": "hollywood palladium|11/22/2026|bolo",
-    "venue": "Hollywood Palladium",
-    "day": "Sunday",
-    "date": "11/22/2026",
-    "time": "7:00 PM",
-    "name": "BOLO",
-    "link": "https://www.ticketmaster.com/bolo-hollywood-california-11-22-2026/event/0900650CD725EBE0"
   },
   {
     "key": "hollywood palladium|11/25/2026|punchis punchis: banda rave experience",

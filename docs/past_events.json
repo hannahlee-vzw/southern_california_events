@@ -9168,5 +9168,75 @@
     "name": "BOLO",
     "link": "https://www.ticketmaster.com/bolo-hollywood-california-11-21-2026/event/09006506891F4B69",
     "archived_on": "2026-11-22"
+  },
+  {
+    "key": "sofi stadium|11/22/2026|chargers vs. jets – week 11",
+    "venue": "SoFi Stadium",
+    "day": "Sunday",
+    "date": "11/22/2026",
+    "time": "1:05 PM",
+    "name": "Chargers vs. Jets – Week 11",
+    "link": "https://www.sofistadium.com/events/detail/chargers-jets-2026",
+    "archived_on": "2026-11-24"
+  },
+  {
+    "key": "intuit dome|11/22/2026|three days grace",
+    "venue": "Intuit Dome",
+    "day": "Sunday",
+    "date": "11/22/2026",
+    "time": "7:00 PM",
+    "name": "Three Days Grace",
+    "link": "https://www.intuitdome.com/events/event-schedule/3149?utm_source=IDwebsite&utm_medium=eventschedule&utm_campaign=IDevents26&utm_content=three_days_grace_261122",
+    "archived_on": "2026-11-24"
+  },
+  {
+    "key": "rose bowl stadium|11/22/2026|best friends super adoption",
+    "venue": "Rose Bowl Stadium",
+    "day": "Sunday",
+    "date": "11/22/2026",
+    "time": "11:00 AM",
+    "name": "Best Friends Super Adoption",
+    "link": "https://www.rosebowlstadium.com/events/details/687/best-friends-super-adoption",
+    "archived_on": "2026-11-24"
+  },
+  {
+    "key": "crypto.com arena|11/22/2026|katseye – the wildworld tour",
+    "venue": "Crypto.com Arena",
+    "day": "Sunday",
+    "date": "11/22/2026",
+    "time": "8:00 PM",
+    "name": "KATSEYE – The WILDWORLD Tour",
+    "link": "https://www.cryptoarena.com/events/detail/katseye26",
+    "archived_on": "2026-11-24"
+  },
+  {
+    "key": "crypto.com arena|11/23/2026|utah jazz vs los angeles lakers",
+    "venue": "Crypto.com Arena",
+    "day": "Monday",
+    "date": "11/23/2026",
+    "time": "7:00 PM",
+    "name": "Utah Jazz vs Los Angeles Lakers",
+    "link": "https://www.cryptoarena.com/events/detail/lakersjazz112326",
+    "archived_on": "2026-11-24"
+  },
+  {
+    "key": "la convention center|11/22/2026|la auto show 2026",
+    "venue": "LA Convention Center",
+    "day": "Sunday",
+    "date": "11/22/2026",
+    "time": "TBA",
+    "name": "LA Auto Show 2026",
+    "link": "https://www.laconventioncenter.com/events/detail/la-auto-show-2026",
+    "archived_on": "2026-11-24"
+  },
+  {
+    "key": "hollywood palladium|11/22/2026|bolo",
+    "venue": "Hollywood Palladium",
+    "day": "Sunday",
+    "date": "11/22/2026",
+    "time": "7:00 PM",
+    "name": "BOLO",
+    "link": "https://www.ticketmaster.com/bolo-hollywood-california-11-22-2026/event/0900650CD725EBE0",
+    "archived_on": "2026-11-24"
   }
 ]
