@@ -9238,5 +9238,15 @@
     "name": "BOLO",
     "link": "https://www.ticketmaster.com/bolo-hollywood-california-11-22-2026/event/0900650CD725EBE0",
     "archived_on": "2026-11-24"
+  },
+  {
+    "key": "la convention center|11/23/2026|la auto show 2026",
+    "venue": "LA Convention Center",
+    "day": "Monday",
+    "date": "11/23/2026",
+    "time": "TBA",
+    "name": "LA Auto Show 2026",
+    "link": "https://www.laconventioncenter.com/events/detail/la-auto-show-2026",
+    "archived_on": "2026-11-24"
   }
 ]
