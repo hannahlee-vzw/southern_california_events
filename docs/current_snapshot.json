@@ -1,14 +1,5 @@
 [
   {
-    "key": "sofi stadium|11/25/2026|rams vs. packers – week 12",
-    "venue": "SoFi Stadium",
-    "day": "Wednesday",
-    "date": "11/25/2026",
-    "time": "5:00 PM",
-    "name": "Rams vs. Packers – Week 12",
-    "link": "https://www.sofistadium.com/events/detail/rams-packers-2026"
-  },
-  {
     "key": "sofi stadium|11/29/2026|chargers vs. patriots – week 12",
     "venue": "SoFi Stadium",
     "day": "Sunday",
@@ -2070,10 +2061,10 @@
     "link": "https://www.lacoliseum.com/events/usc-commencement-2027/"
   },
   {
-    "key": "la convention center|11/25/2026|la auto show 2026",
+    "key": "la convention center|11/26/2026|la auto show 2026",
     "venue": "LA Convention Center",
-    "day": "Wednesday",
-    "date": "11/25/2026",
+    "day": "Thursday",
+    "date": "11/26/2026",
     "time": "TBA",
     "name": "LA Auto Show 2026",
     "link": "https://www.laconventioncenter.com/events/detail/la-auto-show-2026"
@@ -2455,15 +2446,6 @@
     "time": "8:00 PM",
     "name": "The Legend of Zelda – 40th Anniversary Concert",
     "link": "https://www.hollywoodbowl.com/events/performances/4909/2027-08-25/the-legend-of-zelda"
-  },
-  {
-    "key": "hollywood palladium|11/25/2026|punchis punchis: banda rave experience",
-    "venue": "Hollywood Palladium",
-    "day": "Wednesday",
-    "date": "11/25/2026",
-    "time": "9:00 PM",
-    "name": "Punchis Punchis: Banda Rave Experience",
-    "link": "https://www.ticketmaster.com/punchis-punchis-banda-rave-experience-hollywood-california-11-25-2026/event/09006549278532F8"
   },
   {
     "key": "hollywood palladium|11/27/2026|insomniac presents devault",

@@ -9258,5 +9258,35 @@
     "name": "LA Auto Show 2026",
     "link": "https://www.laconventioncenter.com/events/detail/la-auto-show-2026",
     "archived_on": "2026-11-25"
+  },
+  {
+    "key": "sofi stadium|11/25/2026|rams vs. packers – week 12",
+    "venue": "SoFi Stadium",
+    "day": "Wednesday",
+    "date": "11/25/2026",
+    "time": "5:00 PM",
+    "name": "Rams vs. Packers – Week 12",
+    "link": "https://www.sofistadium.com/events/detail/rams-packers-2026",
+    "archived_on": "2026-11-26"
+  },
+  {
+    "key": "la convention center|11/25/2026|la auto show 2026",
+    "venue": "LA Convention Center",
+    "day": "Wednesday",
+    "date": "11/25/2026",
+    "time": "TBA",
+    "name": "LA Auto Show 2026",
+    "link": "https://www.laconventioncenter.com/events/detail/la-auto-show-2026",
+    "archived_on": "2026-11-26"
+  },
+  {
+    "key": "hollywood palladium|11/25/2026|punchis punchis: banda rave experience",
+    "venue": "Hollywood Palladium",
+    "day": "Wednesday",
+    "date": "11/25/2026",
+    "time": "9:00 PM",
+    "name": "Punchis Punchis: Banda Rave Experience",
+    "link": "https://www.ticketmaster.com/punchis-punchis-banda-rave-experience-hollywood-california-11-25-2026/event/09006549278532F8",
+    "archived_on": "2026-11-26"
   }
 ]
