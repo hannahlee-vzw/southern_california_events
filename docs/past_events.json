@@ -9288,5 +9288,25 @@
     "name": "Punchis Punchis: Banda Rave Experience",
     "link": "https://www.ticketmaster.com/punchis-punchis-banda-rave-experience-hollywood-california-11-25-2026/event/09006549278532F8",
     "archived_on": "2026-11-26"
+  },
+  {
+    "key": "rose bowl stadium|11/26/2026|rose bowl turkey trot",
+    "venue": "Rose Bowl Stadium",
+    "day": "Thursday",
+    "date": "11/26/2026",
+    "time": "8:30 AM",
+    "name": "Rose Bowl Turkey Trot",
+    "link": "https://www.rosebowlstadium.com/events/details/677/rose-bowl-turkey-trot",
+    "archived_on": "2026-11-27"
+  },
+  {
+    "key": "la convention center|11/26/2026|la auto show 2026",
+    "venue": "LA Convention Center",
+    "day": "Thursday",
+    "date": "11/26/2026",
+    "time": "TBA",
+    "name": "LA Auto Show 2026",
+    "link": "https://www.laconventioncenter.com/events/detail/la-auto-show-2026",
+    "archived_on": "2026-11-27"
   }
 ]

@@ -1107,15 +1107,6 @@
     "link": "https://www.dignityhealthsportspark.com/events/detail/la-galaxy-vs-austin-fc-1"
   },
   {
-    "key": "rose bowl stadium|11/26/2026|rose bowl turkey trot",
-    "venue": "Rose Bowl Stadium",
-    "day": "Thursday",
-    "date": "11/26/2026",
-    "time": "8:30 AM",
-    "name": "Rose Bowl Turkey Trot",
-    "link": "https://www.rosebowlstadium.com/events/details/677/rose-bowl-turkey-trot"
-  },
-  {
     "key": "rose bowl stadium|11/28/2026|usc vs ucla",
     "venue": "Rose Bowl Stadium",
     "day": "Saturday",
@@ -2061,10 +2052,10 @@
     "link": "https://www.lacoliseum.com/events/usc-commencement-2027/"
   },
   {
-    "key": "la convention center|11/26/2026|la auto show 2026",
+    "key": "la convention center|11/27/2026|la auto show 2026",
     "venue": "LA Convention Center",
-    "day": "Thursday",
-    "date": "11/26/2026",
+    "day": "Friday",
+    "date": "11/27/2026",
     "time": "TBA",
     "name": "LA Auto Show 2026",
     "link": "https://www.laconventioncenter.com/events/detail/la-auto-show-2026"
